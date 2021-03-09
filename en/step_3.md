@@ -12,11 +12,46 @@ Set up - position your character in the starting position when flag clicked.
 
 Main character express interest - in say, think, extensions for speech, move.
 
+--- collapse ---
+
+---
+title: Move forwards and backwards using repeat
+---
+
+```blocks3
+go to x: [-100 y: [-30] // left of Stage
+repeat [10] // how many times to move
+move [5] steps // how far to move
+end
+repeat [10]
+move [-5] steps // move backwards
+end
+```
+
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: Move using glide
+---
+
+```blocks3
+
+
+```
+
+
+--- /collapse ---
+
+
 --- /task ---
 
 --- task ---
 
 Object attracts attention - move, change colour, change size, makes noise.
+
 
 --- /task ---
 
