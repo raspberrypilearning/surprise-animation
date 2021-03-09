@@ -44,9 +44,9 @@ Where do you want your sprites to be at the beginning of the story? How big will
 
 --- task ---
 
-Getting your sprites ready for the start of the story is an important task. You will need to add code `when flag clicked`{:class="block3events"} that reset your sprites at the beginning of your animation. 
+Getting your sprites ready for the start of the story is an important task. You will need to add code `when flag clicked`{:class="block3events"} to reset your sprites at the beginning of your animation. 
 
-Remember to set up your main character and your interesting object.
+Remember to set up both your main character and your interesting object.
 
 --- collapse ---
 
@@ -54,9 +54,9 @@ Remember to set up your main character and your interesting object.
 title: Position your sprites
 ---
 
-Move your main character to a good starting position on the Stage. 
+To change the position of your sprite for the whole project, move your main character to a good position on the Stage. 
 
-Add a `go to x y`{:class="block3motion"} block to your code.
+To change the position of your sprite for part of the project, move your main character to a good position on the Stage then add a `go to x y`{:class="block3motion"} block to your code.
 
 ```blocks3
 go to x: (0) y: (0) // with your coordinates
@@ -79,7 +79,7 @@ To change the size of your sprite for the whole project, change the size propert
 To change the size of your sprite for part of the project, add code to `set size to`{:class="block3looks"} the size you want. This option is good if you want your sprite to change size in the project. 
 
 ```blocks3
-set size to 100% // <100% smaller >100% bigger
+set size to [100%] // <100% smaller, >100% bigger
 ```
 
 --- /collapse ---
@@ -87,13 +87,44 @@ set size to 100% // <100% smaller >100% bigger
 --- collapse ---
 
 ---
-title: Set the costume
+title: Set costume of your sprite
 ---
 
+To change the costume of your sprite for the whole project, click on the Costumes tab and select one of the available costumes. 
 
+![costumes in the costumes tab](images/nano-costumes.png)
+
+To change the costume of your sprite for part of the project, add a `switch costume to`{:class="block3looks"} block to your code and update to show your chosen costume.
 
 ```blocks3
 switch costume to [ v]  // update for your costume
+```
+
+To `hide`{:class="block3looks"} your sprite at the start of your project add a `hide`{:class="block3looks"} block to your code.
+
+```blocks3
+hide 
+```
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: Set the direction of your sprites
+---
+
+Your sprites might be facing the wrong way when you add them to your project. 
+
+To change the direction of your sprite for the whole project, change the direction property and rotation style in the Sprite pane:
+
+![direction property in the sprite pane](images/sprite-pane-direction.png)
+
+To change the direction of your sprite for part of the project, add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}.
+
+```blocks3
+set rotation style [left-right v]
+point in direction (-90) // turn to the left
 ```
 
 --- /collapse ---
