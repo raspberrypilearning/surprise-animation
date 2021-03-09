@@ -49,19 +49,19 @@ You are going to make design decisions and come up with a story for your surpris
 
 Think about what your story might be as you explore these example projects to get more ideas:
 
-**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
+**TBD**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Under the sea**: [See inside](https://scratch.mit.edu/projects/495866460/editor){:target="_blank"}
+**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495866460/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+**Tresspass**: [See inside](https://scratch.mit.edu/projects/498616008/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498616008/?autostart=false" frameborder="0"></iframe>
 </div>
 --- /task ---
 --- /no-print ---
@@ -74,7 +74,7 @@ Think about what your story might be as you explore these example projects to ge
 
 ### Get inspiration 
 
-You are going to make design decisions and come up with a story for your surprise animation.  You will need to **set up** the scene with character and curious object, show the character's curiosity about the object, create a surprise, and add a reaction.  [Scratch 1: Googly eye character - Examples](https://scratch.mit.edu/studios/29029028/){:target="_blank"} Scratch studio.
+You are going to make design decisions and come up with a story for your surprise animation.  You will need to **set up** the scene with character and curious object, show the character's curiosity about the object, create a surprise, and add a reaction.  [Scratch 1: Surprise story - Examples](https://scratch.mit.edu/studios/29075822/){:target="_blank"} Scratch studio.
 
 ![Gobo watching project for inspiration](images/gobo-watching.png)
 ![Dont eat donut project for inspiration](images/dont-eat-donut.png)
