@@ -1,10 +1,73 @@
 ## Curiosity
 
 Now your character can show curiosity about the object:
+- Will your object do something to attract attention? 
 - Will your character move towards the object to check it out? 
 - Will it use speech or costume changes? 
-- Does the object do something to attract attention? 
 You decide!
+
+# The object
+
+Why is your character curious about the object? It could just be a strange object for the environment, or something that naturally has a surprise. Or you may want it to attract attention. Does it move or make a noise? Does it change colour or size?
+
+--- task ---
+
+You can get your object to do something to make the character curious about it. 
+
+--- collapse ---
+
+---
+title: Jiggle a sprite to attract attention
+---
+
+```blocks3
+repeat [8]
+turn left [15] degrees
+wait [0.1] secs
+turn right [15] degrees
+wait [0.1] secs
+turn right [15] degrees
+wait [0.1] secs
+turn left [15] degrees
+wait [0.1] secs
+end
+```
+--- /collapse ---
+
+--- /task ---
+
+You could `change`{:class="block3looks"} or `set`{:class="block3looks"} to attract attention to the object.
+
+**Tip:** Changing the `colour effect`{:class="block3looks"} inside a `forever`{:class="block3control"} loop with a `wait`{:class="block3control"} creates a cool effect.
+
+--- collapse ---
+---
+title: Graphic effects in action
+---
+**Rooster effects**: [See inside](https://scratch.mit.edu/projects/435730522/editor){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435730522/?autostart=false" frameborder="0"></iframe>
+</div>
+
+```blocks3 
+change [color v] effect by [10]
+
+set [whirl v] effect to [100]
+```
+
++`color`{:class="block3looks"}: From 0 to 199 (bigger numbers will wrap around, so 200 is the same as 0)
++`fisheye`{:class="block3looks"}: 0 is no effect, bigger numbers give a bigger ‘bulge’ effect
++`whirl`{:class="block3looks"}: 0 is no effect, big number gives a big whirl to the left, big negative number gives a big whirl to the right
++`pixelate`{:class="block3looks"}: 0 is no effect, bigger numbers create more pixels
++`mosaic`{:class="block3looks"}: 0 is no effect, bigger numbers create more copies
++`brightness`{:class="block3looks"}: 0 is no effect, bigger numbers up to 100 make the sprite lighter, and negative numbers down to -100 make the sprite darker
++`ghost`{:class="block3looks"}: 0 is no effect, bigger numbers up to 100 make the sprite more transparent
+
+**Tip:** A colour effect of 225 is the same as a colour effect of 25 so you can keep changing the colour. For other effects nothing will happen after you reach the maximum number for the effect. You can click on `clear graphic effects`{:class="block3looks"} in the `Looks`{:class="block3looks"} Blocks menu or click on the green flag to start again.
+
+--- /collapse ---
+
 
 # The character
 
@@ -104,65 +167,5 @@ end
 
 --- /task ---
 
-# The object
-
-Why is your character curious about the object? It could just be a strange object for the environment, or something that naturally has a surprise. Or you may want it to attract attention. Does it move or make a noise? Does it change colour or size?
-
---- task ---
-
-You can get your object to do something to make the character curious about it. 
-
---- collapse ---
-
----
-title: Jiggle a sprite to attract attention
----
-
-```blocks3
-repeat [8]
-turn left [15] degrees
-wait [0.1] secs
-turn right [15] degrees
-wait [0.1] secs
-turn right [15] degrees
-wait [0.1] secs
-turn left [15] degrees
-wait [0.1] secs
-end
-```
-
---- /task ---
-
-You could `change`{:class="block3looks"} or `set`{:class="block3looks"} to attract attention to the object.
-
-**Tip:** Changing the `colour effect`{:class="block3looks"} inside a `forever`{:class="block3control"} loop with a `wait`{:class="block3control"} creates a cool effect.
-
---- collapse ---
----
-title: Graphic effects in action
----
-**Rooster effects**: [See inside](https://scratch.mit.edu/projects/435730522/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435730522/?autostart=false" frameborder="0"></iframe>
-</div>
-
-```blocks3 
-change [color v] effect by [10]
-
-set [whirl v] effect to [100]
-```
-
-+`color`{:class="block3looks"}: From 0 to 199 (bigger numbers will wrap around, so 200 is the same as 0)
-+`fisheye`{:class="block3looks"}: 0 is no effect, bigger numbers give a bigger ‘bulge’ effect
-+`whirl`{:class="block3looks"}: 0 is no effect, big number gives a big whirl to the left, big negative number gives a big whirl to the right
-+`pixelate`{:class="block3looks"}: 0 is no effect, bigger numbers create more pixels
-+`mosaic`{:class="block3looks"}: 0 is no effect, bigger numbers create more copies
-+`brightness`{:class="block3looks"}: 0 is no effect, bigger numbers up to 100 make the sprite lighter, and negative numbers down to -100 make the sprite darker
-+`ghost`{:class="block3looks"}: 0 is no effect, bigger numbers up to 100 make the sprite more transparent
-
-**Tip:** A colour effect of 225 is the same as a colour effect of 25 so you can keep changing the colour. For other effects nothing will happen after you reach the maximum number for the effect. You can click on `clear graphic effects`{:class="block3looks"} in the `Looks`{:class="block3looks"} Blocks menu or click on the green flag to start again.
-
---- /collapse ---
 
 --- save ---
