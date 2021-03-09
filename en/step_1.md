@@ -38,7 +38,7 @@ The animation has four stages:
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">Design</span> means deciding on the way a project looks and making decisions about what it does. 
+<span style="color: #0faeb0"> </span>  
 </p>
 
 ### Get inspiration 
