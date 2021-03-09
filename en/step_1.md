@@ -1,59 +1,89 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+You will create a short story animation with a surprise.
 
-### What you will make
+You will:
+
++ Use Scratch to tell a short story
++ Plan your time to get a simple version working quickly
++ Make a project to get a reaction from others
 
 --- no-print ---
-Add instructions for interacting with the embedded content here.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+--- task ---
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1">  
+
+### Try it 
+
+Click the green flag to start the animation.
+
+The animation has four stages:
++ Setup
++ Curiosity
++ Surprise!
++ Reaction
+
+
 </div>
+<div>
+**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
+</div>
+
+</div>
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">Design</span> means deciding on the way a project looks and making decisions about what it does. 
+</p>
+
+### Get inspiration 
+
+--- task ---
+
+You are going to make design decisions and come up with a story for your surprise animation.  You will need to **set up** the scene with character and curious object, show the character's curiosity about the object, create a surprise, and add a reaction. 
+
+Think about what your story might be as you explore these example projects to get more ideas:
+
+**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Under the sea**: [See inside](https://scratch.mit.edu/projects/495866460/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495866460/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
+</div>
+--- /task ---
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0"></span> 
+</p>
+
+### Get inspiration 
+
+You are going to make design decisions and come up with a story for your surprise animation.  You will need to **set up** the scene with character and curious object, show the character's curiosity about the object, create a surprise, and add a reaction.  [Scratch 1: Googly eye character - Examples](https://scratch.mit.edu/studios/29029028/){:target="_blank"} Scratch studio.
+
+![Gobo watching project for inspiration](images/gobo-watching.png)
+![Dont eat donut project for inspiration](images/dont-eat-donut.png)
+![Under the sea project for inspiration](images/under-the-sea.png)
+![Sporg project for inspiration](images/sporg.png)
+
 --- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0"></span> 
+</p>
+ 
