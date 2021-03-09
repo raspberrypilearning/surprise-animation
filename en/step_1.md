@@ -38,7 +38,7 @@ The animation has four stages:
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0"> </span>  
+Have you written a story with a plot twist or a surprise? Maybe you have watched a show or read a book with an unpredictable ending? You can use the same methods when creating a digital story or animation. 
 </p>
 
 ### Get inspiration 
@@ -70,12 +70,18 @@ Think about what your story might be as you explore these example projects to ge
 --- print-only ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0"></span> 
+Have you written a story with a plot twist or a surprise? Maybe you have watched a show or read a book with an unpredictable ending? You can use the same methods when creating a digital story or animation. 
 </p>
 
 ### Get inspiration 
 
 You are going to make design decisions and come up with a story for your surprise animation.  You will need to **set up** the scene with character and curious object, show the character's curiosity about the object, create a surprise, and add a reaction.  [Scratch 1: Surprise story - Examples](https://scratch.mit.edu/studios/29075822/){:target="_blank"} Scratch studio.
+
+The animation has four stages:
++ Setup
++ Curiosity
++ Surprise!
++ Reaction
 
 ![Dinosaur surprise!](images/dinosaur-surprise.png)
 ![BOO!](images/boo.png)
@@ -85,6 +91,6 @@ You are going to make design decisions and come up with a story for your surpris
 --- /print-only ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0"></span> 
+There are people called <span style="color: #0faeb0">narrative designers</span> who do storytelling for apps and video games. But digital storytelling allows everyone to share their stories and creative imaginings with other people.
 </p>
  
