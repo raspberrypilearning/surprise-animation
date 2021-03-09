@@ -4,11 +4,12 @@ Now your character can show curiosity about the object:
 - Will your object do something to attract attention? 
 - Will your character move towards the object to check it out? 
 - Will it use speech or costume changes? 
+
 You decide!
 
-# The object
+### The object
 
-Why is your character curious about the object? It could just be a strange object for the environment, or something that naturally has a surprise. Or you may want it to attract attention. Does it move or make a noise? Does it change colour or size?
+Why is your character curious about the object? It could just be a strange object for the environment, or something that naturally has a surprise. Or you may want it to attract attention. 
 
 --- task ---
 
@@ -34,16 +35,14 @@ end
 ```
 --- /collapse ---
 
---- /task ---
-
-You could `change`{:class="block3looks"} or `set`{:class="block3looks"} to attract attention to the object.
-
-**Tip:** Changing the `colour effect`{:class="block3looks"} inside a `forever`{:class="block3control"} loop with a `wait`{:class="block3control"} creates a cool effect.
+You could `change`{:class="block3looks"} or `set`{:class="block3looks"} the `colour effect`{:class="block3looks"} to attract attention to the object.
 
 --- collapse ---
+
 ---
 title: Graphic effects in action
 ---
+
 **Rooster effects**: [See inside](https://scratch.mit.edu/projects/435730522/editor){:target="_blank"}
 
 <div class="scratch-preview">
@@ -66,14 +65,19 @@ set [whirl v] effect to [100]
 
 **Tip:** A colour effect of 225 is the same as a colour effect of 25 so you can keep changing the colour. For other effects nothing will happen after you reach the maximum number for the effect. You can click on `clear graphic effects`{:class="block3looks"} in the `Looks`{:class="block3looks"} Blocks menu or click on the green flag to start again.
 
+**Tip:** Changing the `colour effect`{:class="block3looks"} inside a `forever`{:class="block3control"} loop with a `wait`{:class="block3control"} creates a cool effect.
+
 --- /collapse ---
 
+--- /task ---
 
-# The character
+### The character
+
+Get your main character to express interest in the object.
 
 --- task ---
 
-Get your main character to express interest in the object. You can use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or animate your character with costumes or movement.
+You can use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or animate your character with costumes or movement.
 
 You can also use the text to speech extension to make a sprite talk out loud!
 
@@ -119,7 +123,7 @@ You can also emote your sprite like in Space Talk(link).
 --- collapse ---
 
 ---
-title: Emote your sprite
+title: Emote your sprite to show their mood
 ---
 
 <div>
@@ -138,7 +142,7 @@ think [Hmm...] for [2] secs
 switch costume to [abby-a v] // back to normal
 ```
 
-**Tip:** Make sure you use a block that takes time, not a `start sound` or `say` or `think` block, otherwise you won't see the costume change.
+**Tip:** Make sure you use a block that takes time, not a `start sound`{:class="block3sound"} or `say`{:class="block3looks"} or `think`{:class="block3looks"} block, otherwise you won't see the costume change.
 
 --- /collapse ---
 
@@ -151,19 +155,72 @@ title: Animate character movement with costumes
 ---
 
 ```blocks3
-repeat [20]
+repeat [20] // how many times to move
 switch costume to [hedgehog-a v]
-move [3] steps
-wait [0.1] secs
+move [3] steps // how much to move in one go
+wait [0.1] secs // try 0.2 0.5 0.01
 switch costume to [hedgehog-b v]
 move [3] steps
 wait [0.1] secs
 end
 ```
 
---- /collapse ---
+**Tip:** Increase the number of steps in each `move`{:class="block3motion"} to go faster. Change the number in the `repeat`{:class="block3control"} block to adjust the distance.
 
 **Tip:** To move backwards you can use negative numbers `move [-3]`{:class="block3motion"}. Or, you can use a `point in direction [-90]`{:class="block3motion"} to change the sprite's direction before moving, `-90` points to the left. 
+
+--- /collapse ---
+
+--- /task ---
+
+--- task ---
+**Test:** Click the green flag to try your project. Your sprite should show curiosity about the object.
+
+--- /task ---
+
+If you changed your sprite's looks or position then you will need to make sure they are set back to normal when you click the green flag.
+
+--- collapse ---
+
+---
+title: Setting start position and looks for a sprite
+---
+
+Choose the blocks you need to get your sprite into the right position and with the right looks at the start.
+
+```blocks3
+when flag clicked // Add blocks to set the start 
+switch costume to [costume1 v]
+set size [100] % // starting size
+go to x: (-200) y: (50) // starting position
+point in direction [90]
+set [brightness v] effect to [80]
+say () // say nothing
+```
+
+**Tip:** All graphic effects are cleared when you click the green flag so you don't need to clear them but you might need to set the values you want.
+
+--- /collapse ---
+
+--- task ---
+
+--- task ---
+**Test:** Click the green flag again and make sure your character goes back to it's normal `position`{:class="block3motion"} and `looks`{:class="block3looks"} `when green flag clicked`{:class="block3events"}, before it shows curiosity at the object.
+
+--- /task ---
+
+--- task ---
+**Debug:**
+
+--- collapse ---
+
+---
+title: The sound is not working
+---
+
+Check that the computer volume is loud enough and that your speakers or headphones are connected and working properly. 
+
+--- /collapse ---
 
 --- /task ---
 
