@@ -1,15 +1,10 @@
 ## Upgrade your project
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+If you have time, you can upgrade your project. 
 
---- task ---
-
---- /task ---
-
---- task ---
-
-Step content...
-
---- /task ---
+You could:
++ Add or improve your animation and movement
++ Paint or edit costumes to get just the right look
++ Record your voice or record sound effects and add them to your project
 
 --- save ---
