@@ -1,11 +1,17 @@
-title: surprise-story
+title: Surprise Story
 hero_image: images/banner.png
-description: surprise-story description
+description: Create a story animation with a surprise. 
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-03-09"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Setup
+  - title: Curiosity
+  - title: Surprise
+  - title: Reaction
+  - title: Reflection
+  - title: Upgrade your project
+  - title: Share
   - title: What next?
