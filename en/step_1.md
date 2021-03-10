@@ -85,8 +85,8 @@ The animation has four stages:
 
 ![Dinosaur surprise!](images/dinosaur-surprise.png)
 ![BOO!](images/boo.png)
-![Cat magic](cat-magic/cat-magic.png)
-![Tresspass](tresspass/tresspass.png)
+![Cat magic](images/cat-magic.png)
+![Tresspass](images/tresspass.png)
 
 --- /print-only ---
 

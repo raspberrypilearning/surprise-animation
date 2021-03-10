@@ -10,7 +10,7 @@ Set when the reaction will start.
 
 --- task ---
 
-<mark>generic-scratch3-using-a-timer</mark>
+[[[scratch3-time-delay]]]
 
 --- /task ---
 
@@ -20,17 +20,17 @@ You can use any of the same methods to make you character emote to react to the 
 
 Choose the methods that make sense for your character and their reaction. 
 
-<mark>generic-scratch3-emote-sprite</mark>
+<mark>scratch3-emote-sprite</mark>
 
 [[[scratch3-graphic-effects]]]
 
-<mark>generic-scratch3-speech-extension</mark>
+<mark>scratch3-speech-extension</mark>
 
-<mark>generic-scratch-animate-sprite-movement</mark>
+<mark>scratch3-animate-sprite-movement</mark>
 
-<mark>generic-scratch-add-sound</mark>
+[[[scratch3-add-sound]]]
 
-<mark>generic-scratch-record-sound</mark>
+<mark>scratch3-record-sound</mark>
 
 --- /task ---
 

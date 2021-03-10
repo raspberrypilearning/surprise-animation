@@ -11,24 +11,16 @@ You decide!
 
 Set when the surprise will start. 
 
+[[[scratch3-time-delay]]]
+
+
 --- collapse ---
 
 ---
 title: Run a script after a time delay
 ---
 
-You can make a script run a number of seconds after the green flag is clicked.
 
-```blocks3
-when [timer > 5] // change the delay
-```
-
-When you use the timer, it's a good idea to reset it when the green flag is clicked as the timer might already be runninng when you start your project.
-
-```blocks3
-when flag clicked
-reset timer
-```
 
 --- /collapse ---
 
