@@ -20,13 +20,13 @@ You can use any of the same methods to make you character emote to react to the 
 
 Choose the methods that make sense for your character and their reaction. 
 
-<mark>scratch3-emote-sprite</mark>
+[[scratch3-change-costumes-to-show-mood]]
 
 [[[scratch3-graphic-effects]]]
 
 [[[scratch3-text-to-speech]]]
 
-<mark>scratch3-animate-movement-costumes</mark>
+[[[scratch3-animate-movement-costumes]]]
 
 [[[scratch3-add-sound]]]
 

@@ -55,58 +55,11 @@ You can also use the text to speech extension to make a sprite talk out loud!
 
 You can also emote your sprite like in Space Talk(link). 
 
---- collapse ---
-
----
-title: Emote your sprite to show their mood
----
-
-<div>
-**Abby says hmm**: [See inside](https://scratch.mit.edu/projects/498767227/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed//498767227/?autostart=false" frameborder="0"></iframe>
-</div>
-
-You can change costume before and after a `say for`{:class="block3looks"}, `think for`{:class="block3looks"}, `play sounds`{:class="block3sounds"}, or `wait`{:class="block3events"} block to make you character show their feelings.
-
-```blocks3
-switch costume to [abby-a v] // normal costume
-wait [1] secs
-switch costume to [abby-b v] // show feelings
-think [Hmm...] for [2] secs
-switch costume to [abby-a v] // back to normal
-```
-
-**Tip:** Make sure you use a block that takes time, not a `start sound`{:class="block3sound"} or `say`{:class="block3looks"} or `think`{:class="block3looks"} block, otherwise you won't see the costume change.
-
---- /collapse ---
+[[scratch3-change-costumes-to-show-mood]]
 
 You can make your character move to check out the object:
 
-<mark>scratch3-animate-movement-costumes</mark>
-
---- collapse ---
-
----
-title: Animate sprite movement with costumes
----
-
-```blocks3
-repeat [20] // how many times to move
-switch costume to [hedgehog-a v]
-move [3] steps // how much to move in one go
-wait [0.1] secs // try 0.2 0.5 0.01
-switch costume to [hedgehog-b v]
-move [3] steps
-wait [0.1] secs
-end
-```
-
-**Tip:** Increase the number of steps in each `move`{:class="block3motion"} to go faster. Change the number in the `repeat`{:class="block3control"} block to adjust the distance.
-
-**Tip:** To move backwards you can use negative numbers `move [-3]`{:class="block3motion"}. Or, you can use a `point in direction [-90]`{:class="block3motion"} to change the sprite's direction before moving, `-90` points to the left. 
-
---- /collapse ---
+[[[scratch3-animate-movement-costumes]]]
 
 --- /task ---
 

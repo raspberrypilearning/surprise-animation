@@ -130,7 +130,7 @@ point in direction (-90) // turn to the left
 
 Save your project
 
-<mark>name-and-save-my-project</mark>
+[[[generic-scratch3-saving]]]
 
 --- /task ---
 

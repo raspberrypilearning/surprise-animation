@@ -51,7 +51,7 @@ You'll need to add another sprite if you choose this option.
 You could create a new costume by copying parts from one sprites's costume to another.
 
 
-<mark>scratch3-copy-parts-between-sprite-costumes</mark>
+[[[scratch3-copy-parts-between-sprite-costumes]]]
 
 
 --- /collapse ---
