@@ -136,7 +136,7 @@ point in direction (-90) // turn to the left
 
 Save your project
 
-`[[[name-and-save-my-project]]]`
+<mark>name-and-save-my-project</mark>
 
 --- /task ---
 

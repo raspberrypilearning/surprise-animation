@@ -10,29 +10,27 @@ Set when the reaction will start.
 
 --- task ---
 
-`[[[generic-scratch3-using-a-timer]]]`
+<mark>generic-scratch3-using-a-timer</mark>
 
 --- /task ---
 
 You can use any of the same methods to make you character emote to react to the surprise.
 
-`[[[emote]]]`
-
 --- task ---
 
 Choose the methods that make sense for your character and their reaction. 
 
-`[[[generic-scratch3-emote-sprite]]]`
+<mark>generic-scratch3-emote-sprite</mark>
 
 [[[scratch3-graphic-effects]]]
 
-`[[[generic-scratch3-speech-extension]]]`
+<mark>generic-scratch3-speech-extension</mark>
 
-`[[[generic-scratch-animate-sprite-movement]]]`
+<mark>generic-scratch-animate-sprite-movement</mark>
 
-`[[[generic-scratch-add-sound]]]`
+<mark>generic-scratch-add-sound</mark>
 
-`[[[generic-scratch-record-sound]]]`
+<mark>generic-scratch-record-sound</mark>
 
 --- /task ---
 
