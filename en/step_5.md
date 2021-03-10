@@ -30,7 +30,7 @@ Choose the methods that make sense for your character and their reaction.
 
 [[[scratch3-add-sound]]]
 
-<mark>scratch3-record-sound</mark>
+[[[scratch3-record-sound]]]
 
 --- /task ---
 
