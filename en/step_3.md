@@ -148,6 +148,8 @@ end
 
 --- /task ---
 
+--- task ---
+
 If you changed your sprite's looks or position then you will need to make sure they are set back to normal when you click the green flag.
 
 --- collapse ---
@@ -172,7 +174,7 @@ say () // say nothing
 
 --- /collapse ---
 
---- task ---
+--- /task ---
 
 --- task ---
 **Test:** Click the green flag again and make sure your character goes back to it's normal `position`{:class="block3motion"} and `looks`{:class="block3looks"} `when green flag clicked`{:class="block3events"}, before it shows curiosity at the object.
