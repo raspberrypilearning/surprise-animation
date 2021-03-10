@@ -37,37 +37,7 @@ end
 
 You could `change`{:class="block3looks"} or `set`{:class="block3looks"} the `colour effect`{:class="block3looks"} to attract attention to the object.
 
---- collapse ---
-
----
-title: Graphic effects in action
----
-
-**Rooster effects**: [See inside](https://scratch.mit.edu/projects/435730522/editor){:target="_blank"}
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435730522/?autostart=false" frameborder="0"></iframe>
-</div>
-
-```blocks3 
-change [color v] effect by [10]
-
-set [whirl v] effect to [100]
-```
-
-+`color`{:class="block3looks"}: From 0 to 199 (bigger numbers will wrap around, so 200 is the same as 0)
-+`fisheye`{:class="block3looks"}: 0 is no effect, bigger numbers give a bigger ‘bulge’ effect
-+`whirl`{:class="block3looks"}: 0 is no effect, big number gives a big whirl to the left, big negative number gives a big whirl to the right
-+`pixelate`{:class="block3looks"}: 0 is no effect, bigger numbers create more pixels
-+`mosaic`{:class="block3looks"}: 0 is no effect, bigger numbers create more copies
-+`brightness`{:class="block3looks"}: 0 is no effect, bigger numbers up to 100 make the sprite lighter, and negative numbers down to -100 make the sprite darker
-+`ghost`{:class="block3looks"}: 0 is no effect, bigger numbers up to 100 make the sprite more transparent
-
-**Tip:** A colour effect of 225 is the same as a colour effect of 25 so you can keep changing the colour. For other effects nothing will happen after you reach the maximum number for the effect. You can click on `clear graphic effects`{:class="block3looks"} in the `Looks`{:class="block3looks"} Blocks menu or click on the green flag to start again.
-
-**Tip:** Changing the `colour effect`{:class="block3looks"} inside a `forever`{:class="block3control"} loop with a `wait`{:class="block3control"} creates a cool effect.
-
---- /collapse ---
+[[[scratch3-graphic-effects]]]
 
 --- /task ---
 

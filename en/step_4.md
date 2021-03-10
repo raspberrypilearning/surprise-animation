@@ -103,7 +103,7 @@ title: Copy parts between sprite costumes
 
 If you need a sprite to be in front or behind another sprites, you can use `layers`{:class="block3looks"}.
 
-[[[generic-scratch3-positioning-with-layers]]]
+`[[[generic-scratch3-positioning-with-layers]]]`
 
 
 --- collapse ---
