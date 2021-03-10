@@ -51,42 +51,7 @@ You can use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks,
 
 You can also use the text to speech extension to make a sprite talk out loud!
 
---- collapse ---
-
----
-title: Using the text to speech extension
----
-
-Click Add Extension:
-
-![Add extension button](images/add-extension.png)
-
-Choose Text to Speech
-
-![Text to Speech extension highlighted](images/text-to-speech.png)
-
-You will get new a new Text to Speech Blocks menu:
-
-![Text to Speech blocks menu](images/text-to-speech-extension.png)
-
-You can use these blocks to make your sprites talk out loud.
-
-Make a sprite talk:
-
-```blocks3
-set voice to (alto v) :: tts // choose a voice
-set language to (English v) :: tts 
-speak [Kitty, have you been messing with my potions again?] :: tts
-```
-
-You can even use kitten speak!
-
-```blocks3
-set voice to (kitten v) :: tts
-speak [Cat gotta haz milk.] :: tts
-```
-
---- /collapse ---
+[[[scratch3-text-to-speech]]]
 
 You can also emote your sprite like in Space Talk(link). 
 
@@ -118,10 +83,12 @@ switch costume to [abby-a v] // back to normal
 
 You can make your character move to check out the object:
 
+<mark>scratch3-animate-movement-costumes</mark>
+
 --- collapse ---
 
 ---
-title: Animate character movement with costumes
+title: Animate sprite movement with costumes
 ---
 
 ```blocks3
