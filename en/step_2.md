@@ -14,6 +14,7 @@ Choose a sprite for your main character and another sprite to be the interesting
 
 [[[generic-scratch3-sprite-from-library]]]
 
+
 --- collapse ---
 
 ---
@@ -135,7 +136,7 @@ point in direction (-90) // turn to the left
 
 Save your project
 
-[[[name-and-save-my-project]]]
+`[[[name-and-save-my-project]]]`
 
 --- /task ---
 
