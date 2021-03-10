@@ -56,7 +56,6 @@ You will need to position and resize the added costumes in the Paint editor to m
 
 --- /collapse ---
 
-
 You could make a sprite appear to turn into a different sprite by hiding one sprite and showing the other at the same time.
 
 You'll need to add another sprite if you choose this option.
@@ -103,7 +102,7 @@ title: Copy parts between sprite costumes
 
 If you need a sprite to be in front or behind another sprites, you can use `layers`{:class="block3looks"}.
 
-`[[[generic-scratch3-positioning-with-layers]]]`
+<mark>generic-scratch3-positioning-with-layers</mark>
 
 
 --- collapse ---
