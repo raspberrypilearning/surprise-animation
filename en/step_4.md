@@ -54,8 +54,6 @@ You could create a new costume by copying parts from one sprites's costume to an
 [[[scratch3-copy-parts-between-sprite-costumes]]]
 
 
---- /collapse ---
-
 --- /task ---
 
 --- task ---
