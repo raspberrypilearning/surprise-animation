@@ -14,20 +14,14 @@ Choose a sprite for your main character and another sprite to be the interesting
 
 [[[generic-scratch3-sprite-from-library]]]
 
+You can create a character from shapes using the rectangle and oval tools in the paint editor. 
 
---- collapse ---
+[[[scratch3-backdrops-and-sprites-using-shapes]]]
 
----
-title: Paint your own character or object
----
-
-You can create a character from shapes using the rectangle and oval tools. 
-
-Don't add the eyes, they need to be separate sprites.
+Don't add eyes yet because they need to be separate sprites.
 
 ![Pig costume created using the paint editor](images/pig-costume.png)
 
---- /collapse ---
 
 --- /task ---
 
