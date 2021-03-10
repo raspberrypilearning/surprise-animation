@@ -24,9 +24,9 @@ Choose the methods that make sense for your character and their reaction.
 
 [[[scratch3-graphic-effects]]]
 
-<mark>scratch3-speech-extension</mark>
+[[[scratch3-text-to-speech]]]
 
-<mark>scratch3-animate-sprite-movement</mark>
+<mark>scratch3-animate-movement-costumes</mark>
 
 [[[scratch3-add-sound]]]
 

@@ -14,16 +14,6 @@ Set when the surprise will start.
 [[[scratch3-time-delay]]]
 
 
---- collapse ---
-
----
-title: Run a script after a time delay
----
-
-
-
---- /collapse ---
-
 --- /task ---
 
 
@@ -52,17 +42,7 @@ You could make a sprite appear to turn into a different sprite by hiding one spr
 
 You'll need to add another sprite if you choose this option.
 
---- collapse ---
-
----
-title: Show and hide sprites
----
-
-```blocks3
-show
-
-hide
-```
+<mark>scratch3-show-hide-sprites</mark>
 
 **Tip:** If you make a different object `show`{:class="block3looks"}, then you will need to make it `hide`{:class="block3looks"} `when flag clicked`{:class="block3events"}
 
@@ -70,12 +50,8 @@ hide
 
 You could create a new costume by copying parts from one sprites's costume to another.
 
---- collapse ---
 
----
-title: Copy parts between sprite costumes
----
-
+<mark>scratch3-copy-parts-between-sprite-costumes</mark>
 
 
 --- /collapse ---
