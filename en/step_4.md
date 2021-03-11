@@ -1,7 +1,7 @@
 ## Surprise
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Now you need to add a surprise. What could happen to the object? 
 - Will it turn into another object? 
 - Will it turn into a character? 
@@ -12,11 +12,12 @@ You decide!
 <div>
 ![Cat magic project showing the surprise](images/cat-magic.png)
 
+</div>
+</div>
+
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 Have you written a story with a plot twist or a surprise? Maybe you have watched a show or read a book with an unpredictable ending? You can use the same methods when creating a digital story or animation. 
 </p>
-</div>
-</div>
 
 Set when the surprise will start. 
 
