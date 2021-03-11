@@ -1,7 +1,7 @@
 ## Reaction
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Now your main character needs to react to the surprise. What will they do? 
 - How will they emote? 
 - Will they say something, make a sound, change costumes, move? 
