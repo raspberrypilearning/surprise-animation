@@ -1,12 +1,17 @@
 ## Reaction
 
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1">
 Now your main character needs to react to the surprise. What will they do? 
 - How will they emote? 
 - Will they say something, make a sound, change costumes, move? 
 
 You decide!
-
+</div>
+<div>
 ![Tresspass project showing the reaction to the surprise](images/tresspass.png)
+</div>
+</div>
 
 Set when the reaction will start. 
 
