@@ -1,9 +1,8 @@
 ## Setup
 
 Have you got an idea about your animation? In this step, add a backdrop, main character and interesting object. 
- 
-| :--------------------------------------------: | :--------------------------------------------: | 
-| Have you got an idea about your animation? In this step, add a backdrop, main character and interesting object.  | ![Dinosaur surprise in the setup state](images/images/dinosaur-surprise.png) | 
+![Dinosaur surprise in the setup state](images/dinosaur-surprise.png)
+
 
 --- task ---
 
@@ -13,9 +12,9 @@ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=â€
 
 --- task ---
 
-<mark>Add an image of the add backdrop button</mark>
-
 Choose a sprite for your main character and another sprite to be the interesting object.
+
+![Chose a sprite button](images/add-sprite.png)
 
 You can create a character from shapes using the rectangle and oval tools in the paint editor. 
 
@@ -32,17 +31,17 @@ Where do you want your animation to take place?
 
 --- task ---
 
-Your animation can take place anywhere you like. **Choose** a backdrop to set the scene. 
+**Choose** a backdrop to set the scene. 
 
-[[[generic-scratch3-backdrop-from-library]]]
+<mark>Add an image of the add sprite button</mark>
 
 --- /task ---
 
-Where do you want your sprites to be at the beginning of the animation How big will they be? How should they look?
+Where do you want your sprites to start? How big will they be? How should they look?
 
 --- task ---
 
-Getting your sprites ready for the start of the animation is an important task. You will need to add code `when flag clicked`{:class="block3events"} to reset your sprites at the beginning of your animation. 
+Add a `when flag clicked`{:class="block3events"} block then underneath add blocks to setup your sprites at the beginning of your animation. 
 
 Remember to set up both your main character and your interesting object.
 
