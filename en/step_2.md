@@ -1,7 +1,7 @@
 ## Setup
 
 <div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Have you got an idea about your animation? 
   
 In this step, add a backdrop, main character and interesting object. 
