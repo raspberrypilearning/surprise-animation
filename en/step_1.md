@@ -2,12 +2,12 @@
 
 You will create a short animation with a surprise.
 
+<p style="border: solid; border-width:2px; border-color: black; padding: 10px;">
 You will:
-
 + Use Scratch to create an animation,
 + Test and debug your code when you make changes,
 + Break an animation into parts, this is called **decomposition**, and build it one part at a time.
-
+</p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 **Decomposition** is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. 
