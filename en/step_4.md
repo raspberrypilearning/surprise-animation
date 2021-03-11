@@ -42,7 +42,7 @@ You could make a sprite appear to turn into a different sprite by hiding one spr
 
 You'll need to add another sprite if you choose this option.
 
-[[[scratch3-show-hide-sprites]]]
+[[[scratch3-show-hide-sprites-backdrops]]]
 
 **Tip:** If you make a different object `show`{:class="block3looks"}, then you will need to make it `hide`{:class="block3looks"} `when flag clicked`{:class="block3events"}
 
