@@ -1,6 +1,9 @@
 ## Setup
 
 Have you got an idea about your animation? In this step, add a backdrop, main character and interesting object. 
+ 
+| :--------------------------------------------: | :--------------------------------------------: | 
+| Have you got an idea about your animation? In this step  | ![Dinosaur surprise in the setup state](images/images/dinosaur-surprise.png) | 
 
 --- task ---
 

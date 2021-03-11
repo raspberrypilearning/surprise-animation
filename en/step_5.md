@@ -6,6 +6,8 @@ Now your main character needs to react to the surprise. What will they do?
 
 You decide!
 
+![Tresspass project showing the reaction to the surprise](images/tresspass.png)
+
 Set when the reaction will start. 
 
 --- task ---
