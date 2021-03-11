@@ -1,5 +1,7 @@
 ## Curiosity 
 
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1">
 Why is your character curious about the object?
 
 - Will your object do something to attract attention?
@@ -7,8 +9,11 @@ Why is your character curious about the object?
 - Will it use speech or costume changes?
 
 You decide!
-
+</div>
+<div>
 ![BOO! project showing curiosity](images/boo.png)
+</div>
+</div>
 
 ### The object
 
