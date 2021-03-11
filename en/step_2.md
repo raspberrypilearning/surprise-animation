@@ -3,7 +3,7 @@
 Have you got an idea about your animation? In this step, add a backdrop, main character and interesting object. 
  
 | :--------------------------------------------: | :--------------------------------------------: | 
-| Have you got an idea about your animation? In this step  | ![Dinosaur surprise in the setup state](images/images/dinosaur-surprise.png) | 
+| Have you got an idea about your animation? In this step, add a backdrop, main character and interesting object.  | ![Dinosaur surprise in the setup state](images/images/dinosaur-surprise.png) | 
 
 --- task ---
 
@@ -13,9 +13,9 @@ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=â€
 
 --- task ---
 
-Choose a animation for your main character and another sprite to be the interesting object.
+<mark>Add an image of the add backdrop button</mark>
 
-[[[generic-scratch3-sprite-from-library]]]
+Choose a sprite for your main character and another sprite to be the interesting object.
 
 You can create a character from shapes using the rectangle and oval tools in the paint editor. 
 
