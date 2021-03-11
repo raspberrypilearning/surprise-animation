@@ -31,7 +31,7 @@ Now, create your surprise!
 
 --- task ---
 
-The object could `play a sound`{:class="block3sounds"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, `change size`{:class="block3looks"}.
+The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, `change size`{:class="block3looks"}.
 
 You could add a surprising costume to a sprite and then `switch costume`{:class="block3looks"}, such as the Apple turning into a Ghost:
 
