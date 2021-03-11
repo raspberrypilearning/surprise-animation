@@ -10,7 +10,7 @@ If you have a Scratch account, you can share your project through Scratch. You c
 
 Why not invite your friends to create a project? Let them know how you had fun.
 
-If you have a Scratch account, and have shared your googly eye project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+If you have a Scratch account, and have shared your Surprise! animation project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
 
 [[[comments-feedback-scratch]]]
 
@@ -18,8 +18,6 @@ If you have a Scratch account, and have shared your googly eye project, keep an 
 
 Inspire the Raspberry Pi Foundation community with your project!
 
-We regularly share projects made by the community in our challenges. To submit your Googly eye character project, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
-
-Remember to revisit the challenges to get inspired by other creators and, who knows, one of the projects shared might be yours!
+To submit your project to our Surprise! animation Scratch studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---

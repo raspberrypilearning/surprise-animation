@@ -13,7 +13,7 @@ Professional programmers explore and take inspiration from code created by other
 
 You may want to 'See Inside' the example projects in step 1, they each have a link for you to open the project in Scratch and look at the code to get ideas and see how they work.
 
-Take a look at some Surprise story projects created by community members in the Raspberry Pi Foundation’s studio of Surprise story Community Projects [See inside](https://scratch.mit.edu/studios/29079784){:target="_blank"}.
+Take a look at some Surprise! animation projects created by community members in the Raspberry Pi Foundation’s studio of Surprise! animation Community Projects [See inside](https://scratch.mit.edu/studios/29079784){:target="_blank"}.
 
 
 --- save ---
