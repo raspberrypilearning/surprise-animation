@@ -1,11 +1,19 @@
 ## Curiosity
 
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1">  
+
 Now your character can show curiosity about the object:
 - Will your object do something to attract attention? 
 - Will your character move towards the object to check it out? 
 - Will it use speech or costume changes? 
 
 You decide!
+
+<div>
+![BOO! project showing curiosity](images/boo.png)
+</div>
+</div>
 
 ### The object
 
