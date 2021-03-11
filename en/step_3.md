@@ -53,9 +53,9 @@ You can also use the text to speech extension to make a sprite talk out loud!
 
 [[[scratch3-text-to-speech]]]
 
-You can also emote your sprite like in Space Talk(link). 
+You can also make your sprite emote like in [Space talk](https://projects.raspberrypi.org/en/projects/space-talk). 
 
-[[scratch3-change-costumes-to-show-mood]]
+[[[scratch3-change-costumes-to-show-mood]]]
 
 You can make your character move to check out the object:
 
@@ -88,6 +88,7 @@ go to x: (-200) y: (50) // starting position
 point in direction [90]
 set [brightness v] effect to [80]
 say () // say nothing
+show
 ```
 
 **Tip:** All graphic effects are cleared when you click the green flag so you don't need to clear them but you might need to set the values you want.

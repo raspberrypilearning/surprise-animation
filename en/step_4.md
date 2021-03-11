@@ -42,7 +42,7 @@ You could make a sprite appear to turn into a different sprite by hiding one spr
 
 You'll need to add another sprite if you choose this option.
 
-<mark>scratch3-show-hide-sprites</mark>
+[[[scratch3-show-hide-sprites]]]
 
 **Tip:** If you make a different object `show`{:class="block3looks"}, then you will need to make it `hide`{:class="block3looks"} `when flag clicked`{:class="block3events"}
 
@@ -50,9 +50,7 @@ You'll need to add another sprite if you choose this option.
 
 You could create a new costume by copying parts from one sprites's costume to another.
 
-
 [[[scratch3-copy-parts-between-sprite-costumes]]]
-
 
 --- /task ---
 
@@ -68,7 +66,7 @@ You could create a new costume by copying parts from one sprites's costume to an
 
 If you need a sprite to be in front or behind another sprites, you can use `layers`{:class="block3looks"}.
 
-<mark>generic-scratch3-positioning-with-layers</mark>
+[[[scratch3-positioning-with-layers]]]
 
 
 --- collapse ---
@@ -97,7 +95,7 @@ Make sure you have added code `when flag clicked`{:class="block3events"} to rese
 
 ```blocks3
 when flag clicked 
-go to x: () y:() // comment
+go to x: () y:() 
 set size to () %
 switch costume to [ v]
 hide

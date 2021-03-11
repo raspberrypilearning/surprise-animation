@@ -1,6 +1,6 @@
 ## Setup
 
-Have you got an idea about your story? In this step, add a backdrop, main character and interesting object. 
+Have you got an idea about your animation? In this step, add a backdrop, main character and interesting object. 
 
 --- task ---
 
@@ -10,7 +10,7 @@ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=â€
 
 --- task ---
 
-Choose a sprite for your main character and another sprite to be the interesting object.
+Choose a animation for your main character and another sprite to be the interesting object.
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -25,7 +25,7 @@ Don't add eyes yet because they need to be separate sprites.
 
 --- /task ---
 
-Where do you want your story to take place?
+Where do you want your animation to take place?
 
 --- task ---
 
@@ -35,11 +35,11 @@ Your animation can take place anywhere you like. **Choose** a backdrop to set th
 
 --- /task ---
 
-Where do you want your sprites to be at the beginning of the story? How big will they be? How should they look?
+Where do you want your sprites to be at the beginning of the animation How big will they be? How should they look?
 
 --- task ---
 
-Getting your sprites ready for the start of the story is an important task. You will need to add code `when flag clicked`{:class="block3events"} to reset your sprites at the beginning of your animation. 
+Getting your sprites ready for the start of the animation is an important task. You will need to add code `when flag clicked`{:class="block3events"} to reset your sprites at the beginning of your animation. 
 
 Remember to set up both your main character and your interesting object.
 
@@ -74,7 +74,7 @@ To change the size of your sprite for the whole project, change the size propert
 To change the size of your sprite for part of the project, add code to `set size to`{:class="block3looks"} the size you want. This option is good if you want your sprite to change size in the project. 
 
 ```blocks3
-set size to [100%] // <100% smaller, >100% bigger
+set size to [100] % // <100 smaller, >100 bigger
 ```
 
 --- /collapse ---

@@ -1,12 +1,17 @@
 ## Introduction
 
-You will create a short story animation with a surprise.
+You will create a short animation with a surprise.
 
 You will:
 
-+ Use Scratch to tell a short story
-+ Plan your time to get a simple version working quickly
-+ Make a project to get a reaction from others
++ Use Scratch to create an animation,
++ Test and debug your code when you make changes,
++ Break an animation into parts, this is called **decomposition**, and build it one part at a time.
+
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+**Decomposition** is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. 
+</p>
 
 --- no-print ---
 
@@ -19,12 +24,11 @@ You will:
 
 Click the green flag to start the animation.
 
-The animation has four stages:
+The animation has four parts:
 + Setup
 + Curiosity
 + Surprise!
 + Reaction
-
 
 </div>
 <div>
