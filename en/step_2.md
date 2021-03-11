@@ -33,7 +33,7 @@ Where do you want your animation to take place?
 
 **Choose** a backdrop to set the scene. 
 
-<mark>Add an image of the add sprite button</mark>
+![Chose a backdrop button](images/add-backdrop.png)
 
 --- /task ---
 
