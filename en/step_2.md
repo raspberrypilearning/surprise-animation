@@ -2,7 +2,9 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
-Have you got an idea about your animation? In this step, add a backdrop, main character and interesting object. 
+Have you got an idea about your animation? 
+  
+In this step, add a backdrop, main character and interesting object. 
 </div>
 <div>  
 ![Dinosaur surprise in the setup state](images/dinosaur-surprise.png)
