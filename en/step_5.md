@@ -8,9 +8,11 @@ Now your main character needs to react to the surprise. What will they do?
 
 You decide!
 </div>
-<div>
+When will your main character react?
 ![Tresspass project showing the reaction to the surprise](images/tresspass.png)
 </div>
+
+Set when the reaction will start. 
 </div>
 
 Set when the reaction will start. 
@@ -22,12 +24,12 @@ Set when the reaction will start.
 --- /task ---
 
 You can use any of the same methods to make you character emote to react to the surprise.
-
+[[
 --- task ---
 
 Choose the methods that make sense for your character and their reaction. 
 
-[[scratch3-change-costumes-to-show-mood]]
+[[scratch3-change-costumes-to-show-mood]]]
 
 [[[scratch3-graphic-effects]]]
 

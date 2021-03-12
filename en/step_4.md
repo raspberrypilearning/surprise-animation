@@ -19,9 +19,10 @@ You decide!
 Have you written a story with a plot twist or a surprise? Maybe you have watched a show or read a book with an unpredictable ending? You can use the same methods when creating a digital story or animation. 
 </p>
 
-Set when the surprise will start. 
+When will your surprise happen?
 
 --- task ---
+Set when the surprise will start. 
 
 [[[scratch3-time-delay]]]
 

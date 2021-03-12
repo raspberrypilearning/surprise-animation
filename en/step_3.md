@@ -19,7 +19,7 @@ You decide!
 
 --- task ---
 
-If you like, you can get your object to do something to make the character curious about it. 
+You can get your object to do something to make the character curious about it. 
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -69,7 +69,7 @@ Choose the blocks you need to get your sprite into the right position and with t
 ```blocks3
 when flag clicked // Add blocks to set the start 
 switch costume to [costume1 v]
-set size (100) % // starting size
+set size to (100) % // starting size
 go to x: (-200) y: (50) // starting position
 point in direction [90]
 set [brightness v] effect to [80]
