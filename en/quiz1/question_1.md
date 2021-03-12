@@ -25,53 +25,49 @@ Do you notice anything odd the second time? The surprise is ruined! What code bl
 
 --- choices ---
 
-- ( ) ```blocks3
-
+- ( ) 
+```blocks3
 set size to (150) %
-
 ```
 
- --- feedback ---
+  --- feedback ---
 
  The egg sprite is the correct size when you run the program again.
 
- --- /feedback ---
+  --- /feedback ---
 
-- (x) ```blocks3
-
+- (x) 
+```blocks3
 switch costume to [egg-a v]
-
 ```
 
- --- feedback ---
+  --- feedback ---
 
  Yes, you need to switch to the right costume (egg-a) when the project starts.
 
- --- /feedback ---
+  --- /feedback ---
 
-- ( ) ```blocks3
-
+- ( ) 
+```blocks3
 show
-
 ```
 
- --- feedback ---
+  --- feedback ---
 
  You often need to remember to show a sprite when the green flag is clicked, but in the project in the question, the egg sprite does show.
 
- --- /feedback ---
+  --- /feedback ---
 
-- ( ) ```blocks3
-
+- ( ) 
+```blocks3
 go to x: (75) y: (-100)
-
 ```
 
- --- feedback ---
+  --- feedback ---
 
  The egg sprite does go to correct starting position on the Stage.
 
- --- /feedback ---
+  --- /feedback ---
 
 --- /choices ---
 

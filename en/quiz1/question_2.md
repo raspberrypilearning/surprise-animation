@@ -14,50 +14,54 @@ Which script for the little dinosaur sprite would make this happen?
 
 --- choices ---
 
-- ( ) ```blocks3
-when [loudness v] > [6]
+- ( ) 
+```blocks3
+when [loudness v] > (6)
 show
 ```
 
- --- feedback ---
+  --- feedback ---
 
  These are the right blocks to use but you need to select 'timer' instead of 'loudness' from the dropdown.
 
- --- /feedback ---
+  --- /feedback ---
 
-- ( ) ```blocks3
+- ( ) 
+```blocks3
 when sprite clicked
 show
 ```
 
- --- feedback ---
+  --- feedback ---
 
 This script needs user interaction for the little dinosaur to show.
 
- --- /feedback ---
+  --- /feedback ---
 
-- ( ) ```blocks3
+- ( ) 
+```blocks3
 show
 when flag clicked
-wait [6] seconds
+wait (6) seconds
 ```
 
- --- feedback ---
+  --- feedback ---
 
  Here, the little dinosaur surprises the big one and then waits 6 seconds.
 
- --- /feedback ---
+  --- /feedback ---
 
-- (x) ```blocks3
-when [TIMER v] > [6]
+- (x) 
+```blocks3
+when [timer v] > (6)
 show
 ```
 
- --- feedback ---
+  --- feedback ---
 
  When the timer has waited 6 seconds, the little dinosaur appears and surprises the big dinosaur!
 
- --- /feedback ---
+  --- /feedback ---
 
 --- /choices ---
 

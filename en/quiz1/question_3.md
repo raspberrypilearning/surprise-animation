@@ -19,11 +19,11 @@ Which order represents the animation you made?
 
 + Reaction
 
- --- feedback ---
+  --- feedback ---
 
  The setup part resets your animation. It needs to come first so your animation can be run again in the same way.
 
- --- /feedback ---
+  --- /feedback ---
 
 - ( ) 
 + Reaction
@@ -34,11 +34,11 @@ Which order represents the animation you made?
 
 + Setup
 
- --- feedback ---
+  --- feedback ---
 
  Think about what you did first. The reaction came later.
 
- --- /feedback ---
+  --- /feedback ---
 
 - (x) 
 + Setup
@@ -49,11 +49,11 @@ Which order represents the animation you made?
 
 + Reaction
 
- --- feedback ---
+  --- feedback ---
 
  Yes! Setting up your sprites comes first then your story builds to a final reaction.
 
- --- /feedback ---
+  --- /feedback ---
 
 - ( ) 
 + Setup
@@ -64,11 +64,11 @@ Which order represents the animation you made?
 
 + Surprise!
 
- --- feedback ---
+  --- feedback ---
 
  The Surprise! wasn't at the end of the animation. Something came afterwards.
 
- --- /feedback ---
+  --- /feedback ---
 
 --- /choices ---
 
