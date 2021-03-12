@@ -1,8 +1,15 @@
 ## Setup
 
-Have you got an idea about your animation? In this step, add a backdrop, main character and interesting object. 
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+Have you got an idea about your animation? 
+  
+In this step, add a backdrop, main character and interesting object. 
+</div>
+<div>  
 ![Dinosaur surprise in the setup state](images/dinosaur-surprise.png)
-
+</div>
+</div>
 
 --- task ---
 
@@ -28,7 +35,7 @@ Where do you want your animation to take place?
 
 **Choose** a backdrop to set the scene. 
 
-<mark>Add an image of the add sprite button</mark>
+![Chose a backdrop button](images/add-backdrop.png)
 
 --- /task ---
 
