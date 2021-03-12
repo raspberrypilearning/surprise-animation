@@ -35,22 +35,7 @@ The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="
 
 You could add a surprising costume to a sprite and then `switch costume`{:class="block3looks"}, such as the Apple turning into a Ghost:
 
---- collapse ---
-
----
-title: Copy costumes from one sprite to another
----
-
-Click on the Costumes tab and then 'Choose a costume' to add any costume to the sprite. 
-
-![Choose a costume menu highlighted](images/choose-a-costume.png)
-
-You will need to position and resize the added costumes in the Paint editor to match your other costumes.
-
-
-**Tip:** If you position a sprite on the Stage and then switch costume the sprite might appear to 'jump' or change size. You will need to position and resize the costumes in the **Paint editor** so that they all appear in the right position on the Stage. 
-
---- /collapse ---
+[[[scratch3-add-costumes-to-a-sprite]]]
 
 You could make a sprite appear to turn into a different sprite by hiding one sprite at the same time as you show another.
 
