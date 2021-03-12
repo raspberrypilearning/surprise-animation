@@ -24,12 +24,12 @@ Set when the reaction will start.
 --- /task ---
 
 You can use any of the same methods to make you character emote to react to the surprise.
-[[
+
 --- task ---
 
 Choose the methods that make sense for your character and their reaction. 
 
-[[scratch3-change-costumes-to-show-mood]]]
+[[[scratch3-change-costumes-to-show-mood]]]
 
 [[[scratch3-graphic-effects]]]
 
