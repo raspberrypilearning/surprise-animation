@@ -39,7 +39,7 @@ You can also use the text to speech extension to make a sprite talk out loud!
 
 [[[scratch3-text-to-speech]]]
 
-Or, make your sprite emote like in [Space talk](https://projects.raspberrypi.org/en/projects/space-talk). 
+Or, make your sprite emote like in [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}. 
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
