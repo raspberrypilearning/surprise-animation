@@ -20,11 +20,6 @@ You can create a character from shapes using the rectangle and oval tools in the
 
 [[[scratch3-backdrops-and-sprites-using-shapes]]]
 
-Don't add eyes yet because they need to be separate sprites.
-
-![Pig costume created using the paint editor](images/pig-costume.png)
-
-
 --- /task ---
 
 Where do you want your animation to take place?

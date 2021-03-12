@@ -12,6 +12,8 @@ You will:
 **Decomposition** is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. 
 </p>
 
+![Examples of projects you can make](images/surprise-example.png)
+
 --- no-print ---
 
 --- task ---
