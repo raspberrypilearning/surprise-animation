@@ -22,7 +22,7 @@ Have you written a story with a plot twist or a surprise? Maybe you have watched
 When will your surprise happen?
 
 --- task ---
-Set when the surprise will start. 
+Select the **object** sprite and add a script to start the surprise. 
 
 [[[scratch3-time-delay]]]
 
@@ -66,7 +66,7 @@ show
 
 --- task ---
 
-**Test:** Click on the green flag and try your project out, does the surprise happen at the right time? Does the animation reset properly?
+**Test:** Click on the green flag and try your project out, does the surprise happen at the right time? Does the animation reset properly when you click the green flag?
 
 --- /task ---
 
