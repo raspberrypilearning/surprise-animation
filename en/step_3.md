@@ -19,7 +19,7 @@ You decide!
 
 --- task ---
 
-You can get your object to do something to make the character curious about it. 
+You can get your object to do something to make the character curious about it. Add blocks to the end of the object's `when green flag clicked`{:class="block3events"} setup script.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -29,7 +29,7 @@ You can get your object to do something to make the character curious about it.
 
 ### The character
 
-Get your main character to express interest in the object.
+Get your main character to express interest in the object. Add blocks to the end of the character's setup script. You can add a `wait`{:class="block3control"} if you need to wait until the object has done something.
 
 --- task ---
 
@@ -73,11 +73,10 @@ set size to (100) % // starting size
 go to x: (-200) y: (50) // starting position
 point in direction [90]
 set [brightness v] effect to [80]
-say () // say nothing
 show
 ```
 
-**Tip:** All graphic effects are cleared when you click the green flag so you don't need to clear them but you might need to set the values you want.
+**Tip:** All graphic effects are cleared when you click the green flag so you don't need to clear them but you might need to set the values you want. 
 
 --- /collapse ---
 
