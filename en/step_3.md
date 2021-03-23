@@ -19,7 +19,7 @@ You decide!
 
 --- task ---
 
-You can get your object to do something to make the character curious about it. 
+If your object needs to do something to make the character curious about it, add blocks to the end of the object's `when green flag clicked`{:class="block3events"} setup script.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -29,34 +29,30 @@ You can get your object to do something to make the character curious about it.
 
 ### The character
 
-Get your main character to express interest in the object.
-
 --- task ---
 
-You can use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks.
+Get your main character to express interest in the object. Add blocks to the end of the character's setup script. 
 
-You can also use the text to speech extension to make a sprite talk out loud!
+If you need to wait until the object has done something, add a `wait`{:class="block3control"} block.
+
+You could choose to use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks and even use the text to speech extension to make a sprite talk out loud!
 
 [[[scratch3-text-to-speech]]]
 
-Or, make your sprite emote like in [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}. 
+Your character could emote like in [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}. 
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-Or, make your character move to check out the object:
+Your character could be brave and move closer to check out the object:
 
 [[[scratch3-animate-movement-costumes]]]
 
 --- /task ---
 
 --- task ---
-**Test:** Click the green flag to try your project. Your sprite should show curiosity about the object.
+**Test:** Click the green flag to try your project. Your sprite should show curiosity about the object. 
 
---- /task ---
-
---- task ---
-
-If you changed your sprite's looks or position then you will need to make sure they are set back to normal when you click the green flag.
+Click on the green flag again. If you changed your sprite's looks or position then you will need to make sure they are set back to normal.
 
 --- collapse ---
 
@@ -73,18 +69,12 @@ set size to (100) % // starting size
 go to x: (-200) y: (50) // starting position
 point in direction [90]
 set [brightness v] effect to [80]
-say () // say nothing
 show
 ```
 
-**Tip:** All graphic effects are cleared when you click the green flag so you don't need to clear them but you might need to set the values you want.
+**Tip:** All graphic effects are cleared when you click the green flag so you don't need to clear them but you might need to set the values you want. 
 
 --- /collapse ---
-
---- /task ---
-
---- task ---
-**Test:** Click the green flag again and make sure your character goes back to its normal `position`{:class="block3motion"} and `looks`{:class="block3looks"} `when green flag clicked`{:class="block3events"}, before it shows curiosity at the object.
 
 --- /task ---
 

@@ -70,10 +70,6 @@ Think about what your story might be as you explore these example projects to ge
 
 --- print-only ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Have you written a story with a plot twist or a surprise? Maybe you have watched a show or read a book with an unpredictable ending? You can use the same methods when creating a digital story or animation. 
-</p>
-
 ### Get inspiration 
 
 You are going to make design decisions and come up with a story for your surprise animation. Think about what your story might be as you explore example projects in [Scratch 1: Surprise story - Examples](https://scratch.mit.edu/studios/29075822/){:target="_blank"} Scratch studio.

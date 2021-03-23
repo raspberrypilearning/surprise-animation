@@ -19,22 +19,24 @@ You decide!
 Have you written a story with a plot twist or a surprise? Maybe you have watched a show or read a book with an unpredictable ending? You can use the same methods when creating a digital story or animation. 
 </p>
 
-When will your surprise happen?
+### When will your surprise happen?
 
 --- task ---
-Set when the surprise will start. 
+Select the **object** sprite and add a script to start the surprise. 
+
+You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious then you will need a longer delay.
 
 [[[scratch3-time-delay]]]
 
 --- /task ---
 
-Now, create your surprise!
+### Now, create your surprise!
 
 --- task ---
 
 The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, `change size`{:class="block3looks"}.
 
-You could add a surprising costume to a sprite and then `switch costume`{:class="block3looks"}, such as the Apple turning into a Ghost:
+You could add a surprising costume to a sprite and then `switch costume`{:class="block3looks"} to reveal it, such as the Apple turning into a Ghost:
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -66,7 +68,7 @@ show
 
 --- task ---
 
-**Test:** Click on the green flag and try your project out, does the surprise happen at the right time? Does the animation reset properly?
+**Test:** Click on the green flag, does the surprise happen at the right time? Does the animation reset properly?
 
 --- /task ---
 

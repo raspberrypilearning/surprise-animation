@@ -19,13 +19,9 @@ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=â€
 
 --- task ---
 
-Choose a sprite for your main character and another sprite to be the interesting object.
+**Choose** a sprite for your main character and another sprite to be the interesting object.
 
 ![Chose a sprite button](images/add-sprite.png)
-
-You can create a character from shapes using the rectangle and oval tools in the paint editor. 
-
-[[[scratch3-backdrops-and-sprites-using-shapes]]]
 
 --- /task ---
 

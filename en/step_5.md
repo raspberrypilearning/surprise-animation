@@ -3,31 +3,32 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Now your main character needs to react to the surprise. What will they do? 
+- When will your main character react?
 - How will they emote? 
 - Will they say something, make a sound, change costumes, move? 
 
 You decide!
 </div>
-When will your main character react?
+<div>
 ![Tresspass project showing the reaction to the surprise](images/tresspass.png)
 </div>
-
-Set when the reaction will start. 
 </div>
 
-Set when the reaction will start. 
+### When will your character react?
 
 --- task ---
+
+Select your **character** sprite. Add a script to start the reaction. 
 
 [[[scratch3-time-delay]]]
 
 --- /task ---
 
-You can use any of the same methods to make you character emote to react to the surprise.
+### How will your character react?
 
 --- task ---
 
-Choose the methods that make sense for your character and their reaction. 
+Choose the actions that make sense for your character and their reaction. 
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
@@ -45,7 +46,15 @@ Choose the methods that make sense for your character and their reaction.
 
 --- task ---
 
-**Test:** Click on the green flag to try your project out, does your animation flow as you want it too? Have you created suspense and a reaction in your surprise story? 
+**Test:** Click on the green flag, does your animation flow as you want it to? Have you created suspense and a reaction in your surprise story? Does everything reset correctly when you click the green flag again?
+
+--- /task ---
+
+--- task ---
+
+**Debug:** 
+
+You might need to change the time in `when timer`{:class="block3events"} and `wait`{:class="block3events"} blocks or add more `wait`{:class="block3events"} blocks to get the timing just right.
 
 --- /task ---
 
