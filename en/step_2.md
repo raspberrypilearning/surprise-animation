@@ -19,7 +19,7 @@ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=â€
 
 --- task ---
 
-Choose a sprite for your main character and another sprite to be the interesting object.
+**Choose** a sprite for your main character and another sprite to be the interesting object.
 
 ![Chose a sprite button](images/add-sprite.png)
 

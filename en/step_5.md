@@ -14,6 +14,8 @@ You decide!
 </div>
 </div>
 
+### When will your character react?
+
 --- task ---
 
 Select your **character** sprite. Add a script to start the reaction. 
@@ -22,7 +24,7 @@ Select your **character** sprite. Add a script to start the reaction.
 
 --- /task ---
 
-You can use any of the same actions to make you character emote to react to the surprise.
+### How will your character react?
 
 --- task ---
 
@@ -44,13 +46,15 @@ Choose the actions that make sense for your character and their reaction.
 
 --- task ---
 
-**Test:** Click on the green flag to try your project out, does your animation flow as you want it too? Have you created suspense and a reaction in your surprise story? 
+**Test:** Click on the green flag, does your animation flow as you want it to? Have you created suspense and a reaction in your surprise story? Does everything reset correctly when you click the green flag again?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might need to change the time in `when timer`{:class="block3events"} and `wait`{:class="block3events"} blocks or add more `wait`{:class="block3events"} blocks to get the timing just right.
+**Debug:** 
+
+You might need to change the time in `when timer`{:class="block3events"} and `wait`{:class="block3events"} blocks or add more `wait`{:class="block3events"} blocks to get the timing just right.
 
 --- /task ---
 
