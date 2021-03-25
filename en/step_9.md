@@ -1,6 +1,6 @@
 ## What next?
 
-If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathway/scratch-intro) path, you can move on to the [I made you a book](https://projects.raspberrypi.org/en/projects/scratch-book) project. In this project, you will make a (add description here).
+If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathway/scratch-intro) path, you can move on to the [I made you a book](https://projects.raspberrypi.org/en/projects/i-made-you-a-book) project. In this project, you will make a (add description here).
 
 
 --- no-print ---
@@ -13,7 +13,6 @@ If you are following the [Introduction to Scratch](https://projects.raspberrypi.
 --- print-only ---
 ![I made you a book cover](images/book-cover.png)
 --- /print-only ---
-
 
 If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
