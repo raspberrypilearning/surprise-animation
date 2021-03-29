@@ -28,7 +28,7 @@ show
 
 - ( ) 
 ```blocks3
-when sprite clicked
+when this sprite clicked
 show
 ```
 
@@ -40,9 +40,9 @@ This script needs user interaction for the little dinosaur to show.
 
 - ( ) 
 ```blocks3
-show
 when flag clicked
 wait (6) seconds
+show
 ```
 
   --- feedback ---
