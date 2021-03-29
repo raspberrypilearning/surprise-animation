@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now your main character needs to react to the surprise. What will they do? 
+Now, your main character needs to react to the surprise. What will they do? 
 - When will your main character react?
 - How will they emote? 
 - Will they say something, make a sound, change costumes, move? 
@@ -10,7 +10,7 @@ Now your main character needs to react to the surprise. What will they do?
 You decide!
 </div>
 <div>
-![Tresspass project showing the reaction to the surprise](images/tresspass.png)
+![The 'Tresspass' project showing the reaction to the surprise.](images/tresspass.png)
 </div>
 </div>
 
@@ -46,7 +46,7 @@ Choose the actions that make sense for your character and their reaction.
 
 --- task ---
 
-**Test:** Click on the green flag, does your animation flow as you want it to? Have you created suspense and a reaction in your surprise story? Does everything reset correctly when you click the green flag again?
+**Test:** Click on the green flag. Does your animation flow as you want it to? Have you created suspense and a reaction in your surprise story? Does everything reset correctly when you click on the green flag again?
 
 --- /task ---
 
@@ -54,7 +54,7 @@ Choose the actions that make sense for your character and their reaction.
 
 **Debug:** 
 
-You might need to change the time in `when timer`{:class="block3events"} and `wait`{:class="block3events"} blocks or add more `wait`{:class="block3events"} blocks to get the timing just right.
+You might need to change the time in `when timer`{:class="block3events"} and `wait`{:class="block3control"} blocks or add more `wait`{:class="block3control"} blocks to get the timing just right.
 
 --- /task ---
 

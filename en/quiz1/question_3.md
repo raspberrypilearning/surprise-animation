@@ -4,9 +4,9 @@
 legend: Question 3 of 3
 ---
 
-You created your animation by breaking it into parts and building it in the order that it runs. 
+You created your animation by breaking it into parts and building it in the order in which it runs. 
 
-Which order represents the animation you made?
+Which order represents the animation that you made?
 
 --- choices ---
 
@@ -21,7 +21,7 @@ Which order represents the animation you made?
 
   --- feedback ---
 
- The setup part resets your animation. It needs to come first so your animation can be run again in the same way.
+ The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
 
   --- /feedback ---
 
@@ -51,7 +51,7 @@ Which order represents the animation you made?
 
   --- feedback ---
 
- Yes! Setting up your sprites comes first then your story builds to a final reaction.
+ Yes! Setting up your sprites comes first, then your story builds to a final reaction.
 
   --- /feedback ---
 
@@ -66,7 +66,7 @@ Which order represents the animation you made?
 
   --- feedback ---
 
- The Surprise! wasn't at the end of the animation. Something came afterwards.
+ The surprise was not at the end of the animation. Something came afterwards.
 
   --- /feedback ---
 

@@ -1,6 +1,6 @@
 ## What next?
 
-If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathway/scratch-intro) path, you can move on to the [I made you a book](https://projects.raspberrypi.org/en/projects/scratch-book) project. In this project, you will make a (add description here).
+If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathway/scratch-intro) pathway, you can move on to the [I made you a book](https://projects.raspberrypi.org/en/projects/scratch-book) project. In this project, you will make a (add description here).
 
 
 --- no-print ---

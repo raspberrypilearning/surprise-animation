@@ -4,13 +4,13 @@
 legend: Question 2 of 3
 ---
 
-In your project, you planned the animation with `timer` or `wait` blocks. 
+In your project, you planned the animation with `timer` or `wait`{:class="block3control"} blocks. 
 
-In this dinosaur project, you want the little dinosaur to wait 6 seconds before popping out of the egg and surprising the big dinosaur. 
+In this dinosaur project, you want the little dinosaur to wait 6 seconds before it pops out of the egg and surprises the big dinosaur. 
 
-![Dinosaur sprite and egg sprite on the Stage](images/quiz-q2.png)
+![A dinosaur sprite and an egg sprite on the Stage.](images/quiz-q2.png)
 
-Which script for the little dinosaur sprite would make this happen?
+Which script for the **little dinosaur** sprite would make this happen?
 
 --- choices ---
 
@@ -22,7 +22,7 @@ show
 
   --- feedback ---
 
- These are the right blocks to use but you need to select 'timer' instead of 'loudness' from the dropdown.
+ These are the right blocks to use, but you need to select `timer`{:class="block3events"} instead of `loudness`{:class="block3events"} in the drop-down menu.
 
   --- /feedback ---
 
@@ -47,7 +47,7 @@ wait (6) seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big one and then waits 6 seconds.
+ Here, the little dinosaur surprises the big dinosaur and then waits 6 seconds.
 
   --- /feedback ---
 

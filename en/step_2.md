@@ -4,24 +4,24 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Have you got an idea about your animation? 
   
-In this step, add a backdrop, main character and interesting object. 
+In this step, you will add a backdrop, main character, and interesting object. 
 </div>
 <div>  
-![Dinosaur surprise in the setup state](images/dinosaur-surprise.png)
+!['Dinosaur surprise!' in the setup state.](images/dinosaur-surprise.png)
 </div>
 </div>
 
 --- task ---
 
-Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”} to look at the range of sprites and backdrops. Spend some time thinking about your main character, interesting object and backdrop.
+Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”} to look at the range of sprites and backdrops. Spend some time thinking about your main character, interesting object, and backdrop.
 
 --- /task ---
 
 --- task ---
 
-**Choose** a sprite for your main character and another sprite to be the interesting object.
+**Choose** a sprite to be your main character and another sprite to be the interesting object.
 
-![Chose a sprite button](images/add-sprite.png)
+![The 'Choose a Sprite' button.](images/add-sprite.png)
 
 --- /task ---
 
@@ -31,7 +31,7 @@ Where do you want your animation to take place?
 
 **Choose** a backdrop to set the scene. 
 
-![Chose a backdrop button](images/add-backdrop.png)
+![The 'Choose a Backdrop' button.](images/add-backdrop.png)
 
 --- /task ---
 
@@ -39,9 +39,9 @@ Where do you want your sprites to start? How big will they be? How should they l
 
 --- task ---
 
-Add a `when flag clicked`{:class="block3events"} block then underneath add blocks to setup your sprites at the beginning of your animation. 
+Add a `when green flag clicked`{:class="block3events"} block, then underneath, add blocks to set up your sprites at the start of your animation. 
 
-Remember to set up both your main character and your interesting object.
+Remember to set up both your **main character** and your **interesting object**.
 
 --- collapse ---
 
@@ -51,7 +51,7 @@ title: Position your sprites
 
 To change the position of your sprite for the whole project, move your main character to a good position on the Stage. 
 
-To change the position of your sprite for part of the project, move your main character to a good position on the Stage then add a `go to x y`{:class="block3motion"} block to your code.
+To change the position of your sprite for part of the project, move your main character to a good position on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code.
 
 ```blocks3
 go to x: (0) y: (0) // with your coordinates
@@ -67,14 +67,14 @@ Repeat this task for your interesting object.
 title: Resize your sprites
 ---
 
-To change the size of your sprite for the whole project, change the size property in the Sprite pane:
+To change the size of your sprite for the whole project, change the **Size** property in the Sprite pane:
 
-![sprite size changed from 100 to 50](images/sprite-pane-size.png)
+![The sprite's size changed from 100 to 50.](images/sprite-pane-size.png)
 
-To change the size of your sprite for part of the project, add code to `set size to`{:class="block3looks"} the size you want. This option is good if you want your sprite to change size in the project. 
+To change the size of your sprite for part of the project, add code to `set size to`{:class="block3looks"} the size that you want. This option is good if you want your sprite to change size in the project. 
 
 ```blocks3
-set size to [100] % // <100 smaller, >100 bigger
+set size to [100] % // <100 is smaller, >100 is bigger
 ```
 
 --- /collapse ---
@@ -82,20 +82,20 @@ set size to [100] % // <100 smaller, >100 bigger
 --- collapse ---
 
 ---
-title: Set costume of your sprite
+title: Set the costume of your sprite
 ---
 
-To change the costume of your sprite for the whole project, click on the Costumes tab and select one of the available costumes. 
+To change the costume of your sprite for the whole project, click on the **Costumes** tab and select one of the available costumes. 
 
-![costumes in the costumes tab](images/nano-costumes.png)
+![Costumes in the Costumes tab.](images/nano-costumes.png)
 
-To change the costume of your sprite for part of the project, add a `switch costume to`{:class="block3looks"} block to your code and update to show your chosen costume.
+To change the costume of your sprite for part of the project, add a `switch costume to`{:class="block3looks"} block to your code and update it to show your chosen costume.
 
 ```blocks3
-switch costume to [ v]  // update for your costume
+switch costume to [ v]  // update this for your costume
 ```
 
-To `hide`{:class="block3looks"} your sprite at the start of your project add a `hide`{:class="block3looks"} block to your code.
+To `hide`{:class="block3looks"} your sprite at the start of your project, add a `hide`{:class="block3looks"} block to your code.
 
 ```blocks3
 hide 
@@ -111,9 +111,9 @@ title: Set the direction of your sprites
 
 Your sprites might be facing the wrong way when you add them to your project. 
 
-To change the direction of your sprite for the whole project, change the direction property and rotation style in the Sprite pane:
+To change the direction of your sprite for the whole project, change the **Direction** property and **rotation style** in the Sprite pane:
 
-![direction property in the sprite pane](images/sprite-pane-direction.png)
+![The Direction property in the Sprite pane.](images/sprite-pane-direction.png)
 
 To change the direction of your sprite for part of the project, add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}.
 
@@ -128,7 +128,7 @@ point in direction (-90) // turn to the left
 
 --- task ---
 
-Save your project
+Save your project.
 
 [[[generic-scratch3-saving]]]
 
