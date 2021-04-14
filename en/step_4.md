@@ -16,7 +16,7 @@ You decide!
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when creating a digital story or animation. 
+Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
 </p>
 
 ### When will your surprise happen?
@@ -34,13 +34,13 @@ You will need to choose a time delay that works for your project. If you have a 
 
 --- task ---
 
-The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, `change size`{:class="block3looks"}.
+The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
 
-You could add a surprising costume to a sprite and then `switch costume`{:class="block3looks"} to reveal it, such as the Apple turning into a Ghost.
+You could add a surprising costume to a sprite and then `switch costume`{:class="block3looks"} to reveal it, such as the **Apple** turning into a **Ghost**.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-You could make a sprite appear to turn into a different sprite — to do this, hide one sprite at the same time as you show another sprite.
+You could make a sprite appear to turn into a different sprite — to do this, `hide`{:class="block3looks"} one sprite at the same time as you `show`{:class="block3looks"} another sprite.
 
 --- collapse ---
 
@@ -60,7 +60,7 @@ when [timer v] > (4) // same delay
 show
 ```
 
-**Tip:** If you make a different object `show`{:class="block3looks"}, then you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Tip:** If you make a different **object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
 
 --- /collapse ---
 
@@ -86,13 +86,13 @@ If you need a sprite to be in front of or behind another sprite, you can use `la
 title: Timer scripts trigger at the wrong time
 ---
 
-Make sure that you have selected the `timer`{:class="block3sensing"} option in the `when loudness`{:class="block3events"} block:
+Make sure that you have selected the `timer`{:class="block3events"} option in the `when loudness`{:class="block3events"} block:
 
 ```blocks3
 when [timer v] > [5]
 ```
 
-If you have the `timer`{:class="block3sensing"} selected correctly, then you can try adjusting the amount of time that the timer waits.
+If you have the `timer`{:class="block3events"} selected correctly, you can try adjusting the amount of time that the timer waits.
 
 --- /collapse ---
 

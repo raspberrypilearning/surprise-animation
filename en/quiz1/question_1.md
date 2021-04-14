@@ -15,13 +15,13 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-You made a surprise animation for your project. Click on the green flag to run the animation, then run it again.
+In your project, you made an animation with a surprise. Now, click on the green flag to run this animation, then run it again.
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Do you notice anything odd the second time? The surprise is ruined! What code block would you add to fix this surprise animation?
+Do you notice anything odd the second time? The surprise is ruined! What code block would you add to fix the surprise in the animation?
 
 --- choices ---
 

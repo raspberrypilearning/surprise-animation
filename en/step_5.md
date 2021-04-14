@@ -10,7 +10,7 @@ Now, your main character needs to react to the surprise. What will they do?
 You decide!
 </div>
 <div>
-![The 'Tresspass' project showing the reaction to the surprise.](images/tresspass.png)
+![The 'Trespasser' project showing the reaction to the surprise.](images/tresspass.png)
 </div>
 </div>
 
@@ -54,7 +54,7 @@ Choose the actions that make sense for your character and their reaction.
 
 **Debug:** 
 
-You might need to change the time in `when timer`{:class="block3events"} and `wait`{:class="block3control"} blocks or add more `wait`{:class="block3control"} blocks to get the timing just right.
+You might need to change the time in some or all of the `when timer`{:class="block3events"} and `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
 
 --- /task ---
 

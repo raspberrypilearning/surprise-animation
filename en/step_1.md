@@ -46,7 +46,7 @@ The animation has four parts:
 
 --- task ---
 
-You will make design decisions and think of a story for your surprise animation.
+You will make design decisions and think of a story for your animation with a surprise.
 
 Think about what your story might be as you explore these example projects to get more ideas:
 
@@ -60,7 +60,7 @@ Think about what your story might be as you explore these example projects to ge
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Tresspass**: [See inside](https://scratch.mit.edu/projects/498616008/editor){:target="_blank"}
+**Trespasser**: [See inside](https://scratch.mit.edu/projects/498616008/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498616008/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -72,7 +72,7 @@ Think about what your story might be as you explore these example projects to ge
 
 ### Get inspiration 
 
-You will make design decisions and think of a story for your surprise animation. Think about what your story might be as you explore example projects in the [Scratch 1: Surprise story — Examples](https://scratch.mit.edu/studios/29075822/){:target="_blank"} Scratch studio.
+You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be as you explore example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
 
 The animation has four stages:
 + Setup
@@ -80,10 +80,10 @@ The animation has four stages:
 + Surprise!
 + Reaction
 
-![Dinosaur surprise!](images/dinosaur-surprise.png)
-![BOO!](images/boo.png)
-![Cat magic](images/cat-magic.png)
-![Tresspass](images/tresspass.png)
+![The 'Dinosaur surprise!' project.](images/dinosaur-surprise.png)
+![The 'BOO!' project.](images/boo.png)
+![The 'Cat magic' project.](images/cat-magic.png)
+![The 'Trespasser' project.](images/tresspass.png)
 
 --- /print-only ---
 
