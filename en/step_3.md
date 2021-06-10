@@ -2,11 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Why is your character curious about the object?
-
-- Will your object do something to attract attention?
-- Will your character move towards the object to check it out?
-- Will your character or object use speech or costume changes?
+Will your object do something to attract attention? How will your character react?
 
 You decide!
 </div>
@@ -19,7 +15,9 @@ You decide!
 
 --- task ---
 
-If your object needs to do something to make the character curious about it, add blocks to the end of the **object's** `when green flag clicked`{:class="block3events"} setup script.
+**Choose:** what your object will do. It's fine if it doesn't need to do anything.
+
+Add blocks to the end of the **object's** `when green flag clicked`{:class="block3events"} setup script.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -31,7 +29,7 @@ If your object needs to do something to make the character curious about it, add
 
 --- task ---
 
-Get your main character to express interest in the object. Add blocks to the end of the **character's** setup script. 
+Get your main character to show interest in the object. Add blocks to the end of the **character's** setup script. 
 
 If you need to wait until the object has done something, add a `wait`{:class="block3control"} block.
 

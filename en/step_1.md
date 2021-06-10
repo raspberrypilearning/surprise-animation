@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project, you will create a short animation with a surprise.
+Create a short animation with a surprise.
 
 You will:
 
