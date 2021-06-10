@@ -3,7 +3,7 @@
 If you have time, you can upgrade your project. 
 
 You could:
-+ Add to or improve your animation, with movement, looks, and effects
++ Add to or improve your animation, with movement, looks, and graphic effects
 + Create or edit costumes in the Paint editor to get just the right look
 + Record your voice or record sound effects and add them to your project
 
