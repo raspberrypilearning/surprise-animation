@@ -41,8 +41,8 @@ This script needs user interaction for the little dinosaur to show.
 - ( ) 
 ```blocks3
 when flag clicked
-wait (6) seconds
 show
+wait (6) seconds
 ```
 
   --- feedback ---
