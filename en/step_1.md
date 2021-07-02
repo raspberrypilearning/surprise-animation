@@ -12,7 +12,7 @@ You will:
 **Decomposition** is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. 
 </p>
 
-![Examples of projects that you can make.](images/surprise-example.png)
+![Examples of projects.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -23,7 +23,7 @@ You will:
 
 ### Try it 
 
-Click on the green flag to start the animation.
+Click on the green flag to watch the animation.
 
 The animation has four parts:
 + Setup
@@ -72,7 +72,7 @@ Think about what your story might be as you explore these example projects to ge
 
 ### Get inspiration 
 
-You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be as you explore example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
+You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be as you explore example projects in the 'Surprise! animation — Examples' Scratch studio to get more ideas: https://scratch.mit.edu/studios/29075822/
 
 The animation has four stages:
 + Setup
@@ -88,6 +88,6 @@ The animation has four stages:
 --- /print-only ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-There are people called <span style="color: #0faeb0">narrative designers</span> who do storytelling for apps and video games. But digital storytelling allows everyone to share their stories and creative imaginings with other people.
+There are people called <span style="color: #0faeb0">**narrative designers**</span> who do storytelling for apps and video games. But digital storytelling allows everyone to share their stories and creative imaginings with other people.
 </p>
  
