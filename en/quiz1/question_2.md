@@ -4,7 +4,7 @@
 legend: Question 2 of 3
 ---
 
-In your project, you planned the animation with `timer`{:class="block3events"} or `wait`{:class="block3control"} blocks. 
+In your project, you planned your animation with `timer`{:class="block3events"} or `wait`{:class="block3control"} blocks. 
 
 In this dinosaur project, you want the little dinosaur to wait 6 seconds before it pops out of the egg and surprises the big dinosaur. 
 
@@ -47,7 +47,7 @@ wait (6) seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big dinosaur and then waits 6 seconds.
+ Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
 
   --- /feedback ---
 
