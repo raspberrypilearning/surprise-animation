@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Will your object do something to attract attention? How will your character react?
+Will the object do something to attract attention? How will the character react?
 
 You decide!
 </div>
@@ -15,7 +15,7 @@ You decide!
 
 --- task ---
 
-**Choose:** If you want your object to do something, choose what your object will do.
+**Choose:** If you want the object to do something, choose what the object will do.
 
 Add blocks to the end of the **object's** `when green flag clicked`{:class="block3events"} setup script.
 
@@ -29,28 +29,28 @@ Add blocks to the end of the **object's** `when green flag clicked`{:class="bloc
 
 --- task ---
 
-Get your main character to show interest in the object. Add blocks to the end of the **character's** setup script. 
+Get the main character to show interest in the object. Add blocks to the end of the **character's** setup script. 
 
 If you need the character to wait until the object has done something, add a `wait`{:class="block3control"} block.
 
-You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make your character talk out loud!
+You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
 
 [[[scratch3-text-to-speech]]]
 
-Your character could emote, like in the [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project. 
+The character could emote, like in the [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project. 
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-Your character could be brave and move closer to check out the object.
+The character could be brave and move closer to check out the object.
 
 [[[scratch3-animate-movement-costumes]]]
 
 --- /task ---
 
 --- task ---
-**Test:** Click on the green flag to test your project. Your **character** sprite should show curiosity about the object. 
+**Test:** Click on the green flag to test your project. The character should show curiosity about the object. 
 
-Click on the green flag again. If you changed your **object** or **character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
+Click on the green flag again. If you changed the **object** or **character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
 
 --- collapse ---
 
@@ -70,7 +70,7 @@ set [brightness v] effect to [80]
 show
 ```
 
-**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want your sprite to have. 
+**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want the sprite to have. 
 
 --- /collapse ---
 
