@@ -19,7 +19,7 @@ Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"} and l
 
 --- task ---
 
-**Choose:** Choose a sprite to be your main character and another sprite to be the interesting object.
+**Choose:** Choose a sprite to be the main character and another sprite to be the interesting object.
 
 ![The 'Choose a Sprite' icon.](images/add-sprite.png)
 
@@ -49,15 +49,15 @@ Remember to set up both your **main character** and your **interesting object**.
 title: Position your sprites
 ---
 
-To change the position of your **main character** sprite for the whole project, move your main character to the position of your choice on the Stage. 
+To change the position of the **main character** sprite for the whole project, move the main character to the position of your choice on the Stage. 
 
-To change the position of your **main character** sprite for part of the project, move your main character to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
+To change the position of the **main character** sprite for part of the project, move the main character to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
 
 ```blocks3
 go to x: (0) y: (0) // add the sprite's position
 ```
 
-Repeat this task for your **interesting object**. 
+Repeat this task for the **interesting object**. 
 
 --- /collapse ---
 
