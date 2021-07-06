@@ -11,7 +11,7 @@ You could:
 Professional programmers explore and take inspiration from code created by other programmers. 
 </p>
 
-You may want to **See inside** the example projects in the [Introduction](.). You can open each project in Scratch and look at the code to get ideas and see how the project works.
+You may want to **See inside** the example projects in the [Introduction](.), so that you can look at the code to get ideas and see how each project works.
 
 **Surprise!**: [See inside](https://scratch.mit.edu/projects/500577862/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
