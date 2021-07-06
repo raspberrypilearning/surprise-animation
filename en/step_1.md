@@ -48,7 +48,7 @@ The animation has four parts:
 
 You will make design decisions and think of a story for your animation with a surprise.
 
-Think about what your story might be as you explore these example projects to get more ideas:
+Think about what your story might be, and explore these example projects to get more ideas:
 
 **BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -72,7 +72,7 @@ Think about what your story might be as you explore these example projects to ge
 
 ### Get inspiration 
 
-You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be as you explore example projects in the 'Surprise! animation — Examples' Scratch studio to get more ideas: https://scratch.mit.edu/studios/29075822/
+You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
 
 The animation has four stages:
 + Setup
