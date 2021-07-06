@@ -74,7 +74,7 @@ Think about what your story might be, and explore these example projects to get 
 
 You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
 
-The animation has four stages:
+The animation has four parts:
 + Setup
 + Curiosity
 + Surprise!
