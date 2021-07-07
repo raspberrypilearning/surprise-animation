@@ -51,7 +51,7 @@ Which order represents the animation that you made?
 
   --- feedback ---
 
- Yes! You set up your sprites first, then your story builds to a final reaction.
+ Yes! You set up your sprites first, then your story built to a final reaction.
 
   --- /feedback ---
 

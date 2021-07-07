@@ -19,7 +19,7 @@ Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"} and l
 
 --- task ---
 
-**Choose:** Choose a sprite to be your main character and another sprite to be the interesting object.
+**Choose:** Choose a sprite to be the main character and another sprite to be the interesting object.
 
 ![The 'Choose a Sprite' icon.](images/add-sprite.png)
 
@@ -35,11 +35,11 @@ Where do you want your animation to take place?
 
 --- /task ---
 
-Where do you want your sprites to start? How big will they be? How should they look?
+Where do you want your sprites to start? How big do you want them to be? How do you want them to look?
 
 --- task ---
 
-Add a `when green flag clicked`{:class="block3events"} block, then underneath, add blocks to set up your sprites at the start of your animation. 
+Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation. 
 
 Remember to set up both your **main character** and your **interesting object**.
 
@@ -49,15 +49,15 @@ Remember to set up both your **main character** and your **interesting object**.
 title: Position your sprites
 ---
 
-To change the position of your **main character** sprite for the whole project, move your main character to a good position on the Stage. 
+To change the position of the **main character** sprite for the whole project, move the main character to the position of your choice on the Stage. 
 
-To change the position of your **main character** sprite for part of the project, move your main character to a good position on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
+To change the position of the **main character** sprite for part of the project, move the main character to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
 
 ```blocks3
 go to x: (0) y: (0) // add the sprite's position
 ```
 
-Repeat this task for your **interesting object**. 
+Repeat this task for the **interesting object**. 
 
 --- /collapse ---
 
@@ -67,11 +67,11 @@ Repeat this task for your **interesting object**.
 title: Resize your sprites
 ---
 
-To change the size of your sprite for the whole project, change the **Size** property in the Sprite pane:
+To change the size of a sprite for the whole project, change the number in the **Size** property in the Sprite pane:
 
-![The sprite's size set to 50 in the Sprite pane.](images/sprite-pane-size.png)
+![](images/sprite-pane-size.png)
 
-To change the size of your sprite for part of the project, add code to `set size to`{:class="block3looks"} the size that you want. This option is good if you want your sprite to change size in the project. 
+To change the size of a sprite for part of the project, add code to `set size to`{:class="block3looks"} the size of your choice. This option is good if you want your sprite to change size in the project. 
 
 ```blocks3
 set size to [100] % // <100 is smaller, >100 is bigger
@@ -82,20 +82,20 @@ set size to [100] % // <100 is smaller, >100 is bigger
 --- collapse ---
 
 ---
-title: Set the costume of your sprite
+title: Set the costumes of your sprites
 ---
 
-To change the costume of your sprite for the whole project, click on the **Costumes** tab and select one of the available costumes:
+To change the costume of a sprite for the whole project, click on the **Costumes** tab and select one of the available costumes:
 
-![Costumes in the Costumes tab.](images/nano-costumes.png)
+![The Costumes tab, with the available costumes for a sprite.](images/nano-costumes.png)
 
-To change the costume of your sprite for part of the project, add a `switch costume to`{:class="block3looks"} block to your code and update it to show your chosen costume:
+To change the costume of a sprite for part of the project, add a `switch costume to`{:class="block3looks"} block to your code and update it to show the costume of your choice:
 
 ```blocks3
 switch costume to [ v]  // update this for your chosen costume
 ```
 
-To hide your sprite at the start of your project, add a `hide`{:class="block3looks"} block to your code:
+To hide a sprite at the start of the project, add a `hide`{:class="block3looks"} block to your code:
 
 ```blocks3
 hide 
@@ -111,11 +111,11 @@ title: Set the direction of your sprites
 
 Your sprites might be facing the wrong way when you add them to your project. 
 
-To change the direction of your sprite for the whole project, change the **Direction** property and **rotation style** in the Sprite pane:
+To change the direction of a sprite for the whole project, change the **Direction** and **rotation style** in the Sprite pane:
 
 ![The Direction and rotation style menu in the Sprite pane.](images/sprite-pane-direction.png)
 
-To change the direction of your sprite for part of the project, add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}:
+To change the direction of a sprite for part of the project, add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}:
 
 ```blocks3
 set rotation style [left-right v]

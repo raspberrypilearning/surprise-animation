@@ -2,10 +2,10 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now, your main character needs to react to the surprise. What will they do? 
-- When will your main character react?
+Now, the main character needs to react to the surprise. What will they do? 
+- When will they react?
 - How will they emote? 
-- Will they say something, make a sound, change costumes, move? 
+- Will they say something, make a sound, change costumes, or move? 
 
 You decide!
 </div>
@@ -14,17 +14,17 @@ You decide!
 </div>
 </div>
 
-### When will your character react?
+### When will the character react?
 
 --- task ---
 
-Select your **character** sprite. Add a script to start the reaction. 
+Select the **character** sprite. Add a script to make the reaction start when you want it to. 
 
 [[[scratch3-time-delay]]]
 
 --- /task ---
 
-### How will your character react?
+### How will the character react?
 
 --- task ---
 
@@ -46,15 +46,13 @@ Choose the actions that make sense for your character and their reaction.
 
 --- task ---
 
-**Test:** Click on the green flag. Does your animation flow as you want it to? Have you created suspense and a reaction in your surprise story? Does everything reset correctly when you click on the green flag again?
+**Test:** Click on the green flag. Does your animation flow as you want it to? Have you created suspense and a reaction in your story? Does everything reset correctly when you click on the green flag again?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** 
-
-You might need to change the time in some or all of the `when timer`{:class="block3events"} and `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
+**Debug:** You might need to change the amount of time in some or all of the `when timer`{:class="block3events"} and `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
 
 --- /task ---
 
