@@ -2,7 +2,7 @@ title: "Surprise! animation"
 hero_image: images/banner.png
 description: Create an animation of a story with a surprise
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: "2021-03-09"
 steps:
