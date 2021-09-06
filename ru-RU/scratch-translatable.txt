@@ -1,0 +1,19 @@
+add the sprite's position
+
+<100 is smaller, >100 is bigger
+
+update this for your chosen costume
+
+turn to the left
+
+add blocks to set up the start
+
+starting size
+
+starting position
+
+change the delay
+
+set the delay
+
+same delay
