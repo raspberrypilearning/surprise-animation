@@ -7,7 +7,9 @@ Will the object do something to attract attention? How will the character react?
 You decide!
 </div>
 <div>
+
 ![The 'BOO!' project showing the character being curious.](images/boo.png)
+
 </div>
 </div>
 
@@ -48,12 +50,12 @@ The character could be brave and move closer to check out the object.
 --- /task ---
 
 --- task ---
+
 **Test:** Click on the green flag to test your project. The character should show curiosity about the object. 
 
 Click on the green flag again. If you changed the **object** or **character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
 
 --- collapse ---
-
 ---
 title: Set the starting position and looks for a sprite
 ---
@@ -77,10 +79,10 @@ show
 --- /task ---
 
 --- task ---
+
 **Debug:**
 
 --- collapse ---
-
 ---
 title: The sound is not working
 ---
@@ -90,7 +92,6 @@ Check that the volume on your computer or tablet is loud enough and that your sp
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: My animation does not reset properly when I click on the green flag
 ---

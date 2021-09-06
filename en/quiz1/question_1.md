@@ -10,7 +10,6 @@ When you have answered each question, click on **Submit**. You will be guided to
 Have fun!
 
 --- question ---
-
 ---
 legend: Question 1 of 3
 ---

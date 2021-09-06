@@ -10,6 +10,7 @@ Now, you need to add a surprise. What could happen to the object?
 You decide!
 </div>
 <div>
+
 ![The 'Cat magic' project showing the surprise.](images/cat-magic.png)
 
 </div>
@@ -22,6 +23,7 @@ Have you written a story with a plot twist or a surprise? Have you watched a sho
 ### When will the surprise happen?
 
 --- task ---
+
 Select the **object** sprite. Add a script to make the surprise start when you want it to. 
 
 You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
@@ -43,7 +45,6 @@ You could add a surprising costume to the sprite, then the sprite could `switch 
 You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the **object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
 
 --- collapse ---
-
 ---
 title: Hide and show sprites
 ---
@@ -83,7 +84,6 @@ If you need a sprite to be in front of or behind another sprite, you can use lay
 If the surprise happens at the wrong time, you can fix that:
 
 --- collapse ---
-
 ---
 title: Timer scripts start the surprise at the wrong time
 ---
