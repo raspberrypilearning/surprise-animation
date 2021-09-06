@@ -2,16 +2,14 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Why is your character curious about the object?
-
-- Will your object do something to attract attention?
-- Will your character move towards the object to check it out?
-- Will it use speech or costume changes?
+Will the object do something to attract attention? How will the character react?
 
 You decide!
 </div>
 <div>
-![BOO! project showing curiosity](images/boo.png)
+
+![The 'BOO!' project showing the character being curious.](images/boo.png)
+
 </div>
 </div>
 
@@ -19,7 +17,9 @@ You decide!
 
 --- task ---
 
-If your object needs to do something to make the character curious about it, add blocks to the end of the object's `when green flag clicked`{:class="block3events"} setup script.
+**Choose:** If you want the object to do something, choose what the object will do.
+
+Add blocks to the end of the **object's** `when green flag clicked`{:class="block3events"} setup script.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -31,38 +31,39 @@ If your object needs to do something to make the character curious about it, add
 
 --- task ---
 
-Get your main character to express interest in the object. Add blocks to the end of the character's setup script.
+Get the main character to show interest in the object. Add blocks to the end of the **character's** setup script.
 
-If you need to wait until the object has done something, add a `wait`{:class="block3control"} block.
+If you need the character to wait until the object has done something, add a `wait`{:class="block3control"} block.
 
-You could choose to use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks and even use the text to speech extension to make a sprite talk out loud!
+You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
 
 [[[scratch3-text-to-speech]]]
 
-Your character could emote like in [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}.
+The character could emote, like in the [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-Your character could be brave and move closer to check out the object:
+The character could be brave and move closer to check out the object.
 
 [[[scratch3-animate-movement-costumes]]]
 
 --- /task ---
 
---- task --- **Test:** Click the green flag to try your project. Your sprite should show curiosity about the object.
+--- task ---
 
-Click on the green flag again. If you changed your sprite's looks or position then you will need to make sure they are set back to normal.
+**Test:** Click on the green flag to test your project. The character should show curiosity about the object.
+
+Click on the green flag again. If you changed the **object** or **character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
 
 --- collapse ---
-
 ---
-title: Setting start position and looks for a sprite
+title: Set the starting position and looks for a sprite
 ---
 
-Choose the blocks you need to get your sprite into the right position and with the right looks at the start.
+Choose the blocks that you need to set the position and looks for a sprite at the start.
 
 ```blocks3
-when flag clicked // Add blocks to set the start 
+when flag clicked // add blocks to set up the start 
 switch costume to [costume1 v]
 set size to (100) % // starting size
 go to x: (-200) y: (50) // starting position
@@ -71,31 +72,31 @@ set [brightness v] effect to [80]
 show
 ```
 
-**Tip:** All graphic effects are cleared when you click the green flag so you don't need to clear them but you might need to set the values you want.
+**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want the sprite to have.
 
 --- /collapse ---
 
 --- /task ---
 
---- task --- **Debug:**
+--- task ---
+
+**Debug:**
 
 --- collapse ---
-
 ---
 title: The sound is not working
 ---
 
-Check that the computer volume is loud enough and that your speakers or headphones are connected and working properly.
+Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
 
 --- /collapse ---
 
 --- collapse ---
-
 ---
-title: My animation doesn't reset properly when I click the green flag
+title: My animation does not reset properly when I click on the green flag
 ---
 
-Check that you have `when green flag clicked`{:class="block3events"} scripts for the sprites that need it and check that they reset the position, size and looks. See **Setting start position and looks for a sprite** above for more help.
+Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
 
 --- /collapse ---
 
