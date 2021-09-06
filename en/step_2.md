@@ -44,7 +44,6 @@ Add a `when green flag clicked`{:class="block3events"} block, then, underneath, 
 Remember to set up both your **main character** and your **interesting object**.
 
 --- collapse ---
-
 ---
 title: Position your sprites
 ---
@@ -62,7 +61,6 @@ Repeat this task for the **interesting object**.
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: Resize your sprites
 ---
@@ -80,7 +78,6 @@ set size to [100] % // <100 is smaller, >100 is bigger
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: Set the costumes of your sprites
 ---
@@ -104,7 +101,6 @@ hide
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: Set the direction of your sprites
 ---

@@ -10,7 +10,9 @@ Now, the main character needs to react to the surprise. What will they do?
 You decide!
 </div>
 <div>
+
 ![The 'Trespasser' project showing the reaction to the surprise.](images/tresspass.png)
+
 </div>
 </div>
 
