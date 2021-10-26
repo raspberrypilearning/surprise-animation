@@ -1,18 +1,18 @@
 ## Introduction
 
-Create a short animation with a surprise.
+Créer une courte animation avec une surprise.
 
-You will:
+Tu vas devoir :
 
-+ Use Scratch to create an animation
-+ Test and debug your code when you make changes
-+ Break an animation into parts — this is called **decomposition** — and build it one part at a time
++ Utiliser Scratch pour créer une animation
++ Tester et débuguer ton code lorsque tu apportes des modifications
++ Diviser une animation en parties — c'est ce qu'on appelle la **décomposition** — et construire une partie à la fois
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. 
+  <span style="color: #0faeb0">**Décomposition**</span> divise un projet en parties plus petites et plus faciles à comprendre. Cela signifie que tu peux construire un projet une partie à la fois jusqu'à ce que tu l'aies terminé. 
 </p>
 
-![Examples of projects.](images/surprise-example.png)
+![Exemples de projets.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -21,19 +21,19 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Try it 
+### Essayer-le 
 
-Click on the green flag to watch the animation.
+Clique sur le drapeau vert pour voir l'animation.
 
-The animation has four parts:
-+ Setup
-+ Curiosity
-+ Surprise!
-+ Reaction
+L'animation comporte quatre parties :
++ Configuration
++ Curiosité
++ Surprise !
++ Réaction
 
 </div>
 <div>
-**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
+**Dinosaure surprise !** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -42,25 +42,25 @@ The animation has four parts:
 
 --- /task ---
 
-### Get inspiration
+### Trouve l'inspiration
 
 --- task ---
 
-You will make design decisions and think of a story for your animation with a surprise.
+Tu prendras des décisions de conception et penseras à une histoire pour ton animation avec une surprise.
 
-Think about what your story might be, and explore these example projects to get more ideas:
+Réfléchis à ce que pourrait être ton histoire et explore ces exemples de projets pour obtenir plus d'idées :
 
-**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
+**BOO !** : [Voir à l'intérieur](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
+**Magie du chat** : [Voir à l'intérieur](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Trespasser**: [See inside](https://scratch.mit.edu/projects/498616008/editor){:target="_blank"}
+**Intrus** : [Voir à l'intérieur](https://scratch.mit.edu/projects/498616008/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498616008/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -70,21 +70,21 @@ Think about what your story might be, and explore these example projects to get 
 
 --- print-only ---
 
-### Get inspiration
+### Trouve l'inspiration
 
-You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
+Tu prendras des décisions de conception et penseras à une histoire pour ton animation avec une surprise. Réfléchis à ce que pourrait être ton histoire et pour obtenir plus d'idées, **Voir à l'intérieur** exemples de projets dans la section « Surprise »! animation — Scratch studio exemples : https://scratch.mit.edu/studios/29075822/
 
-The animation has four parts:
-+ Setup
-+ Curiosity
+L'animation comporte quatre parties :
++ Configuration
++ Curiosité
 + Surprise!
-+ Reaction
++ Réaction
 
-![The 'Dinosaur surprise!' project.](images/dinosaur-surprise.png) ![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png) ![The 'Trespasser' project.](images/tresspass.png)
+![Le projet « surprise de dinosaure ! ».](images/dinosaur-surprise.png) ![Le projet « BOO ! ».](images/boo.png) ![Le projet « Chat magique ».](images/cat-magic.png) ![Le projet « Intrus ».](images/tresspass.png)
 
 --- /print-only ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-There are people called <span style="color: #0faeb0">**narrative designers**</span> who do storytelling for apps and video games. But digital storytelling allows everyone to share their stories and creative imaginings with other people.
+Il y a des personnes appelées <span style="color: #0faeb0">**concepteurs narratifs**</span> qui racontent des histoires pour des applications et des jeux vidéo. Mais la narration numérique permet à chacun de partager ses histoires et ses imaginations créatives avec d'autres personnes.
 </p>
  
