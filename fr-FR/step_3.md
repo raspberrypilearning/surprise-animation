@@ -39,7 +39,7 @@ Tu peux utiliser le blocs `dire`{:class="block3looks"} ou `penser`{:class="block
 
 [[[scratch3-text-to-speech]]]
 
-Le personnage pourrait émouvoir, comme dans le projet [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}.
+Le personnage pourrait émouvoir, comme dans le projet [Parler de l'espace](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
