@@ -2,66 +2,66 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now, you need to add a surprise. What could happen to the object? 
-- Will it turn into another object? 
-- Will it turn into a character? 
-- Will it disappear and reveal another sprite? 
+Maintenant, tu dois ajouter une surprise. Que peut-il arriver à l'objet ? 
+- Se transformera-t-il en un autre objet ? 
+- Est-ce qu'il va devenir un personnage ? 
+- Va-t-il disparaître et révéler un autre sprite ? 
 
-You decide!
+Tu décides!
 </div>
 <div>
 
-![The 'Cat magic' project showing the surprise.](images/cat-magic.png)
+![Le projet 'Cat magic' montrant la surprise.](images/cat-magic.png)
 
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
+As-tu écrit une histoire avec un rebondissement ou une surprise ? As-tu regardé une émission ou lu un livre dont la fin est imprévisible ? Tu peux utiliser les mêmes méthodes lorsque tu crées une histoire ou une animation numérique. 
 </p>
 
-### When will the surprise happen?
+### A quand la surprise ?
 
 --- task ---
 
-Select the **object** sprite. Add a script to make the surprise start when you want it to.
+Sélectionne le sprite d'**objet**. Ajoute un script pour que la surprise commence quand tu le souhaites.
 
-You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
+Tu dois choisir un délai qui convient à ton projet. Si tu as un personnage qui passe beaucoup de temps à être curieux, tu devras choisir un délai plus long.
 
 [[[scratch3-time-delay]]]
 
 --- /task ---
 
-### Now, create the surprise!
+### Maintenant, crée la surprise !
 
 --- task ---
 
-The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
+L'objet pourrait `jouer un son`{:class="block3sound"}, `basculer sur le costume`{:class="block3looks"}, `changer les effets graphiques`{:class="block3looks"}, ou `changer la taille`{ :class="block3looks"}.
 
-You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it. For example, you could make the **Apple** turn into a **Ghost**.
+Tu peux ajouter un costume surprenant au sprite, alors le sprite pourrait `basculer sur le costume`{: class = « block3looks »} pour le révéler. Par exemple, tu peux transformer la **pomme** en **fantôme**.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the **object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
+Tu peux faire en sorte que le sprite semble se transformer en un sprite différent — pour ce faire, `cacher`{:class="block3looks"} l'**objet** sprite en même temps que tu `montres`{:class="block3looks"} un autre sprite.
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title : Masquer et afficher les sprites
 ---
 
-The **object** sprite:
+Le sprite **objet**:
 ```blocks3
 when [timer v] > (4) // set the delay
 hide
 ```
 
-A **surprise** sprite:
+Un sprite **surprise**:
 ```blocks3
 when [timer v] > (4) // same delay
 show
 ```
 
-**Tip:** If you make a **surprise** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Astuce :** Si tu fais un `montrer`{:class="block3looks"} le sprite **surprise**, tu devras le `cacher`{:class="block3looks"} `quand le drapeau vert est cliqué`{:class ="block3events"}.
 
 --- /collapse ---
 
@@ -69,32 +69,32 @@ show
 
 --- task ---
 
-**Test:** Click on the green flag. Does the surprise happen at the right time? Does the animation reset properly?
+**Test :** Clique sur le drapeau vert. La surprise arrive-t-elle au bon moment ? L'animation se réinitialise-t-elle correctement ?
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**Déboguer:**
 
-If you need a sprite to be in front of or behind another sprite, you can use layers:
+Si tu as besoin qu'un sprite soit devant ou derrière un autre sprite, tu peux utiliser des calques :
 
 [[[scratch3-positioning-with-layers]]]
 
-If the surprise happens at the wrong time, you can fix that:
+Si la surprise se produit au mauvais moment, tu peux y remédier :
 
 --- collapse ---
 ---
-title: Timer scripts start the surprise at the wrong time
+title : Les scripts de minuterie déclenchent la surprise au mauvais moment
 ---
 
-Make sure that you have selected the `timer`{:class="block3events"} option in the `when loudness`{:class="block3events"} block:
+Assure-toi d'avoir sélectionné le `chronomètre`{:class="block3events"} dans le bloc `quand le volume sonore`{:class="block3events"} :
 
 ```blocks3
 when [timer v] > [5]
 ```
 
-If you have the `timer`{:class="block3events"} selected correctly, try adjusting the amount of time that the timer waits.
+Si tu as le `chronomètre`{:class="block3events"}, essaye d'ajuster le temps d'attente du minuteur.
 
 --- /collapse ---
 
