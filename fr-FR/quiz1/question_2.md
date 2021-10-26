@@ -1,15 +1,15 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend : Question 2 sur 3
 ---
 
-In your project, you planned your animation with `timer`{:class="block3events"} or `wait`{:class="block3control"} blocks.
+Dans ton projet, tu as planifié ton animation avec des blocs `chronomètre`{:class="block3events"} ou `attendre`{:class="block3control"}.
 
-In this dinosaur project, you want the little dinosaur to wait 6 seconds before it pops out of the egg and surprises the big dinosaur.
+Dans ce projet de dinosaure, tu veux que le petit dinosaure attende 6 secondes avant de sortir de l'œuf et de surprendre le grand dinosaure.
 
-![A dinosaur sprite and an egg sprite on the Stage.](images/quiz-q2.png)
+![Un sprite de dinosaure et un sprite d'œuf sur la scène.](images/quiz-q2.png)
 
-Which script for the **little dinosaur** sprite would make this happen?
+Quel script pour le sprite **petit dinosaure** ferait cela ?
 
 --- choices ---
 
@@ -21,7 +21,7 @@ show
 
   --- feedback ---
 
- These are the right blocks to use, but you need to select `timer`{:class="block3events"} instead of `loudness`{:class="block3events"} in the drop-down menu.
+ Ce sont les bons blocs à utiliser, mais tu dois sélectionner `chronomètre`{:class="block3events"} au lieu d'`volume sonore`{:class="block3events"} dans le menu déroulant.
 
   --- /feedback ---
 
@@ -33,7 +33,7 @@ show
 
   --- feedback ---
 
-This script needs user interaction for the little dinosaur to show.
+Ce script nécessite une interaction de l’utilisateur pour que le petit dinosaure s'affiche.
 
   --- /feedback ---
 
@@ -46,7 +46,7 @@ wait (6) seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
+ Ici, le petit dinosaure surprend le grand dinosaure, puis attend 6 secondes.
 
   --- /feedback ---
 
@@ -58,7 +58,7 @@ show
 
   --- feedback ---
 
- When the timer has waited 6 seconds, the little dinosaur appears and surprises the big dinosaur!
+ Lorsque le minuteur a attendu 6 secondes, le petit dinosaure apparaît et surprend le grand dinosaure !
 
   --- /feedback ---
 
