@@ -1,36 +1,36 @@
-## Reaction
+## Réaction
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now, the main character needs to react to the surprise. What will they do? 
-- When will they react?
-- How will they emote? 
-- Will they say something, make a sound, change costumes, or move? 
+Maintenant, le personnage principal doit réagir à la surprise. Qu'est-ce qu'ils vont faire? 
+- Quand vont-ils réagir ?
+- Comment vont-ils s'émouvoir ? 
+- Vont-ils dire quelque chose, faire un son, changer de costume ou bouger ? 
 
-You decide!
+Tu décides!
 </div>
 <div>
 
-![The 'Trespasser' project showing the reaction to the surprise.](images/tresspass.png)
+![Le projet 'intrus' montrant la réaction à la surprise.](images/tresspass.png)
 
 </div>
 </div>
 
-### When will the character react?
+### Quand le personnage réagira-t-il ?
 
 --- task ---
 
-Select the **character** sprite. Add a script to make the reaction start when you want it to.
+Sélectionne le sprite **personnage**. Ajoute un script pour que la réaction démarre quand tu le souhaites.
 
 [[[scratch3-time-delay]]]
 
 --- /task ---
 
-### How will the character react?
+### Comment réagira le personnage ?
 
 --- task ---
 
-Choose the actions that make sense for your character and their reaction.
+Choisis les actions qui ont du sens pour ton personnage et sa réaction.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
@@ -48,13 +48,13 @@ Choose the actions that make sense for your character and their reaction.
 
 --- task ---
 
-**Test:** Click on the green flag. Does your animation flow as you want it to? Have you created suspense and a reaction in your story? Does everything reset correctly when you click on the green flag again?
+**Test :** Clique sur le drapeau vert. Ton animation se déroule-t-elle comme tu le souhaites ? As-tu créé du suspense et une réaction dans ton histoire ? Est-ce que tout se réinitialise correctement lorsque tu cliques à nouveau sur le drapeau vert ?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might need to change the amount of time in some or all of the `when timer`{:class="block3events"} and `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
+**Débogage :** Tu devras peut-être modifier la durée de certains ou de tous les blocs `quand le chronomètre`{:class="block3events"} et `attendre`{:class="block3control"}, ou ajouter plus de blocs `attendre`  {:class="block3control"}, pour obtenir le bon moment.
 
 --- /task ---
 
