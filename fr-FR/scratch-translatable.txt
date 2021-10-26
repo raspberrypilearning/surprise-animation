@@ -1,0 +1,19 @@
+ajoute la position du sprite
+
+<100 est plus petit,> 100 est plus grand
+
+mettre à jour ceci pour ton costume choisi
+
+tourne à gauche
+
+ajoute des blocs pour configurer le départ
+
+taille de départ
+
+position de départ
+
+change le délai
+
+régler le délai
+
+même retard
