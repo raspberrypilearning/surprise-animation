@@ -39,7 +39,7 @@ Où veux-tu que tes sprites démarrent ? Quelle taille veux-tu qu'ils soient ? C
 
 --- task ---
 
-Ajoute un `quand le drapeau vert est cliqué`bloc{:class="block3events"}, puis, en dessous, ajoute des blocs pour configurer tes sprites au début de ton animation.
+Ajoute un `quand le drapeau vert est cliqué`{:class="block3events"}bloc, puis, en dessous, ajoute des blocs pour configurer tes sprites au début de ton animation.
 
 N'oublie pas de mettre en place à la fois de ton **personnage principal** et ton **objet intéressant**.
 

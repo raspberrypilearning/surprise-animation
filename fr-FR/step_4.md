@@ -38,7 +38,7 @@ Tu dois choisir un délai qui convient à ton projet. Si tu as un personnage qui
 
 L'objet pourrait `jouer un son`{:class="block3sound"}, `basculer sur le costume`{:class="block3looks"}, `changer les effets graphiques`{:class="block3looks"}, ou `changer la taille`{:class="block3looks"}.
 
-Tu peux ajouter un costume surprenant au sprite, alors le sprite pourrait `basculer sur le costume`{: class = « block3looks »} pour le révéler. Par exemple, tu peux transformer la **pomme** en **fantôme**.
+Tu peux ajouter un costume surprenant au sprite, alors le sprite pourrait `basculer sur le costume`{:class="block3looks"} pour le révéler. Par exemple, tu peux transformer la **pomme** en **fantôme**.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
