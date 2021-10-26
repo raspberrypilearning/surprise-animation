@@ -1,75 +1,75 @@
-## Setup
+## Configuration
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Have you got an idea about your animation? 
+As-tu une idée de ton animation ? 
   
-In this step, you will add a backdrop, main character, and interesting object. 
+Dans cette étape, tu ajouteras une toile de fond, un personnage principal et un objet intéressant. 
 </div>
 <div>  
-![The 'Dinosaur surprise!' project once set up.](images/dinosaur-surprise.png)
+![Le projet « surprise de dinosaure ! » une fois configuré.](images/dinosaur-surprise.png)
 </div>
 </div>
 
 --- task ---
 
-Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"} and look at the range of sprites and backdrops that you can use. Spend some time thinking about your main character, interesting object, and backdrop.
+Open the [surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"} and look at the range of sprites and backdrops that you can use. Spend some time thinking about your main character, interesting object, and backdrop.
 
 --- /task ---
 
 --- task ---
 
-**Choose:** Choose a sprite to be the main character and another sprite to be the interesting object.
+**Choisir :** Choisis un sprite pour être le personnage principal et un autre sprite pour être l'objet intéressant.
 
-![The 'Choose a Sprite' icon.](images/add-sprite.png)
-
---- /task ---
-
-Where do you want your animation to take place?
-
---- task ---
-
-**Choose:** Choose a backdrop to set the scene.
-
-![The 'Choose a Backdrop' icon.](images/add-backdrop.png)
+![L'icône « Choisir un Sprite ».](images/add-sprite.png)
 
 --- /task ---
 
-Where do you want your sprites to start? How big do you want them to be? How do you want them to look?
+Où veux-tu que ton animation se déroule ?
 
 --- task ---
 
-Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation.
+**Choisir :** Choisis un arrière-plan pour définir la scène.
 
-Remember to set up both your **main character** and your **interesting object**.
+![L'icône « Choisir un arrière-plan ».](images/add-backdrop.png)
+
+--- /task ---
+
+Où veux-tu que tes sprites démarrent ? Quelle taille veux-tu qu'ils soient ? Comment veux-tu qu'ils aient l'air?
+
+--- task ---
+
+Ajoute un `quand le drapeau vert est cliqué`bloc {:class="block3events"}, puis, en dessous, ajoute des blocs pour configurer tes sprites au début de ton animation.
+
+N'oublie pas de mettre en place à la fois de ton **personnage principal** et ton **objet intéressant**.
 
 --- collapse ---
 ---
-title: Position your sprites
+title : Positionner tes sprites
 ---
 
-To change the position of the **main character** sprite for the whole project, move the main character to the position of your choice on the Stage.
+Pour changer la position du **personnage principal** pour l'ensemble du projet, déplace le personnage principal à la position de ton choix sur la scène.
 
-To change the position of the **main character** sprite for part of the project, move the main character to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
+Pour changer la position du **personnage principal** pour une partie du projet, déplace le personnage principal à la position de ton choix sur la scène, puis ajoute un bloc `aller à x: y:`{:class="block3motion"} à ton code :
 
 ```blocks3
 go to x: (0) y: (0) // add the sprite's position
 ```
 
-Repeat this task for the **interesting object**.
+Répète cette tâche pour l'**objet intéressant**.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Resize your sprites
+title: Redimensionner tes sprites
 ---
 
-To change the size of a sprite for the whole project, change the number in the **Size** property in the Sprite pane:
+Pour modifier la taille d'un sprite pour l'ensemble du projet, modifie le nombre dans la propriété **Taille** dans le volet Sprite :
 
 ![](images/sprite-pane-size.png)
 
-To change the size of a sprite for part of the project, add code to `set size to`{:class="block3looks"} the size of your choice. This option is good if you want your sprite to change size in the project.
+Pour modifier la taille d'un sprite pour une partie du projet, ajoute du code à `mettre à la taille sur`{:class="block3looks"} la taille de ton choix. Cette option est bonne si tu veux que ton sprite change de taille dans le projet.
 
 ```blocks3
 set size to [100] % // <100 is smaller, >100 is bigger
@@ -79,20 +79,20 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: Set the costumes of your sprites
+title: Régler les costumes de tes sprites
 ---
 
-To change the costume of a sprite for the whole project, click on the **Costumes** tab and select one of the available costumes:
+Pour changer le costume d'un sprite pour l'ensemble du projet, clique sur **Costumes** et sélectionne l'un des costumes disponibles :
 
-![The Costumes tab, with the available costumes for a sprite.](images/nano-costumes.png)
+![L'onglet Costumes, avec les costumes disponibles pour un sprite.](images/nano-costumes.png)
 
-To change the costume of a sprite for part of the project, add a `switch costume to`{:class="block3looks"} block to your code and update it to show the costume of your choice:
+Pour changer le costume d'un sprite pour une partie du projet, ajoute un `basculer sur le costume`{:class="block3looks"} à ton code et mets-le à jour pour afficher le costume de ton choix :
 
 ```blocks3
 switch costume to [ v]  // update this for your chosen costume
 ```
 
-To hide a sprite at the start of the project, add a `hide`{:class="block3looks"} block to your code:
+Pour masquer un sprite au début du projet, ajoute un `cacher`{:class="block3looks"} à ton code :
 
 ```blocks3
 hide 
@@ -102,16 +102,16 @@ hide
 
 --- collapse ---
 ---
-title: Set the direction of your sprites
+title: Définir la direction de tes sprites
 ---
 
-Your sprites might be facing the wrong way when you add them to your project.
+Tes sprites peuvent être mal orientés lorsque tu les ajoutes à ton projet.
 
-To change the direction of a sprite for the whole project, change the **Direction** and **rotation style** in the Sprite pane:
+Pour changer la direction de sprite pour l'ensemble du projet, modifie le style de **Direction** et de **rotation** dans le volet Sprite :
 
-![The Direction and rotation style menu in the Sprite pane.](images/sprite-pane-direction.png)
+![Le menu Style de direction et de rotation dans le volet Sprite.](images/sprite-pane-direction.png)
 
-To change the direction of a sprite for part of the project, add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}:
+Pour changer la direction d'un sprite pour une partie du projet, ajoute des blocs à ton code pour changer le `fixer le sens de rotation`{:class="block3motion"} et `direction`{:class="block3motion"} :
 
 ```blocks3
 set rotation style [left-right v]
@@ -124,7 +124,7 @@ point in direction (-90) // turn to the left
 
 --- task ---
 
-Save your project.
+Sauvegarde ton projet.
 
 [[[generic-scratch3-saving]]]
 
