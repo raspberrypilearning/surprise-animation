@@ -1,19 +1,19 @@
-add the sprite's position
+ajoute la position du sprite
 
-<100 is smaller, >100 is bigger
+<100 est plus petit,> 100 est plus grand
 
-update this for your chosen costume
+mettre à jour ceci pour ton costume choisi
 
-turn to the left
+tourne à gauche
 
-add blocks to set up the start
+ajoute des blocs pour configurer le départ
 
-starting size
+taille de départ
 
-starting position
+position de départ
 
-change the delay
+change le délai
 
-set the delay
+régler le délai
 
-same delay
+même retard
