@@ -1,26 +1,26 @@
 
-## Reflection
+## Que faire ensuite?
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+Bravo, tu as beaucoup appris ! Maintenant, il est temps de réfléchir - la réflexion est une partie importante de l'apprentissage, car elle aide à établir de nouvelles connexions dans ton cerveau.
 
-Answer the three questions below to reflect on what you have learned.
+Réponds aux trois questions ci-dessous pour réfléchir à ce que tu as appris.
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Lorsque tu as répondu à chaque question, tapes sur **Soumettre**. Tu seras guidé vers la bonne réponse. Tu peux faire cette activité autant de fois que tu le souhaites.
 
-Have fun!
+Amuse-toi bien!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend : Question 1 sur 3
 ---
 
-In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
+Dans ton projet, tu as réalisé une animation avec une surprise. Clique sur le drapeau vert pour lancer l'animation ci-dessous, puis relance-la.
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Did you notice anything odd the second time? The surprise was ruined! What code block would you add to make the surprise work?
+As-tu remarqué quelque chose d'étrange la deuxième fois ? La surprise était gâchée ! Quel bloc de code ajouterais-tu pour faire fonctionner la surprise ?
 
 --- choices ---
 
@@ -31,7 +31,7 @@ set size to (150) %
 
   --- feedback ---
 
- The **egg** sprite is the correct size when you run the program again.
+ L'**œuf** est de la bonne taille quand tu exécutes à nouveau le programme.
 
   --- /feedback ---
 
@@ -42,18 +42,18 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Yes. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
+ Oui. Tu dois faire basculer le sprite sur le bon costume (**œuf-a**) quand le projet démarre.
 
   --- /feedback ---
 
 - ( )
 ```blocks3
-show
+montre-le
 ```
 
   --- feedback ---
 
- You often need to remember to make a sprite show when the green flag is clicked, but in the project in the question, the **egg** sprite does show.
+ Tu dois souvent te rappeler de faire apparaître un sprite lorsque tu cliques sur le drapeau vert, mais dans le projet de la question, le sprite d'**œuf** apparaît.
 
   --- /feedback ---
 
@@ -64,7 +64,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- The **egg** sprite does go to the correct starting position on the Stage.
+ Le sprite d'**oeuf** va à la bonne position de départ sur la scène.
 
   --- /feedback ---
 
