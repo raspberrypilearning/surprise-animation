@@ -1,36 +1,36 @@
-## Reaction
+## Reactie
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now, the main character needs to react to the surprise. What will they do? 
-- When will they react?
-- How will they emote? 
-- Will they say something, make a sound, change costumes, or move? 
+Nu moet de hoofdpersoon reageren op de verrassing. Wat zullen ze doen? 
+- Wanneer zullen ze reageren?
+- Hoe zullen ze emotie tonen? 
+- Zullen ze iets zeggen, een geluid maken, van uiterlijk veranderen of bewegen? 
 
-You decide!
+Jij beslist!
 </div>
 <div>
 
-![The 'Trespasser' project showing the reaction to the surprise.](images/tresspass.png)
+![Het 'Overtreder'-project dat de reactie op de verrassing laat zien.](images/tresspass.png)
 
 </div>
 </div>
 
-### When will the character react?
+### Wanneer zal de hoofdpersoon reageren?
 
 --- task ---
 
-Select the **character** sprite. Add a script to make the reaction start when you want it to.
+Selecteer de **hoofdpersoon** sprite. Voeg een script toe om de reactie te laten starten wanneer jij dat wilt.
 
 [[[scratch3-time-delay]]]
 
 --- /task ---
 
-### How will the character react?
+### Hoe zal de hoofdpersoon reageren?
 
 --- task ---
 
-Choose the actions that make sense for your character and their reaction.
+Kies de acties die passen bij je hoofdpersoon en hun reactie.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
@@ -48,7 +48,7 @@ Choose the actions that make sense for your character and their reaction.
 
 --- task ---
 
-**Test:** Click on the green flag. Does your animation flow as you want it to? Have you created suspense and a reaction in your story? Does everything reset correctly when you click on the green flag again?
+**Test:** Klik op de groene vlag. Loopt jouw animatie zoals jij dat wilt? Heb je spanning en een reactie gecreëerd in je verhaal? Wordt alles correct opnieuw ingesteld als je weer op de groene vlag klikt?
 
 --- /task ---
 
