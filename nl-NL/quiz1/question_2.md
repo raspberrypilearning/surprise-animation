@@ -1,15 +1,15 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Vraag 2 van 3
 ---
 
-In your project, you planned your animation with `timer`{:class="block3events"} or `wait`{:class="block3control"} blocks.
+In je project heb je je animatie gepland met `klok`{:class="block3events"} of `wacht`{:class="block3control"} blokken.
 
-In this dinosaur project, you want the little dinosaur to wait 6 seconds before it pops out of the egg and surprises the big dinosaur.
+In dit dinosaurusproject wil je dat de kleine dinosaurus 6 seconden wacht voordat hij uit het ei springt en de grote dinosaurus verrast.
 
-![A dinosaur sprite and an egg sprite on the Stage.](images/quiz-q2.png)
+![Een dinosaurus-sprite en een ei-sprite op het speelveld.](images/quiz-q2.png)
 
-Which script for the **little dinosaur** sprite would make this happen?
+Welk script voor de **kleine dinosaurus** sprite zou dit mogelijk maken?
 
 --- choices ---
 
@@ -21,7 +21,7 @@ show
 
   --- feedback ---
 
- These are the right blocks to use, but you need to select `timer`{:class="block3events"} instead of `loudness`{:class="block3events"} in the drop-down menu.
+ Dit zijn de juiste blokken om te gebruiken, maar je moet `klok`{:class="block3events"} selecteren in plaats van `volume`{:class="block3events"} in het vervolgkeuzemenu.
 
   --- /feedback ---
 
@@ -33,7 +33,7 @@ show
 
   --- feedback ---
 
-This script needs user interaction for the little dinosaur to show.
+Dit script heeft gebruikersinteractie nodig om de kleine dinosaurus te laten verschijnen.
 
   --- /feedback ---
 
@@ -46,7 +46,7 @@ wait (6) seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
+ Hier verrast de kleine dinosaurus de grote dinosaurus en wacht dan 6 seconden.
 
   --- /feedback ---
 
@@ -58,7 +58,7 @@ show
 
   --- feedback ---
 
- When the timer has waited 6 seconds, the little dinosaur appears and surprises the big dinosaur!
+ Als de klok 6 seconden heeft gewacht, verschijnt de kleine dinosaurus en verrast de grote dinosaurus!
 
   --- /feedback ---
 
