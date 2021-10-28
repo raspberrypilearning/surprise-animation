@@ -1,32 +1,32 @@
 ---
-title: "Surprise! animation"
+title: "Verrassing! animatie"
 hero_image: images/banner.png
-description: Create an animation of a story with a surprise
+description: Maak een animatie van een verhaal met een verrassing
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-03-09"
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
-    title: Setup
+    title: Opzetten
   - 
-    title: Curiosity
+    title: Nieuwsgierigheid
   - 
-    title: Surprise
+    title: Verrassing
   - 
-    title: Reaction
+    title: Reactie
   - 
-    title: Reflection
+    title: Reflectie
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
   - 
-    title: Upgrade your project
+    title: Verbeter je project
   - 
-    title: Share
+    title: Deel
   - 
-    title: What next?
+    title: Wat kun je verder nog doen?
