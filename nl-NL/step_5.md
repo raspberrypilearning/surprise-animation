@@ -54,7 +54,7 @@ Kies de acties die passen bij je hoofdpersoon en hun reactie.
 
 --- task ---
 
-**Debug:** You might need to change the amount of time in some or all of the `when timer`{:class="block3events"} and `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
+**Fouten oplossen:** Mogelijk moet je de hoeveelheid tijd in sommige of alle van de `wanneer klok`{:class="block3events"} en `wacht`{:class="block3control"} blokken aanpassen, of meer `wacht`{:class="block3control"} blokken toevoegen, om de timing precies goed te krijgen.
 
 --- /task ---
 
