@@ -1,71 +1,71 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Vraag 3 van 3
 ---
 
-You created your animation by breaking it into parts and building it in the order in which it runs.
+Je hebt je animatie gemaakt door deze in delen te splitsen en te bouwen in de volgorde waarin deze wordt uitgevoerd.
 
-Which order represents the animation that you made?
+Welke volgorde staat voor de animatie die je hebt gemaakt?
 
 --- choices ---
 
 - ( )
-+ Curiosity
++ Nieuwsgierigheid
 
-+ Setup
++ Opzetten
 
-+ Surprise!
++ Verrassing!
 
-+ Reaction
++ Reactie
 
   --- feedback ---
 
- The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
+ Het 'opzetten'-gedeelte stelt je animatie opnieuw in. Het moet als eerste komen, zodat je animatie op dezelfde manier opnieuw kan worden uitgevoerd.
 
   --- /feedback ---
 
 - ( )
-+ Reaction
++ Reactie
 
-+ Surprise!
++ Verrassing!
 
-+ Curiosity
++ Nieuwsgierigheid
 
-+ Setup
++ Opzetten
 
   --- feedback ---
 
- Think about what you did first. The reaction came later.
+ Denk na over wat je het eerste deed. De reactie kwam later.
 
   --- /feedback ---
 
 - (x)
-+ Setup
++ Opzetten
 
-+ Curiosity
++ Nieuwsgierigheid
 
-+ Surprise!
++ Verrassing!
 
-+ Reaction
++ Reactie
 
   --- feedback ---
 
- Yes! You set up your sprites first, then your story built to a final reaction.
+ Ja! Je stelt eerst je sprites in en vervolgens bouw je je verhaal op tot een laatste reactie.
 
   --- /feedback ---
 
 - ( )
-+ Setup
++ Opzetten
 
-+ Curiosity
++ Nieuwsgierigheid
 
-+ Reaction
++ Reactie
 
-+ Surprise!
++ Verrassing!
 
   --- feedback ---
 
- The surprise was not at the end of the animation. Something came afterwards.
+ De verrassing zat niet aan het einde van de animatie. Later kwam er nog iets.
 
   --- /feedback ---
 
