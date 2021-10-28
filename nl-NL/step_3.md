@@ -1,25 +1,25 @@
-## Curiosity
+## Nieuwsgierigheid
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Will the object do something to attract attention? How will the character react?
+Zal het voorwerp iets doen om de aandacht te trekken? Hoe zal de hoofdpersoon reageren?
 
-You decide!
+Jij beslist!
 </div>
 <div>
 
-![The 'BOO!' project showing the character being curious.](images/boo.png)
+![Het 'BOE!' project waarbij de hoofdpersoon nieuwsgierig is.](images/boo.png)
 
 </div>
 </div>
 
-### The object
+### Het voorwerp
 
 --- task ---
 
-**Choose:** If you want the object to do something, choose what the object will do.
+**Kies:** Als je wilt dat het voorwerp iets doet, kies dan wat het voorwerp zal doen.
 
-Add blocks to the end of the **object's** `when green flag clicked`{:class="block3events"} setup script.
+Blokken toe te voegen aan het einde van het **voorwerp** zijn `als op de groene vlag wordt geklikt`{:class="block3events"} instel-script.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -27,23 +27,23 @@ Add blocks to the end of the **object's** `when green flag clicked`{:class="bloc
 
 --- /task ---
 
-### The character
+### De hoofdpersoon
 
 --- task ---
 
-Get the main character to show interest in the object. Add blocks to the end of the **character's** setup script.
+Laat de hoofdpersoon interesse tonen voor het voorwerp. Voeg blokken toe aan het einde van het instel-script van de **hoofdpersoon**.
 
-If you need the character to wait until the object has done something, add a `wait`{:class="block3control"} block.
+Als je wilt dat de hoofdpersoon wacht totdat het voorwerp iets heeft gedaan, voeg je een `wacht`{:class="block3control"}-blok toe.
 
-You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
+Je zou `zeg`{:class="block3looks"} of `denk`{:class="block3looks"} blokken kunnen gebruiken, of zelfs de `Tekst naar spraak`{:class="block3extensions"} extensie gebruiken om de hoofdpersoon hardop te laten praten!
 
 [[[scratch3-text-to-speech]]]
 
-The character could emote, like in the [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project.
+De hoofdpersoon kan emoties tonen, zoals in het [Ruimtespraak](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}-project.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-The character could be brave and move closer to check out the object.
+De hoofdpersoon kan dapper zijn en dichterbij komen om het voorwerp te bekijken.
 
 [[[scratch3-animate-movement-costumes]]]
 
@@ -51,16 +51,16 @@ The character could be brave and move closer to check out the object.
 
 --- task ---
 
-**Test:** Click on the green flag to test your project. The character should show curiosity about the object.
+**Test:** Klik op de groene vlag om je project te testen. De hoofdpersoon moet nieuwsgierig zijn naar het voorwerp.
 
-Click on the green flag again. If you changed the **object** or **character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
+Klik nogmaals op de groene vlag. Als je de **voorwerp** of **hoofdpersoon** sprite hebt gewijzigd, moet je ervoor zorgen dat ze terug worden gezet naar hun startpositie of uiterlijk wanneer je het project opnieuw uitvoert.
 
 --- collapse ---
 ---
-title: Set the starting position and looks for a sprite
+title: Stel de startpositie en uiterlijk in voor een sprite
 ---
 
-Choose the blocks that you need to set the position and looks for a sprite at the start.
+Kies de blokken die je nodig hebt om de positie en uiterlijk aan het begin in te stellen voor een sprite.
 
 ```blocks3
 when flag clicked // add blocks to set up the start 
@@ -72,7 +72,7 @@ set [brightness v] effect to [80]
 show
 ```
 
-**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want the sprite to have.
+**Tip:** Alle grafische effecten worden gewist wanneer je op de groene vlag klikt, dus je hoeft ze niet te wissen, maar je moet mogelijk de effecten instellen die je wilt dat de sprite heeft.
 
 --- /collapse ---
 
@@ -80,23 +80,23 @@ show
 
 --- task ---
 
-**Debug:**
+**Fouten oplossen:**
 
 --- collapse ---
 ---
-title: The sound is not working
+title: Het geluid werkt niet
 ---
 
-Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
+Controleer of het volume op jouw computer of tablet luid genoeg is en of jouw luidsprekers of hoofdtelefoons zijn aangesloten en goed werken.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My animation does not reset properly when I click on the green flag
+title: Mijn animatie wordt niet goed opnieuw ingesteld als ik op de groene vlag klik
 ---
 
-Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
+Controleer of je project `wanneer op de groene vlag wordt geklikt`{:class="block3events"}-scripts heeft voor de sprites die ze nodig hebben, en controleer of ze de positie, grootte en uiterlijk van de sprites opnieuw instellen. Voor hulp hierbij, zie de **Stel de startpositie en uiterlijk in voor een sprite** taak hierboven.
 
 --- /collapse ---
 
