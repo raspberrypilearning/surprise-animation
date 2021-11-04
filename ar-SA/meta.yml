@@ -1,32 +1,32 @@
 ---
-title: "Surprise! animation"
+title: "مفاجئة! الرسوم المتحركة"
 hero_image: images/banner.png
-description: Create an animation of a story with a surprise
+description: قم بإنشاء رسم متحرك لقصة بمفاجأة
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-03-09"
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: Setup
+    title: نظام
   - 
-    title: Curiosity
+    title: فضول
   - 
-    title: Surprise
+    title: مفاجئة
   - 
-    title: Reaction
+    title: رد الفعل
   - 
-    title: Reflection
+    title: انعكاس
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
   - 
-    title: Upgrade your project
+    title: قم بتطوير مشروعك
   - 
-    title: Share
+    title: مشاركة
   - 
-    title: What next?
+    title: ما التالي؟
