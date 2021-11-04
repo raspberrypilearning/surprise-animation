@@ -1,19 +1,19 @@
-add the sprite's position
+πρόσθεσε τη θέση του αντικειμένου
 
-<100 is smaller, >100 is bigger
+<100 είναι μικρότερο, >100 είναι μεγαλύτερο
 
-update this for your chosen costume
+ενημέρωσε το για την ενδυμασία που έχεις επιλέξει
 
-turn to the left
+στρίψε αριστερά
 
-add blocks to set up the start
+πρόσθεσε μπλοκ για να προετοιμάσεις πώς ξεκινάει
 
-starting size
+αρχικό μέγεθος
 
-starting position
+θέση εκκίνησης
 
-change the delay
+άλλαξε την καθυστέρηση
 
-set the delay
+όρισε την καθυστέρηση
 
-same delay
+ίδια καθυστέρηση
