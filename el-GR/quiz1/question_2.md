@@ -1,15 +1,15 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Ερώτηση 2 από 3
 ---
 
-In your project, you planned your animation with `timer`{:class="block3events"} or `wait`{:class="block3control"} blocks.
+Στο έργο σου, σχεδίασες την κινούμενη εικόνα σου με μπλοκ `χρόνου`{:class="block3events"} ή `αναμονής`{:class="block3control"}.
 
-In this dinosaur project, you want the little dinosaur to wait 6 seconds before it pops out of the egg and surprises the big dinosaur.
+Σε αυτό το έργο με τους δεινόσαυρους, ο μικρός δεινόσαυρος θα περιμένει 6 δευτερόλεπτα πριν βγει από το αυγό και τρομάξει τον μεγάλο δεινόσαυρο.
 
-![A dinosaur sprite and an egg sprite on the Stage.](images/quiz-q2.png)
+![Ένα αντικείμενο δεινόσαυρου κι ένα αντικείμενο αυγού στο Σκηνικό.](images/quiz-q2.png)
 
-Which script for the **little dinosaur** sprite would make this happen?
+Ποιο script για τον **μικρό δεινόσαυρο** θα το έκανε αυτό να συμβεί;
 
 --- choices ---
 
@@ -21,7 +21,7 @@ show
 
   --- feedback ---
 
- These are the right blocks to use, but you need to select `timer`{:class="block3events"} instead of `loudness`{:class="block3events"} in the drop-down menu.
+ Αυτά είναι τα σωστά μπλοκ για να χρησιμοποιήσεις, αλλά πρέπει να επιλέξεις το μπλοκ `χρονόμετρο`{:class="block3events"} αντί για το μπλοκ `ένταση`{:class="block3events"} στο drop-down menu.
 
   --- /feedback ---
 
@@ -33,7 +33,7 @@ show
 
   --- feedback ---
 
-This script needs user interaction for the little dinosaur to show.
+Αυτό το script χρειάζεται αλληλεπίδραση από τον χρήστη χρήστη για να εμφανιστεί ο μικρός δεινόσαυρος.
 
   --- /feedback ---
 
@@ -46,7 +46,7 @@ wait (6) seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
+ Εδώ, ο μικρός δεινόσαυρος τρομάζει τον μεγάλο δεινόσαυρο και στη συνέχεια περιμένει 6 δευτερόλεπτα.
 
   --- /feedback ---
 
@@ -58,7 +58,7 @@ show
 
   --- feedback ---
 
- When the timer has waited 6 seconds, the little dinosaur appears and surprises the big dinosaur!
+ Αφού το χρονόμετρο περιμένει για 6 δευτερόλεπτα, εμφανίζεται ο μικρός δεινόσαυρος και ξαφνιάζει τον μεγάλο δεινόσαυρο!
 
   --- /feedback ---
 
