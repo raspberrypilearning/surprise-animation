@@ -1,18 +1,18 @@
-## Introduction
+## Εισαγωγή
 
-Create a short animation with a surprise.
+Δημιούργησε μια σύντομη κινούμενη εικόνα με μια έκπληξη.
 
-You will:
+Θα χρειαστεί να:
 
-+ Use Scratch to create an animation
-+ Test and debug your code when you make changes
-+ Break an animation into parts — this is called **decomposition** — and build it one part at a time
++ Χρησιμοποιήσεις το Scratch για να δημιουργήσεις μια κινούμενη εικόνα
++ Δοκιμάσεις και να εντοπίσεις σφάλματα στον κώδικά σου όταν κάνεις αλλαγές
++ Χώρισε την κινούμενη εικόνα σε μέρη - αυτό ονομάζεται **αποδόμηση** - και δημιούργησε ένα μέρος κάθε φορά
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. 
+  <span style="color: #0faeb0">**Αποδόμηση**</span> ονομάζεται ο χωρισμός ενός έργου σε τμήματα που είναι μικρότερα και είναι πιο εύκολο να κατανοηθούν. Αυτό σημαίνει ότι μπορείς να δημιουργήσεις ένα μέρος του έργου κάθε φορά μέχρι να το ολοκληρώσεις. 
 </p>
 
-![Examples of projects.](images/surprise-example.png)
+![Παραδείγματα έργων.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -21,19 +21,19 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Try it 
+### Δοκίμασέ το
 
-Click on the green flag to watch the animation.
+Κάνε κλικ στην πράσινη σημαία για να δεις την κινούμενη εικόνα.
 
-The animation has four parts:
-+ Setup
-+ Curiosity
-+ Surprise!
-+ Reaction
+Η κινούμενη εικόνα έχει τέσσερα μέρη:
++ Προετοιμασία
++ Περιέργεια
++ Έκπληξη!
++ Αντίδραση
 
 </div>
 <div>
-**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
+**Έκπληξη δεινοσαύρων!**: [Δες μέσα](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -42,25 +42,25 @@ The animation has four parts:
 
 --- /task ---
 
-### Get inspiration
+### Βρες έμπνευση
 
 --- task ---
 
-You will make design decisions and think of a story for your animation with a surprise.
+Θα πάρεις σχεδιαστικές αποφάσεις και θα σκεφτείς μια ιστορία για την κινούμενη εικόνα σου με μια έκπληξη.
 
-Think about what your story might be, and explore these example projects to get more ideas:
+Σκέψου ποια μπορεί να είναι η ιστορία σου και μελέτησε αυτά τα παραδείγματα έργων για να πάρεις περισσότερες ιδέες:
 
-**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
+**BOO!**: [Δες μέσα](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
+**Μαγεία Γάτας**: [Δες μέσα](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Trespasser**: [See inside](https://scratch.mit.edu/projects/498616008/editor){:target="_blank"}
+**Καταπατητής**: [Δες μέσα](https://scratch.mit.edu/projects/498616008/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498616008/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -70,21 +70,21 @@ Think about what your story might be, and explore these example projects to get 
 
 --- print-only ---
 
-### Get inspiration
+### Βρες έμπνευση
 
-You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
+Θα πάρεις σχεδιαστικές αποφάσεις και θα σκεφτείς μια ιστορία για την κινούμενη εικόνα σου με μια έκπληξη. Σκέψου ποια μπορεί να είναι η ιστορία σου και, για να πάρεις περισσότερες ιδέες, **δες μέσα** στα παραδείγματα έργων στο Scratch Studio! 'Surprise! animation — Examples': https://scratch.mit.edu/studios/29075822/
 
-The animation has four parts:
-+ Setup
-+ Curiosity
-+ Surprise!
-+ Reaction
+Η κινούμενη εικόνα έχει τέσσερα μέρη:
++ Προετοιμασία
++ Περιέργεια
++ 'Εκπληξη!
++ Αντίδραση
 
-![The 'Dinosaur surprise!' project.](images/dinosaur-surprise.png) ![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png) ![The 'Trespasser' project.](images/tresspass.png)
+![Η έργο «έκπληξη δεινοσαύρων!».](images/dinosaur-surprise.png) ![Το έργο «BOO!».](images/boo.png) ![Το έργο «Μαγεία της Γάτας».](images/cat-magic.png) ![Το έργο «Καταπατητής».](images/tresspass.png)
 
 --- /print-only ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-There are people called <span style="color: #0faeb0">**narrative designers**</span> who do storytelling for apps and video games. But digital storytelling allows everyone to share their stories and creative imaginings with other people.
+Υπάρχουν άνθρωποι που ονομάζονται <span style="color: #0faeb0">**σχεδιαστές αφηγήσεων**</span> που δημιουργούν αφηγήσεις ιστοριών για τις εφαρμογές και τις βιντεοπαιχνίδια. Αλλά η ψηφιακή αφήγηση επιτρέπει σε όλους να μοιραστούν τις ιστορίες και τις δημιουργίες τους με άλλους ανθρώπους.
 </p>
  
