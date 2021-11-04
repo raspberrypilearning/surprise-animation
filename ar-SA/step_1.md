@@ -1,18 +1,18 @@
-## Introduction
+## المقدمة
 
-Create a short animation with a surprise.
+قم بإنشاء رسوم متحركة قصيرة مع مفاجأة.
 
-You will:
+سوف تقوم بما يلي:
 
-+ Use Scratch to create an animation
-+ Test and debug your code when you make changes
-+ Break an animation into parts — this is called **decomposition** — and build it one part at a time
++ استخدم سكراتش لإنشاء رسم متحرك
++ اختبار وتصحيح التعليمات البرمجية الخاصة بك عند إجراء التغييرات
++ قسِّم الرسم المتحرك إلى أجزاء - وهذا ما يسمى **التفكيك** - وقم ببنائه جزءًا واحدًا في كل مرة
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. 
+  <span style="color: #0faeb0">** التفكيك **</span> هو تقسيم المشروع إلى أجزاء أصغر وأسهل في الفهم. هذا يعني أنه يمكنك بناء مشروع. جزء واحد في كل مرة حتى تكمله. 
 </p>
 
-![Examples of projects.](images/surprise-example.png)
+![أمثلة على المشاريع.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -21,19 +21,19 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Try it 
+### جربها 
 
-Click on the green flag to watch the animation.
+انقر فوق العلم الأخضر لمشاهدة الرسوم المتحركة.
 
-The animation has four parts:
-+ Setup
-+ Curiosity
-+ Surprise!
-+ Reaction
+تتكون الرسوم المتحركة من أربعة أجزاء:
++ إعداد
++ فضول
++ مفاجأة!
++ رد الفعل
 
 </div>
 <div>
-**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
+** مفاجأة الديناصور! **: [راجع الداخل] (https://scratch.mit.edu/projects/495932563/editor) {: target = "_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -42,49 +42,49 @@ The animation has four parts:
 
 --- /task ---
 
-### Get inspiration
+### احصل على الإلهام
 
 --- task ---
 
-You will make design decisions and think of a story for your animation with a surprise.
+ستتخذ قرارات التصميم وتفكر في قصة للرسوم المتحركة الخاصة بك مع المفاجأة.
 
-Think about what your story might be, and explore these example projects to get more ideas:
+فكر في ماهية قصتك ، واستكشف هذه الأمثلة من المشاريع للحصول على مزيد من الأفكار:
 
-**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
+**بوو!**: [انظر من الداخل](https://scratch.mit.edu/projects/498655116/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
+**سحر القطط**: [انظر الداخل](https://scratch.mit.edu/projects/498615133/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Trespasser**: [See inside](https://scratch.mit.edu/projects/498616008/editor){:target="_blank"}
+**المتعدي**: [انظر الداخل](https://scratch.mit.edu/projects/498616008/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498616008/?autostart=false" frameborder="0"></iframe>
 </div>
---- /task ---
+--- / مهمة ---
 
 --- /no-print ---
 
 --- print-only ---
 
-### Get inspiration
+### احصل على الإلهام
 
-You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
+ستتخذ قرارات التصميم وتفكر في قصة للرسوم المتحركة الخاصة بك مع المفاجأة. فكر في ما يمكن أن تكون عليه قصتك ، وللحصول على مزيد من الأفكار ، **انظر داخل** مثال على المشاريع في "مفاجأة! الرسوم المتحركة - أمثلة في استوديو سكراتش: https://scratch.mit.edu/studios/29075822/
 
-The animation has four parts:
-+ Setup
-+ Curiosity
-+ Surprise!
-+ Reaction
+تتكون الرسوم المتحركة من أربعة أجزاء:
++ نظام
++ فضول
++ مفاجئة!
++ رد الفعل
 
-![The 'Dinosaur surprise!' project.](images/dinosaur-surprise.png) ![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png) ![The 'Trespasser' project.](images/tresspass.png)
+![مشروع مفاجأة الديناصورات.](images/dinosaur-surprise.png) ![مشروع بوو!'.](images/boo.png) ![مشروع "سحر القطط".](images/cat-magic.png) ![مشروع "المتعدي".](images/tresspass.png)
 
 --- /print-only ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-There are people called <span style="color: #0faeb0">**narrative designers**</span> who do storytelling for apps and video games. But digital storytelling allows everyone to share their stories and creative imaginings with other people.
+هناك أشخاص يُطلق عليهم <span style="color: #0faeb0">** مصممو السرد **</span> يقومون بسرد القصص للتطبيقات وألعاب الفيديو. لكن رواية القصص الرقمية تتيح للجميع مشاركة قصصهم وتصوراتهم الإبداعية مع أشخاص آخرين.
 </p>
  
