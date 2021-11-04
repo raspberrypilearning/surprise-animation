@@ -1,67 +1,67 @@
-## Surprise
+## المفاجئة
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now, you need to add a surprise. What could happen to the object? 
-- Will it turn into another object? 
-- Will it turn into a character? 
-- Will it disappear and reveal another sprite? 
+الآن ، تحتاج إلى إضافة مفاجأة. ماذا يمكن أن يحدث لهذا الكائن؟ 
+- هل سيتحول إلى كائن آخر؟ 
+- هل ستتحول إلى شخصية؟ 
+- هل تختفي وتكشف عن كائن آخر؟ 
 
-You decide!
+انت صاحب القرار!
 </div>
 <div>
 
-![The 'Cat magic' project showing the surprise.](images/cat-magic.png)
+! [ مشروع "Cat magic" يعرض المفاجأة.] (images / cat-magic.png)
 
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
+هل كتبت قصة مع تطور حبكة أو مفاجأة؟ هل شاهدت عرضًا أو قرأت كتابًا بنهاية غير متوقعة؟ يمكنك استخدام نفس الأساليب عند إنشاء قصة رقمية أو رسوم متحركة. 
 </p>
 
-### When will the surprise happen?
+### متى ستحدث المفاجأة؟
 
 --- task ---
 
-Select the **object** sprite. Add a script to make the surprise start when you want it to.
+حدد شخصية **** الكائن. أضف تعليمة برمجية لبدء المفاجأة عندما تريد ذلك.
 
-You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
+ستحتاج إلى اختيار مدة تأخير زمنية تناسب مشروعك. إذا كانت لديك شخصية تقضي وقتًا طويلاً في فضولها ، فستحتاج إلى اختيار مدة تأخير أطول.
 
 [[[scratch3-time-delay]]]
 
 --- /task ---
 
-### Now, create the surprise!
+### الآن ، اصنع المفاجأة!
 
 --- task ---
 
-The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
+يمكن للكائن `تشغيل صوت`{: class = "block3sound"} ، `تبديل زي`{: class = "block3looks"} ، `تغيير التأثيرات الرسومية`{: class = "block3looks"} ، أو `تغيير الحجم`{: class = "block3looks"}.
 
-You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it. For example, you could make the **Apple** turn into a **Ghost**.
+هل يمكن أن تضيف زي المتفاجئ الى الكائن، ثم الكائن يمكنه `تبديل زي`{: فئة = "block3looks"} للكشف عنه. على سبيل المثال ، يمكنك تحويل **Apple** إلى **Ghost**.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the **object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
+يمكنك جعل الكائن يبدو وكأنه يتحول إلى كائن مختلف - للقيام بذلك ، `إخفاء`{: class = "block3looks"} الكائن **** في نفس الوقت الذي يظهر فيه ``{: class = "block3looks"} كائن آخر.
 
 --- collapse ---
 ---
-title: Hide and show sprites
+العنوان: إخفاء وإظهار الكائنات
 ---
 
-The **object** sprite:
+الكائن ****:
 ```blocks3
 when [timer v] > (4) // set the delay
 hide
 ```
 
-A **surprise** sprite:
+الكائن ** مفاجئة**:
 ```blocks3
 when [timer v] > (4) // same delay
 show
 ```
 
-**Tip:** If you make a **surprise** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**نصيحة:** إذا قمت بعمل مفاجأة **** sprite `أظهار`{: class = "block3looks"} ، فستحتاج إلى جعلها `إخفاء`{: class = "block3looks"} `عند النقر فوق علم الاخضر`{: class = "block3events"}.
 
 --- /collapse ---
 
@@ -69,32 +69,32 @@ show
 
 --- task ---
 
-**Test:** Click on the green flag. Does the surprise happen at the right time? Does the animation reset properly?
+**اختبار:** انقر فوق العلم الأخضر. هل المفاجأة تحدث في الوقت المناسب؟ هل الرسوم المتحركة تعيد ضبطها بشكل صحيح؟
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**التصحيح:**
 
-If you need a sprite to be in front of or behind another sprite, you can use layers:
+إذا كنت بحاجة إلى كائن ليكون أمام كائن آخر أو خلفه ، فيمكنك استخدام الطبقات:
 
 [[[scratch3-positioning-with-layers]]]
 
-If the surprise happens at the wrong time, you can fix that:
+إذا حدثت المفاجأة في الوقت الخطأ ، فيمكنك إصلاح ذلك:
 
 --- collapse ---
 ---
-title: Timer scripts start the surprise at the wrong time
+العنوان: التعليمة البرمجية للمؤقت تبدأ المفاجأة في الوقت الخطأ
 ---
 
-Make sure that you have selected the `timer`{:class="block3events"} option in the `when loudness`{:class="block3events"} block:
+تأكد من أنك حددت الخيار `timer`{: class = "block3events"} في الكتلة `عندما يصرخ`{: class = "block3events"}:
 
 ```blocks3
 when [timer v] > [5]
 ```
 
-If you have the `timer`{:class="block3events"} selected correctly, try adjusting the amount of time that the timer waits.
+إذا كان لديك عداد ``{: class = "block3events"} محددًا بشكل صحيح ، فحاول ضبط مقدار الوقت الذي ينتظره عداد الوقت.
 
 --- /collapse ---
 
