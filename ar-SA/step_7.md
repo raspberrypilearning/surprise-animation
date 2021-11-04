@@ -1,23 +1,23 @@
-## Upgrade your project
+## قم بتطوير مشروعك
 
-If you have time, you can upgrade your project.
+إذا كان لديك الوقت ، يمكنك تطوير مشروعك.
 
-You could:
-+ Add to or improve your animation, with movement, looks, and graphic effects
-+ Create or edit costumes in the Paint editor to make them look the way that you want
-+ Record your voice or record sound effects and add the new sounds to your project
+يمكنك ذلك:
++ أضف إلى مشروعك أو حسّنه ، من خلال الحركة والمظهر والتأثيرات الرسومية
++ قم بإنشاء أو عدل على الأزياء في محرر الرسام لجعلها تبدو بالطريقة التي تريدها
++ سجل صوتك أو سجل مؤثرات صوتية وأضف الأصوات الجديدة إلى مشروعك
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Professional programmers explore and take inspiration from code created by other programmers. 
+يستكشف المبرمجون المحترفون ويستلهمون من التعليمات البرمجية التي أنشأها مبرمجون آخرون. 
 </p>
 
-Each project in the ['Surprise! animation — Examples' Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+كل مشروع فيه ['مفاجأة! كل مشروع في ](https://scratch.mit.edu/studios/29075822)'لقد صنعت لك كتابًا - أمثلة' Scratch معارضي في**{: target = "_ blank"} به **See inside ، والذي يمكنك استخدامه لفتح المشروع في محرر Scratch وإلقاء نظرة على المقاطع البرمجية للحصول على أفكار ومعرفة كيفية عمل المشروع.
 
-**Doppelganger**: [See inside](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
+**شبيه**:[أنظر داخلا](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Take a look at our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} to see projects created by community members.
+ألق نظرة على ['مفاجئتنا! الرسوم المتحركة - استوديو سكراتش للمجتمع](https://scratch.mit.edu/studios/29079784){: target = "_ blank"} لمشاهدة المشاريع التي أنشأها أعضاء المجتمع.
 
 --- save ---
