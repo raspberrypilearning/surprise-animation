@@ -1,71 +1,71 @@
 --- question ---
 ---
-legend: Question 3 of 3
+القائمة: السؤال 3 من 3
 ---
 
-You created your animation by breaking it into parts and building it in the order in which it runs.
+لقد أنشأت الرسوم المتحركة الخاصة بك عن طريق تقسيمها إلى أجزاء وبنائها بالترتيب الذي تعمل به.
 
-Which order represents the animation that you made?
+ما هو الترتيب الذي يمثل الرسوم المتحركة التي قمت بها؟
 
 --- choices ---
 
 - ( )
-+ Curiosity
++ فضول
 
-+ Setup
++ نظام
 
-+ Surprise!
++ مفاجئة!
 
-+ Reaction
++ رد الفعل
 
   --- feedback ---
 
- The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
+ جزء "الإعداد" يعيد تعيين الرسوم المتحركة الخاصة بك. يجب أن يأتي أولاً حتى يمكن تشغيل الرسوم المتحركة مرة أخرى بنفس الطريقة.
 
   --- /feedback ---
 
 - ( )
-+ Reaction
++ رد الفعل
 
-+ Surprise!
++ مفاجئة!
 
-+ Curiosity
++ فضول
 
-+ Setup
++ نظام
 
   --- feedback ---
 
- Think about what you did first. The reaction came later.
+ فكر فيما فعلته أولا. جاء رد الفعل لاحقًا.
 
   --- /feedback ---
 
 - (x)
-+ Setup
++ نظام
 
-+ Curiosity
++ فضول
 
-+ Surprise!
++ مفاجئة!
 
-+ Reaction
++ رد الفعل
 
   --- feedback ---
 
- Yes! You set up your sprites first, then your story built to a final reaction.
+ نعم! تقوم بإعداد الكائنات أولاً ، ثم قصتك تبنى على رد فعل نهائي.
 
   --- /feedback ---
 
 - ( )
-+ Setup
++ نظام
 
-+ Curiosity
++ فضول
 
-+ Reaction
++ رد الفعل
 
-+ Surprise!
++ مفاجئة!
 
   --- feedback ---
 
- The surprise was not at the end of the animation. Something came afterwards.
+ المفاجأة لم تكن في نهاية الرسوم المتحركة. شيء ما جاء بعد ذلك.
 
   --- /feedback ---
 
