@@ -1,25 +1,25 @@
-## Curiosity
+## فضول
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Will the object do something to attract attention? How will the character react?
+هل سيفعل الكائن شيئًا لجذب الانتباه؟ كيف سيكون رد فعل الكائن؟
 
-You decide!
+انت صاحب القرار!
 </div>
 <div>
 
-![The 'BOO!' project showing the character being curious.](images/boo.png)
+![بوو!' مشروع يوضح أن الشخصية فضوليّة.] (images / boo.png)
 
 </div>
 </div>
 
-### The object
+### الكائن
 
 --- task ---
 
-**Choose:** If you want the object to do something, choose what the object will do.
+**اختر:** إذا كنت تريد أن يقوم الكائن بشيء ما ، فاختر ما سيفعله الكائن.
 
-Add blocks to the end of the **object's** `when green flag clicked`{:class="block3events"} setup script.
+أضف كتلًا إلى نهاية الكائن **** `عند النقر على العلم الأخضر`{: class = "block3events"} لضبط التعليمات البرمجية.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -27,23 +27,23 @@ Add blocks to the end of the **object's** `when green flag clicked`{:class="bloc
 
 --- /task ---
 
-### The character
+### الشخصية
 
 --- task ---
 
-Get the main character to show interest in the object. Add blocks to the end of the **character's** setup script.
+احصل على الشخصية الرئيسية لإظهار الاهتمام بالكائن. أضف الكتل إلى نهاية لضبط التعليمة البرمجية </strong> الخاص بـ **. </p>
 
-If you need the character to wait until the object has done something, add a `wait`{:class="block3control"} block.
+إذا كنت في حاجة إلى أنتظار شخصية ما لعمل شيء لديه، إضف كتلة `الانتظار`{: فئة = "block3control"}.
 
-You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
+يمكنك استخدام كتلة `قول`{: class = "block3looks"} أو كتلة `فكر`{: class = "block3looks"} ، أو حتى استخدام `Text to Speech`{: class = "block3extensions"} لجعل الشخصية تتحدث بصوت عال!
 
 [[[scratch3-text-to-speech]]]
 
-The character could emote, like in the [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project.
+يمكن للشخصية أن ترمز ، كما هو الحال في مشروع [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){: target = "_ blank"}.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-The character could be brave and move closer to check out the object.
+يمكن أن تكون الشخصية شجاعة وتقترب أكثر للتحقق من الكائن.
 
 [[[scratch3-animate-movement-costumes]]]
 
@@ -51,16 +51,16 @@ The character could be brave and move closer to check out the object.
 
 --- task ---
 
-**Test:** Click on the green flag to test your project. The character should show curiosity about the object.
+**اختبار:** انقر فوق العلم الأخضر لاختبار مشروعك. يجب أن تظهر الشخصية فضولًا حول الكائن.
 
-Click on the green flag again. If you changed the **object** or **character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
+انقر على العلم الأخضر مرة أخرى. إذا قمت بتغيير موضع الكائن **** أو **الشخصية ** أو شكله ، فستحتاج إلى التأكد من أنه تم إعادته إلى موضع البداية أو المظهر عند تشغيل المشروع مرة أخرى.
 
 --- collapse ---
 ---
-title: Set the starting position and looks for a sprite
+العنوان: اضبط موضع البداية والبحث عن كائن
 ---
 
-Choose the blocks that you need to set the position and looks for a sprite at the start.
+اختر الكتل التي تحتاجها لتعيين الموضع وابحث عن الكائن في البداية.
 
 ```blocks3
 when flag clicked // add blocks to set up the start 
@@ -72,7 +72,7 @@ set [brightness v] effect to [80]
 show
 ```
 
-**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want the sprite to have.
+**نصيحة:** يتم مسح جميع تأثيرات الرسوم عند النقر فوق العلم الأخضر ، لذلك لا تحتاج إلى مسحها ، ولكن قد تحتاج إلى تعيين التأثيرات التي تريد أن يكون للكائن المتحرك.
 
 --- /collapse ---
 
@@ -80,23 +80,23 @@ show
 
 --- task ---
 
-**Debug:**
+**التصحيح:**
 
 --- collapse ---
 ---
-title: The sound is not working
+العنوان: الصوت لا يعمل
 ---
 
-Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
+تأكد من أن مستوى الصوت على الكمبيوتر أو الجهاز اللوحي مرتفع بدرجة كافية وأن مكبرات الصوت أو سماعات الرأس متصلة وتعمل بشكل صحيح.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My animation does not reset properly when I click on the green flag
+العنوان: لا يتم إعادة تعيين الرسوم المتحركة الخاصة بي بشكل صحيح عند النقر فوق العلم الأخضر
 ---
 
-Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
+تحقق من أن مشروعك يحتوي على `عند نقر على العلم الأخضر`نصوص برمجية {: class = "block3events"} للكائنات التي تحتاجها ، وتحقق من أنها تعيد تعيين الموضع والحجم والبحث عن الكائنات. للمساعدة في هذا ، راجع **تعيين موضع البداية والبحث عن** أعلاه.
 
 --- /collapse ---
 
