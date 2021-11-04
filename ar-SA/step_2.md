@@ -1,75 +1,75 @@
-## Setup
+## نظام
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Have you got an idea about your animation? 
+هل لديك فكرة عن الرسوم المتحركة الخاصة بك؟ 
   
-In this step, you will add a backdrop, main character, and interesting object. 
+في هذه الخطوة ، ستضيف خلفية وشخصية رئيسية وكائنًا مثيرًا للاهتمام. 
 </div>
 <div>  
-![The 'Dinosaur surprise!' project once set up.](images/dinosaur-surprise.png)
+! ["مفاجأة الديناصورات!" تم إعداد المشروع مرة واحدة.] (images / dinosaur-surprise.png)
 </div>
 </div>
 
 --- task ---
 
-Open the [surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"} and look at the range of sprites and backdrops that you can use. Spend some time thinking about your main character, interesting object, and backdrop.
+افتح مفاجأة [! افتح ](https://scratch.mit.edu/projects/582222532/editor)مشروع Scratch جديد{: target = "_ blank"} وانظر إلى مجموعة الكائنات والخلفيات التي يمكنك استخدامها. اقض بعض الوقت في التفكير في شخصيتك الرئيسية ، والشيء المثير للاهتمام فيها ، والخلفية.
 
 --- /task ---
 
 --- task ---
 
-**Choose:** Choose a sprite to be the main character and another sprite to be the interesting object.
+**اختر:** اختر كائنًا ليكون الشخصية الرئيسية وكائنًا آخر ليكون الكائن المثير للاهتمام.
 
-![The 'Choose a Sprite' icon.](images/add-sprite.png)
-
---- /task ---
-
-Where do you want your animation to take place?
-
---- task ---
-
-**Choose:** Choose a backdrop to set the scene.
-
-![The 'Choose a Backdrop' icon.](images/add-backdrop.png)
+![أيقونة "اختر كائن".](images/add-sprite.png)
 
 --- /task ---
 
-Where do you want your sprites to start? How big do you want them to be? How do you want them to look?
+أين تريد أن يكون موقع الكائن الخاص بك؟
 
 --- task ---
 
-Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation.
+**اختر:** اختر خلفية لضبط المشهد.
 
-Remember to set up both your **main character** and your **interesting object**.
+![أيقونة اختيار الخلفية.](images/add-backdrop.png)
+
+--- /task ---
+
+من أين تريد أن يبدأ الكائن الخاص بك؟ ما هو الحجم الذي تريده أن يكون؟ كيف تريدهم أن يبدوا؟
+
+--- task ---
+
+أضف `عندما ينقر على العلم الأخضر `{: class = "block3events"} ، ثم أضف كتلًا أسفلها لإعداد الكائنات في بداية الرسم المتحرك.
+
+تذكر أن تقوم بإعداد كل من الشخصية **** و **الكائنك المثير للاهتمام**.
 
 --- collapse ---
 ---
-title: Position your sprites
+العنوان: موقع الكائنات الخاصة بك
 ---
 
-To change the position of the **main character** sprite for the whole project, move the main character to the position of your choice on the Stage.
+لتغيير موضع **للشخصية الرئيسية** للمشروع بأكمله ، انقل الشخصية الرئيسية إلى الموضع الذي تختاره على المنصة.
 
-To change the position of the **main character** sprite for part of the project, move the main character to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
+لتغيير موضع ** الكائن الرئيسي** في جزء من المشروع ، انقل الشخصية الرئيسية إلى الموضع الذي تختاره على المنصة ، ثم أضف ` كتلة انتقل إلى x: y:`{: class = "block3motion"} إلى التعليمات البرمجية الخاصة بك:
 
 ```blocks3
 go to x: (0) y: (0) // add the sprite's position
 ```
 
-Repeat this task for the **interesting object**.
+كرر هذه المهمة لـ **كائنك مثير للاهتمام**.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Resize your sprites
+العنوان: قم بتغيير حجم الكائنات الخاصة بك
 ---
 
-To change the size of a sprite for the whole project, change the number in the **Size** property in the Sprite pane:
+لتغيير حجم كائن للمشروع بأكمله ، قم بتغيير الرقم في **الحجم** في جزء خصائص الكائن:
 
 ![](images/sprite-pane-size.png)
 
-To change the size of a sprite for part of the project, add code to `set size to`{:class="block3looks"} the size of your choice. This option is good if you want your sprite to change size in the project.
+لتغيير حجم كائن لجزء من المشروع ، أضف رمزًا إلى `ضبط الحجم إلى`{: class = "block3looks"} الحجم الذي تختاره. هذا الخيار جيد إذا كنت تريد أن يغير الكائن الخاص بك حجمه في المشروع.
 
 ```blocks3
 set size to [100] % // <100 is smaller, >100 is bigger
@@ -79,20 +79,20 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: Set the costumes of your sprites
+العنوان: اضبط أزياء الكائنات
 ---
 
-To change the costume of a sprite for the whole project, click on the **Costumes** tab and select one of the available costumes:
+لتغيير مظهر كائن للمشروع بأكمله ، انقر فوق **الأزياء** وحدد أحد الأزياء المتاحة:
 
-![The Costumes tab, with the available costumes for a sprite.](images/nano-costumes.png)
+![علامة تبويب الأزياء ، مع الأزياء المتاحة للكائن.](images/nano-costumes.png)
 
-To change the costume of a sprite for part of the project, add a `switch costume to`{:class="block3looks"} block to your code and update it to show the costume of your choice:
+لتغيير مظهر كائن لجزء من المشروع ، أضف تبديل زي ``{: class = "block3looks"} إلى التعليمات البرمجية الخاصة بك وقم بتحديثه لإظهار الزي الذي تختاره:
 
 ```blocks3
 switch costume to [ v]  // update this for your chosen costume
 ```
 
-To hide a sprite at the start of the project, add a `hide`{:class="block3looks"} block to your code:
+لإخفاء كائن في بداية المشروع ، أضف `إخفاء`{: class = "block3looks"} إلى التعليمات البرمجية الخاصة بك:
 
 ```blocks3
 hide 
@@ -102,16 +102,16 @@ hide
 
 --- collapse ---
 ---
-title: Set the direction of your sprites
+العنوان: اضبط أتجاه الكائنات الخاصة بك
 ---
 
-Your sprites might be facing the wrong way when you add them to your project.
+قد يكون اتجاه الكائنات خاطئ عند إضافتها إلى مشروعك.
 
-To change the direction of a sprite for the whole project, change the **Direction** and **rotation style** in the Sprite pane:
+لتغيير اتجاه الكائن للمشروع بأكمله، تغيير **اتجاه** و **أسلوب التدوير** من خصائص الكائن:
 
-![The Direction and rotation style menu in the Sprite pane.](images/sprite-pane-direction.png)
+![قائمة نمط الاتجاه والاستدارة في خصائص الكائن.](images/sprite-pane-direction.png)
 
-To change the direction of a sprite for part of the project, add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}:
+لتغيير اتجاه كائن لجزء من المشروع ، أضف كتلًا إلى الكود الخاص بك لتغيير نمط التدوير ``{: class = "block3motion"} والاتجاه ``{: class = "block3motion"}:
 
 ```blocks3
 set rotation style [left-right v]
@@ -124,7 +124,7 @@ point in direction (-90) // turn to the left
 
 --- task ---
 
-Save your project.
+احفظ مشروعك.
 
 [[[generic-scratch3-saving]]]
 
