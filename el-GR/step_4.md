@@ -1,67 +1,67 @@
-## Surprise
+## Έκπληξη
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now, you need to add a surprise. What could happen to the object? 
-- Will it turn into another object? 
-- Will it turn into a character? 
-- Will it disappear and reveal another sprite? 
+Τώρα, πρέπει να προσθέσεις μια έκπληξη. Τι θα μπορούσε να συμβεί με το αντικείμενο; 
+- Θα μπορούσε να μετατραπεί σε ένα άλλο αντικείμενο; 
+- Θα μπορούσε να μετατραπεί σε έναν χαρακτήρα; 
+- Θα μπορούσε να εξαφανιστεί και να εμφανίσει ένα άλλο αντικείμενο; 
 
-You decide!
+Εσύ αποφασίζεις!
 </div>
 <div>
 
-![The 'Cat magic' project showing the surprise.](images/cat-magic.png)
+! [Το έργο "Μαγική γάτα" που δείχνει την έκπληξη.] (Images/cat-magic.png)
 
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
+Έχεις γράψει μια ιστορία με πλοκή ή μια έκπληξη; Έχεις παρακολουθήσει μια παράσταση ή έχεις διαβάσει ένα βιβλίο με απρόβλεπτο τέλος; Μπορείς να χρησιμοποιείς τις ίδιες μεθόδους όταν δημιουργείς μια ψηφιακή ιστορία ή κινούμενη εικόνα. 
 </p>
 
-### When will the surprise happen?
+### Πότε θα συμβεί η έκπληξη;
 
 --- task ---
 
-Select the **object** sprite. Add a script to make the surprise start when you want it to.
+Επίλεξε το **αντικείμενο**. Πρόσθεσε ένα script για να ξεκινήσει η έκπληξη όταν το επιθυμήσεις.
 
-You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
+Θα χρειαστεί να επιλέξεις μια χρονική καθυστέρηση που να λειτουργεί για το έργο σου. Εάν έχεις έναν χαρακτήρα που περνάει πολύ χρόνο ως περίεργος, θα χρειαστεί να επιλέξεις μεγαλύτερη καθυστέρηση.
 
 [[[scratch3-time-delay]]]
 
 --- /task ---
 
-### Now, create the surprise!
+### Τώρα, δημιούργησε την έκπληξη!
 
 --- task ---
 
-The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
+Το αντικείμενο θα μπορούσε να `παίξει έναν ήχο`{: class = "block3sound"}, να `αλλάξει ενδυμασία `{: class = "block3looks"}, να `αλλάξει εφέ γραφικών`{: class = "block3looks"} ή να `αλλάξει μέγεθος`{: class = "block3looks"}.
 
-You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it. For example, you could make the **Apple** turn into a **Ghost**.
+Θα μπορούσες να προσθέσεις μια εκπληκτική ενδυμασία στο αντικείμενο, στη συνέχεια το αντικείμενο θα μπορούσε να `αλλάξει ενδυμασία `{: class = "block3looks"} για να την αποκαλύψει. Για παράδειγμα, μπορείς να κάνεις το **Apple** μετατραπεί σε **Ghost**.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the **object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
+Θα μπορούσες να κάνεις το αντικείμενο να φαίνεται ότι μετατρέτρεπεται σε ένα διαφορετικό αντικείμενο - για να το κάνεις αυτό, `εξαφάνισε`{: class = «block3looks»} το **αντικείμενο** την ίδια στιγμή που `εμφανίζεις `{: class = «block3looks»} ένα άλλο αντικείμενο.
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title: Εξαφάνιση και εμφάνιση αντικειμένων
 ---
 
-The **object** sprite:
+Το **αντικείμενο**:
 ```blocks3
 when [timer v] > (4) // set the delay
 hide
 ```
 
-A **surprise** sprite:
+Ένα αντικείμενο**έκπληξη**:
 ```blocks3
 when [timer v] > (4) // same delay
 show
 ```
 
-**Tip:** If you make a **surprise** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Υπόδειξη:** Μπορείς επίσης να χρησιμοποιήσεις τα μπλοκ `εμφανίσου`{: class = "block3looks"} και `εξαφανίσου`{: class = "block3looks"} για τα αντικείμενα`όταν γίνει κλικ στην πράσινη σημαία`{: class = "block3events"}.
 
 --- /collapse ---
 
@@ -69,32 +69,32 @@ show
 
 --- task ---
 
-**Test:** Click on the green flag. Does the surprise happen at the right time? Does the animation reset properly?
+**Δοκιμή:** Κάνε κλικ στην πράσινη σημαία. Συμβαίνει η έκπληξη την κατάλληλη στιγμή; Επαναφέρεται η κινούμενη εικόνα σωστά στην αρχική κατάσταση;
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**Εντοπισμός σφαλμάτων:**
 
-If you need a sprite to be in front of or behind another sprite, you can use layers:
+Εάν χρειάζεσαι ένα αντικείμενο να βρίσκεται μπροστά ή πίσω από ένα άλλο αντικείμενο, μπορείτε να χρησιμοποιήσεις επίπεδα:
 
 [[[scratch3-positioning-with-layers]]]
 
-If the surprise happens at the wrong time, you can fix that:
+Εάν η έκπληξη συμβαίνει σε λάθος στιγμή, μπορείς να το διορθώσεις:
 
 --- collapse ---
 ---
-title: Timer scripts start the surprise at the wrong time
+title: Ο χρονοδιακόπτης των scripts ξεκινάει την έκπληξη σε λάθος στιγμή
 ---
 
-Make sure that you have selected the `timer`{:class="block3events"} option in the `when loudness`{:class="block3events"} block:
+Βεβαιώσου ότι έχεις διαλέξει την επιλογή `χρονόμετρο`{:class="block3events"} στο μπλοκ `όταν ένταση`{:class="block3events"}:
 
 ```blocks3
 when [timer v] > [5]
 ```
 
-If you have the `timer`{:class="block3events"} selected correctly, try adjusting the amount of time that the timer waits.
+Εάν έχεις επιλέξει σωστά το`χρονόμετρο`{: class = "block3events"}, δοκίμασε να προσαρμόσεις το χρονικό διάστημα που θα περιμένει το χρονόμετρο.
 
 --- /collapse ---
 
