@@ -1,0 +1,19 @@
+voeg de positie van de sprite toe
+
+<100 is kleiner, >100 is groter
+
+pas dit aan voor je gekozen uiterlijk
+
+draai naar links
+
+voeg blokken toe om de start in te stellen
+
+startgrootte
+
+startpositie
+
+verander de vertraging
+
+stel de vertraging in
+
+dezelfde vertraging
