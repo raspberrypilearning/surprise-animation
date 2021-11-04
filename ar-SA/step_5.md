@@ -1,36 +1,36 @@
-## Reaction
+## رد الفعل
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now, the main character needs to react to the surprise. What will they do? 
-- When will they react?
-- How will they emote? 
-- Will they say something, make a sound, change costumes, or move? 
+الآن ، يجب أن تتفاعل الشخصية الرئيسية مع المفاجأة. ماذا سيفعلون؟ 
+- متى سيتفاعلون؟
+- كيف سيقومون بالتعبير؟ 
+- هل سيقولون شيئًا ، أو يصدرون صوتًا ، أو يغيرون الأزياء ، أو يتحركون؟ 
 
-You decide!
+انت صاحب القرار!
 </div>
 <div>
 
-![The 'Trespasser' project showing the reaction to the surprise.](images/tresspass.png)
+! [مشروع "Trespasser" يظهر رد الفعل على المفاجأة.] (images / tresspass.png)
 
 </div>
 </div>
 
-### When will the character react?
+### متى ستتفاعل الشخصية؟
 
 --- task ---
 
-Select the **character** sprite. Add a script to make the reaction start when you want it to.
+حدد شخصية **** الكائن. أضف تعليمة برمجية لبدء المفاجأة عندما تريد ذلك.
 
 [[[scratch3-time-delay]]]
 
 --- /task ---
 
-### How will the character react?
+### كيف سيكون رد فعل الكائن؟
 
 --- task ---
 
-Choose the actions that make sense for your character and their reaction.
+اختر الإفعال التي تناسب شخصيتك وردة فعلها.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
@@ -48,13 +48,13 @@ Choose the actions that make sense for your character and their reaction.
 
 --- task ---
 
-**Test:** Click on the green flag. Does your animation flow as you want it to? Have you created suspense and a reaction in your story? Does everything reset correctly when you click on the green flag again?
+**اختبار:** انقر فوق العلم الأخضر. هل تسلسل الاحداث الخاصة بك كما تريدها؟ هل خلقت تشويقًا وردة فعل في قصتك؟ هل تتم إعادة ضبط كل شيء بشكل صحيح عند النقر فوق العلم الأخضر مرة أخرى؟
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might need to change the amount of time in some or all of the `when timer`{:class="block3events"} and `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
+**تصحيح:** قد تحتاج إلى تغيير مقدار الوقت في بعض أو كل الكتل `عند المؤقت`{: class = "block3events"} و `انتظار`{: class = "block3control"} ،أو إضافة المزيد من الكتل `انتظار` {: class = "block3control"} ، للحصول على التوقيت المناسب تمامًا.
 
 --- /task ---
 
