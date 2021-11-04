@@ -1,75 +1,75 @@
-## Setup
+## Προετοιμασία
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Have you got an idea about your animation? 
+Έχεις κάποια ιδέα για την κινούμενη εικόνα σου; 
   
-In this step, you will add a backdrop, main character, and interesting object. 
+Σε αυτό το βήμα, θα προσθέσεις υπόβαθρο, κύριο χαρακτήρα και ένα ενδιαφέρον αντικείμενο. 
 </div>
 <div>  
-![The 'Dinosaur surprise!' project once set up.](images/dinosaur-surprise.png)
+! [Το έργο «Έκπληξη δεινοσαύρων!» μόλις ολοκληρωθεί.](images/dinosaur-surprise.png)
 </div>
 </div>
 
 --- task ---
 
-Open the [surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"} and look at the range of sprites and backdrops that you can use. Spend some time thinking about your main character, interesting object, and backdrop.
+Άνοιξε το [ έργο Έκπληξη! κινούμενη εικόνα Έκπληξη!](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"} και ρίξε μία ματιά στα αντικείμενα και τα υπόβαθρα που μπορείς να χρησιμοποιήσεις. Πέρασε λίγο χρόνο να σκεφτείς τον κεντρικό σου χαρακτήρα, το ενδιαφέρον αντικείμενο και το υπόβαθρο.
 
 --- /task ---
 
 --- task ---
 
-**Choose:** Choose a sprite to be the main character and another sprite to be the interesting object.
+**Επίλεξε:** Επίλεξε ένα αντικείμενο για να είναι ο κύριος χαρακτήρας και ένα άλλο αντικείμενο για να είναι το ενδιαφέρον αντικείμενο.
 
-![The 'Choose a Sprite' icon.](images/add-sprite.png)
-
---- /task ---
-
-Where do you want your animation to take place?
-
---- task ---
-
-**Choose:** Choose a backdrop to set the scene.
-
-![The 'Choose a Backdrop' icon.](images/add-backdrop.png)
+![Το εικονίδιο «Επιλέξτε αντικείμενο».](images/add-sprite.png)
 
 --- /task ---
 
-Where do you want your sprites to start? How big do you want them to be? How do you want them to look?
+Πού θέλεις να διαδραματιστεί η κινούμενη εικόνα σου;
 
 --- task ---
 
-Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation.
+**Επίλεξε:** Επίλεξε ένα υπόβαθρο για να στήσεις τη σκηνή.
 
-Remember to set up both your **main character** and your **interesting object**.
+![Το εικονίδιο «Επιλέξτε υπόβαθρο».](images/add-backdrop.png)
+
+--- /task ---
+
+Πού θέλεις να ξεκινήσουν οι χαρακτήρες σου; Πόσο μεγάλοι θέλεις να είναι; Πώς θέλεις να φαίνονται;
+
+--- task ---
+
+Πρόσθεσε ένα μπλοκ `όταν γίνει κλικ στην πράσινη σημαία`{:class="block3events"} και, στη συνέχεια, πρόσθεσε μπλοκ για να ρυθμίσεις τα αντικείμενά σου στην αρχή της κινούμενης εικόνας.
+
+Θυμήσου να προετοιμάσεις τόσο τον **κύριο χαρακτήρα σου** όσο και το **ενδιαφέρον αντικείμενό σου**.
 
 --- collapse ---
 ---
-title: Position your sprites
+title: Τοποθέτησε τα αντικείμενά σου
 ---
 
-To change the position of the **main character** sprite for the whole project, move the main character to the position of your choice on the Stage.
+Για να αλλάξεις τη θέση του αντικειμένου του **κεντρικού χαρακτήρα** για ολόκληρο το έργο, μετακίνησε τον κύριο χαρακτήρα στη θέση της επιλογής σου στη Σκηνή.
 
-To change the position of the **main character** sprite for part of the project, move the main character to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
+Για να αλλάξεις τη θέση του αντικειμένου του **βασικού χαρακτήρα** για κάποιο μέρος του έργου, μετακίνησε τον κύριο χαρακτήρα στη θέση της επιλογής σου στη Σκηνή και, στη συνέχεια, πρόσθεσε ένα μπλοκ `πηγαίνετε στο x: y:`{:class="block3motion"} στον κώδικά σας:
 
 ```blocks3
 go to x: (0) y: (0) // add the sprite's position
 ```
 
-Repeat this task for the **interesting object**.
+Επανάλαβε αυτήν τη διαδικασία και για το **ενδιαφέρον αντικείμενο**.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Resize your sprites
+title: Άλλαξε το μέγεθος των αντικειμένων σου
 ---
 
-To change the size of a sprite for the whole project, change the number in the **Size** property in the Sprite pane:
+Για να αλλάξεις το μέγεθος ενός αντικειμένου για ολόκληρο το έργο, άλλαξε τον αριθμό στη μεταβλητή **Μέγεθος** στο παράθυρο του αντικειμένου:
 
 ![](images/sprite-pane-size.png)
 
-To change the size of a sprite for part of the project, add code to `set size to`{:class="block3looks"} the size of your choice. This option is good if you want your sprite to change size in the project.
+Για να αλλάξεις το μέγεθος ενός αντικειμένου για κάποιο μέρος του έργου, πρόσθεσε κώδικα `όρισε μέγεθος σε`{:class="block3looks"} με το μέγεθος της επιλογής σου. Αυτή η επιλογή είναι καλή αν θέλεις το αντικείμενό σου να αλλάζει μέγεθος κατά τη διάρκεια του έργου.
 
 ```blocks3
 set size to [100] % // <100 is smaller, >100 is bigger
@@ -79,20 +79,20 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: Set the costumes of your sprites
+title: Όρισε τις ενδυμασίες των αντικειμένων σου
 ---
 
-To change the costume of a sprite for the whole project, click on the **Costumes** tab and select one of the available costumes:
+Για να αλλάξεις την ενδυμασία ενός αντικειμένου για ολόκληρο το έργο, κάνε κλικ στην καρτέλα **Ενδυμασίες** και επίλεξε μία από τις διαθέσιμες ενδυμασίες:
 
-![The Costumes tab, with the available costumes for a sprite.](images/nano-costumes.png)
+![Η καρτέλα Ενδυμασίες, με τις διαθέσιμες ενδυμασίες για ένα αντικείμενο.](images/nano-costumes.png)
 
-To change the costume of a sprite for part of the project, add a `switch costume to`{:class="block3looks"} block to your code and update it to show the costume of your choice:
+Για να αλλάξεις το κοστούμι ενός αντικειμένου για ένα μέρος του έργου, πρόσθεσε ένα μπλοκ`άλλαξε ενδυμασία σε`{: class = "block3looks"} στον κώδικά σου και ενημέρωσέ τον για να εμφανιστεί το κοστούμι της επιλογής σου:
 
 ```blocks3
 switch costume to [ v]  // update this for your chosen costume
 ```
 
-To hide a sprite at the start of the project, add a `hide`{:class="block3looks"} block to your code:
+Για να κρύψεις ένα αντικείμενο στην αρχή του έργου, πρόσθεσε ένα `εξαφανίσου`{: class = "block3looks"} στον κώδικά σου:
 
 ```blocks3
 hide 
@@ -102,16 +102,16 @@ hide
 
 --- collapse ---
 ---
-title: Set the direction of your sprites
+title: Όρισε την κατεύθυνση των αντικειμένων σου
 ---
 
-Your sprites might be facing the wrong way when you add them to your project.
+Τα αντικείμενά σου μπορεί να κοιτάνε σε λάθος τρόπο καθώς τα προσθέτεις στο έργο σου.
 
-To change the direction of a sprite for the whole project, change the **Direction** and **rotation style** in the Sprite pane:
+Για να αλλάξεις την κατεύθυνση ενός αντικειμένου για ολόκληρο το έργο, άλλαξε την **Κατεύθυνση** και **το στυλ περιστροφής** στο παράθυρο Αντικειμένων:
 
-![The Direction and rotation style menu in the Sprite pane.](images/sprite-pane-direction.png)
+![Το μενού Κατεύθυνση and στυλ περιστροφής στο παράθυρο Αντικειμένων.](images/sprite-pane-direction.png)
 
-To change the direction of a sprite for part of the project, add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}:
+Για να αλλάξεις την κατεύθυνση ενός αντικειμένου σε ένα μέρος του έργου, πρόσθεσε μπλοκ στον κώδικά σου για να αλλάξεις το `στυλ περιστροφής`{: class = "block3motion"} και `κατεύθυνση`{: class = "block3motion"}:
 
 ```blocks3
 set rotation style [left-right v]
@@ -124,7 +124,7 @@ point in direction (-90) // turn to the left
 
 --- task ---
 
-Save your project.
+Αποθήκευσε το έργο σου.
 
 [[[generic-scratch3-saving]]]
 
