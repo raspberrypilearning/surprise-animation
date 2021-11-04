@@ -1,23 +1,23 @@
-## Upgrade your project
+## Αναβάθμιση του έργου σου
 
-If you have time, you can upgrade your project.
+Εάν έχεις χρόνο, μπορείς να αναβαθμίσεις το έργο σου.
 
-You could:
-+ Add to or improve your animation, with movement, looks, and graphic effects
-+ Create or edit costumes in the Paint editor to make them look the way that you want
-+ Record your voice or record sound effects and add the new sounds to your project
+Θα μπορούσες να:
++ Προσθέσεις ή βελτιώσεις την κινούμενη εικόνα σου, με κίνηση, όψη και εφέ γραφικών
++ Δημιούργησε ή επεξεργάσου ενδυμασίες στον επεξεργαστή Ζωγραφική για να φαίνονται όπως θέλεις
++ Ηχογράφησε τη φωνή σου ή εφέ ήχου και πρόσθεσε τους νέους ήχους στο έργο σου
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Professional programmers explore and take inspiration from code created by other programmers. 
+Οι επαγγελματίες προγραμματιστές εξερευνούν και εμπνέονται από κώδικα που δημιουργήθηκε από άλλους προγραμματιστές. 
 </p>
 
-Each project in the ['Surprise! animation — Examples' Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Κάθε έργο στην [Κινούμενη εικόνα Έκπληξη! — Στα παραδείγματα στο Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} υπάρχει ένας σύνδεσμος**Δες μέσα **, τον οποίο μπορείς να χρησιμοποιήσεις για να ανοίξεις το έργο στο επεξεργαστή του Scratch και να δεις τον κώδικα για να πάρεις ιδέες και να δες πώς λειτουργεί το έργο.
 
-**Doppelganger**: [See inside](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
+**Doppelganger**: [Δες μέσα](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Take a look at our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} to see projects created by community members.
+Ρίξε μια ματιά στη δικιά μας [Κινούμενη εικόνα Έκπληξη! - Κοινότητα Scratch studio](https://scratch.mit.edu/studios/29079784){: target = "_ blank"} για να δεις έργα που δημιουργούνται από μέλη της κοινότητας.
 
 --- save ---
