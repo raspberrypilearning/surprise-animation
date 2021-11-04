@@ -1,71 +1,71 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Ερώτηση 3 από 3
 ---
 
-You created your animation by breaking it into parts and building it in the order in which it runs.
+Δημιούργησες την κινούμενη εικόνα σου χωρίζοντάς τη σε μέρη και τοποθετώντας τα με τη σειρά που εκτελείται.
 
-Which order represents the animation that you made?
+Ποια σειρά αντιπροσωπεύει την κινούμενη εικόνα που δημιούργησες;
 
 --- choices ---
 
 - ( )
-+ Curiosity
++ Περιέργεια
 
-+ Setup
++ Προετοιμασία
 
-+ Surprise!
++ 'Εκπληξη!
 
-+ Reaction
++ Αντίδραση
 
   --- feedback ---
 
- The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
+ Το μέρος "προετοιμασία" επαναφέρει την κινούμενη εικόνα σου στην αρχική της κατάσταση. Πρέπει να έρθει πρώτα για να μπορέσει η κινούμενη εικόνα σας να εκτελεστεί ξανά με τον ίδιο τρόπο.
 
   --- /feedback ---
 
 - ( )
-+ Reaction
++ Αντίδραση
 
-+ Surprise!
++ 'Εκπληξη!
 
-+ Curiosity
++ Περιέργεια
 
-+ Setup
++ Προετοιμασία
 
   --- feedback ---
 
- Think about what you did first. The reaction came later.
+ Σκέψου τι έκανες στην αρχή. Η αντίδραση ήρθε αργότερα.
 
   --- /feedback ---
 
 - (x)
-+ Setup
++ Προετοιμασία
 
-+ Curiosity
++ Περιέργεια
 
-+ Surprise!
++ 'Εκπληξη!
 
-+ Reaction
++ Αντίδραση
 
   --- feedback ---
 
- Yes! You set up your sprites first, then your story built to a final reaction.
+ Ναι! Προετοιμάζεις πρώτα τα αντικείμενά σου, μετά χτίζεις την ιστορία σου ώστε να καταλήξει στην τελική αντίδραση.
 
   --- /feedback ---
 
 - ( )
-+ Setup
++ Προετοιμασία
 
-+ Curiosity
++ Περιέργεια
 
-+ Reaction
++ Αντίδραση
 
-+ Surprise!
++ 'Εκπληξη!
 
   --- feedback ---
 
- The surprise was not at the end of the animation. Something came afterwards.
+ Η έκπληξη δεν ήταν στο τέλος της κινούμενης εικόνας. Κάτι ήρθε αργότερα.
 
   --- /feedback ---
 
