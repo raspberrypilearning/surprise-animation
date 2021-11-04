@@ -1,15 +1,15 @@
 --- question ---
 ---
-legend: Question 2 of 3
+القائمة: السؤال 2 من 3
 ---
 
-In your project, you planned your animation with `timer`{:class="block3events"} or `wait`{:class="block3control"} blocks.
+في مشروعك ، خططت للرسوم المتحركة (الكائنات) باستخدام كتل `مؤقت `{: class = "block3events"} أو `انتظر`{: class = "block3control"}.
 
-In this dinosaur project, you want the little dinosaur to wait 6 seconds before it pops out of the egg and surprises the big dinosaur.
+في مشروع الديناصورات هذا ، تريد أن ينتظر الديناصور الصغير 6 ثوانٍ قبل أن يخرج من البيضة ويفاجأ الديناصور الكبير.
 
-![A dinosaur sprite and an egg sprite on the Stage.](images/quiz-q2.png)
+![كائن الديناصور و كائن البيض على المنصة.](images/quiz-q2.png)
 
-Which script for the **little dinosaur** sprite would make this happen?
+أي تعليمة برمجية لكائن **الديناصور الصغير** من شأنها أن تجعل هذا يحدث؟
 
 --- choices ---
 
@@ -21,7 +21,7 @@ show
 
   --- feedback ---
 
- These are the right blocks to use, but you need to select `timer`{:class="block3events"} instead of `loudness`{:class="block3events"} in the drop-down menu.
+ هذه هي الكتل المناسبة لاستخدامها ، ولكنك تحتاج إلى ان تختار `مؤقت`{: class = "block3events"} بدلاً من ``{: class = "block3events"} في القائمة المنسدلة.
 
   --- /feedback ---
 
@@ -33,7 +33,7 @@ show
 
   --- feedback ---
 
-This script needs user interaction for the little dinosaur to show.
+يحتاج هذا الكود البرمجي إلى تفاعل المستخدم حتى يظهر الديناصور الصغير.
 
   --- /feedback ---
 
@@ -46,7 +46,7 @@ wait (6) seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
+ هنا ، يفاجئ الديناصور الصغير الديناصور الكبير ، ثم ينتظر 6 ثوان.
 
   --- /feedback ---
 
@@ -58,7 +58,7 @@ show
 
   --- feedback ---
 
- When the timer has waited 6 seconds, the little dinosaur appears and surprises the big dinosaur!
+ عندما ينتظر الموقت 6 ثوانٍ ، يظهر الديناصور الصغير ويفاجأ الديناصور الكبير!
 
   --- /feedback ---
 
