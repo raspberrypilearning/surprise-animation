@@ -11,7 +11,7 @@
 </div>
 <div>
 
-! [ مشروع "Cat magic" يعرض المفاجأة.] (images / cat-magic.png)
+![ مشروع "Cat magic" يعرض المفاجأة.](images/cat-magic.png)
 
 </div>
 </div>
@@ -46,10 +46,10 @@
 
 --- collapse ---
 ---
-العنوان: إخفاء وإظهار الكائنات
+title: إخفاء وإظهار الكائنات
 ---
 
-الكائن ****:
+**الكائن**:
 ```blocks3
 when [timer v] > (4) // set the delay
 hide
@@ -85,10 +85,10 @@ show
 
 --- collapse ---
 ---
-العنوان: التعليمة البرمجية للمؤقت تبدأ المفاجأة في الوقت الخطأ
+title: التعليمة البرمجية للمؤقت تبدأ المفاجأة في الوقت الخطأ
 ---
 
-تأكد من أنك حددت الخيار `timer`{: class = "block3events"} في الكتلة `عندما يصرخ`{: class = "block3events"}:
+تأكد من أنك حددت الخيار `المؤقت`{: class = "block3events"} في الكتلة `عندما يصرخ`{: class = "block3events"}:
 
 ```blocks3
 when [timer v] > [5]
