@@ -10,14 +10,17 @@ steps:
   - title: Inleiding
   - title: Opzetten
   - title: Nieuwsgierigheid
+    completion: engaged
   - title: Verrassing
   - title: Reactie
+    completion: internal 
   - title: Reflectie
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
+    completion: external
   - title: Verbeter je project
   - title: Deel
   - title: Wat kun je verder nog doen?
