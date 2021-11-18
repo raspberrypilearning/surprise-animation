@@ -33,7 +33,7 @@
 
 </div>
 <div>
-**مفاجأة الديناصور!**: [راجع الداخل] (https://scratch.mit.edu/projects/603371715/editor){:target="_blank"}
+**مفاجأة الديناصور!**: [راجع الداخل](https://scratch.mit.edu/projects/603371715/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/603371715/?autostart=false" frameborder="0"></iframe>
 </div>
