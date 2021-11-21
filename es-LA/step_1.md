@@ -1,15 +1,15 @@
-## Introduction
+## Introducción
 
-Create a short animation with a surprise.
+Crea una animación corta con una sorpresa.
 
-You will:
+Vas a:
 
-+ Use Scratch to create an animation
-+ Test and debug your code when you make changes
++ Usar Scratch para crear una animación
++ Probar y depurar tu código cuando hagas cambios
 + Break an animation into parts — this is called **decomposition** — and build it one part at a time
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. 
+  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. Esto significa que puedes construir un proyecto una parte a la vez hasta que lo hayas completado. 
 </p>
 
 ![Examples of projects.](images/surprise-example.png)
@@ -21,19 +21,19 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Try it 
+### Pruébalo
 
-Click on the green flag to watch the animation.
+Haz clic en la bandera verde para ver la animación.
 
-The animation has four parts:
-+ Setup
-+ Curiosity
-+ Surprise!
-+ Reaction
+La animación tiene cuatro partes:
++ Configuración
++ Curiosidad
++ ¡Sorpresa!
++ Reacción
 
 </div>
 <div>
-**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
+**¡Sorpresa! Dinosaurio**: [Ver dentro](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -42,25 +42,25 @@ The animation has four parts:
 
 --- /task ---
 
-### Get inspiration
+### Inspírate
 
 --- task ---
 
-You will make design decisions and think of a story for your animation with a surprise.
+Tomarás decisiones de diseño y pensarás en una historia para tu animación con una sorpresa.
 
-Think about what your story might be, and explore these example projects to get more ideas:
+Piensa en cuál podría ser tu historia y explora estos proyectos de ejemplo para obtener más ideas:
 
-**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
+**BOO!**: [Ver dentro](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
+**Magia de gato**: [Ver dentro](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Trespasser**: [See inside](https://scratch.mit.edu/projects/498616008/editor){:target="_blank"}
+**Intruso**: [Ver dentro](https://scratch.mit.edu/projects/498616008/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498616008/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -70,7 +70,7 @@ Think about what your story might be, and explore these example projects to get 
 
 --- print-only ---
 
-### Get inspiration
+### Inspírate
 
 You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
 
