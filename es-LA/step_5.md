@@ -1,36 +1,36 @@
-## Reaction
+## Reacción
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now, the main character needs to react to the surprise. What will they do? 
-- When will they react?
-- How will they emote? 
+Ahora, el personaje principal debe reaccionar ante la sorpresa. ¿Qué hará? 
+- ¿Cuándo reaccionará?
+- ¿Cómo se emocionará? 
 - Will they say something, make a sound, change costumes, or move? 
 
-You decide!
+¡Tú decides!
 </div>
 <div>
 
-![The 'Trespasser' project showing the reaction to the surprise.](images/tresspass.png)
+![El proyecto 'Intruso' mostrando la reacción a la sorpresa.](images/tresspass.png)
 
 </div>
 </div>
 
-### When will the character react?
+### ¿Cuándo reaccionará el personaje?
 
 --- task ---
 
-Select the **character** sprite. Add a script to make the reaction start when you want it to.
+Selecciona el objeto **personaje**. Agrega un script para que la reacción comience cuando lo desees.
 
 [[[scratch3-time-delay]]]
 
 --- /task ---
 
-### How will the character react?
+### ¿Cómo reaccionará el personaje?
 
 --- task ---
 
-Choose the actions that make sense for your character and their reaction.
+Elige las acciones que tengan sentido para tu personaje y su reacción.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
@@ -48,13 +48,13 @@ Choose the actions that make sense for your character and their reaction.
 
 --- task ---
 
-**Test:** Click on the green flag. Does your animation flow as you want it to? Have you created suspense and a reaction in your story? Does everything reset correctly when you click on the green flag again?
+**Prueba:** Haz clic en la bandera verde. ¿Tu animación fluye como quieres? ¿Has creado suspenso y una reacción en tu historia? ¿Todo se reinicia correctamente cuando vuelves a hacer clic en la bandera verde?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might need to change the amount of time in some or all of the `when timer`{:class="block3events"} and `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
+**Depurar:** Es posible que debas cambiar la cantidad de tiempo en algunos o en todos los bloques `cuando cronómetro`{:class="block3events"} y `esperar`{:class="block3control"}, o agregar más bloques `esperar`{:class="block3control"}, para obtener la sincronización correcta.
 
 --- /task ---
 
