@@ -1,26 +1,26 @@
 
 ## Reflection
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+¡Bien hecho, has aprendido mucho! Ahora es el momento de reflexionar: reflexionar es una parte importante del aprendizaje, porque ayuda a establecer nuevas conexiones en tu cerebro.
 
-Answer the three questions below to reflect on what you have learned.
+Responde las tres preguntas siguientes para reflexionar sobre lo que has aprendido.
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Cuando hayas respondido a cada pregunta, has clic en **Enviar**. Vamos a guiarte hacia la respuesta correcta. Puedes realizar esta actividad tantas veces como quieras.
 
-Have fun!
+¡Qué te diviertas!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Pregunta 1 de 3
 ---
 
-In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
+En tu proyecto, hiciste una animación con una sorpresa. Haz clic en la bandera verde para ejecutar la animación a continuación, luego ejecútala nuevamente.
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Did you notice anything odd the second time? The surprise was ruined! What code block would you add to make the surprise work?
+¿Notaste algo extraño la segunda vez? ¡La sorpresa se arruinó! ¿Qué bloque de código agregarías para que la sorpresa funcione?
 
 --- choices ---
 
@@ -31,7 +31,7 @@ set size to (150) %
 
   --- feedback ---
 
- The **egg** sprite is the correct size when you run the program again.
+ El objeto **huevo** tiene el tamaño correcto cuando vuelves a ejecutar el programa.
 
   --- /feedback ---
 
@@ -42,18 +42,18 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Yes. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
+ Sí. Debes hacer que el objeto cambie al disfraz correcto (**huevo-a**) cuando comience el proyecto.
 
   --- /feedback ---
 
 - ( )
 ```blocks3
-show
+mostrar
 ```
 
   --- feedback ---
 
- You often need to remember to make a sprite show when the green flag is clicked, but in the project in the question, the **egg** sprite does show.
+ A menudo, debes recordar hacer que un objeto se muestre cuando se hace clic en la bandera verde, pero en el proyecto de la pregunta, sí se muestra el objeto **huevo**.
 
   --- /feedback ---
 
@@ -64,7 +64,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- The **egg** sprite does go to the correct starting position on the Stage.
+ El objeto **huevo** sí va a la posición inicial correcta en el escenario.
 
   --- /feedback ---
 
