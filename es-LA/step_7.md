@@ -1,8 +1,8 @@
-## Upgrade your project
+## Mejora tu proyecto
 
-If you have time, you can upgrade your project.
+Si tienes tiempo, puedes mejorar tu proyecto.
 
-You could:
+Tú podrías:
 + Add to or improve your animation, with movement, looks, and graphic effects
 + Create or edit costumes in the Paint editor to make them look the way that you want
 + Record your voice or record sound effects and add the new sounds to your project
