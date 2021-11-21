@@ -1,61 +1,61 @@
-## Surprise
+## Sorpresa
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now, you need to add a surprise. What could happen to the object? 
-- Will it turn into another object? 
-- Will it turn into a character? 
-- Will it disappear and reveal another sprite? 
+Ahora necesitas agregar una sorpresa. ¿Qué podría pasar con el objeto? 
+- ¿Se convertirá en otro objeto? 
+- ¿Se convertirá en un personaje? 
+- ¿Desaparecerá y revelará otro objeto? 
 
-You decide!
+¡Tú decides!
 </div>
 <div>
 
-![The 'Cat magic' project showing the surprise.](images/cat-magic.png)
+![El proyecto 'Magia de gato' mostrando la sorpresa.](images/cat-magic.png)
 
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
+¿Alguna vez has escrito una historia con un giro de la trama o una sorpresa? ¿Has visto un programa o leído un libro con un final impredecible? Puede utilizar los mismos métodos al crear una historia o animación digital. 
 </p>
 
-### When will the surprise happen?
+### ¿Cuándo ocurrirá la sorpresa?
 
 --- task ---
 
-Select the **object** sprite. Add a script to make the surprise start when you want it to.
+Selecciona el objeto del **objeto**. Agrega un script para que la sorpresa comience cuando lo desees.
 
-You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
+Deberás elegir un tiempo de espera que funcione para tu proyecto. Si tienes un personaje que pasa mucho tiempo siendo curioso, deberás elegir un mayor tiempo de espera.
 
 [[[scratch3-time-delay]]]
 
 --- /task ---
 
-### Now, create the surprise!
+### ¡Ahora, crea la sorpresa!
 
 --- task ---
 
-The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
+El objeto podría `reproducir un sonido`{:class="block3sound"}, `cambiar de disfraz`{:class="block3looks"}, `cambiar de efectos gráficos`{:class="block3looks"} o `cambiar de tamaño`{:class="block3looks"}.
 
-You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it. For example, you could make the **Apple** turn into a **Ghost**.
+Podrías agregar un disfraz increíble al objeto, luego el objeto podría `cambiar de disfraz`{:class="block3looks"} para revelarlo. Por ejemplo, podrías hacer que una **Manzana** se convierta en un **Fantasma**.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the **object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
+Puedes hacer que el objeto parezca convertirse en otro objeto diferente. Para hacer esto, debes `esconder`{:class="block3looks"} el objeto de **objeto** al mismo tiempo que `mostrar`{:class="block3looks"} otro objeto.
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title: Esconde y muestra objetos
 ---
 
-The **object** sprite:
+El objeto **Objeto**:
 ```blocks3
 when [timer v] > (4) // set the delay
 hide
 ```
 
-A **surprise** sprite:
+Un objeto **sorpresa**:
 ```blocks3
 when [timer v] > (4) // same delay
 show
@@ -69,32 +69,32 @@ show
 
 --- task ---
 
-**Test:** Click on the green flag. Does the surprise happen at the right time? Does the animation reset properly?
+**Prueba:** Haz clic en la bandera verde. ¿Ocurre la sorpresa en el momento adecuado? ¿La animación se reinicia correctamente?
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**Depurar:**
 
-If you need a sprite to be in front of or behind another sprite, you can use layers:
+Si necesitas que un objeto esté delante o detrás de otro objeto, puedes utilizar capas:
 
 [[[scratch3-positioning-with-layers]]]
 
-If the surprise happens at the wrong time, you can fix that:
+Si la sorpresa ocurre en el momento equivocado, puedes solucionarlo:
 
 --- collapse ---
 ---
-title: Timer scripts start the surprise at the wrong time
+title: Los scripts del cronómetro hacen ocurrir la sorpresa en el momento equivocado
 ---
 
-Make sure that you have selected the `timer`{:class="block3events"} option in the `when loudness`{:class="block3events"} block:
+Asegúrate de haber seleccionado la opción `cronómetro`{:class="block3events"} en el bloque `cuando volumen del sonido`{:class="block3events"}:
 
 ```blocks3
 when [timer v] > [5]
 ```
 
-If you have the `timer`{:class="block3events"} selected correctly, try adjusting the amount of time that the timer waits.
+Si haz seleccionado el `cronómetro`{:class="block3events"} correctamente, intenta ajustar el tiempo de espera del cronómetro.
 
 --- /collapse ---
 
