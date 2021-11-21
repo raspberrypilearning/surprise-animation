@@ -55,17 +55,17 @@ Creaste tu animación dividiéndola en partes y construyéndola en el orden en q
   --- /feedback ---
 
 - ( )
-+ Setup
++ Configuración
 
-+ Curiosity
++ Curiosidad
 
-+ Reaction
++ Reacción
 
-+ Surprise!
++ ¡Sorpresa!
 
   --- feedback ---
 
- The surprise was not at the end of the animation. Something came afterwards.
+ La sorpresa no ocurrió al final de la animación. Algo vino después.
 
   --- /feedback ---
 
