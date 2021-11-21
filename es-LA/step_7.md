@@ -18,6 +18,6 @@ Cada proyecto en ['¡Sorpresa! animación - Ejemplos de 'Scratch studio](https:/
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Take a look at our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} to see projects created by community members.
+¡Echa un vistazo a nuestra [¡Sorpresa! animación - Comunidad de 'Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_ blank"} para ver proyectos creados por miembros de la comunidad.
 
 --- save ---
