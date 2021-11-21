@@ -3,15 +3,15 @@
 Si tienes tiempo, puedes mejorar tu proyecto.
 
 Tú podrías:
-+ Add to or improve your animation, with movement, looks, and graphic effects
-+ Create or edit costumes in the Paint editor to make them look the way that you want
-+ Record your voice or record sound effects and add the new sounds to your project
++ Agregar o mejorar tu animación, con movimiento, apariencia y efectos gráficos
++ Crear o editar disfraces en el Editor de dibujo para que se vean como tú quieras
++ Grabar tu voz o grabar efectos de sonido y agregarlos a tu proyecto
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Professional programmers explore and take inspiration from code created by other programmers. 
+Los programadores profesionales exploran y se inspiran en el código creado por otros programadores. 
 </p>
 
-Each project in the ['Surprise! animation — Examples' Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Cada proyecto en ['¡Sorpresa! animación - Ejemplos de 'Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_ blank"} tiene una opción **Ver dentro**, que puedes usar para abrir el proyecto en el editor de Scratch y mirar el código para obtener ideas y ver cómo funciona.
 
 **Doppelganger**: [See inside](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
