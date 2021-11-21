@@ -1,25 +1,25 @@
-## Curiosity
+## Curiosidad
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Will the object do something to attract attention? How will the character react?
+¿El objeto hará algo para llamar la atención? ¿Cómo reaccionará el personaje?
 
-You decide!
+¡Tú decides!
 </div>
 <div>
 
-![The 'BOO!' project showing the character being curious.](images/boo.png)
+![El proyecto 'BOO!' que muestra al personaje curioseando.](images/boo.png)
 
 </div>
 </div>
 
-### The object
+### El objeto
 
 --- task ---
 
-**Choose:** If you want the object to do something, choose what the object will do.
+**Elige:** Si deseas que el objeto haga algo, elige lo que hará.
 
-Add blocks to the end of the **object's** `when green flag clicked`{:class="block3events"} setup script.
+Agrega bloques al final del script de configuración del **objeto** `al presionar bandera verde ⚑`{:class="block3events"}.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -27,23 +27,23 @@ Add blocks to the end of the **object's** `when green flag clicked`{:class="bloc
 
 --- /task ---
 
-### The character
+### El personaje
 
 --- task ---
 
-Get the main character to show interest in the object. Add blocks to the end of the **character's** setup script.
+Haz que el personaje principal muestre interés en el objeto. Agrega bloques al final del script de configuración del **personaje**.
 
-If you need the character to wait until the object has done something, add a `wait`{:class="block3control"} block.
+Si necesitas que el personaje espere hasta que el objeto haya hecho algo, agrega un bloque `esperar`{:class="block3control"}.
 
-You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
+Puedes usar bloques `decir`{:class="block3looks"} o `pensar`{:class="block3looks"}, o incluso usar la extensión `Texto a Voz`{: class = "block3extensions"} ¡para hacer al personaje hablar!
 
 [[[scratch3-text-to-speech]]]
 
-The character could emote, like in the [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project.
+El personaje podría emocionarse, como en el proyecto [Conversación espacial](https://projects.raspberrypi.org/en/projects/space-talk){:target="_ blank"}.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-The character could be brave and move closer to check out the object.
+El personaje podría ser valiente y acercarse para ver el objeto.
 
 [[[scratch3-animate-movement-costumes]]]
 
@@ -51,16 +51,16 @@ The character could be brave and move closer to check out the object.
 
 --- task ---
 
-**Test:** Click on the green flag to test your project. The character should show curiosity about the object.
+**Prueba:** Haz clic en la bandera verde para probar tu proyecto. El personaje debe mostrar curiosidad por el objeto.
 
-Click on the green flag again. If you changed the **object** or **character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
+Vuelve a hacer clic en la bandera verde. Si cambiaste la posición o el aspecto del objeto del **personaje** o del **objeto**, tendrás que asegurarte de que vuelva a su posición o aspecto inicial cuando ejecutes el proyecto de nuevo.
 
 --- collapse ---
 ---
 title: Set the starting position and looks for a sprite
 ---
 
-Choose the blocks that you need to set the position and looks for a sprite at the start.
+Elige los bloques que necesitas para establecer la posición y apariencia del objeto al principio.
 
 ```blocks3
 when flag clicked // add blocks to set up the start 
@@ -72,7 +72,7 @@ set [brightness v] effect to [80]
 show
 ```
 
-**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want the sprite to have.
+**Sugerencia:** Todos los efectos gráficos se borran cuando haces clic en la bandera verde, por lo que no necesitas borrarlos, pero es posible que debas configurar los efectos que deseas que el objeto tenga.
 
 --- /collapse ---
 
@@ -80,23 +80,23 @@ show
 
 --- task ---
 
-**Debug:**
+**Depurar:**
 
 --- collapse ---
 ---
-title: The sound is not working
+título: El sonido no funciona
 ---
 
-Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
+Verifica que el volumen de tu computadora o tableta sea lo suficientemente alto y que tus parlantes o audífonos estén conectados y funcionando correctamente.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My animation does not reset properly when I click on the green flag
+título: Mi animación no se restablece correctamente cuando hago clic en la bandera verde
 ---
 
-Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
+Verifica que tu proyecto tenga scripts `al presionar bandera verde ⚑`{:class="block3events"} para los objetos que los necesitan, y verifica que restablezcan la posición, tamaño y apariencia de los objetos. Para obtener ayuda sobre esto, consulta la tarea de arriba **Establece la posición inicial y apariencia del objeto**.
 
 --- /collapse ---
 
