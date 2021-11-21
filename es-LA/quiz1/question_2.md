@@ -1,15 +1,15 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Pregunta 2 de 3
 ---
 
-In your project, you planned your animation with `timer`{:class="block3events"} or `wait`{:class="block3control"} blocks.
+En tu proyecto, planificaste tu animación con los bloques `cronómetro`{:class="block3events"} o `esperar`{:class="block3control"}.
 
-In this dinosaur project, you want the little dinosaur to wait 6 seconds before it pops out of the egg and surprises the big dinosaur.
+En este proyecto de dinosaurios, quieres que el dinosaurio pequeño espere 6 segundos antes de salir del huevo y sorprender al dinosaurio grande.
 
-![A dinosaur sprite and an egg sprite on the Stage.](images/quiz-q2.png)
+![Un objeto dinosaurio y un objeto huevo en el Escenario.](images/quiz-q2.png)
 
-Which script for the **little dinosaur** sprite would make this happen?
+¿Qué script del objeto **dinosaurio pequeño** haría que esto sucediera?
 
 --- choices ---
 
@@ -21,7 +21,7 @@ show
 
   --- feedback ---
 
- These are the right blocks to use, but you need to select `timer`{:class="block3events"} instead of `loudness`{:class="block3events"} in the drop-down menu.
+ Estos son los bloques correctos para usar, pero debes seleccionar `cronómetro`{:class="block3events"} en lugar de `volumen del sonido`{: class = "block3events"} en el menú desplegable.
 
   --- /feedback ---
 
@@ -33,7 +33,7 @@ show
 
   --- feedback ---
 
-This script needs user interaction for the little dinosaur to show.
+Este script necesita interacción del usuario para que se muestre el dinosaurio pequeño.
 
   --- /feedback ---
 
@@ -46,7 +46,7 @@ wait (6) seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
+ Aquí, el dinosaurio pequeño sorprende al dinosaurio grande y luego espera 6 segundos.
 
   --- /feedback ---
 
@@ -58,7 +58,7 @@ show
 
   --- feedback ---
 
- When the timer has waited 6 seconds, the little dinosaur appears and surprises the big dinosaur!
+ Cuando el cronómetro ha esperado 6 segundos, ¡aparece el dinosaurio pequeño y sorprende al dinosaurio grande!
 
   --- /feedback ---
 
