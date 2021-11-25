@@ -1,5 +1,5 @@
 
-## Reflection
+## Reflexión
 
 ¡Bien hecho, has aprendido mucho! Ahora es el momento de reflexionar: reflexionar es una parte importante del aprendizaje, porque ayuda a establecer nuevas conexiones en tu cerebro.
 
