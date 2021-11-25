@@ -19,7 +19,7 @@ Abre el proyecto de inicio [¡Sorpresa! animación](https://scratch.mit.edu/proj
 
 --- task ---
 
-**Choose:** Choose a sprite to be the main character and another sprite to be the interesting object.
+**Elige:** Elige un objeto para que sea el personaje principal y otro para que sea el objeto interesante.
 
 ![El ícono 'Elegir un objeto'.](images/add-sprite.png)
 
@@ -69,7 +69,7 @@ Para cambiar el tamaño de un objeto para todo el proyecto, cambia el número en
 
 ![](images/sprite-pane-size.png)
 
-Para cambiar el tamaño de un objeto para parte del proyecto, agrega código a `fijar tamaño a`{:class="block3looks"} el tamaño de su elección. This option is good if you want your sprite to change size in the project.
+Para cambiar el tamaño de un objeto para parte del proyecto, agrega código a `fijar tamaño a`{:class="block3looks"} el tamaño de su elección. Esta es una buena opción si quieres que tu objeto cambie de tamaño en el proyecto.
 
 ```blocks3
 set size to [100] % // <100 is smaller, >100 is bigger
