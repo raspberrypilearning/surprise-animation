@@ -57,7 +57,7 @@ Vuelve a hacer clic en la bandera verde. Si cambiaste la posición o el aspecto 
 
 --- collapse ---
 ---
-title: Set the starting position and looks for a sprite
+title: Establece la posición y apariencia iniciales del objeto
 ---
 
 Elige los bloques que necesitas para establecer la posición y apariencia del objeto al principio.
