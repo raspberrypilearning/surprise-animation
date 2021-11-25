@@ -5,7 +5,7 @@
 Ahora, el personaje principal debe reaccionar ante la sorpresa. ¿Qué hará? 
 - ¿Cuándo reaccionará?
 - ¿Cómo se emocionará? 
-- Will they say something, make a sound, change costumes, or move? 
+- ¿Dirá algo, hará un sonido, cambiará de disfraz o se moverá? 
 
 ¡Tú decides!
 </div>
