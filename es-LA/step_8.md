@@ -18,6 +18,6 @@ Si tienes una cuenta de Scratch y has compartido tu '¡Sorpresa! animación', ma
 
 ¡Inspira a la comunidad de la Fundación Raspberry Pi con tu proyecto!
 
-To submit your project to our ['Surprise! animación - Comunidad' de Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_ blank"}, por favor completa [este formulario](https://form.raspberrypi.org/f/community-project-submissions){:target="_ blank"}.
+Para enviar tu proyecto a nuestro ['¡Sorpresa! animación - Comunidad' de Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_ blank"}, por favor completa [este formulario](https://form.raspberrypi.org/f/community-project-submissions){:target="_ blank"}.
 
 --- /task ---
