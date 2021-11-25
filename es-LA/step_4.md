@@ -61,7 +61,7 @@ when [timer v] > (4) // same delay
 show
 ```
 
-**Tip:** If you make a **surprise** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Sugerencia:** Si haces que un objeto **sorpresa** se pueda `mostrar`{:class="block3looks"}, deberías hacer que se `esconda`{:class="block3looks"} `al presionar bandera verde ⚑`{:class="block3events"}.
 
 --- /collapse ---
 
