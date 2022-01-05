@@ -1,0 +1,19 @@
+agrega la posición del objeto
+
+<100 es más pequeño, > 100 es más grande
+
+actualiza esto para tu disfraz elegido
+
+dobla a la izquierda
+
+agrega bloques para configurar el inicio
+
+tamaño inicial
+
+posición inicial
+
+cambia el tiempo de espera
+
+establece el tiempo de espera
+
+mismo tiempo de espera
