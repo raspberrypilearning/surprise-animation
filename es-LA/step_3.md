@@ -84,7 +84,7 @@ show
 
 --- collapse ---
 ---
-título: El sonido no funciona
+title: El sonido no funciona
 ---
 
 Verifica que el volumen de tu computadora o tableta sea lo suficientemente alto y que tus parlantes o audífonos estén conectados y funcionando correctamente.
@@ -93,7 +93,7 @@ Verifica que el volumen de tu computadora o tableta sea lo suficientemente alto 
 
 --- collapse ---
 ---
-título: Mi animación no se restablece correctamente cuando hago clic en la bandera verde
+title: Mi animación no se restablece correctamente cuando hago clic en la bandera verde
 ---
 
 Verifica que tu proyecto tenga scripts `al presionar bandera verde ⚑`{:class="block3events"} para los objetos que los necesitan, y verifica que restablezcan la posición, tamaño y apariencia de los objetos. Para obtener ayuda sobre esto, consulta la tarea de arriba **Establece la posición inicial y apariencia del objeto**.
