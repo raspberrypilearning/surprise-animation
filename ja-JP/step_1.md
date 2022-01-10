@@ -1,11 +1,11 @@
-## Introduction
+## はじめに
 
 Create a short animation with a surprise.
 
-You will:
+あなたは次のことを行います。
 
-+ Use Scratch to create an animation
-+ Test and debug your code when you make changes
++ スクラッチを使用してアニメーションを作成する
++ 変更を加えるときにコードをテストしてデバッグする
 + Break an animation into parts — this is called **decomposition** — and build it one part at a time
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
@@ -42,7 +42,7 @@ The animation has four parts:
 
 --- /task ---
 
-### Get inspiration
+### インスピレーションを得る
 
 --- task ---
 
@@ -70,7 +70,7 @@ Think about what your story might be, and explore these example projects to get 
 
 --- print-only ---
 
-### Get inspiration
+### インスピレーションを得る
 
 You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
 
@@ -80,7 +80,7 @@ The animation has four parts:
 + Surprise!
 + Reaction
 
-![The 'Dinosaur surprise!' project.](images/dinosaur-surprise.png) ![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png) ![The 'Trespasser' project.](images/tresspass.png)
+![「恐竜サプライズ！」プロジェクト。](images/dinosaur-surprise.png) ![The 'BOO!' project.](images/boo.png) ![「猫の魔法」プロジェクト。](images/cat-magic.png) ![「侵入者」プロジェクト。](images/tresspass.png)
 
 --- /print-only ---
 
