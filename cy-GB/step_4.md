@@ -1,67 +1,67 @@
-## Surprise
+## Syrpreis
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now, you need to add a surprise. What could happen to the object? 
-- Will it turn into another object? 
-- Will it turn into a character? 
-- Will it disappear and reveal another sprite? 
+Nawr, mae angen i ti ychwanegu syrpréis. Beth allai ddigwydd i'r gwrthrych? 
+- A fydd yn troi'n wrthrych arall? 
+- A fydd yn troi'n gymeriad? 
+- A fydd yn diflannu ac yn datgelu corlun arall? 
 
-You decide!
+Ti sy'n penderfynu!
 </div>
 <div>
 
-![The 'Cat magic' project showing the surprise.](images/cat-magic.png)
+![Y prosiect 'Swyn y gath' yn dangos y syrpreis.](images/cat-magic.png)
 
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
+Wyt ti wedi ysgrifennu stori gyda thro yn y plot neu syrpréis? Wyt ti wedi gwylio rhaglen deledu neu ddarllen llyfr gyda diweddglo anrhagweladwy? Galli di ddefnyddio'r un dulliau wrth greu stori ddigidol neu animeiddiad. 
 </p>
 
-### When will the surprise happen?
+### Pryd bydd y syrpreis yn digwydd?
 
 --- task ---
 
-Select the **object** sprite. Add a script to make the surprise start when you want it to.
+Dewisa'r corlun **gwrthrych**. Ychwanega sgript i wneud i'r syrpreis ddechrau pan rwyt ti am iddo wneud hynny.
 
-You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
+Bydd angen i ti ddewis amser oedi sy'n gweithio i dy brosiect. Os oes gen ti gymeriad sy'n treulio amser hir yn bod yn chwilfrydig, bydd angen i ti ddewis amser oedi hirach.
 
 [[[scratch3-time-delay]]]
 
 --- /task ---
 
-### Now, create the surprise!
+### Nawr mae angen creu'r syrpreis!
 
 --- task ---
 
-The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
+Gallai'r gwrthrych `chwarae sain`{:class="block3sound"}, `newid gwisg`{:class="block3looks"}, `newid effeithiau graffeg`{:class="block3looks"}, neu `newid maint`{:class="block3looks"}.
 
-You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it. For example, you could make the **Apple** turn into a **Ghost**.
+Fe allet ti ychwanegu gwisg annisgwyl i'r corlun, yna gallai'r corlun `newid gwisg`{:class="block3looks"} i'w datgelu. Er enghraifft, fel allet ti wneud i'r **Afal** droi yn **Ysbryd**.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the **object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
+Fe allet ti wneud i'r corlun droi yn gorlun wahanol — i wneud hyn, mae angen `cuddio`{:class="block3looks"} y corlun **gwrthrych** ar yr un pryd ag wyt ti'n `dangos`{:class="block3looks"} corlun arall.
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title: Cuddio a dangos corluniau
 ---
 
-The **object** sprite:
+Y corlun **gwrthrych**:
 ```blocks3
 when [timer v] > (4) // set the delay
 hide
 ```
 
-A **surprise** sprite:
+Corlun **syrpreis**:
 ```blocks3
 when [timer v] > (4) // same delay
 show
 ```
 
-**Tip:** If you make a **surprise** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Awgrym:** Os wyt ti'n defnyddio `dangos`{:class="block3looks"} ar gorlun **syrpreis**, bydd angen gwneud iddo `guddio`{:class="block3looks"} `pan fydd y faner werdd wedi'i chlicio`{:class="block3events"}.
 
 --- /collapse ---
 
@@ -69,32 +69,32 @@ show
 
 --- task ---
 
-**Test:** Click on the green flag. Does the surprise happen at the right time? Does the animation reset properly?
+**Prawf:** Clicia ar y faner werdd. Ydy'r syrpreis yn digwydd ar yr amser iawn? Ydy'r animeiddiad yn ailosod yn iawn?
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**Difa chwilod:**
 
-If you need a sprite to be in front of or behind another sprite, you can use layers:
+Os wyt ti angen i'r corlun fod o flaen neu y tu ôl i gorlun arall, galli di ddefnyddio haenau:
 
 [[[scratch3-positioning-with-layers]]]
 
-If the surprise happens at the wrong time, you can fix that:
+Os bydd y syrpreis yn digwydd ar yr amser anghywir, galli di drwsio hynny:
 
 --- collapse ---
 ---
-title: Timer scripts start the surprise at the wrong time
+teitl: Mae sgriptiau amserydd yn cychwyn y syrpreis ar yr amser anghywir
 ---
 
-Make sure that you have selected the `timer`{:class="block3events"} option in the `when loudness`{:class="block3events"} block:
+Gwna'n siŵr dy fod wedi dewis yr opsiwn `amserydd`{:class="block3events"} yn y bloc `pan fydd cryfder sain`{:class="block3events"}:
 
 ```blocks3
 when [timer v] > [5]
 ```
 
-If you have the `timer`{:class="block3events"} selected correctly, try adjusting the amount of time that the timer waits.
+Os wyt ti wedi dewis yr `amserydd`{:class="block3events"} yn gywir, rho gynnig ar addasu faint o amser mae'r amserydd yn aros.
 
 --- /collapse ---
 
