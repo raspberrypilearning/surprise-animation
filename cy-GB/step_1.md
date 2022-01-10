@@ -1,18 +1,18 @@
-## Introduction
+## Cyflwyniad
 
-Create a short animation with a surprise.
+Creu animeiddiad byr gyda syrpreis.
 
-You will:
+Byddi di'n:
 
-+ Use Scratch to create an animation
-+ Test and debug your code when you make changes
-+ Break an animation into parts — this is called **decomposition** — and build it one part at a time
++ Defnyddio Scratch i greu animeiddiad
++ Profi a difa chwilod yn dy god wrth wneud newidiadau
++ Rhannu animeiddiad yn rhannau - proses sy'n cael ei alw'n **dadelfennu** - a'i adeiladu un rhan ar y tro
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. 
+  <span style="color: #0faeb0">**Dadelfennu**</span> yw'r broses o rannu prosiect yn rhannau sy'n llai ac yn haws eu deall. Mae hyn yn golygu y galli di adeiladu prosiect un rhan ar y tro nes dy fod wedi'i gwblhau. 
 </p>
 
-![Examples of projects.](images/surprise-example.png)
+![Enghreifftiau o brosiectau.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -21,19 +21,19 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Try it 
+### Rho gynnig arni
 
-Click on the green flag to watch the animation.
+Clicia'r faner werdd i wylio'r animeiddiad.
 
-The animation has four parts:
-+ Setup
-+ Curiosity
-+ Surprise!
-+ Reaction
+Mae pedair rhan i'r animeiddiad:
++ Gosod
++ Chwilfrydedd
++ Syrpreis!
++ Ymateb
 
 </div>
 <div>
-**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
+**Syrpreis dinasor!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -42,25 +42,25 @@ The animation has four parts:
 
 --- /task ---
 
-### Get inspiration
+### Cael ysbrydoliaeth
 
 --- task ---
 
-You will make design decisions and think of a story for your animation with a surprise.
+Byddi di'n gwneud penderfyniadau dylunio ac yn meddwl am stori ar gyfer dy animeiddiad sy'n cynnwys syrpreis.
 
-Think about what your story might be, and explore these example projects to get more ideas:
+Meddylia beth allai dy stori fod, a chymer olwg dros y prosiectau enghreifftiol hyn i gael mwy o syniadau:
 
-**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
+**BOO!**: [Gweld tu mewn](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
+**Cat magic**: [Gweld tu mewn](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Trespasser**: [See inside](https://scratch.mit.edu/projects/498616008/editor){:target="_blank"}
+**Trespasser**: [Gweld tu mewn](https://scratch.mit.edu/projects/498616008/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498616008/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -70,21 +70,21 @@ Think about what your story might be, and explore these example projects to get 
 
 --- print-only ---
 
-### Get inspiration
+### Cael ysbrydoliaeth
 
-You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
+Byddi di'n gwneud penderfyniadau dylunio ac yn meddwl am stori ar gyfer dy animeiddiad sy'n cynnwys syrpreis. Meddylia beth allai dy stori fod, ac i gael mwy o syniadau, **Cymer olwg y tu mewn i** brosiectau enghreifftiol yn stiwdio scratch 'Surprise! animation — Examples' https://scratch.mit.edu/studios/29075822/
 
-The animation has four parts:
-+ Setup
-+ Curiosity
-+ Surprise!
-+ Reaction
+Mae pedair rhan i'r animeiddiad:
++ Gosod
++ Chwilfrydedd
++ Syrpreis!
++ Ymateb
 
-![The 'Dinosaur surprise!' project.](images/dinosaur-surprise.png) ![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png) ![The 'Trespasser' project.](images/tresspass.png)
+![Y prosiect 'Syrpreis dinasor!'.](images/dinosaur-surprise.png) ![Y prosiect 'BOO'.](images/boo.png) ![Y prosiect 'Swyn y gath'.](images/cat-magic.png) ![Y prosiect 'Tresmaswr'.](images/tresspass.png)
 
 --- /print-only ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-There are people called <span style="color: #0faeb0">**narrative designers**</span> who do storytelling for apps and video games. But digital storytelling allows everyone to share their stories and creative imaginings with other people.
+Mae yna bobl o'r enw <span style="color: #0faeb0">**dylunwyr naratif**</span> sy'n datblygu'r straeon ar gyfer apiau a gemau fideo. Ond mae datblygu straeon digidol yn caniatáu i bawb rannu eu straeon a'u dychymyg creadigol â phobl eraill.
 </p>
  
