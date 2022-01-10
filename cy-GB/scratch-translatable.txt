@@ -1,0 +1,19 @@
+ychwanega safle'r corlun
+
+mae <100 yn llai, mae >100 yn fwy
+
+diweddaru hwn ar gyfer y wisg o dy ddewis
+
+troi i'r chwith
+
+ychwanegu blociau i osod y cychwyn
+
+maint dechreuol
+
+safle dechreuol
+
+newidia'r amser oedi
+
+gosod yr amser oedi
+
+yr un amser oedi
