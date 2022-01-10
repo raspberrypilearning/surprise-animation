@@ -1,26 +1,26 @@
 ---
-title: "Surprise! animation"
+title: "Animeiddiad Syrpreis!"
 hero_image: images/banner.png
-description: Create an animation of a story with a surprise
+description: Creu animeiddiad o stori gyda syrpreis
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-03-09"
 steps:
   - 
-    title: Introduction
+    title: Cyflwyniad
   - 
-    title: Setup
+    title: Gosod
   - 
-    title: Curiosity
+    title: Chwilfrydedd
     completion: engaged
   - 
-    title: Surprise
+    title: Syrpreis
   - 
-    title: Reaction
+    title: Ymateb
     completion: internal
   - 
-    title: Reflection
+    title: Myfyrio
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -28,8 +28,8 @@ steps:
       passing_score: 3
     completion: external
   - 
-    title: Upgrade your project
+    title: Uwchraddio dy brosiect
   - 
-    title: Share
+    title: Rhannu
   - 
-    title: What next?
+    title: Beth nesaf?
