@@ -57,7 +57,7 @@ Clicia ar y faner werdd eto. Os wyt ti wedi newid safloedd neu edrychiad corluni
 
 --- collapse ---
 ---
-teitl: Gosod y safle a'r edrychiad cychwynnol ar gyfer corlun
+title: Gosod y safle a'r edrychiad cychwynnol ar gyfer corlun
 ---
 
 Dewisa'r blociau sydd eu hangen arnat i osod y safle ac edrychiad ar gyfer corlun ar y dechrau.

@@ -11,13 +11,13 @@ Gallet ti:
 Mae rhaglenwyr proffesiynol yn arbrofi gyda chod a grëwyd gan raglenwyr eraill ac yn cymryd ysbrydoliaeth ohono. 
 </p>
 
-Mae gan bob prosiect yn y <0>stiwdio scratch 'Animeiddiad syrpreis! — Examples'</a>{:target="_blank"} ddolen **Gweld tu mewn**, y galli di ei defnyddio i agor y prosiect yn y golygydd Scratch a tharo golwg ar y cod i gael syniadau a gweld sut mae'r prosiect yn gweithio.
+Mae gan bob prosiect yn y [stiwdio scratch 'Animeiddiad syrpreis! — Examples'](https://scratch.mit.edu/studios/29075822){:target="_blank"} ddolen **Gweld tu mewn**, y galli di ei defnyddio i agor y prosiect yn y golygydd Scratch a tharo golwg ar y cod i gael syniadau a gweld sut mae'r prosiect yn gweithio.
 
 **Doppelganger**: [Gweld tu mewn](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Cymer olwg ar ein  <0>animeiddiad syrpreis! - stiwdio Cymuned Scratch</a>{:target="_blank"} i weld prosiectau sydd wedi'u creu gan aelodau'r gymuned.
+Cymer olwg ar ein [animeiddiad syrpreis! - stiwdio Cymuned Scratch](https://scratch.mit.edu/studios/29079784){:target="_blank"} i weld prosiectau sydd wedi'u creu gan aelodau'r gymuned.
 
 --- save ---

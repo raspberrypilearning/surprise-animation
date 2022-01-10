@@ -13,9 +13,7 @@ Yn y cam hwn, byddi di'n ychwanegu cefnlen, prif gymeriad, a gwrthrych diddorol.
 
 --- task ---
 
-Agora'r
-
-prosiect cychwynnol animeiddio syrpreis!</0>{:target="_blank"} ac edrych ar yr holl gorluniau a chefnlenni y galli di eu defnyddio. Treulia ychydig o amser yn meddwl am dy brif gymeriad, gwrthrych diddorol, a chefndir.</p> 
+Agora'r [prosiect cychwynnol animeiddio syrpreis!](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"} ac edrych ar yr holl gorluniau a chefnlenni y galli di eu defnyddio. Treulia ychydig o amser yn meddwl am dy brif gymeriad, gwrthrych diddorol, a chefndir. 
 
 --- /task ---
 

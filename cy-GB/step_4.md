@@ -85,7 +85,7 @@ Os bydd y syrpreis yn digwydd ar yr amser anghywir, galli di drwsio hynny:
 
 --- collapse ---
 ---
-teitl: Mae sgriptiau amserydd yn cychwyn y syrpreis ar yr amser anghywir
+title: Mae sgriptiau amserydd yn cychwyn y syrpreis ar yr amser anghywir
 ---
 
 Gwna'n siŵr dy fod wedi dewis yr opsiwn `amserydd`{:class="block3events"} yn y bloc `pan fydd cryfder sain`{:class="block3events"}:
