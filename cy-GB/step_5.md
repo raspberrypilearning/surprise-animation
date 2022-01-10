@@ -1,36 +1,36 @@
-## Reaction
+## Ymateb
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now, the main character needs to react to the surprise. What will they do? 
-- When will they react?
-- How will they emote? 
-- Will they say something, make a sound, change costumes, or move? 
+Nawr, mae angen i'r prif gymeriad ymateb i'r syrpreis. Beth fyddan nhw'n ei wneud? 
+- Pryd fyddan nhw'n ymateb?
+- Pa fath o emoshlun fyddan nhw'n ei ddefnyddio? 
+- Fyddan nhw'n dweud rhywbeth, yn gwneud sŵn, yn newid gwisgoedd, neu'n symud? 
 
-You decide!
+Ti sy'n penderfynu!
 </div>
 <div>
 
-![The 'Trespasser' project showing the reaction to the surprise.](images/tresspass.png)
+![Y prosiect 'Tresmaswr' yn dangos ymateb i syrpreis.](images/tresspass.png)
 
 </div>
 </div>
 
-### When will the character react?
+### Pryd fydd y cymeriad yn ymateb?
 
 --- task ---
 
-Select the **character** sprite. Add a script to make the reaction start when you want it to.
+Dewisa'r corlun **cymeriad**. Ychwanega sgript i wneud i'r ymateb ddechrau pan rwyt ti am iddo wneud hynny.
 
 [[[scratch3-time-delay]]]
 
 --- /task ---
 
-### How will the character react?
+### Sut bydd y cymeriad yn ymateb?
 
 --- task ---
 
-Choose the actions that make sense for your character and their reaction.
+Dewisa'r gweithredoedd sy'n gwneud synnwyr i dy gymeriad a'i ymateb.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
@@ -48,13 +48,13 @@ Choose the actions that make sense for your character and their reaction.
 
 --- task ---
 
-**Test:** Click on the green flag. Does your animation flow as you want it to? Have you created suspense and a reaction in your story? Does everything reset correctly when you click on the green flag again?
+**Prawf:** Clicia ar y faner werdd. Ydy dy animeiddiad yn llifo fel roeddet ti eisiau iddo wneud? Wyt ti wedi creu tensiwn ac ymateb yn dy stori? Ydy popeth yn ailosod yn gywir pan wyt ti'n clicio ar y faner werdd eto?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might need to change the amount of time in some or all of the `when timer`{:class="block3events"} and `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
+**Difa chwilod:** Efallai bydd angen i ti newid faint o amser sydd yn y blociau `pan amserydd`{:class="block3events"} ac `aros`{:class="block3control"}, neu ychwanegu mwy o flociau `aros`{:class="block3control"}, i gael yr amseru yn iawn.
 
 --- /task ---
 
