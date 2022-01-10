@@ -1,15 +1,15 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Cwestiwn 2 o 3
 ---
 
-In your project, you planned your animation with `timer`{:class="block3events"} or `wait`{:class="block3control"} blocks.
+Yn dy brosiect, fe wnes di gynllunio dy animeiddiad gyda blociau `amserydd`{:class="block3events"} neu `aros`{:class="block3control"}.
 
-In this dinosaur project, you want the little dinosaur to wait 6 seconds before it pops out of the egg and surprises the big dinosaur.
+Yn y prosiect deinosor yma, rwyt ti am gael y deinosor bach i aros am 6 eiliad cyn iddo sboncio allan o'r wy a synnu'r deinosor mawr.
 
-![A dinosaur sprite and an egg sprite on the Stage.](images/quiz-q2.png)
+![Corlun deinosor a chorlun wy ar y Llwyfan.](images/quiz-q2.png)
 
-Which script for the **little dinosaur** sprite would make this happen?
+Pa sgript ar gyfer y corlun **little dinosaur** fyddai'n gwneud i hyn ddigwydd?
 
 --- choices ---
 
@@ -21,7 +21,7 @@ show
 
   --- feedback ---
 
- These are the right blocks to use, but you need to select `timer`{:class="block3events"} instead of `loudness`{:class="block3events"} in the drop-down menu.
+ Dyma'r blociau cywir i'w defnyddio, ond mae angen i ti ddewis `amserydd`{:class="block3events"} yn hytrach na `cryfder sain`{:class="block3events"} yn y gwymplen.
 
   --- /feedback ---
 
@@ -33,7 +33,7 @@ show
 
   --- feedback ---
 
-This script needs user interaction for the little dinosaur to show.
+Mae angen rhyngweithio gan y defnyddwyr ar y sgript hon er mwyn i'r deinosor bach ymddangos.
 
   --- /feedback ---
 
@@ -46,7 +46,7 @@ wait (6) seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
+ Yma, mae'r deinosor bach yn synnu'r deinosor mawr, ac yna'n aros 6 eiliad.
 
   --- /feedback ---
 
@@ -58,7 +58,7 @@ show
 
   --- feedback ---
 
- When the timer has waited 6 seconds, the little dinosaur appears and surprises the big dinosaur!
+ Pan fydd yr amserydd wedi aros am 6 eiliad, mae'r deinosor bach yn ymddangos ac yn synnu'r deinosor mawr!
 
   --- /feedback ---
 
