@@ -21,7 +21,7 @@ Open the [surprise! animation starter project](https://scratch.mit.edu/projects/
 
 **Choose:** Choose a sprite to be the main character and another sprite to be the interesting object.
 
-![The 'Choose a Sprite' icon.](images/add-sprite.png)
+![[スプライトを選ぶ] アイコン。](images/add-sprite.png)
 
 --- /task ---
 
@@ -31,7 +31,7 @@ Where do you want your animation to take place?
 
 **Choose:** Choose a backdrop to set the scene.
 
-![The 'Choose a Backdrop' icon.](images/add-backdrop.png)
+![[背景を選ぶ] アイコン。](images/add-backdrop.png)
 
 --- /task ---
 
@@ -84,7 +84,7 @@ title: Set the costumes of your sprites
 
 To change the costume of a sprite for the whole project, click on the **Costumes** tab and select one of the available costumes:
 
-![The Costumes tab, with the available costumes for a sprite.](images/nano-costumes.png)
+![[コスチューム] タブ。スプライトに使用できるコスチュームが表示されます。](images/nano-costumes.png)
 
 To change the costume of a sprite for part of the project, add a `switch costume to`{:class="block3looks"} block to your code and update it to show the costume of your choice:
 
@@ -124,7 +124,7 @@ point in direction (-90) // turn to the left
 
 --- task ---
 
-Save your project.
+プロジェクトを保存(ほぞん)しましょう。
 
 [[[generic-scratch3-saving]]]
 
