@@ -1,26 +1,26 @@
 
-## Reflection
+## Beth nesaf?
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
+Da iawn! Rwyt ti wedi dysgu cryn dipyn! Nawr, mae'n bryd myfyrio ar y dysgu - mae hyn yn elfen bwysig o ddysgu, oherwydd mae'n helpu i wneud cysylltiadau newydd yn dy ymennydd.
 
-Answer the three questions below to reflect on what you have learned.
+Ateba'r tri chwestiwn isod i fyfyrio ar yr hyn rwyt ti wedi'i ddysgu.
 
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Ar ôl ateb pob cwestiwn, clicia ar **Cyflwyno**. Byddi di'n cael dy dywys i'r ateb cywir. Galli di wneud hyn gymaint ag y mynni.
 
-Have fun!
+Mwynha!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Cwestiwn 1 o 3
 ---
 
-In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
+Yn dy brosiect, byddi di'n creu animeiddiad sy'n cynnwys syrpreis. Clicia ar y faner werdd i redeg yr animeiddiad isod, wedyn ei redeg eto.
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Did you notice anything odd the second time? The surprise was ruined! What code block would you add to make the surprise work?
+Wnes di sylwi ar unrhyw beth od yr eildro? Cafodd y syrpreis ei ddifetha! Pa floc cod fyddet ti'n ei ychwanegu i wneud i'r syrpreis weithio?
 
 --- choices ---
 
@@ -31,7 +31,7 @@ set size to (150) %
 
   --- feedback ---
 
- The **egg** sprite is the correct size when you run the program again.
+ Mae'r corlun **egg** y maint iawn pan fyddi di'n rhedeg y rhaglen eto.
 
   --- /feedback ---
 
@@ -42,18 +42,18 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Yes. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
+ Cywir. Mae angen i ti wneud i'r corlun newid i'r wisg gywir (**egg-a**) pan fydd y prosiect yn cychwyn.
 
   --- /feedback ---
 
 - ( )
 ```blocks3
-show
+dangos
 ```
 
   --- feedback ---
 
- You often need to remember to make a sprite show when the green flag is clicked, but in the project in the question, the **egg** sprite does show.
+ Yn aml mae angen i ti gofio gwneud i gorlun ymddangos pan fydd y faner werdd yn cael ei chlicio, ond yn y prosiect yma, mae'r corlun **egg** yn cael ei ddangos.
 
   --- /feedback ---
 
@@ -64,7 +64,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- The **egg** sprite does go to the correct starting position on the Stage.
+ Mae'r corlun **egg** yn mynd i'r man cychwyn cywir ar y Llwyfan.
 
   --- /feedback ---
 
