@@ -1,19 +1,19 @@
-add the sprite's position
+ychwanega safle'r corlun
 
-<100 is smaller, >100 is bigger
+mae <100 yn llai, mae >100 yn fwy
 
-update this for your chosen costume
+diweddaru hwn ar gyfer y wisg o dy ddewis
 
-turn to the left
+troi i'r chwith
 
-add blocks to set up the start
+ychwanegu blociau i osod y cychwyn
 
-starting size
+maint dechreuol
 
-starting position
+safle dechreuol
 
-change the delay
+newidia'r amser oedi
 
-set the delay
+gosod yr amser oedi
 
-same delay
+yr un amser oedi
