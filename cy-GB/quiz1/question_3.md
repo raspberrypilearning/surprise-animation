@@ -1,71 +1,71 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Cwestiwn 3 o 3
 ---
 
-You created your animation by breaking it into parts and building it in the order in which it runs.
+Fe wnes di greu dy animeiddiad drwy ei dorri'n rhannau a'i adeiladu yn y drefn y mae'n rhedeg.
 
-Which order represents the animation that you made?
+Pa drefn sy'n cynrychioli'r animeiddiad y gwnes di ei greu?
 
 --- choices ---
 
 - ( )
-+ Curiosity
++ Chwilfrydedd
 
-+ Setup
++ Gosod
 
-+ Surprise!
++ Syrpreis!
 
-+ Reaction
++ Ymateb
 
   --- feedback ---
 
- The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
+ Mae'r rhan 'gosod' yn ailosod dy animeiddiad. Mae angen iddi ddod yn gyntaf fel bod modd rhedeg dy animeiddiad eto yn yr un modd.
 
   --- /feedback ---
 
 - ( )
-+ Reaction
++ Ymateb
 
-+ Surprise!
++ Syrpreis!
 
-+ Curiosity
++ Chwilfrydedd
 
-+ Setup
++ Gosod
 
   --- feedback ---
 
- Think about what you did first. The reaction came later.
+ Meddylia am yr hyn wnes di gyntaf. Daeth yr ymateb nes ymlaen.
 
   --- /feedback ---
 
 - (x)
-+ Setup
++ Gosod
 
-+ Curiosity
++ Chwilfrydedd
 
-+ Surprise!
++ Syrpreis!
 
-+ Reaction
++ Ymateb
 
   --- feedback ---
 
- Yes! You set up your sprites first, then your story built to a final reaction.
+ Cywir! Wnes di osod y corluniau'n gyntaf, yna fe adeiladodd dy stori i ymateb terfynol.
 
   --- /feedback ---
 
 - ( )
-+ Setup
++ Gosod
 
-+ Curiosity
++ Chwilfrydedd
 
-+ Reaction
++ Ymateb
 
-+ Surprise!
++ Syrpreis!
 
   --- feedback ---
 
- The surprise was not at the end of the animation. Something came afterwards.
+ Doedd y syrpreis ddim ar ddiwedd yr animeiddiad. Daeth rhywbeth ar ôl hynny.
 
   --- /feedback ---
 
