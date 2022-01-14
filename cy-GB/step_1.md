@@ -33,9 +33,9 @@ Mae pedair rhan i'r animeiddiad:
 
 </div>
 <div>
-**Syrpreis dinasor!**: [Gweld tu mewn](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
+**Syrpreis dinasor!**: [Gweld tu mewn](https://scratch.mit.edu/projects/628367388/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/628367388/?autostart=false" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -50,19 +50,19 @@ Byddi di'n gwneud penderfyniadau dylunio ac yn meddwl am stori ar gyfer dy anime
 
 Meddylia beth allai dy stori fod, a chymer olwg dros y prosiectau enghreifftiol hyn i gael mwy o syniadau:
 
-**BOO!**: [Gweld tu mewn](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
+**BOO!**: [Gweld tu mewn](https://scratch.mit.edu/projects/628364546/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/628364546/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Cat magic**: [Gweld tu mewn](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
+**Swyn y gath**: [Gweld tu mewn](https://scratch.mit.edu/projects/628366141/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/628366141/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Trespasser**: [Gweld tu mewn](https://scratch.mit.edu/projects/498616008/editor){:target="_blank"}
+**Tresmaswr**: [Gweld tu mewn](https://scratch.mit.edu/projects/628368951/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498616008/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/628368951/?autostart=false" frameborder="0"></iframe>
 </div>
 --- /task ---
 
