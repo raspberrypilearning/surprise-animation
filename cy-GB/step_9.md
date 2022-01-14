@@ -4,9 +4,9 @@ Os wyt ti'n dilyn y llwybr [Cyflwyniad i Scratch](https://projects.raspberrypi.o
 
 --- no-print ---
 
-**Goleuo'r ffordd adref**: [Gweld tu mewn](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+**Goleuo'r ffordd adref**: [Gweld tu mewn](https://scratch.mit.edu/projects/627804682/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/627804682/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /no-print ---
