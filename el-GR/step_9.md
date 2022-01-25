@@ -1,4 +1,4 @@
-## Τι υπάρχει στη συνέχεια;
+## Και τώρα;
 
 Εάν ακολουθείς το μονοπάτι[Εισαγωγή στο Scratch](https://projects.raspberrypi.org/en/pathway/scratch-intro), μπορείς να προχωρήσεις στο έργο [Σου έφτιαξα ένα βιβλίο](https://projects.raspberrypi.org/en/projects/i-made-you-a-book). Σε αυτό το έργο, θα φτιάξεις ένα βιβλίο στο Scratch βασισμένο στη δική σου ιδέα.
 
