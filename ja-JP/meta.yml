@@ -1,26 +1,26 @@
 ---
-title: "Surprise! animation"
+title: "サプライズ！アニメーション"
 hero_image: images/banner.png
-description: Create an animation of a story with a surprise
+description: 驚きのあるストーリーのアニメーションを作成する
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-03-09"
 steps:
   - 
-    title: Introduction
+    title: はじめに
   - 
-    title: Setup
+    title: 設定
   - 
-    title: Curiosity
+    title: 好奇心
     completion: engaged
   - 
-    title: Surprise
+    title: サプライズ
   - 
-    title: Reaction
+    title: 反応
     completion: internal
   - 
-    title: Reflection
+    title: ふりかえり
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -28,8 +28,8 @@ steps:
       passing_score: 3
     completion: external
   - 
-    title: Upgrade your project
+    title: プロジェクトをアップグレードする
   - 
-    title: Share
+    title: 共有
   - 
-    title: What next?
+    title: 次は何をしますか？
