@@ -1,0 +1,26 @@
+---
+title: "Κινούμενη εικόνα Έκπληξη!"
+hero_image: images/banner.png
+description: Δημιούργησε μία κινούμενη εικόνα μίας ιστορίας με μία έκπληξη
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-03-09"
+steps:
+  - title: Εισαγωγή
+  - title: Προετοιμασία
+  - title: Περιέργεια
+    completion: engaged
+  - title: '''Εκπληξη'
+  - title: Αντίδραση
+    completion: internal
+  - title: Αναστοχασμός
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion: external
+  - title: Αναβάθμιση του έργου σου
+  - title: Μοιράσου
+  - title: Και μετά;
