@@ -1,0 +1,26 @@
+---
+title: "サプライズ！アニメーション"
+hero_image: images/banner.png
+description: 驚きのあるストーリーのアニメーションを作成する
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-03-09"
+steps:
+  - title: はじめに
+  - title: セットアップ
+  - title: 好奇心
+    completion: engaged
+  - title: サプライズ
+  - title: リアクション
+    completion: internal
+  - title: ふりかえり
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion: external
+  - title: プロジェクトをアップグレードする
+  - title: 共有する
+  - title: 次は何をしますか？
