@@ -1,71 +1,71 @@
 --- question ---
 ---
-legend: Question 3 of 3
+凡例：質問3/3
 ---
 
-You created your animation by breaking it into parts and building it in the order in which it runs.
+アニメーションをパーツに分割し、実行順に構築することでアニメーションを作成しました。
 
-Which order represents the animation that you made?
+あなたが作ったアニメーションを表すのは次のうちのどの項目ですか？
 
 --- choices ---
 
 - ( )
-+ Curiosity
++ 好奇心
 
-+ Setup
++ セットアップ
 
-+ Surprise!
++ サプライズ！
 
-+ Reaction
++ 反応
 
   --- feedback ---
 
- The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
+ 「セットアップ」部分はアニメーションをリセットします。 アニメーションを同じ方法で再度実行できるように、最初に来る必要があります。
 
   --- /feedback ---
 
 - ( )
-+ Reaction
++ 反応
 
-+ Surprise!
++ サプライズ！
 
-+ Curiosity
++ 好奇心
 
-+ Setup
++ セットアップ
 
   --- feedback ---
 
- Think about what you did first. The reaction came later.
+ あなたが最初にしたことについて考えてください。 反応は後で来ました。
 
   --- /feedback ---
 
 - (x)
-+ Setup
++ セットアップ
 
-+ Curiosity
++ 好奇心
 
-+ Surprise!
++ サプライズ！
 
-+ Reaction
++ 反応
 
   --- feedback ---
 
- Yes! You set up your sprites first, then your story built to a final reaction.
+ はい! 最初にスプライトを設定し、次にストーリーを構築して最終的な反応を実現します。
 
   --- /feedback ---
 
 - ( )
-+ Setup
++ セットアップ
 
-+ Curiosity
++ 好奇心
 
-+ Reaction
++ 反応
 
-+ Surprise!
++ サプライズ！
 
   --- feedback ---
 
- The surprise was not at the end of the animation. Something came afterwards.
+ サプライズはアニメーションの終わりではありませんでした。 その後、何かが起こった。
 
   --- /feedback ---
 
