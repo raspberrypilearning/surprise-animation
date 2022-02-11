@@ -4,9 +4,9 @@
 
 --- no-print ---
 
-**帰り道を照らす**： [内部を見る](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+**帰り道を照らす**： [内部を見る](https://scratch.mit.edu/projects/631852044/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/631852044/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /no-print ---
