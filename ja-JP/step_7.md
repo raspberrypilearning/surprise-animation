@@ -1,23 +1,23 @@
-## Upgrade your project
+## プロジェクトをアップグレードする
 
-If you have time, you can upgrade your project.
+時間がある場合は、プロジェクトをアップグレードできます。
 
-You could:
-+ Add to or improve your animation, with movement, looks, and graphic effects
-+ Create or edit costumes in the Paint editor to make them look the way that you want
-+ Record your voice or record sound effects and add the new sounds to your project
+こんなことができます:
++ 動き、見た目、画像効果を使用して、アニメーションを追加または改善します
++ ペイントエディタでコスチュームを作成または編集して、希望どおりの見た目にします
++ 音声を録音するか、効果音を録音して、プロジェクトに新しいサウンドを追加します
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Professional programmers explore and take inspiration from code created by other programmers. 
+プロのプログラマーは、他のプログラマーによって作成されたコードを探索し、そこからインスピレーションを得ます。 
 </p>
 
-Each project in the ['Surprise! animation — Examples' Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+'サプライズ！アニメーション ー 例' スクラッチスタジオ</0>{:target="_blank"}の各プロジェクトは **中を見る**リンクがあり、それを使用してScratchエディターでプロジェクトを開き、コードを見てアイデアを得て、プロジェクトがどのように機能するかを確認できます。</p> 
 
-**Doppelganger**: [See inside](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
+**ドッペルゲンガー**： [内部を参照](https://scratch.mit.edu/projects/500767602/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Take a look at our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} to see projects created by community members.
+コミュニティメンバーが作ったプロジェクトを見るには、 <0>'サプライズ！アニメーション ー コミュニティ' スクラッチスタジオ</a>{:target="_blank"}を見てみてください。
 
 --- save ---
