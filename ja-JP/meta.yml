@@ -8,11 +8,11 @@ copyedit: false
 last_tested: "2021-03-09"
 steps:
   - title: はじめに
-  - title: 設定
+  - title: セットアップ
   - title: 好奇心
     completion: engaged
   - title: サプライズ
-  - title: 反応
+  - title: リアクション
     completion: internal
   - title: ふりかえり
     knowledge_quiz:
