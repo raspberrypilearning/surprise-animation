@@ -1,36 +1,36 @@
-## Reaction
+## リアクション
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now, the main character needs to react to the surprise. What will they do? 
-- When will they react?
-- How will they emote? 
-- Will they say something, make a sound, change costumes, or move? 
+さて、主人公はサプライズに反応する必要があります。 彼らは何をしますか？ 
+- 彼らはいつ反応しますか？
+- 彼らはどのように感情を表しますか？ 
+- 何かを言ったり、音を立てたり、コスチュームを変えたり、移動したりしますか？ 
 
-You decide!
+あなたが決める！
 </div>
 <div>
 
-![The 'Trespasser' project showing the reaction to the surprise.](images/tresspass.png)
+！[驚きへの反応を示す「侵入者」プロジェクト。](images/tresspass.png)
 
 </div>
 </div>
 
-### When will the character react?
+### 主人公はいつ反応しますか？
 
 --- task ---
 
-Select the **character** sprite. Add a script to make the reaction start when you want it to.
+**主人公** のスプライトを選択します。 スクリプトを追加して、必要なときにリアクションを開始します。
 
 [[[scratch3-time-delay]]]
 
 --- /task ---
 
-### How will the character react?
+### 主人公はどのように反応しますか？
 
 --- task ---
 
-Choose the actions that make sense for your character and their reaction.
+主人公とその反応に納得のいくアクションを選択してください。
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
@@ -48,13 +48,13 @@ Choose the actions that make sense for your character and their reaction.
 
 --- task ---
 
-**Test:** Click on the green flag. Does your animation flow as you want it to? Have you created suspense and a reaction in your story? Does everything reset correctly when you click on the green flag again?
+**テスト：** 緑色の旗をクリックします。 アニメーションは思い通りに表示されますか？ ストーリーにサスペンスとリアクションを生み出しましたか？ 緑の旗をもう一度クリックすると、すべてが正しくリセットされますか？
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might need to change the amount of time in some or all of the `when timer`{:class="block3events"} and `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
+**デバッグ：** タイミングを正しく調整するには、`タイマー`{:class="block3events"} と `待つ`{:class="block3control"} ブロックの時間を変更するもしくは`待つ`{:class="block3control"} ブロックを追加する必要があるかもしれません。
 
 --- /task ---
 
