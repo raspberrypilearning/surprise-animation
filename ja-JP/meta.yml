@@ -10,14 +10,14 @@ steps:
   - 
     title: はじめに
   - 
-    title: 設定
+    title: セットアップ
   - 
     title: 好奇心
     completion: engaged
   - 
     title: サプライズ
   - 
-    title: 反応
+    title: リアクション
     completion: internal
   - 
     title: ふりかえり
@@ -30,6 +30,6 @@ steps:
   - 
     title: プロジェクトをアップグレードする
   - 
-    title: 共有
+    title: 共有する
   - 
     title: 次は何をしますか？
