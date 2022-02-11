@@ -1,67 +1,67 @@
-## Surprise
+## サプライズ
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now, you need to add a surprise. What could happen to the object? 
-- Will it turn into another object? 
-- Will it turn into a character? 
-- Will it disappear and reveal another sprite? 
+今、あなたはサプライズを追加する必要があります。 オブジェクトはどうなりますか？ 
+-別のオブジェクトになりますか？ 
+- 主人公になりますか？ 
+- 消えて別のスプライトにしますか？ 
 
-You decide!
+あなたが決める！
 </div>
 <div>
 
-![The 'Cat magic' project showing the surprise.](images/cat-magic.png)
+！[驚きを示す「猫の魔法」プロジェクト。]（images / cat-magic.png）
 
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
+どんでん返しや驚きのある物語を書いたことがありますか？ ショーを見たり、終わりが予測できない本を読んだりしたことがありますか？ デジタルストーリーやアニメーションを作成するときも同じ方法を使用できます。 
 </p>
 
-### When will the surprise happen?
+### サプライズはいつ起こりますか？
 
 --- task ---
 
-Select the **object** sprite. Add a script to make the surprise start when you want it to.
+**オブジェクト** スプライトを選択します。 スクリプトを追加して、必要なときにサプライズを開始できるようにします。
 
-You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
+プロジェクトに適した時間遅延を選択する必要があります。 好奇心をそそるのに長い時間を費やす主人公がいる場合は、より長い遅延を選択する必要があります。
 
 [[[scratch3-time-delay]]]
 
 --- /task ---
 
-### Now, create the surprise!
+### さあ、サプライズを作りましょう！
 
 --- task ---
 
-The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
+オブジェクトは、 `音を鳴らす`{:class = "block3sound"}、 `コスチュームを◯にする`{:class = "block3looks"}、 `画像効果を変更`{:class = "block3looks"}、または `大きさを変更`{:class = "block3looks"}。
 
-You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it. For example, you could make the **Apple** turn into a **Ghost**.
+スプライトに意外なコスチュームを追加すると、スプライトは`コスチューム`{:class = "block3looks"}をそれに切り替えて表示できます。 たとえば、あなたは **りんご**が**お化け**になるようにすることもできます。
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the **object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
+スプライトを別のスプライトに変化するようにすることもできます。これを行うには、**オブジェクト**を`隠す`{:class = "block3looks"} と同時に 別のスプライトを`表示`{:class="block3looks"} します。
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title: スプライトの表示と非表示
 ---
 
-The **object** sprite:
+**オブジェクト** スプライト：
 ```blocks3
 when [timer v] > (4) // set the delay
 hide
 ```
 
-A **surprise** sprite:
+**サプライズ** スプライト：
 ```blocks3
 when [timer v] > (4) // same delay
 show
 ```
 
-**Tip:** If you make a **surprise** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**ヒント：** もし**サプライズ** スプライトを `表示`{:class="block3looks"} する場合、 `緑の旗が押された`{:class="block3events"}ときにそのスプライトを`隠す`{:class="block3looks"}必要があります。
 
 --- /collapse ---
 
@@ -69,32 +69,32 @@ show
 
 --- task ---
 
-**Test:** Click on the green flag. Does the surprise happen at the right time? Does the animation reset properly?
+**テスト：** 緑色の旗をクリックします。 サプライズは適切なタイミングで起こりますか？ アニメーションは正しくリセットされますか？
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**デバッグ：**
 
-If you need a sprite to be in front of or behind another sprite, you can use layers:
+スプライトを別のスプライトの前または後ろに配置する必要がある場合は、レイヤーを使用できます。
 
 [[[scratch3-positioning-with-layers]]]
 
-If the surprise happens at the wrong time, you can fix that:
+サプライズが起こるタイミングが悪ければ、それを修正します。
 
 --- collapse ---
 ---
-title: Timer scripts start the surprise at the wrong time
+title: タイマースクリプトが間違った時間にサプライズを開始する
 ---
 
-Make sure that you have selected the `timer`{:class="block3events"} option in the `when loudness`{:class="block3events"} block:
+`音量`{:class = "block3events"}ブロックの `タイマー`{:class = "block3events"}オプションを選択していることを確認してください。
 
 ```blocks3
 when [timer v] > [5]
 ```
 
-If you have the `timer`{:class="block3events"} selected correctly, try adjusting the amount of time that the timer waits.
+`タイマー`{:class = "block3events"}が正しく選択されている場合は、タイマーが待機する時間を調整してみてください。
 
 --- /collapse ---
 
