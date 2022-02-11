@@ -1,75 +1,75 @@
-## Setup
+## セットアップ
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Have you got an idea about your animation? 
+あなたはあなたのアニメーションについてのアイディアを持っていますか？ 
   
-In this step, you will add a backdrop, main character, and interesting object. 
+このステップでは、背景、主人公、そしておもしろいオブジェクトを追加します。 
 </div>
 <div>  
-![The 'Dinosaur surprise!' project once set up.](images/dinosaur-surprise.png)
+![「恐竜サプライズ！」プロジェクトが設定されたら。](images/dinosaur-surprise.png)
 </div>
 </div>
 
 --- task ---
 
-Open the [surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"} and look at the range of sprites and backdrops that you can use. Spend some time thinking about your main character, interesting object, and backdrop.
+[サプライズを開きます！ アニメーションスタータープロジェクト](https://scratch.mit.edu/projects/582222532/editor){：target = "_ blank"}を開き、使用できるスプライトと背景の範囲を確認します。 主人公やおもしろいオブジェクト、背景についてしばらく考えてみてください。
 
 --- /task ---
 
 --- task ---
 
-**Choose:** Choose a sprite to be the main character and another sprite to be the interesting object.
+**選択：** １つのスプライトが主人公になるように選択し、別のスプライトをおもしろいオブジェクトとして選択します。
 
 ![[スプライトを選ぶ] アイコン。](images/add-sprite.png)
 
 --- /task ---
 
-Where do you want your animation to take place?
+アニメーションをどこで実行しますか？
 
 --- task ---
 
-**Choose:** Choose a backdrop to set the scene.
+**選択：** 背景を選択してシーンを設定します。
 
 ![[背景を選ぶ] アイコン。](images/add-backdrop.png)
 
 --- /task ---
 
-Where do you want your sprites to start? How big do you want them to be? How do you want them to look?
+スプライトをどこから始めたいですか？ どれくらいの大きさにしたいですか？ 彼らをどのように見せたいですか？
 
 --- task ---
 
-Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation.
+`「緑の旗をクリックしたとき」 `{:class="block3events"}ブロックを追加し、アニメーションの開始時のスプライトを設定するためにその下にいくつかブロックを追加してください。
 
-Remember to set up both your **main character** and your **interesting object**.
+**主人公** と **おもしろいオブジェクト**両方を設定することを忘れないでください。
 
 --- collapse ---
 ---
-title: Position your sprites
+title: スプライトを配置します
 ---
 
-To change the position of the **main character** sprite for the whole project, move the main character to the position of your choice on the Stage.
+**主人公**のスプライトのプロジェクト全体での位置を変えるには、ステージ上の任意の位置に主人公を移動してください。
 
-To change the position of the **main character** sprite for part of the project, move the main character to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
+**主人公**のスプライトの位置をプロジェクトのある部分に対して変えたい場合は 、ステージ上の任意の位置に主人公を移動し、 `x: y:に行く`{:class="block3motion"}ブロックをあなたのコードに追加してください：
 
 ```blocks3
 go to x: (0) y: (0) // add the sprite's position
 ```
 
-Repeat this task for the **interesting object**.
+**おもしろいオブジェクト**に対してこのタスクを繰り返します。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Resize your sprites
+title: スプライトのサイズを変更します
 ---
 
-To change the size of a sprite for the whole project, change the number in the **Size** property in the Sprite pane:
+プロジェクト全体に対してのスプライトのサイズを変更するには、[スプライト] ペインの **サイズ**の数値を変えてください。
 
 ![](images/sprite-pane-size.png)
 
-To change the size of a sprite for part of the project, add code to `set size to`{:class="block3looks"} the size of your choice. This option is good if you want your sprite to change size in the project.
+スプライトのサイズをプロジェクトの一部に対して変更するには、任意の値にセットした`大きさを◯％にする`{:class="block3looks"}をコードに足してください。 このオプションは、プロジェクト中のスプライトのサイズを変更する場合に適しています。
 
 ```blocks3
 set size to [100] % // <100 is smaller, >100 is bigger
@@ -79,20 +79,20 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: Set the costumes of your sprites
+title: スプライトのコスチュームを設定します
 ---
 
-To change the costume of a sprite for the whole project, click on the **Costumes** tab and select one of the available costumes:
+プロジェクト全体のスプライトのコスチュームを変更するには、[ **コスチューム**] タブをクリックして、使用可能なコスチュームの1つを選択します。
 
 ![[コスチューム] タブ。スプライトに使用できるコスチュームが表示されます。](images/nano-costumes.png)
 
-To change the costume of a sprite for part of the project, add a `switch costume to`{:class="block3looks"} block to your code and update it to show the costume of your choice:
+プロジェクトの一部のスプライトのコスチュームを変更するには、 `コスチュームを◯にする`{：class = "block3looks"}ブロックに追加し、選択したコスチュームを表示するように更新します。
 
 ```blocks3
 switch costume to [ v]  // update this for your chosen costume
 ```
 
-To hide a sprite at the start of the project, add a `hide`{:class="block3looks"} block to your code:
+プロジェクトの開始時にスプライトを非表示にするには、 `隠す`{:class="block3looks"}ブロックをコードに追加します。
 
 ```blocks3
 hide 
@@ -102,16 +102,16 @@ hide
 
 --- collapse ---
 ---
-title: Set the direction of your sprites
+title: スプライトの方向を設定します
 ---
 
-Your sprites might be facing the wrong way when you add them to your project.
+スプライトをプロジェクトに追加したときは、スプライトが間違った方向を向いていることがあります。
 
-To change the direction of a sprite for the whole project, change the **Direction** and **rotation style** in the Sprite pane:
+スプライトの方向をプロジェクト全体に対して変更するには、スプライトペインの **向き** と **回転方法**を変えてください。
 
-![The Direction and rotation style menu in the Sprite pane.](images/sprite-pane-direction.png)
+![スプライトペインの方向と回転方法メニュー。](images/sprite-pane-direction.png)
 
-To change the direction of a sprite for part of the project, add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}:
+スプライトの方向をプロジェクトの一部に対して変更するには、`回転方法`{:class="block3motion"}と `方向`{:class="block3motion"}を変えるためにブロックをコードに追加してください。
 
 ```blocks3
 set rotation style [left-right v]
