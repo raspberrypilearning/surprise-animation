@@ -1,15 +1,15 @@
 --- question ---
 ---
-legend: Question 2 of 3
+凡例：質問2/3
 ---
 
-In your project, you planned your animation with `timer`{:class="block3events"} or `wait`{:class="block3control"} blocks.
+あなたのプロジェクトで、あなたは`タイマー`{:class="block3events"}または `待機`{:class="block3control"} ブロックでアニメーションを計画しました。
 
-In this dinosaur project, you want the little dinosaur to wait 6 seconds before it pops out of the egg and surprises the big dinosaur.
+この恐竜プロジェクトでは、小さな恐竜が6秒間待ってから卵から飛び出し、大きな恐竜を驚かせます。
 
-![A dinosaur sprite and an egg sprite on the Stage.](images/quiz-q2.png)
+![ステージ上の恐竜のスプライトと卵のスプライト。](images/quiz-q2.png)
 
-Which script for the **little dinosaur** sprite would make this happen?
+**小さな恐竜** スプライトのどのスクリプトがこれを実現しますか？
 
 --- choices ---
 
@@ -21,7 +21,7 @@ show
 
   --- feedback ---
 
- These are the right blocks to use, but you need to select `timer`{:class="block3events"} instead of `loudness`{:class="block3events"} in the drop-down menu.
+ これらは適切なブロックですが、 ドロップダウンメニューで`音量`{:class="block3events"}の代わりに、`タイマー`{:class="block3events"}を選択する必要があります。
 
   --- /feedback ---
 
@@ -33,7 +33,7 @@ show
 
   --- feedback ---
 
-This script needs user interaction for the little dinosaur to show.
+このスクリプトでは、小さな恐竜を表示するためにユーザーの操作が必要です。
 
   --- /feedback ---
 
@@ -46,7 +46,7 @@ wait (6) seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
+ ここでは、小さな恐竜が大きな恐竜を驚かせてから、6秒間待ちます。
 
   --- /feedback ---
 
@@ -58,7 +58,7 @@ show
 
   --- feedback ---
 
- When the timer has waited 6 seconds, the little dinosaur appears and surprises the big dinosaur!
+ タイマーが6秒待つと、小さな恐竜が現れて大きな恐竜を驚かせます！
 
   --- /feedback ---
 
