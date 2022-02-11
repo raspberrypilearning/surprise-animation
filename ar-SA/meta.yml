@@ -10,17 +10,17 @@ steps:
   - 
     title: المقدمة
   - 
-    title: نظام
+    title: التهيئة
   - 
     title: فضول
     completion: engaged
   - 
     title: مفاجئة
   - 
-    title: رد الفعل
+    title: تفاعل
     completion: internal
   - 
-    title: انعكاس
+    title: تفكير
     knowledge_quiz:
       path: quiz1
       version: 1
