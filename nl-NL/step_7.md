@@ -1,8 +1,8 @@
 ## Verbeter je project
 
-Als je tijd hebt, kunt je jouw project verbeteren.
+Als je tijd hebt, kun je jouw project verbeteren.
 
-Je zou:
+Je kunt:
 + Je animatie uitbreiden of verbeteren met beweging, uiterlijken en grafische effecten
 + Uiterlijken maken of bewerken in de Paint-editor om ze eruit te laten zien zoals jij dat wilt
 + Jouw stem of geluidseffecten opnemen en de nieuwe geluiden toevoegen aan jouw project

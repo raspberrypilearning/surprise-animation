@@ -13,7 +13,7 @@ steps:
     completion: engaged
   - title: Verrassing
   - title: Reactie
-    completion: internal 
+    completion: internal
   - title: Reflectie
     knowledge_quiz:
       path: quiz1
