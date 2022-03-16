@@ -18,6 +18,6 @@ Elk project in de ['Verrassing! animatie — Voorbeelden' Scratch studio](https:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Kijk dan eens bij onze [' Verrassing! animatie — Community' Scratchstudio](https://scratch.mit.edu/studios/29079784){:target="_blank"} om projecten te zien die zijn gemaakt door communityleden.
+Kijk dan eens bij onze ['Verrassing! animatie — Community' Scratchstudio](https://scratch.mit.edu/studios/29079784){:target="_blank"} om projecten te zien die zijn gemaakt door communityleden.
 
 --- save ---
