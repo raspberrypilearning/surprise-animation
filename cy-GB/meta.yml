@@ -26,9 +26,9 @@ steps:
       version: 1
       questions: 3
       passing_score: 3
-    completion: external
   - 
     title: Uwchraddio dy brosiect
+    completion: external
   - 
     title: Rhannu
   - 
