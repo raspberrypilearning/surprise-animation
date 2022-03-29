@@ -92,7 +92,7 @@ Para trocar a fantasia de um ator em parte do projeto, adicione um bloco `troca 
 switch costume to [ v]  // update this for your chosen costume
 ```
 
-Para ocultar um ator no início do projeto, adicione um bloco `hide`{: class = "block3looks"} ao seu código:
+Para ocultar um ator no início do projeto, adicione um bloco `esconda`{: class = "block3looks"} ao seu código:
 
 ```blocks3
 hide 
@@ -107,7 +107,7 @@ title: Defina a direção de seus atores
 
 Seus atores podem estar voltados para o lado errado quando você os adiciona ao seu projeto.
 
-Para alterar a direção de um ator para todo o projeto, altere o estilo de rotação **Direção** e **** no painel atores:
+Para alterar a direção de um ator para todo o projeto, altere o **estilo de rotação** e **Direção** no painel atores:
 
 ![O menu de estilo de direção e rotação no painel ator.](images/sprite-pane-direction.png)
 
