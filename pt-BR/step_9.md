@@ -1,10 +1,10 @@
-## What next?
+## E agora?
 
-If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathway/scratch-intro) pathway, you can move on to the [I made you a book](https://projects.raspberrypi.org/en/projects/i-made-you-a-book) project. In this project, you will make a book in Scratch based on your own idea.
+Se você está seguindo o caminho [Introdução ao Scratch](https://projects.raspberrypi.org/en/pathway/scratch-intro), você pode avançar para o projeto [Eu fiz um livro](https://projects.raspberrypi.org/en/projects/i-made-you-a-book). Neste projeto, você fará um livro no Scratch baseado em sua própria ideia.
 
 --- no-print ---
 
-**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+**Ilumine o caminho para casa**:[Veja o interior](https://scratch.mit.edu/projects/499860786/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -13,10 +13,10 @@ If you are following the [Introduction to Scratch](https://projects.raspberrypi.
 
 --- print-only ---
 
-![An 'I made you a book' project.](images/book-cover.png)
+![Um projeto do tipo 'Eu fiz um livro para você'.](images/book-cover.png)
 
 --- /print-only ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+Se você quiser se divertir mais explorando o Scratch, poderá experimentar qualquer um dos [projetos](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
 
