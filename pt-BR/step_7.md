@@ -1,23 +1,23 @@
-## Upgrade your project
+## Melhore o seu projeto
 
-If you have time, you can upgrade your project.
+Se você tiver tempo, pode melhorar seu projeto.
 
-You could:
-+ Add to or improve your animation, with movement, looks, and graphic effects
-+ Create or edit costumes in the Paint editor to make them look the way that you want
-+ Record your voice or record sound effects and add the new sounds to your project
+Você poderia:
++ Adicione ou melhore sua animação, com movimento, aparência e efeitos gráficos
++ Crie ou edite fantasias no editor de pintura para torná-las do jeito que você deseja
++ Grave sua voz ou grave efeitos sonoros e adicione novos sons ao seu projeto
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Professional programmers explore and take inspiration from code created by other programmers. 
+Os programadores profissionais exploram e se inspiram no código criado por outros programadores. 
 </p>
 
-Each project in the ['Surprise! animation — Examples' Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Para submeter o seu projeto ao nosso ['Surpresa! animação - Exemplos 'Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_ blank"} tem um **Ver dentro de**, que você pode usar para abrir o projeto no editor Scratch e olhar o código para ter ideias e ver como o projeto funciona.
 
-**Doppelganger**: [See inside](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
+**Sósia**: [Veja dentro de](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Take a look at our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} to see projects created by community members.
+Dê uma olhada em nosso ['Surpresa! animação - Comunidade 'Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_ blank"} para ver os projetos criados por membros da comunidade.
 
 --- save ---
