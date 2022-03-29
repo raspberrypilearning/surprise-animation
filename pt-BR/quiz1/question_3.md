@@ -1,71 +1,71 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legenda: Pergunta 3 de 3
 ---
 
-You created your animation by breaking it into parts and building it in the order in which it runs.
+Você criou sua animação dividindo ela em partes e construindo ela na ordem em que é executada.
 
-Which order represents the animation that you made?
+Qual ordem representa a animação que você fez?
 
 --- choices ---
 
 - ( )
-+ Curiosity
++ Curiosidade
 
-+ Setup
++ Configurar
 
-+ Surprise!
++ Surpresa!
 
-+ Reaction
++ Reação
 
   --- feedback ---
 
- The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
+ A parte de 'configuração' reinicia sua animação. Ela precisa vir primeiro para que sua animação possa ser executada novamente da mesma maneira.
 
   --- /feedback ---
 
 - ( )
-+ Reaction
++ Reação
 
-+ Surprise!
++ Surpresa!
 
-+ Curiosity
++ Curiosidade
 
-+ Setup
++ Configurar
 
   --- feedback ---
 
- Think about what you did first. The reaction came later.
+ Pense no que você fez primeiro. A reação veio depois.
 
   --- /feedback ---
 
 - (x)
-+ Setup
++ Configurar
 
-+ Curiosity
++ Curiosidade
 
-+ Surprise!
++ Surpresa!
 
-+ Reaction
++ Reação
 
   --- feedback ---
 
- Yes! You set up your sprites first, then your story built to a final reaction.
+ Sim! Você configura seus atores primeiro, então sua história é construída para uma reação final.
 
   --- /feedback ---
 
 - ( )
-+ Setup
++ Configurar
 
-+ Curiosity
++ Curiosidade
 
-+ Reaction
++ Reação
 
-+ Surprise!
++ Surpresa!
 
   --- feedback ---
 
- The surprise was not at the end of the animation. Something came afterwards.
+ A surpresa não ficou no final da animação. Algo aconteceu depois.
 
   --- /feedback ---
 
