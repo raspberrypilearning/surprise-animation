@@ -1,0 +1,19 @@
+adicione a posição do ator
+
+<100 é menor,> 100 é maior
+
+atualize isso para o seu traje escolhido
+
+vire à esquerda
+
+adicione blocos para configurar o início
+
+tamanho inicial
+
+posições iniciais
+
+mude o intervalo
+
+defina o intervalo
+
+mesmo intervalo
