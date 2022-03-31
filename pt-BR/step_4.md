@@ -11,7 +11,7 @@ Você decide!
 </div>
 <div>
 
-![O projeto 'Gato mágico' mostrando a surpresa.](Images/cat-magic.png)
+![O projeto 'Gato mágico' mostrando a surpresa.](images/cat-magic.png)
 
 </div>
 </div>
@@ -46,7 +46,7 @@ Você poderia fazer o ator parecer um ator diferente - para fazer isso, `esconda
 
 --- collapse ---
 ---
-título: Ocultar e mostrar atores
+title: Ocultar e mostrar atores
 ---
 
 O **objeto** ator:
@@ -85,7 +85,7 @@ Se a surpresa acontecer na hora errada, você pode consertar:
 
 --- collapse ---
 ---
-título: Scripts de cronômetro começam a surpresa na hora errada
+title: Scripts de cronômetro começam a surpresa na hora errada
 ---
 
 Certifique-se de ter selecionado a opção `cronômetro`{:class="block3events"} no bloco `quando ruído`{:class="block3events"}:
