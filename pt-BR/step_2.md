@@ -39,7 +39,7 @@ Onde você quer que seus atores comecem? Quão grande você quer que eles sejam?
 
 --- task ---
 
-Adicione um `quando a bandeira verde clicar em`bloco{:class="block3events"} e, abaixo, adicione blocos para configurar seus atores no início da animação.
+Adicione um `quando a bandeira verde clicar em`{:class="block3events"} bloco e, abaixo, adicione blocos para configurar seus atores no início da animação.
 
 Lembre-se de configurar seu **personagem principal** e seus **objetos interessantes**.
 
@@ -65,7 +65,7 @@ Repita esta tarefa para o **objeto de interesse**.
 title: Redimensione seus atores
 ---
 
-Para alterar o tamanho de um ator para todo o projeto, altere o número em**Tamanho** no painel do ator:
+Para alterar o tamanho de um ator para todo o projeto, altere o número em **Tamanho** no painel do ator:
 
 ![](images/sprite-pane-size.png)
 
