@@ -1,26 +1,29 @@
 ---
-title: "Animation Surprise!"
+title: Animation Surprise!
 hero_image: images/banner.png
 description: Créer une animation d'une histoire avec une surprise
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-03-09"
+last_tested: '2021-03-09'
 steps:
-  - title: Introduction
-  - title: Configuration
-  - title: Curiosité
-    completion: engaged
-  - title: Surprise
-  - title: Réaction
-    completion: internal 
-  - title: Réflexion
-    completion: external
-    knowledge_quiz:
-      path: quiz1
-      version: 1
-      questions: 3
-      passing_score: 3
-  - title: Améliorer ton projet
-  - title: Partager
-  - title: Et ensuite ?
+- title: Introduction
+- title: Configuration
+- title: Curiosité
+  completion:
+  - engaged
+- title: Surprise
+- title: Réaction
+  completion:
+  - internal
+- title: Réflexion
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 3
+    passing_score: 3
+  completion:
+  - external
+- title: Améliorer ton projet
+- title: Partager
+- title: Et ensuite ?
