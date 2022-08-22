@@ -1,4 +1,4 @@
-## Curiosity 
+## Show curiosity 
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -13,11 +13,17 @@ You decide!
 </div>
 </div>
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. In this step you will focus only on the curiosity part of your animation.
+</p>
+
 ### The object
 
 --- task ---
 
-**Choose:** If you want the object to do something, choose what the object will do.
+**Choose:** If you want the object to do something to attract attention, choose what the object will do.
+
+![A desert background with a rock jiggling back and forth.](images/jiggle.gif){width: 200px;}
 
 Add blocks to the end of the **object's** `when green flag clicked`{:class="block3events"} setup script.
 
@@ -31,9 +37,11 @@ Add blocks to the end of the **object's** `when green flag clicked`{:class="bloc
 
 --- task ---
 
-Get the main character to show interest in the object. Add blocks to the end of the **character's** setup script. 
+Get the main character to show interest in the object. Add blocks to the end of the **main character's** setup script. 
 
 If you need the character to wait until the object has done something, add a `wait`{:class="block3control"} block.
+
+![A desert background with a rock jiggling back and forth.](images/bear.gif){width: 300px;}
 
 You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
 

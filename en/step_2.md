@@ -1,4 +1,4 @@
-## Setup
+## Create your scene
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -13,13 +13,25 @@ In this step, you will add a backdrop, main character, and interesting object.
 
 --- task ---
 
-Open the [surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"} and look at the range of sprites and backdrops that you can use. Spend some time thinking about your main character, interesting object, and backdrop.
+Open the [surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"} and look at the range of sprites and backdrops that you can use. 
+
+Spend some time thinking about your main character, interesting object, and backdrop. You could choose:
+
++ 🐯 Land Animals
++ 🐠 Sea animals 
++ 👽 Aliens
++ 🌿 Nature
++ 🌈 Weather
++ 🌮 Food
++ 🚀 Travel
++ ⚾ Sport
+Or something else
 
 --- /task ---
 
 --- task ---
 
-**Choose:** Choose a sprite to be the main character and another sprite to be the interesting object.
+**Choose:** Choose a sprite to be the **main character** and another sprite to be the **interesting object.**
 
 ![The 'Choose a Sprite' icon.](images/add-sprite.png)
 
@@ -35,22 +47,22 @@ Where do you want your animation to take place?
 
 --- /task ---
 
+### Setup
+
 Where do you want your sprites to start? How big do you want them to be? How do you want them to look?
 
 --- task ---
 
 Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation. 
 
-Remember to set up both your **main character** and your **interesting object**.
+**Tip:** Remember to set up both your **main character** and your **interesting object**.
 
 --- collapse ---
 ---
 title: Position your sprites
 ---
 
-To change the position of the **main character** sprite for the whole project, move the main character to the position of your choice on the Stage. 
-
-To change the position of the **main character** sprite for part of the project, move the main character to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
+Move the main character to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
 
 ```blocks3
 go to x: (0) y: (0) // add the sprite's position

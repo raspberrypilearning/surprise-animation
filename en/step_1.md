@@ -4,12 +4,12 @@ Create a short animation with a surprise.
 
 You will:
 
-+ Use Scratch to create an animation
++ Use Scratch to create your own animation
 + Test and debug your code when you make changes
-+ Break an animation into parts — this is called **decomposition** — and build it one part at a time
++ Break your animation into parts — this is called **decomposition** — and build it one part at a time
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. 
+  <span style="color: #0faeb0">**Animation**</span> creates the effect of movement by changing pictures quickly. The first animators carved pictures out of wooden blocks and used them as stamps. It is much faster to use Scratch to code your animation!
 </p>
 
 ![Examples of projects.](images/surprise-example.png)
@@ -25,8 +25,7 @@ You will:
 
 Click on the green flag to watch the animation.
 
-The animation has four parts:
-+ Setup
+The animation has three parts:
 + Curiosity
 + Surprise!
 + Reaction
