@@ -23,7 +23,7 @@ You decide!
 
 **Choose:** If you want the object to do something to attract attention, choose what the object will do.
 
-![A desert background with a rock jiggling back and forth.](images/jiggle.gif){width: 200px;}
+![A desert background with a rock jiggling back and forth.](images/jiggle.gif)
 
 Add blocks to the end of the **object's** `when green flag clicked`{:class="block3events"} setup script.
 
@@ -41,7 +41,7 @@ Get the main character to show interest in the object. Add blocks to the end of 
 
 If you need the character to wait until the object has done something, add a `wait`{:class="block3control"} block.
 
-![A desert background with a rock jiggling back and forth.](images/bear.gif){width: 300px;}
+![A desert background with a rock jiggling back and forth.](images/bear.gif)
 
 You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
 
