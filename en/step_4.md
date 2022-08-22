@@ -1,4 +1,4 @@
-## Surprise
+## Surprise!
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -28,7 +28,10 @@ Select the **object** sprite. Add a script to make the surprise start when you w
 
 You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
 
-[[[scratch3-time-delay]]]
+```blocks3
+when flag clicked
+wait (5) seconds // change the number to create your time delay
+```
 
 --- /task ---
 
@@ -38,7 +41,9 @@ You will need to choose a time delay that works for your project. If you have a 
 
 The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
 
-You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it. For example, you could make the **Apple** turn into a **Ghost**.
+You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it.
+
+![A desert background with a rock jiggling back and forth.](images/bat.gif){width: 300px;}
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -51,17 +56,21 @@ title: Hide and show sprites
 
 The **object** sprite:
 ```blocks3
-when [timer v] > (4) // set the delay
+when flag clicked
+show
+wait (5) seconds
 hide
 ```
 
-A **surprise** sprite:
+The **surprise object** sprite:
 ```blocks3
-when [timer v] > (4) // same delay
+when flag clicked
+hide
+wait (5) seconds
 show
 ```
 
-**Tip:** If you make a **surprise** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Tip:** If you make a **surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
 
 --- /collapse ---
 
@@ -85,16 +94,10 @@ If the surprise happens at the wrong time, you can fix that:
 
 --- collapse ---
 ---
-title: Timer scripts start the surprise at the wrong time
+title: The surprise starts at the wrong time
 ---
 
-Make sure that you have selected the `timer`{:class="block3events"} option in the `when loudness`{:class="block3events"} block:
-
-```blocks3
-when [timer v] > [5]
-```
-
-If you have the `timer`{:class="block3events"} selected correctly, try adjusting the amount of time that the timer waits.
+You might need to change the amount of time in some or all of the `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
 
 --- /collapse ---
 
