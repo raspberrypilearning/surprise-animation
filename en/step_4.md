@@ -1,4 +1,4 @@
-## Surprise!
+## Add a surprise!
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -43,7 +43,7 @@ The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="
 
 You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it.
 
-![A desert background with a rock jiggling back and forth.](images/bat.gif){width: 300px;}
+![A desert background with a rock jiggling back and forth.](images/bat.gif)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 

@@ -12,7 +12,7 @@ steps:
 - title: Show curiosity
   completion:
   - engaged
-- title: Surprise!
+- title: Add a surprise!
   completion:
   - internal
 - title: Reflection

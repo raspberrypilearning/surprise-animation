@@ -21,3 +21,25 @@ Inspire the Raspberry Pi Foundation community with your project!
 To submit your project to our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
+
+### Community submissions 
+
+--- task ---
+
+Take a look at these fabulous community projects from our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
+
+**Jumpscare!**: [See inside](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Surprise eggs**: [See inside](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723810901/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Scarify building**: [See inside](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/578827663/?autostart=false" frameborder="0"></iframe>
+</div>
+--- /task ---

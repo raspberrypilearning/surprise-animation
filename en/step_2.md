@@ -1,15 +1,10 @@
 ## Create your scene
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Have you got an idea about your animation? 
   
-In this step, you will add a backdrop, main character, and interesting object. 
-</div>
-<div>  
-![The 'Dinosaur surprise!' project once set up.](images/dinosaur-surprise.png)
-</div>
-</div>
+In this step, you will add a backdrop, main character, and interesting object to create the first part of your animation. 
+
+![A film strip with 3 frames. The first frame is highlighted. The frame shows a scene with characher, object, and background.](images/scene.svg)
 
 --- task ---
 
@@ -25,7 +20,7 @@ Spend some time thinking about your main character, interesting object, and back
 + 🌮 Food
 + 🚀 Travel
 + ⚾ Sport
-Or something else
+.... Or something else
 
 --- /task ---
 
@@ -55,7 +50,7 @@ Where do you want your sprites to start? How big do you want them to be? How do 
 
 Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation. 
 
-**Tip:** Remember to set up both your **main character** and your **interesting object**.
+**Tip:** Remember to set up both your **main character** and your **interesting object** sprites.
 
 --- collapse ---
 ---
