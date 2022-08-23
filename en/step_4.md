@@ -1,11 +1,11 @@
 ## Add a surprise!
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Now, you need to add a surprise. What could happen to the object? 
 - Will it turn into another object? 
 - Will it turn into a character? 
-- Will it disappear and reveal another sprite? You decide! In this step you will, create the **third part** of your animation. 
+- Will it disappear and reveal another sprite? 
+
+You decide! In this step you will, create the **third part** of your animation. 
 
 ![A film strip with 3 frames. The third frame is highlighted. The frame shows a scene with character looking surprised at an object.](images/surprise.svg)
 
