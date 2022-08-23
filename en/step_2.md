@@ -11,7 +11,7 @@ In this step, you will add a backdrop, main character, and interesting object.
 </div>
 </div>
 
-![A film strip with 3 frames. The first frame is highlighted. The frame shows a scene with characher, object, and background.](images/surprise.svg)
+![A film strip with 3 frames. The first frame is highlighted. The frame shows a scene with characher, object, and background.](images/scene.svg)
 
 --- task ---
 
