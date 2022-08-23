@@ -11,6 +11,8 @@ In this step, you will add a backdrop, main character, and interesting object.
 </div>
 </div>
 
+![A film strip with 3 frames. The first frame is highlighted. The frame shows a scene with characher, object, and background.](images/surprise.svg)
+
 --- task ---
 
 Open the [surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"} and look at the range of sprites and backdrops that you can use. 
