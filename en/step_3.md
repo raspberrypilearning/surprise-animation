@@ -1,6 +1,6 @@
 ## Show curiosity 
 
-Will the object do something to attract attention? How will the character react? In this step, create the **second part** of your animation. 
+Will the object do something to attract attention? How will the character react? You decide! In this step, create the **second part** of your animation. 
 
 ![A film strip with 3 frames. The second frame is highlighted. The frame shows a scene with character thinking 'hmmmm' while looking at a curious object.](images/curiosity.svg)
 

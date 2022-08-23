@@ -2,9 +2,9 @@
 
 Have you got an idea about your animation? 
   
-In this step, you will add a backdrop, main character, and interesting object to create the **first part** of your animation. 
+In this step, you will add a backdrop, main character, and interesting object of your choice to create the **first part** of your animation. 
 
-![A film strip with 3 frames. The first frame is highlighted. The frame shows a scene with characher, object, and background.](images/scene.svg)
+![A film strip with 3 frames. The first frame is highlighted. The frame shows a scene with character, object, and background.](images/scene.svg)
 
 --- task ---
 
