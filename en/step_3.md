@@ -1,8 +1,8 @@
 ## Show curiosity 
 
-Will the object do something to attract attention? How will the character react? You decide! In this step, create the **second part** of your animation. 
+Will the object do something to attract attention? How will the character react? You decide! Create the **second part** of your animation. 
 
-![A film strip with 3 frames. The second frame is highlighted. The frame shows a scene with character thinking 'hmmmm' while looking at a curious object.](images/curiosity.svg)
+![A film strip with 3 frames. The second frame is highlighted. The frame shows a scene with character thinking 'hmmmm' while looking at a curious object.](images/curiosity.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
   <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. In this step you will focus only on the curiosity part of your animation.
@@ -12,11 +12,11 @@ Will the object do something to attract attention? How will the character react?
 
 --- task ---
 
-**Choose:** If you want the object to do something to attract attention, choose what the object will do.
+**Choose:** If you want the 🎂🎾🎁 **interesting object** to do something to attract attention, choose what the object will do.
 
 ![A desert background with a rock jiggling back and forth.](images/jiggle.gif)
 
-Add blocks to the end of the **object's** `when green flag clicked`{:class="block3events"} setup script.
+Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green flag clicked`{:class="block3events"} setup script.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -28,9 +28,9 @@ Add blocks to the end of the **object's** `when green flag clicked`{:class="bloc
 
 --- task ---
 
-Get the main character to show interest in the object. Add blocks to the end of the **main character's** setup script. 
+Get the 🐙👩‍🦼🦖 **main character** to show interest in the object. Add blocks to the end of the 🐙👩‍🦼🦖 **main character's** setup script. 
 
-If you need the character to wait until the object has done something, add a `wait`{:class="block3control"} block.
+If you need the 🐙👩‍🦼🦖 **main character** to wait until the 🎂🎾🎁 **interesting object** has done something, add a `wait`{:class="block3control"} block.
 
 ![A desert background with a rock jiggling back and forth.](images/bear.gif)
 
@@ -50,9 +50,9 @@ The character could be brave and move closer to check out the object.
 
 --- task ---
 
-**Test:** Click on the green flag to test your project. The character should show curiosity about the object. 
+**Test:** Click on the green flag to test your project. The 🐙👩‍🦼🦖 **main character** should show curiosity about the object. 
 
-Click on the green flag again. If you changed the **object** or **character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
+Click on the green flag again. If you changed the 🎂🎾🎁 **interesting object** or 🐙👩‍🦼🦖 **main character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
 
 --- collapse ---
 ---
@@ -101,4 +101,3 @@ Check that your project has `when green flag clicked`{:class="block3events"} scr
 
 --- /task ---
 
---- save ---

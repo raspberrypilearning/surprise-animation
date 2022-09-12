@@ -44,6 +44,14 @@ You could also:
 Professional programmers explore and take inspiration from code created by other programmers. 
 </p>
 
+--- task ---
+
+You can also look at the remixes for the [Surprise animation starter project](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} to see what other creators have made.
+
+--- /task ---
+
+--- task ---
+
 Each project in the ['Surprise! animation — Examples' Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
 
 **Doppelganger**: [See inside](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
@@ -51,6 +59,11 @@ Each project in the ['Surprise! animation — Examples' Scratch studio](https://
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
 </div>
 
+--- /task ---
+
+--- task ---
+
 Take a look at our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} to see projects created by community members.
 
---- save ---
+--- /task ---
+

@@ -5,9 +5,9 @@ Now, you need to add a surprise. What could happen to the object?
 - Will it turn into a character? 
 - Will it disappear and reveal another sprite? 
 
-You decide! In this step you will, create the **third part** of your animation. 
+You decide! Create the **third part** of your animation. 
 
-![A film strip with 3 frames. The third frame is highlighted. The frame shows a scene with character looking surprised at an object.](images/surprise.svg)
+![A film strip with 3 frames. The third frame is highlighted. The frame shows a scene with character looking surprised at an object.](images/surprise.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
@@ -17,7 +17,7 @@ Have you written a story with a plot twist or a surprise? Have you watched a sho
 
 --- task ---
 
-Select the **object** sprite. Add a script to make the surprise start when you want it to. 
+Select the 🎂🎾🎁 **interesting object** sprite. Add a script to make the surprise start when you want it to. 
 
 You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
 
@@ -40,14 +40,14 @@ You could add a surprising costume to the sprite, then the sprite could `switch 
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the **object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
+You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the 🎂🎾🎁 **interesting object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
 
 --- collapse ---
 ---
 title: Hide and show sprites
 ---
 
-The **object** sprite:
+The 🎂🎾🎁 **interesting object** sprite:
 ```blocks3
 when flag clicked
 show
@@ -55,7 +55,7 @@ wait (5) seconds
 hide
 ```
 
-The **surprise object** sprite:
+The 🎷👻⚡**surprise object** sprite:
 ```blocks3
 when flag clicked
 hide
@@ -63,7 +63,7 @@ wait (5) seconds
 show
 ```
 
-**Tip:** If you make a **surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Tip:** If you make a 🎷👻⚡**surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
 
 --- /collapse ---
 
@@ -96,4 +96,3 @@ You might need to change the amount of time in some or all of the `wait`{:class=
 
 --- /task ---
 
---- save ---
