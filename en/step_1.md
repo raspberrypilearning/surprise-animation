@@ -41,7 +41,7 @@ The animation has three parts:
 
 --- task ---
 
-Play with these example projects to get ideas. Think about what your story might be, and explore these example projects to get more ideas:
+Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
 
 ⭐ Share your finished Surprise animation project for a chance of it being featured here.
 

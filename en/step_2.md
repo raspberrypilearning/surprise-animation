@@ -2,7 +2,7 @@
 
 Have you got an idea about your animation? 
   
-In this step, you will add a backdrop, main character, and interesting object of your choice to create the **first part** of your animation. 
+Add a backdrop 🖼️, main character 🐙👩‍🦼🦖, and interesting object 🎂🎾🎁 of your choice to create the **first part** of your animation. 
 
 ![A film strip with 3 frames. The first frame is highlighted. The frame shows a scene with character, object, and background.](images/scene.png)
 
@@ -14,7 +14,9 @@ In this step, you will add a backdrop, main character, and interesting object of
 
 --- task ---
 
-Open the [surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"}. 
+Open the [Surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"}. 
+
+⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29075822){:target="_blank"}. 
 
 --- /task ---
 
@@ -42,27 +44,9 @@ There are people called <span style="color: #0faeb0">**narrative designers**</sp
 
 --- task ---
 
-**Choose:** Choose a sprite to be the **main character.**
+**Choose:** Choose a sprite to be the 🐙👩‍🦼🦖 **main character**, another sprite to be the 🎂🎾🎁 **interesting object** and a 🖼️ **backdrop** to set the scene. 
 
-![The 'Choose a Sprite' icon.](images/add-sprite.png)
-
---- /task ---
-
---- task ---
-
-**Choose:** Choose another sprite to be the **interesting object.**
-
-![The 'Choose a Sprite' icon.](images/add-sprite.png)
-
---- /task ---
-
-Where do you want your animation to take place?
-
---- task ---
-
-**Choose:** Choose a backdrop to set the scene. 
-
-![The 'Choose a Backdrop' icon.](images/add-backdrop.png)
+![Two Choose a Sprite icons and a Choose a Backdrop icon.](images/sprites-and-backdrop.png)
 
 --- /task ---
 
@@ -74,20 +58,20 @@ Where do you want your sprites to start? How big do you want them to be? How do 
 
 Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation. 
 
-**Tip:** Remember to set up both your **main character** and your **interesting object** sprites.
+**Tip:** Remember to set up both your 🐙👩‍🦼🦖 **main character** and your 🎂🎾🎁 **interesting object** sprites.
 
 --- collapse ---
 ---
 title: Position your sprites
 ---
 
-Move the main character to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
+Move the 🐙👩‍🦼🦖 **main character** to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
 
 ```blocks3
 go to x: (0) y: (0) // add the sprite's position
 ```
 
-Repeat this task for the **interesting object**. 
+Repeat this task for the 🎂🎾🎁 **interesting object**. 
 
 --- /collapse ---
 
@@ -160,5 +144,3 @@ Save your project.
 [[[generic-scratch3-saving]]]
 
 --- /task ---
-
---- save ---
