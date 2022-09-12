@@ -53,4 +53,3 @@ Each project in the ['Surprise! animation — Examples' Scratch studio](https://
 
 Take a look at our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} to see projects created by community members.
 
---- save ---

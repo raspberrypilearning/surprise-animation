@@ -47,7 +47,7 @@ You could make the sprite seem to turn into a different sprite — to do this, `
 title: Hide and show sprites
 ---
 
-The **object** sprite:
+The 🎂🎾🎁 **interesting object** sprite:
 ```blocks3
 when flag clicked
 show
@@ -55,7 +55,7 @@ wait (5) seconds
 hide
 ```
 
-The **surprise object** sprite:
+The 🎷👻⚡**surprise object** sprite:
 ```blocks3
 when flag clicked
 hide
@@ -63,7 +63,7 @@ wait (5) seconds
 show
 ```
 
-**Tip:** If you make a **surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Tip:** If you make a 🎷👻⚡**surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
 
 --- /collapse ---
 
@@ -95,5 +95,4 @@ You might need to change the amount of time in some or all of the `wait`{:class=
 --- /collapse ---
 
 --- /task ---
-
 
