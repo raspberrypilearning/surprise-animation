@@ -6,11 +6,27 @@ In this step, you will add a backdrop, main character, and interesting object of
 
 ![A film strip with 3 frames. The first frame is highlighted. The frame shows a scene with character, object, and background.](images/scene.png)
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+  <span style="color: #0faeb0">**Animation**</span> creates the effect of movement by changing pictures quickly. The first animators carved pictures out of wooden blocks and used them as stamps. It is much faster to use Scratch to code your animation!
+</p>
+
+### Open the starter project
+
 --- task ---
 
-Open the [surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"} and look at the range of sprites and backdrops that you can use. 
+Open the [surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"}. 
 
-Spend some time thinking about your main character, interesting object, and backdrop. You could choose:
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+There are people called <span style="color: #0faeb0">**narrative designers**</span> who do storytelling for apps and video games. Digital storytelling allows everyone to share their stories and creative imaginings with other people.
+</p>
+
+### Design your scene
+
+--- task ---
+
+**Choose:** a theme for your animation. You could choose:
 
 + 🐯 Land Animals
 + 🐠 Sea animals 
@@ -26,7 +42,15 @@ Spend some time thinking about your main character, interesting object, and back
 
 --- task ---
 
-**Choose:** Choose a sprite to be the **main character** and another sprite to be the **interesting object.**
+**Choose:** Choose a sprite to be the **main character.**
+
+![The 'Choose a Sprite' icon.](images/add-sprite.png)
+
+--- /task ---
+
+--- task ---
+
+**Choose:** Choose another sprite to be the **interesting object.**
 
 ![The 'Choose a Sprite' icon.](images/add-sprite.png)
 
@@ -42,7 +66,7 @@ Where do you want your animation to take place?
 
 --- /task ---
 
-### Setup
+### Prepare your sprites
 
 Where do you want your sprites to start? How big do you want them to be? How do you want them to look?
 
