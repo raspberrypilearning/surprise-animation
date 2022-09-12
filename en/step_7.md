@@ -38,3 +38,10 @@ Take a look at these fabulous community projects from our ['Surprise! animation 
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/578827663/?autostart=false" frameborder="0"></iframe>
 </div>
 --- /task ---
+
+--- task ---
+
+You can also look at the remixes for the [Surprise animation starter project](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} to see what other creators have made.
+
+--- /task ---
+
