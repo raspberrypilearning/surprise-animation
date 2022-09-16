@@ -1,18 +1,14 @@
-## Εισαγωγή
+## You will make
 
-Δημιούργησε μια σύντομη κινούμενη εικόνα με μια έκπληξη.
+Create a short animation 🎥 with a fun surprise 🎉!
 
 Θα χρειαστεί να:
 
-+ Χρησιμοποιήσεις το Scratch για να δημιουργήσεις μια κινούμενη εικόνα
-+ Δοκιμάσεις και να εντοπίσεις σφάλματα στον κώδικά σου όταν κάνεις αλλαγές
-+ Χώρισε την κινούμενη εικόνα σε μέρη - αυτό ονομάζεται **αποδόμηση** - και δημιούργησε ένα μέρος κάθε φορά
++ Create your own animation
++ Test and debug your code
++ Build your animation one part at a time
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Αποδόμηση**</span> ονομάζεται ο χωρισμός ενός έργου σε τμήματα που είναι μικρότερα και είναι πιο εύκολο να κατανοηθούν. Αυτό σημαίνει ότι μπορείς να δημιουργήσεις ένα μέρος του έργου κάθε φορά μέχρι να το ολοκληρώσεις. 
-</p>
-
-![Παραδείγματα έργων.](images/surprise-example.png)
+![Examples of projects.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -21,19 +17,18 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Δοκίμασέ το
+### Play ▶️ 
 
-Κάνε κλικ στην πράσινη σημαία για να δεις την κινούμενη εικόνα.
+Click on the green flag to watch the animation.
 
-Η κινούμενη εικόνα έχει τέσσερα μέρη:
-+ Προετοιμασία
-+ Περιέργεια
-+ Έκπληξη!
-+ Αντίδραση
+The animation has three parts:
++ Curiosity
++ Surprise!
++ Reaction
 
 </div>
 <div>
-**Έκπληξη δεινοσαύρων!**: [Δες μέσα](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
+**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -42,49 +37,46 @@
 
 --- /task ---
 
-### Βρες έμπνευση
+### Get ideas 💭
 
 --- task ---
 
-Θα πάρεις σχεδιαστικές αποφάσεις και θα σκεφτείς μια ιστορία για την κινούμενη εικόνα σου με μια έκπληξη.
+Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
 
-Σκέψου ποια μπορεί να είναι η ιστορία σου και μελέτησε αυτά τα παραδείγματα έργων για να πάρεις περισσότερες ιδέες:
+⭐ Share your finished Surprise animation project for a chance of it being featured here.
 
-**BOO!**: [Δες μέσα](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
+**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Μαγεία Γάτας**: [Δες μέσα](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
+**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Καταπατητής**: [Δες μέσα](https://scratch.mit.edu/projects/498616008/editor){:target="_blank"}
+**⭐ Jumpscare!**: [See inside](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498616008/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
 </div>
+
 --- /task ---
 
 --- /no-print ---
 
 --- print-only ---
 
-### Βρες έμπνευση
+### Get ideas 💭
 
 Θα πάρεις σχεδιαστικές αποφάσεις και θα σκεφτείς μια ιστορία για την κινούμενη εικόνα σου με μια έκπληξη. Σκέψου ποια μπορεί να είναι η ιστορία σου και, για να πάρεις περισσότερες ιδέες, **δες μέσα** στα παραδείγματα έργων στο Scratch Studio! 'Surprise! animation — Examples': https://scratch.mit.edu/studios/29075822/
 
-Η κινούμενη εικόνα έχει τέσσερα μέρη:
-+ Προετοιμασία
-+ Περιέργεια
-+ 'Εκπληξη!
-+ Αντίδραση
+The animation has three parts:
++ Curiosity
++ Surprise!
++ Reaction
 
-![Η έργο «έκπληξη δεινοσαύρων!».](images/dinosaur-surprise.png) ![Το έργο «BOO!».](images/boo.png) ![Το έργο «Μαγεία της Γάτας».](images/cat-magic.png) ![Το έργο «Καταπατητής».](images/tresspass.png)
+![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
 
 --- /print-only ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Υπάρχουν άνθρωποι που ονομάζονται <span style="color: #0faeb0">**σχεδιαστές αφηγήσεων**</span> που δημιουργούν αφηγήσεις ιστοριών για τις εφαρμογές και τις βιντεοπαιχνίδια. Αλλά η ψηφιακή αφήγηση επιτρέπει σε όλους να μοιραστούν τις ιστορίες και τις δημιουργίες τους με άλλους ανθρώπους.
-</p>
  
