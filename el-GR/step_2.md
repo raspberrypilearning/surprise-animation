@@ -1,62 +1,76 @@
-## Προετοιμασία
+## Create your scene
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Έχεις κάποια ιδέα για την κινούμενη εικόνα σου; 
-  
-Σε αυτό το βήμα, θα προσθέσεις υπόβαθρο, κύριο χαρακτήρα και ένα ενδιαφέρον αντικείμενο. 
-</div>
-<div>  
-! [Το έργο «Έκπληξη δεινοσαύρων!» μόλις ολοκληρωθεί.](images/dinosaur-surprise.png)
-</div>
-</div>
+Have you got an idea about your animation?
+
+Add a backdrop 🖼️, main character 🐙👩‍🦼🦖, and interesting object 🎂🎾🎁 of your choice to create the **first part** of your animation.
+
+![A film strip with 3 frames. The first frame is highlighted. The frame shows a scene with character, object, and background.](images/scene.png)
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+  <span style="color: #0faeb0">**Animation**</span> creates the effect of movement by changing pictures quickly. The first animators carved pictures out of wooden blocks and used them as stamps. It is much faster to use Scratch to code your animation!
+</p>
+
+### Open the starter project
 
 --- task ---
 
-Άνοιξε το [ έργο Έκπληξη! κινούμενη εικόνα Έκπληξη!](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"} και ρίξε μία ματιά στα αντικείμενα και τα υπόβαθρα που μπορείς να χρησιμοποιήσεις. Πέρασε λίγο χρόνο να σκεφτείς τον κεντρικό σου χαρακτήρα, το ενδιαφέρον αντικείμενο και το υπόβαθρο.
+Open the [Surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"}.
+
+⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29075822){:target="_blank"}.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+There are people called <span style="color: #0faeb0">**narrative designers**</span> who do storytelling for apps and video games. Digital storytelling allows everyone to share their stories and creative imaginings with other people.
+</p>
+
+### Design your scene
+
+--- task ---
+
+**Choose:** a theme for your animation. You could choose:
+
++ 🐯 Land Animals
++ 🐠 Sea animals
++ 👽 Aliens
++ 🌿 Nature
++ 🌈 Weather
++ 🌮 Food
++ 🚀 Travel
++ ⚾ Sport .... Or something else
 
 --- /task ---
 
 --- task ---
 
-**Επίλεξε:** Επίλεξε ένα αντικείμενο για να είναι ο κύριος χαρακτήρας και ένα άλλο αντικείμενο για να είναι το ενδιαφέρον αντικείμενο.
+**Choose:** Choose a sprite to be the 🐙👩‍🦼🦖 **main character**, another sprite to be the 🎂🎾🎁 **interesting object** and a 🖼️ **backdrop** to set the scene.
 
-![Το εικονίδιο «Επιλέξτε αντικείμενο».](images/add-sprite.png)
-
---- /task ---
-
-Πού θέλεις να διαδραματιστεί η κινούμενη εικόνα σου;
-
---- task ---
-
-**Επίλεξε:** Επίλεξε ένα υπόβαθρο για να στήσεις τη σκηνή.
-
-![Το εικονίδιο «Επιλέξτε υπόβαθρο».](images/add-backdrop.png)
+![Two Choose a Sprite icons and a Choose a Backdrop icon.](images/sprites-and-backdrop.png)
 
 --- /task ---
 
-Πού θέλεις να ξεκινήσουν οι χαρακτήρες σου; Πόσο μεγάλοι θέλεις να είναι; Πώς θέλεις να φαίνονται;
+### Prepare your sprites
+
+Where do you want your sprites to start? How big do you want them to be? How do you want them to look?
 
 --- task ---
 
-Πρόσθεσε ένα μπλοκ `όταν γίνει κλικ στην πράσινη σημαία`{:class="block3events"} και, στη συνέχεια, πρόσθεσε μπλοκ για να ρυθμίσεις τα αντικείμενά σου στην αρχή της κινούμενης εικόνας.
+Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation.
 
-Θυμήσου να προετοιμάσεις τόσο τον **κύριο χαρακτήρα σου** όσο και το **ενδιαφέρον αντικείμενό σου**.
+**Tip:** Remember to set up both your 🐙👩‍🦼🦖 **main character** and your 🎂🎾🎁 **interesting object** sprites.
 
 --- collapse ---
 ---
 title: Τοποθέτησε τα αντικείμενά σου
 ---
 
-Για να αλλάξεις τη θέση του αντικειμένου του **κεντρικού χαρακτήρα** για ολόκληρο το έργο, μετακίνησε τον κύριο χαρακτήρα στη θέση της επιλογής σου στη Σκηνή.
-
-Για να αλλάξεις τη θέση του αντικειμένου του **βασικού χαρακτήρα** για κάποιο μέρος του έργου, μετακίνησε τον κύριο χαρακτήρα στη θέση της επιλογής σου στη Σκηνή και, στη συνέχεια, πρόσθεσε ένα μπλοκ `πηγαίνετε στο x: y:`{:class="block3motion"} στον κώδικά σας:
+Move the 🐙👩‍🦼🦖 **main character** to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
 
 ```blocks3
 go to x: (0) y: (0) // add the sprite's position
 ```
 
-Επανάλαβε αυτήν τη διαδικασία και για το **ενδιαφέρον αντικείμενο**.
+Repeat this task for the 🎂🎾🎁 **interesting object**.
 
 --- /collapse ---
 
@@ -65,11 +79,11 @@ go to x: (0) y: (0) // add the sprite's position
 title: Άλλαξε το μέγεθος των αντικειμένων σου
 ---
 
-Για να αλλάξεις το μέγεθος ενός αντικειμένου για ολόκληρο το έργο, άλλαξε τον αριθμό στη μεταβλητή **Μέγεθος** στο παράθυρο του αντικειμένου:
+To change the size of a sprite for the whole project, change the number in the **Size** property in the Sprite pane:
 
 ![](images/sprite-pane-size.png)
 
-Για να αλλάξεις το μέγεθος ενός αντικειμένου για κάποιο μέρος του έργου, πρόσθεσε κώδικα `όρισε μέγεθος σε`{:class="block3looks"} με το μέγεθος της επιλογής σου. Αυτή η επιλογή είναι καλή αν θέλεις το αντικείμενό σου να αλλάζει μέγεθος κατά τη διάρκεια του έργου.
+To change the size of a sprite for part of the project, add code to `set size to`{:class="block3looks"} the size of your choice. This option is good if you want your sprite to change size in the project.
 
 ```blocks3
 set size to [100] % // <100 is smaller, >100 is bigger
@@ -82,17 +96,17 @@ set size to [100] % // <100 is smaller, >100 is bigger
 title: Όρισε τις ενδυμασίες των αντικειμένων σου
 ---
 
-Για να αλλάξεις την ενδυμασία ενός αντικειμένου για ολόκληρο το έργο, κάνε κλικ στην καρτέλα **Ενδυμασίες** και επίλεξε μία από τις διαθέσιμες ενδυμασίες:
+To change the costume of a sprite for the whole project, click on the **Costumes** tab and select one of the available costumes:
 
-![Η καρτέλα Ενδυμασίες, με τις διαθέσιμες ενδυμασίες για ένα αντικείμενο.](images/nano-costumes.png)
+![The Costumes tab, with the available costumes for a sprite.](images/nano-costumes.png)
 
-Για να αλλάξεις το κοστούμι ενός αντικειμένου για ένα μέρος του έργου, πρόσθεσε ένα μπλοκ`άλλαξε ενδυμασία σε`{: class = "block3looks"} στον κώδικά σου και ενημέρωσέ τον για να εμφανιστεί το κοστούμι της επιλογής σου:
+To change the costume of a sprite for part of the project, add a `switch costume to`{:class="block3looks"} block to your code and update it to show the costume of your choice:
 
 ```blocks3
 switch costume to [ v]  // update this for your chosen costume
 ```
 
-Για να κρύψεις ένα αντικείμενο στην αρχή του έργου, πρόσθεσε ένα `εξαφανίσου`{: class = "block3looks"} στον κώδικά σου:
+To hide a sprite at the start of the project, add a `hide`{:class="block3looks"} block to your code:
 
 ```blocks3
 hide 
@@ -105,13 +119,13 @@ hide
 title: Όρισε την κατεύθυνση των αντικειμένων σου
 ---
 
-Τα αντικείμενά σου μπορεί να κοιτάνε σε λάθος τρόπο καθώς τα προσθέτεις στο έργο σου.
+Your sprites might be facing the wrong way when you add them to your project.
 
-Για να αλλάξεις την κατεύθυνση ενός αντικειμένου για ολόκληρο το έργο, άλλαξε την **Κατεύθυνση** και **το στυλ περιστροφής** στο παράθυρο Αντικειμένων:
+To change the direction of a sprite for the whole project, change the **Direction** and **rotation style** in the Sprite pane:
 
-![Το μενού Κατεύθυνση and στυλ περιστροφής στο παράθυρο Αντικειμένων.](images/sprite-pane-direction.png)
+![The Direction and rotation style menu in the Sprite pane.](images/sprite-pane-direction.png)
 
-Για να αλλάξεις την κατεύθυνση ενός αντικειμένου σε ένα μέρος του έργου, πρόσθεσε μπλοκ στον κώδικά σου για να αλλάξεις το `στυλ περιστροφής`{: class = "block3motion"} και `κατεύθυνση`{: class = "block3motion"}:
+To change the direction of a sprite for part of the project, add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}:
 
 ```blocks3
 set rotation style [left-right v]
@@ -124,10 +138,8 @@ point in direction (-90) // turn to the left
 
 --- task ---
 
-Αποθήκευσε το έργο σου.
+Save your project.
 
 [[[generic-scratch3-saving]]]
 
 --- /task ---
-
---- save ---
