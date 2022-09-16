@@ -16,56 +16,36 @@
 
 + مفاجئة!
 
-+ رد الفعل
-
   --- feedback ---
 
- جزء "الإعداد" يعيد تعيين الرسوم المتحركة الخاصة بك. يجب أن يأتي أولاً حتى يمكن تشغيل الرسوم المتحركة مرة أخرى بنفس الطريقة.
-
-  --- /feedback ---
-
-- ( )
-+ رد الفعل
-
-+ مفاجئة!
-
-+ فضول
-
-+ نظام
-
-  --- feedback ---
-
- فكر فيما فعلته أولا. جاء رد الفعل لاحقًا.
+ The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
 
   --- /feedback ---
 
 - (x)
-+ نظام
++ Setup
 
-+ فضول
++ Curiosity
 
 + مفاجئة!
 
-+ رد الفعل
 
   --- feedback ---
 
- نعم! تقوم بإعداد الكائنات أولاً ، ثم قصتك تبنى على رد فعل نهائي.
+ Yes! You set up your sprites first, then created curiosity then ended with a surprise.
 
   --- /feedback ---
 
 - ( )
 + نظام
 
-+ فضول
++ Surprise!
 
-+ رد الفعل
-
-+ مفاجئة!
++ Curiosity
 
   --- feedback ---
 
- المفاجأة لم تكن في نهاية الرسوم المتحركة. شيء ما جاء بعد ذلك.
+ Curiosity was not at the end of the animation. Something came afterwards.
 
   --- /feedback ---
 
