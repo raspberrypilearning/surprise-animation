@@ -1,26 +1,23 @@
+## Quick quiz
 
-## Обратная связь
+Answer the three questions. There are hints to guide you to the correct answer.
 
-Молодец, ты многому научился! А теперь пора закрепить знания: закрепление знаний - важная часть обучения, потому что оно помогает установить новые связи в твоём мозге.
+When you have answered each question, click on **Check my answer**.
 
-Ответь на три вопроса ниже, чтобы закрепить те знания, которые ты узнал.
-
-Когда ты ответишь на каждый вопрос, нажми **Отправить**. Тебя перенаправят к правильному ответу. Ты можешь выполнять это задание столько раз, сколько захочешь.
-
-Повеселись!
+Have fun!
 
 --- question ---
 ---
 legend: Вопрос 1 из 3
 ---
 
-В своем проекте ты делал анимацию с сюрпризом. Нажми на зеленый флажок, чтобы запустить анимацию ниже, затем запусти ее еще раз.
+In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Ты не заметил ничего странного во второй раз? Сюрприз был испорчен! Какой блок кода ты бы добавил, чтобы сюрприз сработал?
+Did you notice anything odd the second time? The surprise was ruined! What code block would you add to make the surprise work?
 
 --- choices ---
 
@@ -31,7 +28,7 @@ set size to (150) %
 
   --- feedback ---
 
- Спрайт **яйцо** имеет правильный размер при повторном запуске программы.
+ The **egg** sprite is the correct size when you run the program again.
 
   --- /feedback ---
 
@@ -42,7 +39,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Да. Нужно заставить спрайт переключиться на правильный костюм (**яйцо-а**) при запуске проекта.
+ Yes. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
 
   --- /feedback ---
 
@@ -53,7 +50,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Часто нужно не забыть показать спрайт при нажатии на зеленый флаг, но в проекте, о котором идет речь, спрайт **яйцо** уже показывается на экране.
+ You often need to remember to make a sprite show when the green flag is clicked, but in the project in the question, the **egg** sprite does show.
 
   --- /feedback ---
 
@@ -64,7 +61,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- Спрайт **яйцо** занимает правильную начальную позицию на сцене.
+ The **egg** sprite does go to the correct starting position on the Stage.
 
   --- /feedback ---
 
