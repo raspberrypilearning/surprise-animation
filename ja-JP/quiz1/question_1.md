@@ -1,26 +1,23 @@
+## Quick quiz
 
-## ふりかえり
+Answer the three questions. There are hints to guide you to the correct answer.
 
-お疲れさまでした。たくさんのことを学びましたね！ 次はふりかえりの時間です。ふりかえりを行うことで、脳に新しいつながりを作ることができます。このため、ふりかえりは学習の大事な部分です。
+When you have answered each question, click on **Check my answer**.
 
-以下の3つの質問に答えて、学んだことをふりかえってみましょう。
-
-それぞれの質問に回答したら、**送信**をクリックします。 正しい答えが表示されます。 このアクティビティは何度でも実行できます。
-
-お楽しみください!
+Have fun!
 
 --- question ---
 ---
 凡例：質問1/3
 ---
 
-あなたのプロジェクトでは、サプライズのアニメーションを作成しました。 緑の旗をクリックして下のアニメーションを実行してから、もう一度実行してください。
+In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
 </div>
 
-二度目に奇妙なことに気づきましたか？ サプライズが台無しになりました！ サプライズを機能させるために、どのコードブロックを追加しますか？
+Did you notice anything odd the second time? The surprise was ruined! What code block would you add to make the surprise work?
 
 --- choices ---
 
@@ -31,7 +28,7 @@ set size to (150) %
 
   --- feedback ---
 
- 再度プログラムを実行すると、**卵** スプライトが正しいサイズになります。
+ The **egg** sprite is the correct size when you run the program again.
 
   --- /feedback ---
 
@@ -42,7 +39,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- はい。 プロジェクトの開始時に、スプライトを正しいコスチューム（**卵**）に切り替える必要があります
+ Yes. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
 
   --- /feedback ---
 
@@ -53,7 +50,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- 緑の旗がクリックされたときにスプライトを表示することを覚えておく必要があることがよくありますが、問題のプロジェクトでは、 **卵** スプライトが表示されます。
+ You often need to remember to make a sprite show when the green flag is clicked, but in the project in the question, the **egg** sprite does show.
 
   --- /feedback ---
 
@@ -64,7 +61,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- **卵** スプライトは、ステージ上の正しい開始位置に移動します。
+ The **egg** sprite does go to the correct starting position on the Stage.
 
   --- /feedback ---
 
