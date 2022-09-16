@@ -1,39 +1,55 @@
-## Setup
+## Create your scene
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Have you got an idea about your animation? 
-  
-In this step, you will add a backdrop, main character, and interesting object. 
-</div>
-<div>  
-![The 'Dinosaur surprise!' project once set up.](images/dinosaur-surprise.png)
-</div>
-</div>
+Have you got an idea about your animation?
+
+Add a backdrop 🖼️, main character 🐙👩‍🦼🦖, and interesting object 🎂🎾🎁 of your choice to create the **first part** of your animation.
+
+![A film strip with 3 frames. The first frame is highlighted. The frame shows a scene with character, object, and background.](images/scene.png)
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+  <span style="color: #0faeb0">**Animation**</span> creates the effect of movement by changing pictures quickly. The first animators carved pictures out of wooden blocks and used them as stamps. It is much faster to use Scratch to code your animation!
+</p>
+
+### Open the starter project
 
 --- task ---
 
-Open the [surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"} and look at the range of sprites and backdrops that you can use. Spend some time thinking about your main character, interesting object, and backdrop.
+Open the [Surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"}.
+
+⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29075822){:target="_blank"}.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+There are people called <span style="color: #0faeb0">**narrative designers**</span> who do storytelling for apps and video games. Digital storytelling allows everyone to share their stories and creative imaginings with other people.
+</p>
+
+### Design your scene
+
+--- task ---
+
+**Choose:** a theme for your animation. You could choose:
+
++ 🐯 Land Animals
++ 🐠 Sea animals
++ 👽 Aliens
++ 🌿 Nature
++ 🌈 Weather
++ 🌮 Food
++ 🚀 Travel
++ ⚾ Sport .... Or something else
 
 --- /task ---
 
 --- task ---
 
-**Choose:** Choose a sprite to be the main character and another sprite to be the interesting object.
+**Choose:** Choose a sprite to be the 🐙👩‍🦼🦖 **main character**, another sprite to be the 🎂🎾🎁 **interesting object** and a 🖼️ **backdrop** to set the scene.
 
-![The 'Choose a Sprite' icon.](images/add-sprite.png)
-
---- /task ---
-
-Where do you want your animation to take place?
-
---- task ---
-
-**Choose:** Choose a backdrop to set the scene.
-
-![The 'Choose a Backdrop' icon.](images/add-backdrop.png)
+![Two Choose a Sprite icons and a Choose a Backdrop icon.](images/sprites-and-backdrop.png)
 
 --- /task ---
+
+### Prepare your sprites
 
 Where do you want your sprites to start? How big do you want them to be? How do you want them to look?
 
@@ -41,28 +57,26 @@ Where do you want your sprites to start? How big do you want them to be? How do 
 
 Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation.
 
-Remember to set up both your **main character** and your **interesting object**.
+**Tip:** Remember to set up both your 🐙👩‍🦼🦖 **main character** and your 🎂🎾🎁 **interesting object** sprites.
 
 --- collapse ---
 ---
-title: Position your sprites
+title: Ustaw swoje duszki
 ---
 
-To change the position of the **main character** sprite for the whole project, move the main character to the position of your choice on the Stage.
-
-To change the position of the **main character** sprite for part of the project, move the main character to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
+Move the 🐙👩‍🦼🦖 **main character** to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
 
 ```blocks3
 go to x: (0) y: (0) // add the sprite's position
 ```
 
-Repeat this task for the **interesting object**.
+Repeat this task for the 🎂🎾🎁 **interesting object**.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Resize your sprites
+title: Zmień rozmiar swoich duszków
 ---
 
 To change the size of a sprite for the whole project, change the number in the **Size** property in the Sprite pane:
@@ -79,7 +93,7 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: Set the costumes of your sprites
+title: Ustaw kostiumy swoich duszków
 ---
 
 To change the costume of a sprite for the whole project, click on the **Costumes** tab and select one of the available costumes:
@@ -102,7 +116,7 @@ hide
 
 --- collapse ---
 ---
-title: Set the direction of your sprites
+title: Ustaw kierunek swoich duszków
 ---
 
 Your sprites might be facing the wrong way when you add them to your project.
@@ -129,5 +143,3 @@ Save your project.
 [[[generic-scratch3-saving]]]
 
 --- /task ---
-
---- save ---
