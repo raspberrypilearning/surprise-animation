@@ -1,17 +1,14 @@
+## Quick quiz
 
-## Reflection
+Answer the three questions. There are hints to guide you to the correct answer.
 
-Well done, you have learned a lot! Now, it's time to reflect — reflecting is an important part of learning, because it helps make new connections in your brain.
-
-Answer the three questions below to reflect on what you have learned.
-
-When you have answered each question, click on **Submit**. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+When you have answered each question, click on **Check my answer**.
 
 Have fun!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Pytanie 1 z 3
 ---
 
 In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
@@ -48,7 +45,7 @@ switch costume to [egg-a v]
 
 - ( )
 ```blocks3
-show
+pokaż
 ```
 
   --- feedback ---
