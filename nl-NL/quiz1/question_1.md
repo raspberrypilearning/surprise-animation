@@ -1,26 +1,23 @@
+## Quick quiz
 
-## Reflectie
+Answer the three questions. There are hints to guide you to the correct answer.
 
-Goed gedaan, je hebt veel geleerd! Nu is het tijd om te reflecteren - reflecteren is een belangrijk onderdeel van leren, omdat het helpt om nieuwe verbindingen in je hersenen te maken.
+When you have answered each question, click on **Check my answer**.
 
-Beantwoord de drie onderstaande vragen om na te denken over wat je hebt geleerd.
-
-Wanneer je elke vraag hebt beantwoord, klik je op **Verzenden**. Je wordt naar het juiste antwoord geleid. Je kunt deze activiteit zo vaak doen als je wilt.
-
-Veel plezier!
+Have fun!
 
 --- question ---
 ---
 legend: Vraag 1 van 3
 ---
 
-In je project heb je een animatie gemaakt met een verrassing. Klik op de groene vlag om de onderstaande animatie uit te voeren en voer deze vervolgens opnieuw uit.
+In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Is je de tweede keer iets vreemds opgevallen? De verrassing was verpest! Welk codeblok zou je toevoegen om de verrassing te laten werken?
+Did you notice anything odd the second time? The surprise was ruined! What code block would you add to make the surprise work?
 
 --- choices ---
 
@@ -31,7 +28,7 @@ set size to (150) %
 
   --- feedback ---
 
- De **ei** sprite heeft de juiste grootte wanneer je het programma opnieuw uitvoert.
+ The **egg** sprite is the correct size when you run the program again.
 
   --- /feedback ---
 
@@ -42,7 +39,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Ja. Je moet de sprite naar het juiste uiterlijk (**ei-a**) laten overschakelen wanneer het project begint.
+ Yes. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
 
   --- /feedback ---
 
@@ -53,7 +50,7 @@ verschijn
 
   --- feedback ---
 
- Je moet er vaak aan denken om een sprite zichtbaar te maken wanneer op de groene vlag wordt geklikt, maar in het project in de vraag wordt de **ei** sprite al weergegeven.
+ You often need to remember to make a sprite show when the green flag is clicked, but in the project in the question, the **egg** sprite does show.
 
   --- /feedback ---
 
@@ -64,7 +61,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- De **ei** sprite gaat naar de juiste startpositie op het werkgebied.
+ The **egg** sprite does go to the correct starting position on the Stage.
 
   --- /feedback ---
 
