@@ -16,56 +16,36 @@ Quelle commande représente l'animation que tu as réalisée ?
 
 + Surprise!
 
-+ Réaction
-
   --- feedback ---
 
- La partie « configuration » réinitialise ton animation. Elle doit venir en premier pour que ton animation puisse être exécutée à nouveau de la même manière.
-
-  --- /feedback ---
-
-- ( )
-+ Réaction
-
-+ Surprise!
-
-+ Curiosité
-
-+ Configuration
-
-  --- feedback ---
-
- Pense à ce que tu as fait en premier. La réaction est venue plus tard.
+ The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
 
   --- /feedback ---
 
 - (x)
-+ Installer
++ Setup
 
-+ Curiosité
++ Curiosity
 
 + Surprise!
 
-+ Réaction
 
   --- feedback ---
 
- Oui! Tu configures d'abord tes sprites, puis ton histoire est construite jusqu'à une réaction finale.
+ Yes! You set up your sprites first, then created curiosity then ended with a surprise.
 
   --- /feedback ---
 
 - ( )
 + Configuration
 
-+ Curiosité
-
-+ Réaction
-
 + Surprise!
+
++ Curiosity
 
   --- feedback ---
 
- La surprise n'était pas au bout de l'animation. Quelque chose est venu après.
+ Curiosity was not at the end of the animation. Something came afterwards.
 
   --- /feedback ---
 
