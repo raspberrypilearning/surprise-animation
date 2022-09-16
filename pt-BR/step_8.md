@@ -1,23 +1,22 @@
-## Compartilhar
+## What next?
 
-Se você faz parte de um clube, por que não compartilhar seu projeto com amigos e colegas?
+If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathway/scratch-intro) pathway, you can move on to the [I made you a book](https://projects.raspberrypi.org/en/projects/i-made-you-a-book) project. In this project, you will make a book in Scratch based on your own idea.
 
-Você também pode mostrar para sua família como seu projeto funciona.
+--- no-print ---
 
-Se você tem uma conta Scratch, você pode compartilhar seu projeto através do Scratch. Você pode enviar um link para as pessoas que você conhece, e toda a comunidade Scratch poderá encontrar seu projeto e testá-lo.
+**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+</div>
 
-[[[share-scratch]]]
+--- /no-print ---
 
-Por que não convidar seus amigos para criar um projeto? Deixe-os saber como você se divertiu.
+--- print-only ---
 
-Se você tem uma conta Scratch e compartilhou o seu 'Surpresa! projeto de animação, fique de olho nos comentários que outras pessoas possam fazer sobre sua criação. O feedback é uma ótima maneira de refletir sobre o seu trabalho. Ignore quaisquer comentários que sejam inúteis ou irrelevantes.
+![An 'I made you a book' project.](images/book-cover.png)
 
-[[[comments-feedback-scratch]]]
+--- /print-only ---
 
---- task ---
+If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-Inspire a comunidade da Raspberry Pi Foundation com seu projeto!
 
-Para submeter o seu projeto ao nosso ['Surpresa! animação - Comunidade 'Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_ blank"}, por favor preencha [este formulário](https://form.raspberrypi.org/f/community-project-submissions){:target="_ blank"}.
-
---- /task ---
