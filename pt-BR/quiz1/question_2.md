@@ -3,7 +3,7 @@
 legenda: Pergunta 2 de 3
 ---
 
-Em seu projeto, você planejou sua animação com blocos de `temporizador`{: class = "block3events"} ou de `espera`{: class = "block3control"}.
+In your project, you controlled your animation with `wait`{:class="block3control"} blocks.
 
 Neste projeto de dinossauro, você quer que o pequeno dinossauro espere 6 segundos antes de sair do ovo e surpreenda o grande dinossauro.
 
@@ -15,25 +15,13 @@ Qual script para o **pequeno dinossauro** faria isso acontecer?
 
 - ( )
 ```blocks3
-when [loudness v] > (6)
-show
-```
-
-  --- feedback ---
-
- Estes são os blocos certos para usar, mas você precisa selecionar `cronômetro`{: class = "block3events"} em vez de `volume`{: class = "block3events"} no menu suspenso.
-
-  --- /feedback ---
-
-- ( )
-```blocks3
 when this sprite clicked
 show
 ```
 
   --- feedback ---
 
-Este script precisa da interação do usuário para o pequeno dinossauro aparecer.
+This script needs user interaction for the little dinosaur to show.
 
   --- /feedback ---
 
@@ -41,24 +29,25 @@ Este script precisa da interação do usuário para o pequeno dinossauro aparece
 ```blocks3
 when flag clicked
 show
-wait (6) seconds
+wait [6] seconds
 ```
 
   --- feedback ---
 
- Aqui, o pequeno dinossauro surpreende o grande dinossauro e espera 6 segundos.
+ Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
 
   --- /feedback ---
 
 - (x)
 ```blocks3
-when [timer v] > (6)
+when flag clicked
+wait [6] seconds
 show
 ```
 
   --- feedback ---
 
- Quando o cronômetro espera 6 segundos, o pequeno dinossauro aparece e surpreende o grande dinossauro!
+ After 6 seconds, the little dinosaur appears and surprises the big dinosaur!
 
   --- /feedback ---
 
