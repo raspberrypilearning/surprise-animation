@@ -16,56 +16,36 @@ Pa drefn sy'n cynrychioli'r animeiddiad y gwnes di ei greu?
 
 + Syrpreis!
 
-+ Ymateb
-
   --- feedback ---
 
- Mae'r rhan 'gosod' yn ailosod dy animeiddiad. Mae angen iddi ddod yn gyntaf fel bod modd rhedeg dy animeiddiad eto yn yr un modd.
-
-  --- /feedback ---
-
-- ( )
-+ Ymateb
-
-+ Syrpreis!
-
-+ Chwilfrydedd
-
-+ Gosod
-
-  --- feedback ---
-
- Meddylia am yr hyn wnes di gyntaf. Daeth yr ymateb nes ymlaen.
+ The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
 
   --- /feedback ---
 
 - (x)
-+ Gosod
++ Setup
 
-+ Chwilfrydedd
++ Curiosity
 
 + Syrpreis!
 
-+ Ymateb
 
   --- feedback ---
 
- Cywir! Wnes di osod y corluniau'n gyntaf, yna fe adeiladodd dy stori i ymateb terfynol.
+ Yes! You set up your sprites first, then created curiosity then ended with a surprise.
 
   --- /feedback ---
 
 - ( )
 + Gosod
 
-+ Chwilfrydedd
++ Surprise!
 
-+ Ymateb
-
-+ Syrpreis!
++ Curiosity
 
   --- feedback ---
 
- Doedd y syrpreis ddim ar ddiwedd yr animeiddiad. Daeth rhywbeth ar ôl hynny.
+ Curiosity was not at the end of the animation. Something came afterwards.
 
   --- /feedback ---
 
