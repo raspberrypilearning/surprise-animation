@@ -1,18 +1,14 @@
-## Introdução
+## You will make
 
-Crie uma curta animação com uma surpresa.
+Create a short animation 🎥 with a fun surprise 🎉!
 
 Você vai:
 
-+ Usar Scratch para criar uma animação
-+ Testar e depurar seu código ao fazer alterações
-+ Dividir uma animação em partes - isso é chamado de **decomposição** - e construir uma parte de cada vez
++ Create your own animation
++ Test and debug your code
++ Build your animation one part at a time
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">** Decomposição **</span> é quebrar um projeto em partes que são menores e mais fáceis de entender. Isso significa que você pode construir um projeto, uma parte de cada vez, até concluí-lo. 
-</p>
-
-![Exemplos de projetos.](images/surprise-example.png)
+![Examples of projects.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -21,19 +17,18 @@ Você vai:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Experimente 
+### Play ▶️ 
 
-Clique na bandeira verde para assistir à animação.
+Click on the green flag to watch the animation.
 
-A animação tem quatro partes:
-+ Configuração
-+ Curiosidade
-+ Surpresa!
-+ Reação
+The animation has three parts:
++ Curiosity
++ Surprise!
++ Reaction
 
 </div>
 <div>
-** Surpresa de dinossauro! **: [Veja dentro de] (https://scratch.mit.edu/projects/495932563/editor) {: target = "_blank"}
+**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -42,49 +37,46 @@ A animação tem quatro partes:
 
 --- /task ---
 
-### Inspire-se
+### Get ideas 💭
 
 --- task ---
 
-Você tomará decisões de design e pensará em uma história para sua animação com uma surpresa.
+Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
 
-Pense em como pode ser sua história e explore estes projetos de exemplo para obter mais ideias:
+⭐ Share your finished Surprise animation project for a chance of it being featured here.
 
-**BOO!**: [Veja dentro de](https://scratch.mit.edu/projects/498655116/editor){: target = "_ blank"}
+**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Gato mágico**: [Veja dentro de](https://scratch.mit.edu/projects/498615133/editor){: target = "_ blank"}
+**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Invasor**: [Veja dentro de](https://scratch.mit.edu/projects/498616008/editor){: target = "_ blank"}
+**⭐ Jumpscare!**: [See inside](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498616008/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
 </div>
+
 --- /task ---
 
 --- /no-print ---
 
 --- print-only ---
 
-### Inspire-se
+### Get ideas 💭
 
 Você tomará decisões de design e pensará em uma história para sua animação com uma surpresa. Pense em como pode ser sua história e, para ter mais ideias, **Veja em** projeto de exemplo na seção 'Surpresa! animação - Estúdio Scratch de exemplos: https://scratch.mit.edu/studios/29075822/
 
-A animação tem quatro partes:
-+ Configurar
-+ Curiosidade
-+ Surpresa!
-+ Reação
+The animation has three parts:
++ Curiosity
++ Surprise!
++ Reaction
 
-![A 'surpresa do dinossauro!' projeto.](images/dinosaur-surprise.png) ![O 'BOO!' projeto.](images/boo.png) ![O projeto 'magia do gato'.](images/cat-magic.png) ![O projeto 'Invasor'.](images/tresspass.png)
+![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
 
 --- /print-only ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Existem pessoas chamadas <span style="color: #0faeb0">** designers de narrativa **</span> que fazem histórias para aplicativos e videogames. Mas a narrativa digital permite que todos compartilhem suas histórias e imaginações criativas com outras pessoas.
-</p>
  
