@@ -1,25 +1,22 @@
-## 好奇心
+## Show curiosity
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-注意を引くために、オブジェクトは何かをしますか？ 主人公はどのように反応しますか？
+Will the object do something to attract attention? How will the character react? You decide! Create the **second part** of your animation.
 
-あなたが決める！
-</div>
-<div>
+![A film strip with 3 frames. The second frame is highlighted. The frame shows a scene with character thinking 'hmmmm' while looking at a curious object.](images/curiosity.png)
 
-！[「BOO！」好奇心旺盛な主人公を描いたプロジェクト。]（images / boo.png）
-
-</div>
-</div>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. In this step you will focus only on the curiosity part of your animation.
+</p>
 
 ### オブジェクト
 
 --- task ---
 
-**選択：** オブジェクトに何かを実行させたい場合は、オブジェクトが実行することを選択します。
+**Choose:** If you want the 🎂🎾🎁 **interesting object** to do something to attract attention, choose what the object will do.
 
-**オブジェクトの** `緑の旗が押された時`{：クラス=「block3events」}のセットアップスクリプトの最後に、ブロックを追加します。
+![A desert background with a rock jiggling back and forth.](images/jiggle.gif)
+
+Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green flag clicked`{:class="block3events"} setup script.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -31,19 +28,21 @@
 
 --- task ---
 
-主人公がオブジェクトに興味を示すように仕向けます。 **主人公の** セットアップスクリプトの最後にブロックを追加します。
+Get the 🐙👩‍🦼🦖 **main character** to show interest in the object. Add blocks to the end of the 🐙👩‍🦼🦖 **main character's** setup script.
 
-オブジェクトが何かを実行するまで主人公が待機する必要がある場合は、 `待つ`{：class = "block3control"}ブロックを追加します。
+If you need the 🐙👩‍🦼🦖 **main character** to wait until the 🎂🎾🎁 **interesting object** has done something, add a `wait`{:class="block3control"} block.
 
-あなたは`言う`{:class="block3looks"}や`考える`{:class="block3looks"}ブロック、または `音声合成`{:class="block3extensions"}拡張機能を使って主人公に声を出させることができます！
+![A desert background with a rock jiggling back and forth.](images/bear.gif)
+
+You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
 
 [[[scratch3-text-to-speech]]]
 
-主人公は[スペーストーク](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}プロジェクトのように感情を表すことができます。
+The character could emote, like in the [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-主人公は勇敢で、オブジェクトを確認するために近づくことができます。
+The character could be brave and move closer to check out the object.
 
 [[[scratch3-animate-movement-costumes]]]
 
@@ -51,16 +50,16 @@
 
 --- task ---
 
-**テスト：** 緑のフラグをクリックして、プロジェクトをテストします。 主人公はオブジェクトに好奇心を示すはずです。
+**Test:** Click on the green flag to test your project. The 🐙👩‍🦼🦖 **main character** should show curiosity about the object.
 
-緑の旗をもう一度クリックします。 **オブジェクト** または **主人公** スプライトの位置またはコスチュームを変更した場合は、プロジェクトを再度実行するときに、それらが開始位置や開始時のコスチュームに戻っていることを確認する必要があります。
+Click on the green flag again. If you changed the 🎂🎾🎁 **interesting object** or 🐙👩‍🦼🦖 **main character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
 
 --- collapse ---
 ---
 title: スプライトの開始位置と開始時のコスチュームを設定する
 ---
 
-開始時にスプライトの位置とコスチュームを設定するブロックを選択します。
+Choose the blocks that you need to set the position and looks for a sprite at the start.
 
 ```blocks3
 when flag clicked // add blocks to set up the start 
@@ -72,7 +71,7 @@ set [brightness v] effect to [80]
 show
 ```
 
-**ヒント：** 緑のフラグをクリックすると、すべてのグラフィックエフェクトがクリアされるため、クリアする必要はありませんが、スプライトに持たせるエフェクトを設定する必要がある場合があります。
+**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want the sprite to have.
 
 --- /collapse ---
 
@@ -80,14 +79,14 @@ show
 
 --- task ---
 
-**デバッグ：**
+**Debug:**
 
 --- collapse ---
 ---
 title: 音が出ない
 ---
 
-コンピューターまたはタブレットの音量が十分に大きいこと、およびスピーカーまたはヘッドホンが接続されて正しく機能していることを確認します。
+Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
 
 --- /collapse ---
 
@@ -96,10 +95,9 @@ title: 音が出ない
 title: 緑の旗をクリックすると、アニメーションが正しくリセットされません
 ---
 
-あなたのプロジェクトが `緑の旗が押された時`{:class="block3events"}を持っていて、スプライトの位置、大きさ、コスチュームをリセットすることを確認します。 詳しくは **スプライトの開始位置と開始時のコスチュームを設定する**タスクを参照してください。
+Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
 
 --- /collapse ---
 
 --- /task ---
 
---- save ---
