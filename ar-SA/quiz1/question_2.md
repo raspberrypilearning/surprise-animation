@@ -3,7 +3,7 @@
 القائمة: السؤال 2 من 3
 ---
 
-في مشروعك ، خططت للرسوم المتحركة (الكائنات) باستخدام كتل `مؤقت `{: class = "block3events"} أو `انتظر`{: class = "block3control"}.
+In your project, you controlled your animation with `wait`{:class="block3control"} blocks.
 
 في مشروع الديناصورات هذا ، تريد أن ينتظر الديناصور الصغير 6 ثوانٍ قبل أن يخرج من البيضة ويفاجأ الديناصور الكبير.
 
@@ -15,25 +15,13 @@
 
 - ( )
 ```blocks3
-when [loudness v] > (6)
-show
-```
-
-  --- feedback ---
-
- هذه هي الكتل المناسبة لاستخدامها ، ولكنك تحتاج إلى ان تختار `مؤقت`{: class = "block3events"} بدلاً من ``{: class = "block3events"} في القائمة المنسدلة.
-
-  --- /feedback ---
-
-- ( )
-```blocks3
 when this sprite clicked
 show
 ```
 
   --- feedback ---
 
-يحتاج هذا الكود البرمجي إلى تفاعل المستخدم حتى يظهر الديناصور الصغير.
+This script needs user interaction for the little dinosaur to show.
 
   --- /feedback ---
 
@@ -41,24 +29,25 @@ show
 ```blocks3
 when flag clicked
 show
-wait (6) seconds
+wait [6] seconds
 ```
 
   --- feedback ---
 
- هنا ، يفاجئ الديناصور الصغير الديناصور الكبير ، ثم ينتظر 6 ثوان.
+ Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
 
   --- /feedback ---
 
 - (x)
 ```blocks3
-when [timer v] > (6)
+when flag clicked
+wait [6] seconds
 show
 ```
 
   --- feedback ---
 
- عندما ينتظر الموقت 6 ثوانٍ ، يظهر الديناصور الصغير ويفاجأ الديناصور الكبير!
+ After 6 seconds, the little dinosaur appears and surprises the big dinosaur!
 
   --- /feedback ---
 
