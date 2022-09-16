@@ -16,56 +16,36 @@
 
 + サプライズ！
 
-+ 反応
-
   --- feedback ---
 
- 「セットアップ」部分はアニメーションをリセットします。 アニメーションを同じ方法で再度実行できるように、最初に来る必要があります。
-
-  --- /feedback ---
-
-- ( )
-+ 反応
-
-+ サプライズ！
-
-+ 好奇心
-
-+ セットアップ
-
-  --- feedback ---
-
- あなたが最初にしたことについて考えてください。 反応は後で来ました。
+ The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
 
   --- /feedback ---
 
 - (x)
-+ セットアップ
++ Setup
 
-+ 好奇心
++ Curiosity
 
 + サプライズ！
 
-+ 反応
 
   --- feedback ---
 
- はい! 最初にスプライトを設定し、次にストーリーを構築して最終的な反応を実現します。
+ Yes! You set up your sprites first, then created curiosity then ended with a surprise.
 
   --- /feedback ---
 
 - ( )
 + セットアップ
 
-+ 好奇心
++ Surprise!
 
-+ 反応
-
-+ サプライズ！
++ Curiosity
 
   --- feedback ---
 
- サプライズはアニメーションの終わりではありませんでした。 その後、何かが起こった。
+ Curiosity was not at the end of the animation. Something came afterwards.
 
   --- /feedback ---
 
