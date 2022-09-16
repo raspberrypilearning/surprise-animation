@@ -1,25 +1,22 @@
-## Περιέργεια
+## Show curiosity
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Θα κάνει κάτι το αντικείμενο για να τραβήξει την προσοχή; Πώς θα αντιδράσει ο χαρακτήρας;
+Will the object do something to attract attention? How will the character react? You decide! Create the **second part** of your animation.
 
-Εσύ αποφασίζεις!
-</div>
-<div>
+![A film strip with 3 frames. The second frame is highlighted. The frame shows a scene with character thinking 'hmmmm' while looking at a curious object.](images/curiosity.png)
 
-! [Το 'BOO!' έργο που δείχνει τον χαρακτήρα να είναι περίεργος.] (images/boo.png)
-
-</div>
-</div>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. In this step you will focus only on the curiosity part of your animation.
+</p>
 
 ### Το αντικείμενο
 
 --- task ---
 
-**Επίλεξε:** Εάν θέλεις το αντικείμενο να κάνει κάτι, επίλεξε τι θα κάνει το αντικείμενο.
+**Choose:** If you want the 🎂🎾🎁 **interesting object** to do something to attract attention, choose what the object will do.
 
-Πρόσθεσε μπλοκ στο τέλος του script προετοιμασίας του **αντικειμένου** `όταν γίνει κλικ στην πράσινη σημαία `{: class = «block3events»}.
+![A desert background with a rock jiggling back and forth.](images/jiggle.gif)
+
+Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green flag clicked`{:class="block3events"} setup script.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -31,19 +28,21 @@
 
 --- task ---
 
-Κάνε τον κύριο χαρακτήρα να δείξει ενδιαφέρον για το αντικείμενο. Πρόσθεσε μπλοκ στο τέλος του script προετοιμασίας του ** χαρακτήρα **.
+Get the 🐙👩‍🦼🦖 **main character** to show interest in the object. Add blocks to the end of the 🐙👩‍🦼🦖 **main character's** setup script.
 
-Εάν χρειάζεσαι ο χαρακτήρας να περιμένει μέχρι το αντικείμενο να κάνει κάτι, πρόσθεσε ένα μπλοκ`περίμενε`{: class = "block3control"}.
+If you need the 🐙👩‍🦼🦖 **main character** to wait until the 🎂🎾🎁 **interesting object** has done something, add a `wait`{:class="block3control"} block.
 
-Θα μπορούσες να χρησιμοποιήσεις τα μπλοκ `πες`{:class="block3looks"} ή `σκέψου`{:class="block3looks"} ή ακόμα και να χρησιμοποιήσεις την επέκταση`Κείμενο σε Ομιλία`{:class="block3extensions"} για να κάνεις τον χαρακτήρα να μιλήσει δυνατά!
+![A desert background with a rock jiggling back and forth.](images/bear.gif)
+
+You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
 
 [[[scratch3-text-to-speech]]]
 
-Ο χαρακτήρας θα μπορούσε να έχει εκφράσεις, όπως στο έργο [Διαστημική συζήτηση](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}.
+The character could emote, like in the [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-Ο χαρακτήρας θα μπορούσε να είναι γενναίος και να πλησιάσει για να ελέγξει το αντικείμενο.
+The character could be brave and move closer to check out the object.
 
 [[[scratch3-animate-movement-costumes]]]
 
@@ -51,16 +50,16 @@
 
 --- task ---
 
-**Δοκιμή:** Κάνε κλικ στην πράσινη σημαία για να δοκιμάσεις το έργο σου. Ο χαρακτήρας πρέπει να δείχνει περιέργεια για το αντικείμενο.
+**Test:** Click on the green flag to test your project. The 🐙👩‍🦼🦖 **main character** should show curiosity about the object.
 
-Κάνε κλικ στην πράσινη σημαία ξανά. Εάν αλλάξεις τη θέση ή την όψη του **αντικείμενου** ή του**χαρακτήρα**, θα πρέπει να βεβαιωθείς ότι έχουν επανέλθει στην αρχική τους θέση ή στην αρχική τους όψη όταν επανεκτελείς το έργο.
+Click on the green flag again. If you changed the 🎂🎾🎁 **interesting object** or 🐙👩‍🦼🦖 **main character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
 
 --- collapse ---
 ---
 title: Όρισε την αρχική θέση και όψη για ένα αντικείμενο
 ---
 
-Επίλεξε τα μπλοκ που χρειάζεσαι για να ορίσεις τη θέση και την όψη για ένα αντικείμενο στην εκκίνηση.
+Choose the blocks that you need to set the position and looks for a sprite at the start.
 
 ```blocks3
 when flag clicked // add blocks to set up the start 
@@ -72,7 +71,7 @@ set [brightness v] effect to [80]
 show
 ```
 
-**Συμβουλή:** Όλα τα εφέ γραφικών διαγράφονται όταν κάνεις κλικ στην πράσινη σημαία, οπότε δεν χρειάζεται να τα διαγράψεις, αλλά ίσως χρειαστεί να ορίσεις τα εφέ που θέλεις να έχει το αντικείμενο.
+**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want the sprite to have.
 
 --- /collapse ---
 
@@ -80,14 +79,14 @@ show
 
 --- task ---
 
-**Εντοπισμός σφαλμάτων:**
+**Debug:**
 
 --- collapse ---
 ---
 τίτλος: Ο ήχος δεν λειτουργεί
 ---
 
-Βεβαιώσου ότι η ένταση του υπολογιστή ή του tablet σου είναι αρκετά δυνατή και ότι τα ηχεία ή τα ακουστικά σου είναι συνδεδεμένα και λειτουργούν σωστά.
+Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
 
 --- /collapse ---
 
@@ -96,10 +95,9 @@ show
 title: Η κινούμενη εικόνα μου δεν επανέρχεται σωστά όταν κάνω κλικ στην πράσινη σημαία
 ---
 
-Έλεγξε ότι το έργο σου έχει scripts`όταν γίνει κλικ στην πράσινη σημαία `{: class = "block3events"} για τα αντικείμενα που τα χρειάζονται και έλεγξε ότι επαναφέρουν τη θέση, το μέγεθος και τις όψεις των αντικειμένων. Για βοήθεια σε αυτό, συμβουλέψου την ενότητα **Όρισε την αρχική θέση και όψη για ένα αντικείμενο** παραπάνω.
+Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
 
 --- /collapse ---
 
 --- /task ---
 
---- save ---
