@@ -16,56 +16,36 @@ legend: Ερώτηση 3 από 3
 
 + 'Εκπληξη!
 
-+ Αντίδραση
-
   --- feedback ---
 
- Το μέρος "προετοιμασία" επαναφέρει την κινούμενη εικόνα σου στην αρχική της κατάσταση. Πρέπει να έρθει πρώτα για να μπορέσει η κινούμενη εικόνα σας να εκτελεστεί ξανά με τον ίδιο τρόπο.
-
-  --- /feedback ---
-
-- ( )
-+ Αντίδραση
-
-+ 'Εκπληξη!
-
-+ Περιέργεια
-
-+ Προετοιμασία
-
-  --- feedback ---
-
- Σκέψου τι έκανες στην αρχή. Η αντίδραση ήρθε αργότερα.
+ The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
 
   --- /feedback ---
 
 - (x)
-+ Προετοιμασία
++ Setup
 
-+ Περιέργεια
++ Curiosity
 
 + 'Εκπληξη!
 
-+ Αντίδραση
 
   --- feedback ---
 
- Ναι! Προετοιμάζεις πρώτα τα αντικείμενά σου, μετά χτίζεις την ιστορία σου ώστε να καταλήξει στην τελική αντίδραση.
+ Yes! You set up your sprites first, then created curiosity then ended with a surprise.
 
   --- /feedback ---
 
 - ( )
 + Προετοιμασία
 
-+ Περιέργεια
++ Surprise!
 
-+ Αντίδραση
-
-+ 'Εκπληξη!
++ Curiosity
 
   --- feedback ---
 
- Η έκπληξη δεν ήταν στο τέλος της κινούμενης εικόνας. Κάτι ήρθε αργότερα.
+ Curiosity was not at the end of the animation. Something came afterwards.
 
   --- /feedback ---
 
