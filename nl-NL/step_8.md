@@ -1,23 +1,22 @@
-## Deel
+## What next?
 
-Als je lid bent van een club, waarom zou je je project dan niet delen met vrienden en collega's?
+If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathway/scratch-intro) pathway, you can move on to the [I made you a book](https://projects.raspberrypi.org/en/projects/i-made-you-a-book) project. In this project, you will make a book in Scratch based on your own idea.
 
-Je kunt jouw familie ook laten zien hoe jouw project werkt.
+--- no-print ---
 
-Als je een Scratch-account hebt, kun je je project delen via Scratch. Je kunt een link sturen naar mensen die je kent, en de hele Scratch-gemeenschap zal je project kunnen vinden en uitproberen.
+**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+</div>
 
-[[[share-scratch]]]
+--- /no-print ---
 
-Waarom nodig je je vrienden niet uit om een project te maken? Laat ze weten hoeveel plezier je hebt gehad.
+--- print-only ---
 
-Als je een Scratch-account hebt en je 'Verrassing! animatie'-project hebt gedeeld, let dan op opmerkingen die anderen over jouw creatie kunnen maken. Terugkoppeling is een geweldige manier om te reflecteren op je werk. Negeer alle opmerkingen die nutteloos of irrelevant zijn.
+![An 'I made you a book' project.](images/book-cover.png)
 
-[[[comments-feedback-scratch]]]
+--- /print-only ---
 
---- task ---
+If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-Inspireer de Raspberry Pi Foundation-gemeenschap met jouw project!
 
-Om jouw project in te dienen bij onze ['Verrassing! animatie — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}, vul [dit formulier](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} in.
-
---- /task ---
