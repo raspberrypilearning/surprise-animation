@@ -1,23 +1,22 @@
-## Rhannu
+## What next?
 
-Os wyt ti mewn clwb, beth am rannu dy brosiect â ffrindiau a chyfoedion?
+If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathway/scratch-intro) pathway, you can move on to the [I made you a book](https://projects.raspberrypi.org/en/projects/i-made-you-a-book) project. In this project, you will make a book in Scratch based on your own idea.
 
-Gallet ti hefyd ddangos i dy deulu sut mae dy brosiect yn gweithio.
+--- no-print ---
 
-Os oes gen ti gyfrif Scratch, galli di rannu dy brosiect drwy Scratch. Galli di anfon dolen at bobl rwyt ti'n eu hadnabod, a bydd y gymuned Scratch gyfan yn gallu dod o hyd i dy brosiect a rhoi cynnig arno.
+**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+</div>
 
-[[[share-scratch]]]
+--- /no-print ---
 
-Beth am wahodd dy ffrindiau i greu prosiect? Gad iddyn nhw wybod dy fod wedi cael hwyl.
+--- print-only ---
 
-Os oes gen ti gyfrif Scratch, ac rwyt ti wedi rhannu dy brosiect 'animeiddiad syrpreis!', cadwa lygaid allan am sylwadau y gallai pobl eraill eu gwneud am dy waith. Mae adborth yn ffordd wych o fyfyrio ar dy waith. Anwybydda unrhyw sylwadau sy'n ddi-fudd neu'n amherthnasol.
+![An 'I made you a book' project.](images/book-cover.png)
 
-[[[comments-feedback-scratch]]]
+--- /print-only ---
 
---- task ---
+If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-Dyro ysbrydoliaeth i gymuned y Raspberry Pi Foundation gyda dy brosiect!
 
-I gyflwyno dy brosiect i'n [Animeiddiad syrpreis - stiwdio Cymuned Scratch](https://scratch.mit.edu/studios/29079784){:target="_blank"}, gwna'n siŵr dy fod yn cwblhau'r [ffurflen hon](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
-
---- /task ---
