@@ -1,25 +1,22 @@
-## Chwilfrydedd
+## Show curiosity
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Fydd y gwrthrych yn gwneud rhywbeth i ddenu sylw? Sut bydd y cymeriad yn ymateb?
+Will the object do something to attract attention? How will the character react? You decide! Create the **second part** of your animation.
 
-Ti sy'n penderfynu!
-</div>
-<div>
+![A film strip with 3 frames. The second frame is highlighted. The frame shows a scene with character thinking 'hmmmm' while looking at a curious object.](images/curiosity.png)
 
-![Y prosiect 'BW!' yn dangos y cymeriad yn bod yn chwilfrydig.](images/boo.png)
-
-</div>
-</div>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. In this step you will focus only on the curiosity part of your animation.
+</p>
 
 ### Y gwrthrych
 
 --- task ---
 
-**Dewis:** Os wyt ti am i'r gwrthrych wneud rhywbeth, dewisa beth bydd y gwrthrych yn ei wneud.
+**Choose:** If you want the 🎂🎾🎁 **interesting object** to do something to attract attention, choose what the object will do.
 
-Ychwanega flociau i ddiwedd sgript gosod `pan fydd y faner werdd wedi'i chlicio`{:class="block3events"} y **gwrthrych**.
+![A desert background with a rock jiggling back and forth.](images/jiggle.gif)
+
+Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green flag clicked`{:class="block3events"} setup script.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -31,19 +28,21 @@ Ychwanega flociau i ddiwedd sgript gosod `pan fydd y faner werdd wedi'i chlicio`
 
 --- task ---
 
-Mae angen cael y prif gymeriad i ddangos diddordeb yn y gwrthrych. Ychwanega flociau at ddiwedd sgript gosod y **cymeriad**.
+Get the 🐙👩‍🦼🦖 **main character** to show interest in the object. Add blocks to the end of the 🐙👩‍🦼🦖 **main character's** setup script.
 
-Os oes angen i'r cymeriad aros nes bod y gwrthrych wedi gwneud rhywbeth, ychwanega floc `aros`{:class="block3control"}.
+If you need the 🐙👩‍🦼🦖 **main character** to wait until the 🎂🎾🎁 **interesting object** has done something, add a `wait`{:class="block3control"} block.
 
-Fe allet ti ddefnyddio blociau `dweud`{:class="block3looks"} neu `meddwl`{:class="block3looks"}, neu hyd yn oed defnyddio'r estyniad `Testun i Leferydd`{:class="block3extensions"} i wneud i'r cymeriad siarad yn uchel!
+![A desert background with a rock jiggling back and forth.](images/bear.gif)
+
+You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
 
 [[[scratch3-text-to-speech]]]
 
-Gallai'r cymeriad ddefnyddio emoshlun, fel yn prosiect [Sgwrs yn y Sêr](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}.
+The character could emote, like in the [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-Gallai'r cymeriad fod yn ddewr a symud yn agosach i edrych ar y gwrthrych.
+The character could be brave and move closer to check out the object.
 
 [[[scratch3-animate-movement-costumes]]]
 
@@ -51,16 +50,16 @@ Gallai'r cymeriad fod yn ddewr a symud yn agosach i edrych ar y gwrthrych.
 
 --- task ---
 
-**Prawf:** Clicia ar y faner werdd i brofi dy brosiect. Dylai'r cymeriad ddangos chwilfrydedd tuag at y gwrthrych.
+**Test:** Click on the green flag to test your project. The 🐙👩‍🦼🦖 **main character** should show curiosity about the object.
 
-Clicia ar y faner werdd eto. Os wyt ti wedi newid safloedd neu edrychiad corluniau'r **gwrthrych** neu'r **cymeriad** bydd angen i ti wneud yn siŵr eu bod yn cael eu gosod yn ôl i'w safle neu eu hedrychiad cychwynol pan fyddi di'n rhedeg y prosiect eto.
+Click on the green flag again. If you changed the 🎂🎾🎁 **interesting object** or 🐙👩‍🦼🦖 **main character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
 
 --- collapse ---
 ---
 teitl: Gosod y safle a'r edrychiad cychwynnol ar gyfer corlun
 ---
 
-Dewisa'r blociau sydd eu hangen arnat i osod y safle ac edrychiad ar gyfer corlun ar y dechrau.
+Choose the blocks that you need to set the position and looks for a sprite at the start.
 
 ```blocks3
 when flag clicked // add blocks to set up the start 
@@ -72,7 +71,7 @@ set [brightness v] effect to [80]
 show
 ```
 
-**Awgrym:** Mae'r holl effeithiau graffeg yn cael eu clirio pan fyddi di'n clicio ar y faner werdd, felly does dim angen i ti eu clirio, ond efallai y bydd angen i ti osod yr effeithiau rwyt ti am i'r corlun eu cael.
+**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want the sprite to have.
 
 --- /collapse ---
 
@@ -80,14 +79,14 @@ show
 
 --- task ---
 
-**Difa chwilod:**
+**Debug:**
 
 --- collapse ---
 ---
 title: Dydy'r sain ddim yn gweithio
 ---
 
-Gwna'n siŵr bod lefel y sain ar dy gyfrifiadur neu dabled yn ddigon uchel a bod dy seinyddion neu glustffonau wedi'u cysylltu ac yn gweithio'n iawn.
+Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
 
 --- /collapse ---
 
@@ -96,10 +95,9 @@ Gwna'n siŵr bod lefel y sain ar dy gyfrifiadur neu dabled yn ddigon uchel a bod
 title: Dydy fy animeiddiad ddim yn ailosod yn iawn pan fyddaf yn clicio ar y faner werdd
 ---
 
-Gwna'n siŵr bod gan dy brosiect sgriptiau `pan fydd y fflag werdd wedi'i chlicio`{:class="block3events"} ar gyfer y corluniau sydd eu hangen, a gwna'n siŵr eu bod yn ailosod safle, maint ac edrychiad y corluniau. I gael help gyda hyn, gweler y dasg **Gosod y safle a'r edrychiad cychwynnol ar gyfer corlun** uchod.
+Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
 
 --- /collapse ---
 
 --- /task ---
 
---- save ---
