@@ -1,20 +1,13 @@
-## Surprise
+## Add a surprise!
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now, you need to add a surprise. What could happen to the object? 
-- Will it turn into another object? 
-- Will it turn into a character? 
-- Will it disappear and reveal another sprite? 
+Now, you need to add a surprise. What could happen to the object?
+- Will it turn into another object?
+- Will it turn into a character?
+- Will it disappear and reveal another sprite?
 
-You decide!
-</div>
-<div>
+You decide! Create the **third part** of your animation.
 
-![The 'Cat magic' project showing the surprise.](images/cat-magic.png)
-
-</div>
-</div>
+![A film strip with 3 frames. The third frame is highlighted. The frame shows a scene with character looking surprised at an object.](images/surprise.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
@@ -24,11 +17,14 @@ Have you written a story with a plot twist or a surprise? Have you watched a sho
 
 --- task ---
 
-Select the **object** sprite. Add a script to make the surprise start when you want it to.
+Select the 🎂🎾🎁 **interesting object** sprite. Add a script to make the surprise start when you want it to.
 
 You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
 
-[[[scratch3-time-delay]]]
+```blocks3
+when flag clicked
+wait (5) seconds // change the number to create your time delay
+```
 
 --- /task ---
 
@@ -38,30 +34,36 @@ You will need to choose a time delay that works for your project. If you have a 
 
 The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
 
-You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it. For example, you could make the **Apple** turn into a **Ghost**.
+You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it.
+
+![A desert background with a rock jiggling back and forth.](images/bat.gif)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the **object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
+You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the 🎂🎾🎁 **interesting object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
 
 --- collapse ---
 ---
 title: Hide and show sprites
 ---
 
-The **object** sprite:
+The 🎂🎾🎁 **interesting object** sprite:
 ```blocks3
-when [timer v] > (4) // set the delay
+when flag clicked
+show
+wait (5) seconds
 hide
 ```
 
-A **surprise** sprite:
+The 🎷👻⚡**surprise object** sprite:
 ```blocks3
-when [timer v] > (4) // same delay
+when flag clicked
+hide
+wait (5) seconds
 show
 ```
 
-**Tip:** If you make a **surprise** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Tip:** If you make a 🎷👻⚡**surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
 
 --- /collapse ---
 
@@ -85,19 +87,12 @@ If the surprise happens at the wrong time, you can fix that:
 
 --- collapse ---
 ---
-title: Timer scripts start the surprise at the wrong time
+title: The surprise starts at the wrong time
 ---
 
-Make sure that you have selected the `timer`{:class="block3events"} option in the `when loudness`{:class="block3events"} block:
-
-```blocks3
-when [timer v] > [5]
-```
-
-If you have the `timer`{:class="block3events"} selected correctly, try adjusting the amount of time that the timer waits.
+You might need to change the amount of time in some or all of the `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
 
 --- /collapse ---
 
 --- /task ---
 
---- save ---
