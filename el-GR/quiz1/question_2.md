@@ -3,7 +3,7 @@
 legend: Ερώτηση 2 από 3
 ---
 
-Στο έργο σου, σχεδίασες την κινούμενη εικόνα σου με μπλοκ `χρόνου`{:class="block3events"} ή `αναμονής`{:class="block3control"}.
+In your project, you controlled your animation with `wait`{:class="block3control"} blocks.
 
 Σε αυτό το έργο με τους δεινόσαυρους, ο μικρός δεινόσαυρος θα περιμένει 6 δευτερόλεπτα πριν βγει από το αυγό και τρομάξει τον μεγάλο δεινόσαυρο.
 
@@ -15,25 +15,13 @@ legend: Ερώτηση 2 από 3
 
 - ( )
 ```blocks3
-when [loudness v] > (6)
-show
-```
-
-  --- feedback ---
-
- Αυτά είναι τα σωστά μπλοκ για να χρησιμοποιήσεις, αλλά πρέπει να επιλέξεις το μπλοκ `χρονόμετρο`{:class="block3events"} αντί για το μπλοκ `ένταση`{:class="block3events"} στο drop-down menu.
-
-  --- /feedback ---
-
-- ( )
-```blocks3
 when this sprite clicked
 show
 ```
 
   --- feedback ---
 
-Αυτό το script χρειάζεται αλληλεπίδραση από τον χρήστη χρήστη για να εμφανιστεί ο μικρός δεινόσαυρος.
+This script needs user interaction for the little dinosaur to show.
 
   --- /feedback ---
 
@@ -41,24 +29,25 @@ show
 ```blocks3
 when flag clicked
 show
-wait (6) seconds
+wait [6] seconds
 ```
 
   --- feedback ---
 
- Εδώ, ο μικρός δεινόσαυρος τρομάζει τον μεγάλο δεινόσαυρο και στη συνέχεια περιμένει 6 δευτερόλεπτα.
+ Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
 
   --- /feedback ---
 
 - (x)
 ```blocks3
-when [timer v] > (6)
+when flag clicked
+wait [6] seconds
 show
 ```
 
   --- feedback ---
 
- Αφού το χρονόμετρο περιμένει για 6 δευτερόλεπτα, εμφανίζεται ο μικρός δεινόσαυρος και ξαφνιάζει τον μεγάλο δεινόσαυρο!
+ After 6 seconds, the little dinosaur appears and surprises the big dinosaur!
 
   --- /feedback ---
 
