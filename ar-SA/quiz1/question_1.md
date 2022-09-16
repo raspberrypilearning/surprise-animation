@@ -1,26 +1,23 @@
+## Quick quiz
 
-## التفكير
+Answer the three questions. There are hints to guide you to the correct answer.
 
-أحسنت ، لقد تعلمت الكثير! الآن ، حان وقت التفكير - التفكير جزء مهم من التعلم ، لأنه يساعد في إنشاء روابط جديدة في عقلك.
+When you have answered each question, click on **Check my answer**.
 
-أجب عن الأسئلة الثلاثة أدناه للتفكر فيما تعلمته.
-
-عندما تجيب على كل سؤال ، انقر فوق **إرسال**. سيتم توجيهك نحو الإجابة الصحيحة. يمكنك القيام بهذا النشاط عدة مرات كما تريد.
-
-إستمتع!
+Have fun!
 
 --- question ---
 ---
 القائمة: السؤال 1 من 3
 ---
 
-في مشروعك ، قمت بعمل حركة مفاجأة. انقر فوق العلم الأخضر لتشغيل الرسم المتحرك أدناه ، ثم قم بتشغيله مرة أخرى.
+In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
 </div>
 
-هل لاحظت أي شيء غريب في المرة الثانية؟ المفاجأة دمرت! ماهي كتلة التعليمات البرمجية التي ستضيفها لجعل المفاجأة تعمل؟
+Did you notice anything odd the second time? The surprise was ruined! What code block would you add to make the surprise work?
 
 --- choices ---
 
@@ -31,7 +28,7 @@ set size to (150) %
 
   --- feedback ---
 
- كائن ال**بيضة** في حجمه الصحيح عند تشغيل البرنامج مرة أخرى.
+ The **egg** sprite is the correct size when you run the program again.
 
   --- /feedback ---
 
@@ -42,7 +39,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- نعم. تحتاج إلى تبديل زي الكائن إلى الزي الصحيح (**بيضة-أ**) عند بدء المشروع.
+ Yes. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
 
   --- /feedback ---
 
@@ -53,7 +50,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- غالبًا ما تحتاج إلى تذكر عمل مشاهدة للكائن عند النقر فوق العلم الأخضر ، ولكن في المشروع في السؤال ، يظهر الكائن **بيضة**.
+ You often need to remember to make a sprite show when the green flag is clicked, but in the project in the question, the **egg** sprite does show.
 
   --- /feedback ---
 
@@ -64,7 +61,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- الكائن **بيضة** ذهب إلى موضع البداية الصحيح على المنصة.
+ The **egg** sprite does go to the correct starting position on the Stage.
 
   --- /feedback ---
 
