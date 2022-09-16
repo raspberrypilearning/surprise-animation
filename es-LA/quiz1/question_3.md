@@ -16,56 +16,36 @@ Creaste tu animación dividiéndola en partes y construyéndola en el orden en q
 
 + ¡Sorpresa!
 
-+ Reacción
-
   --- feedback ---
 
- La parte 'configuración' reinicia tu animación. Tiene que estar primero para que tu animación se pueda ejecutar nuevamente de la misma manera.
-
-  --- /feedback ---
-
-- ( )
-+ Reacción
-
-+ ¡Sorpresa!
-
-+ Curiosidad
-
-+ Configuración
-
-  --- feedback ---
-
- Piensa en lo que hiciste primero. La reacción viene después.
+ The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
 
   --- /feedback ---
 
 - (x)
-+ Configuración
++ Setup
 
-+ Curiosidad
++ Curiosity
 
 + ¡Sorpresa!
 
-+ Reacción
 
   --- feedback ---
 
- ¡Sí! Primero configuraste tus objetos, luego tu historia se desarrolla hasta tener una reacción final.
+ Yes! You set up your sprites first, then created curiosity then ended with a surprise.
 
   --- /feedback ---
 
 - ( )
 + Configuración
 
-+ Curiosidad
++ Surprise!
 
-+ Reacción
-
-+ ¡Sorpresa!
++ Curiosity
 
   --- feedback ---
 
- La sorpresa no ocurrió al final de la animación. Algo vino después.
+ Curiosity was not at the end of the animation. Something came afterwards.
 
   --- /feedback ---
 
