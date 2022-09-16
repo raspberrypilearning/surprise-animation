@@ -1,23 +1,22 @@
-## Comparte
+## What next?
 
-Si estás en un club, ¿por qué no compartes tu proyecto con tus amigos y compañeros?
+If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathway/scratch-intro) pathway, you can move on to the [I made you a book](https://projects.raspberrypi.org/en/projects/i-made-you-a-book) project. In this project, you will make a book in Scratch based on your own idea.
 
-También podrías mostrarle a tu familia cómo funciona tu proyecto.
+--- no-print ---
 
-Si tienes una cuenta de Scratch, puedes compartir tu proyecto a través de Scratch. Puedes enviar un enlace a las personas que conoces y toda la comunidad de Scratch podrá encontrar tu proyecto y probarlo.
+**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+</div>
 
-[[[share-scratch]]]
+--- /no-print ---
 
-¿Por qué no invitas a tus amigos a crear un proyecto? Déjales saber cuánto te divertiste.
+--- print-only ---
 
-Si tienes una cuenta de Scratch y has compartido tu '¡Sorpresa! animación', mantente atento a los comentarios que otros puedan hacer sobre tu creación. La retroalimentación es una excelente manera de reflexionar sobre tu trabajo. Ignora cualquier comentario que sea inútil o irrelevante.
+![An 'I made you a book' project.](images/book-cover.png)
 
-[[[comments-feedback-scratch]]]
+--- /print-only ---
 
---- task ---
+If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-¡Inspira a la comunidad de la Fundación Raspberry Pi con tu proyecto!
 
-Para enviar tu proyecto a nuestro ['¡Sorpresa! animación - Comunidad' de Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_ blank"}, por favor completa [este formulario](https://form.raspberrypi.org/f/community-project-submissions){:target="_ blank"}.
-
---- /task ---
