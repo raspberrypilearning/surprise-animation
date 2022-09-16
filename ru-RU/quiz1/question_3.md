@@ -16,26 +16,9 @@ Which order represents the animation that you made?
 
 + Surprise!
 
-+ Reaction
-
   --- feedback ---
 
  The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
-
-  --- /feedback ---
-
-- ( )
-+ Reaction
-
-+ Surprise!
-
-+ Curiosity
-
-+ Setup
-
-  --- feedback ---
-
- Think about what you did first. The reaction came later.
 
   --- /feedback ---
 
@@ -46,26 +29,23 @@ Which order represents the animation that you made?
 
 + Surprise!
 
-+ Reaction
 
   --- feedback ---
 
- Yes! You set up your sprites first, then your story built to a final reaction.
+ Yes! You set up your sprites first, then created curiosity then ended with a surprise.
 
   --- /feedback ---
 
 - ( )
 + Setup
 
-+ Curiosity
-
-+ Reaction
-
 + Surprise!
+
++ Curiosity
 
   --- feedback ---
 
- The surprise was not at the end of the animation. Something came afterwards.
+ Curiosity was not at the end of the animation. Something came afterwards.
 
   --- /feedback ---
 
