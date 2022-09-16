@@ -1,62 +1,76 @@
-## Opzetten
+## Create your scene
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Heb je een idee voor je animatie? 
-  
-In deze stap voeg je een achtergrond, hoofdpersoon en interessant voorwerp toe. 
-</div>
-<div>  
-![Het 'Dinosaurusverrassing!' project na te zijn opgezet.](images/dinosaur-surprise.png)
-</div>
-</div>
+Have you got an idea about your animation?
+
+Add a backdrop 🖼️, main character 🐙👩‍🦼🦖, and interesting object 🎂🎾🎁 of your choice to create the **first part** of your animation.
+
+![A film strip with 3 frames. The first frame is highlighted. The frame shows a scene with character, object, and background.](images/scene.png)
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+  <span style="color: #0faeb0">**Animation**</span> creates the effect of movement by changing pictures quickly. The first animators carved pictures out of wooden blocks and used them as stamps. It is much faster to use Scratch to code your animation!
+</p>
+
+### Open the starter project
 
 --- task ---
 
-Open het [verrassing! animatie startproject](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"} en bekijk de reeks sprites en achtergronden die je kunt gebruiken. Besteed wat tijd aan het nadenken over je hoofdpersoon, interessant voorwerp en achtergrond.
+Open the [Surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"}.
+
+⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29075822){:target="_blank"}.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+There are people called <span style="color: #0faeb0">**narrative designers**</span> who do storytelling for apps and video games. Digital storytelling allows everyone to share their stories and creative imaginings with other people.
+</p>
+
+### Design your scene
+
+--- task ---
+
+**Choose:** a theme for your animation. You could choose:
+
++ 🐯 Land Animals
++ 🐠 Sea animals
++ 👽 Aliens
++ 🌿 Nature
++ 🌈 Weather
++ 🌮 Food
++ 🚀 Travel
++ ⚾ Sport .... Or something else
 
 --- /task ---
 
 --- task ---
 
-**Kies:** Kies een sprite als hoofdpersoon en een andere sprite als interessant voorwerp.
+**Choose:** Choose a sprite to be the 🐙👩‍🦼🦖 **main character**, another sprite to be the 🎂🎾🎁 **interesting object** and a 🖼️ **backdrop** to set the scene.
 
-![Het pictogram 'Kies een Sprite'.](images/add-sprite.png)
-
---- /task ---
-
-Waar wil je dat je animatie plaatsvindt?
-
---- task ---
-
-**Kies:** Kies een achtergrond om de scène in te stellen.
-
-![Het pictogram 'Kies een achtergrond'.](images/add-backdrop.png)
+![Two Choose a Sprite icons and a Choose a Backdrop icon.](images/sprites-and-backdrop.png)
 
 --- /task ---
 
-Waar wil je dat je sprites beginnen? Hoe groot wil je dat ze zijn? Hoe wil je dat ze eruit zien?
+### Prepare your sprites
+
+Where do you want your sprites to start? How big do you want them to be? How do you want them to look?
 
 --- task ---
 
-Voeg een `wanneer op de groene vlag wordt geklikt`{:class="block3events"} blok toe, en voeg daaronder blokken toe om je sprites in te stellen aan het begin van je animatie.
+Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation.
 
-Vergeet niet om zowel je **hoofdpersoon** als je **interessante voorwerp** in te stellen.
+**Tip:** Remember to set up both your 🐙👩‍🦼🦖 **main character** and your 🎂🎾🎁 **interesting object** sprites.
 
 --- collapse ---
 ---
 title: Plaats je sprites
 ---
 
-Om de positie van de **hoofdpersoon** sprite voor het hele project te wijzigen, verplaats je de hoofdpersoon naar de positie van jouw keuze in het werkgebied.
-
-Om de positie van de **hoofdpersooon** sprite voor een deel van het project te wijzigen, verplaats je de hoofdpersoon naar de positie van jouw keuze in het werkgebied en voeg je een `ga naar x: y:`{:class="block3motion"} blok toe aan je code:
+Move the 🐙👩‍🦼🦖 **main character** to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
 
 ```blocks3
 go to x: (0) y: (0) // add the sprite's position
 ```
 
-Herhaal deze taak voor het **interessante voorwerp**.
+Repeat this task for the 🎂🎾🎁 **interesting object**.
 
 --- /collapse ---
 
@@ -65,11 +79,11 @@ Herhaal deze taak voor het **interessante voorwerp**.
 title: De grootte van je sprites wijzigen
 ---
 
-Om de grootte van een sprite voor het hele project te wijzigen, wijzig je het getal in de **Grootte** in het Sprite-paneel:
+To change the size of a sprite for the whole project, change the number in the **Size** property in the Sprite pane:
 
 ![](images/sprite-pane-size.png)
 
-Om de grootte van een sprite voor een deel van het project te wijzigen, voeg je code toe om met `maak grootte`{:class="block3looks"} met de grootte van jouw keuze. Deze optie is goed als je wilt dat je sprite van grootte verandert in het project.
+To change the size of a sprite for part of the project, add code to `set size to`{:class="block3looks"} the size of your choice. This option is good if you want your sprite to change size in the project.
 
 ```blocks3
 set size to [100] % // <100 is smaller, >100 is bigger
@@ -82,17 +96,17 @@ set size to [100] % // <100 is smaller, >100 is bigger
 title: Stel de uiterlijken van je sprites in
 ---
 
-Om het uiterlijk van een sprite voor het hele project te wijzigen, klik je op de **Uiterlijken** tab en selecteer je een van de beschikbare uiterlijken:
+To change the costume of a sprite for the whole project, click on the **Costumes** tab and select one of the available costumes:
 
-![Het tabblad Uiterlijken, met de beschikbare uiterlijken voor een sprite.](images/nano-costumes.png)
+![The Costumes tab, with the available costumes for a sprite.](images/nano-costumes.png)
 
-Om het uiterlijk van een sprite voor een deel van het project te wijzigen, voeg je een `verander uiterlijk naar`{:class="block3looks"}-blok toe aan je code en werk je deze bij om het uiterlijk van jouw keuze weer te geven:
+To change the costume of a sprite for part of the project, add a `switch costume to`{:class="block3looks"} block to your code and update it to show the costume of your choice:
 
 ```blocks3
 switch costume to [ v]  // update this for your chosen costume
 ```
 
-Om een sprite aan het begin van het project te verbergen, voeg je een `verdwijn`{:class="block3looks"}-blok toe aan je code:
+To hide a sprite at the start of the project, add a `hide`{:class="block3looks"} block to your code:
 
 ```blocks3
 hide 
@@ -105,13 +119,13 @@ hide
 title: Stel de richting van je sprites in
 ---
 
-Je sprites kunnen de verkeerde kant op kijken wanneer je ze aan je project toevoegt.
+Your sprites might be facing the wrong way when you add them to your project.
 
-Om de richting van een sprite voor het hele project wijzigen, verander de **Richting** en **draaistijl** in het Sprite-paneel:
+To change the direction of a sprite for the whole project, change the **Direction** and **rotation style** in the Sprite pane:
 
-![Het menu Richting en draaistijl in het Sprite-paneel.](images/sprite-pane-direction.png)
+![The Direction and rotation style menu in the Sprite pane.](images/sprite-pane-direction.png)
 
-Om de richting van een sprite voor een deel van het project te wijzigen, voeg je blokken toe aan je code om de `draaistijl`{:class="block3motion"} en `richting`{:class="block3motion"} te wijzigen:
+To change the direction of a sprite for part of the project, add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}:
 
 ```blocks3
 set rotation style [left-right v]
@@ -124,10 +138,8 @@ point in direction (-90) // turn to the left
 
 --- task ---
 
-Sla je project op.
+Save your project.
 
 [[[generic-scratch3-saving]]]
 
 --- /task ---
-
---- save ---
