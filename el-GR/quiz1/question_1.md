@@ -1,26 +1,23 @@
+## Quick quiz
 
-## Αναστοχασμός
+Answer the three questions. There are hints to guide you to the correct answer.
 
-Μπράβο, έμαθες πολλά! Τώρα, ήρθε η ώρα να εξετάσεις τις νέες γνώσεις- ο αναστοχασμός είναι σημαντικό μέρος της μάθησης, επειδή βοηθά στη δημιουργία νέων συνδέσεων στον εγκέφαλό σου.
+When you have answered each question, click on **Check my answer**.
 
-Απάντησε στις τρεις ερωτήσεις παρακάτω για να διαπιστώσεις τι έμαθες.
-
-Όταν απαντήσεις σε κάθε ερώτηση, κάνε κλικ στην**Υποβολή**. Θα οδηγηθείς στη σωστή απάντηση. Μπορείς να επαναλάβεις αυτήν τη δραστηριότητα όσες φορές θέλεις.
-
-Καλή διασκέδαση!
+Have fun!
 
 --- question ---
 ---
 legend: Ερώτηση 1 από 3
 ---
 
-Σε αυτό το έργο, δημιούργησες μια κινούμενη εικόνα με μια έκπληξη. Κάνε κλικ στην πράσινη σημαία για να τρέξεις την κινούμενη εικόνα παρακάτω και, στη συνέχεια, τρέξε την ξανά.
+In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Παρατήρησες κάτι περίεργο τη δεύτερη φορά; Η έκπληξη χάλασε! Τι μπλοκ κώδικα θα πρόσθετες για να λειτουργήσει η έκπληξη;
+Did you notice anything odd the second time? The surprise was ruined! What code block would you add to make the surprise work?
 
 --- choices ---
 
@@ -31,7 +28,7 @@ set size to (150) %
 
   --- feedback ---
 
- Το αντικείμενο **egg** είναι στο σωστό μέγεθος όταν εκτελείς ξανά το πρόγραμμα.
+ The **egg** sprite is the correct size when you run the program again.
 
   --- /feedback ---
 
@@ -42,7 +39,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Ναι. Πρέπει να κάνεις το αντικείμενο να αλλάξει στη σωστή ενδυμασία (**egg-a**) όταν ξεκινάει το έργο.
+ Yes. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
 
   --- /feedback ---
 
@@ -53,7 +50,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Συχνά χρειάζεται να θυμάσαι να κάνεις ένα αντικείμενο να εμφανίζεται όταν κάνεις κλικ στην πράσινη σημαία, αλλά στο συγκεκριμένο έργο, το αντικείμενο **egg** όντως εμφανίζεται.
+ You often need to remember to make a sprite show when the green flag is clicked, but in the project in the question, the **egg** sprite does show.
 
   --- /feedback ---
 
@@ -64,7 +61,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- Το αντικείμενο **egg** πηγαίνει στη σωστή αρχική θέση στο σκηνικό.
+ The **egg** sprite does go to the correct starting position on the Stage.
 
   --- /feedback ---
 
