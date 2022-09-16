@@ -1,26 +1,23 @@
+## Quick quiz
 
-## Reflexão
+Answer the three questions. There are hints to guide you to the correct answer.
 
-Muito bem, você aprendeu muito! Agora, é hora de refletir - refletir é uma parte importante do aprendizado, porque ajuda a fazer novas conexões em seu cérebro.
+When you have answered each question, click on **Check my answer**.
 
-Responda às três perguntas abaixo para refletir sobre o que você aprendeu.
-
-Depois de responder a cada pergunta, clique em **Enviar**. Você será levado para a resposta correta. Você pode fazer esta atividade quantas vezes quiser.
-
-Divirta-se!
+Have fun!
 
 --- question ---
 ---
 legenda: Pergunta 1 de 3
 ---
 
-No seu projeto, você fez uma animação com uma surpresa. Clique na bandeira verde para executar a animação abaixo e execute-a novamente.
+In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Você notou algo estranho na segunda vez? A surpresa foi arruinada! Que bloco de código você adicionaria para fazer a surpresa funcionar?
+Did you notice anything odd the second time? The surprise was ruined! What code block would you add to make the surprise work?
 
 --- choices ---
 
@@ -31,7 +28,7 @@ set size to (150) %
 
   --- feedback ---
 
- O **ovo** tem o tamanho correto quando você executa o programa novamente.
+ The **egg** sprite is the correct size when you run the program again.
 
   --- /feedback ---
 
@@ -42,7 +39,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Sim. Você precisa fazer o ator mudar para o traje correto (**ovo-a**) quando o projeto começar.
+ Yes. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
 
   --- /feedback ---
 
@@ -53,7 +50,7 @@ exibir
 
   --- feedback ---
 
- Frequentemente, você precisa se lembrar de fazer um ator ser exibido quando a bandeira verde é clicada, mas no projeto em questão, o **ovo** é exibido.
+ You often need to remember to make a sprite show when the green flag is clicked, but in the project in the question, the **egg** sprite does show.
 
   --- /feedback ---
 
@@ -64,7 +61,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- O **ovo** vai para a posição inicial correta no Palco.
+ The **egg** sprite does go to the correct starting position on the Stage.
 
   --- /feedback ---
 
