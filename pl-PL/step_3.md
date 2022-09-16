@@ -1,25 +1,22 @@
-## Curiosity
+## Show curiosity
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Will the object do something to attract attention? How will the character react?
+Will the object do something to attract attention? How will the character react? You decide! Create the **second part** of your animation.
 
-You decide!
-</div>
-<div>
+![A film strip with 3 frames. The second frame is highlighted. The frame shows a scene with character thinking 'hmmmm' while looking at a curious object.](images/curiosity.png)
 
-![The 'BOO!' project showing the character being curious.](images/boo.png)
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. In this step you will focus only on the curiosity part of your animation.
+</p>
 
-</div>
-</div>
-
-### The object
+### Obiekt
 
 --- task ---
 
-**Choose:** If you want the object to do something, choose what the object will do.
+**Choose:** If you want the 🎂🎾🎁 **interesting object** to do something to attract attention, choose what the object will do.
 
-Add blocks to the end of the **object's** `when green flag clicked`{:class="block3events"} setup script.
+![A desert background with a rock jiggling back and forth.](images/jiggle.gif)
+
+Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green flag clicked`{:class="block3events"} setup script.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -27,13 +24,15 @@ Add blocks to the end of the **object's** `when green flag clicked`{:class="bloc
 
 --- /task ---
 
-### The character
+### Bohater
 
 --- task ---
 
-Get the main character to show interest in the object. Add blocks to the end of the **character's** setup script.
+Get the 🐙👩‍🦼🦖 **main character** to show interest in the object. Add blocks to the end of the 🐙👩‍🦼🦖 **main character's** setup script.
 
-If you need the character to wait until the object has done something, add a `wait`{:class="block3control"} block.
+If you need the 🐙👩‍🦼🦖 **main character** to wait until the 🎂🎾🎁 **interesting object** has done something, add a `wait`{:class="block3control"} block.
+
+![A desert background with a rock jiggling back and forth.](images/bear.gif)
 
 You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
 
@@ -51,13 +50,13 @@ The character could be brave and move closer to check out the object.
 
 --- task ---
 
-**Test:** Click on the green flag to test your project. The character should show curiosity about the object.
+**Test:** Click on the green flag to test your project. The 🐙👩‍🦼🦖 **main character** should show curiosity about the object.
 
-Click on the green flag again. If you changed the **object** or **character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
+Click on the green flag again. If you changed the 🎂🎾🎁 **interesting object** or 🐙👩‍🦼🦖 **main character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
 
 --- collapse ---
 ---
-title: Set the starting position and looks for a sprite
+title: Ustaw pozycję startową i wygląd duszka
 ---
 
 Choose the blocks that you need to set the position and looks for a sprite at the start.
@@ -84,7 +83,7 @@ show
 
 --- collapse ---
 ---
-title: The sound is not working
+title: Dźwięk nie działa
 ---
 
 Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
@@ -93,7 +92,7 @@ Check that the volume on your computer or tablet is loud enough and that your sp
 
 --- collapse ---
 ---
-title: My animation does not reset properly when I click on the green flag
+title: Moja animacja nie resetuje się poprawnie po kliknięciu zielonej flagi
 ---
 
 Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
@@ -102,4 +101,3 @@ Check that your project has `when green flag clicked`{:class="block3events"} scr
 
 --- /task ---
 
---- save ---
