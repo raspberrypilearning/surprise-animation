@@ -1,18 +1,14 @@
-## المقدمة
+## You will make
 
-قم بإنشاء رسوم متحركة قصيرة مع مفاجأة.
+Create a short animation 🎥 with a fun surprise 🎉!
 
 سوف تقوم بما يلي:
 
-+ استخدم سكراتش لإنشاء رسم متحرك
-+ اختبار وتصحيح التعليمات البرمجية الخاصة بك عند إجراء التغييرات
-+ قسِّم الرسم المتحرك إلى أجزاء - وهذا ما يسمى **التفكيك** - وقم ببنائه جزءًا واحدًا في كل مرة
++ Create your own animation
++ Test and debug your code
++ Build your animation one part at a time
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">** التفكيك **</span> هو تقسيم المشروع إلى أجزاء أصغر وأسهل في الفهم. هذا يعني أنه يمكنك بناء مشروع. جزء واحد في كل مرة حتى تكمله. 
-</p>
-
-![أمثلة على المشاريع.](images/surprise-example.png)
+![Examples of projects.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -21,19 +17,18 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### جربها 
+### Play ▶️ 
 
-انقر فوق العلم الأخضر لمشاهدة الرسوم المتحركة.
+Click on the green flag to watch the animation.
 
-تتكون الرسوم المتحركة من أربعة أجزاء:
-+ إعداد
-+ فضول
-+ مفاجأة!
-+ رد الفعل
+The animation has three parts:
++ Curiosity
++ Surprise!
++ Reaction
 
 </div>
 <div>
-** مفاجأة الديناصور! **: [راجع الداخل] (https://scratch.mit.edu/projects/495932563/editor) {: target = "_blank"}
+**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -42,49 +37,46 @@
 
 --- /task ---
 
-### احصل على الإلهام
+### Get ideas 💭
 
 --- task ---
 
-ستتخذ قرارات التصميم وتفكر في قصة للرسوم المتحركة الخاصة بك مع المفاجأة.
+Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
 
-فكر في ماهية قصتك ، واستكشف هذه الأمثلة من المشاريع للحصول على مزيد من الأفكار:
+⭐ Share your finished Surprise animation project for a chance of it being featured here.
 
-**بوو!**: [انظر من الداخل](https://scratch.mit.edu/projects/498655116/editor){: target = "_ blank"}
+**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**سحر القطط**: [انظر الداخل](https://scratch.mit.edu/projects/498615133/editor){: target = "_ blank"}
+**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**المتعدي**: [انظر الداخل](https://scratch.mit.edu/projects/498616008/editor){: target = "_ blank"}
+**⭐ Jumpscare!**: [See inside](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498616008/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
 </div>
---- / مهمة ---
+
+--- /task ---
 
 --- /no-print ---
 
 --- print-only ---
 
-### احصل على الإلهام
+### Get ideas 💭
 
 ستتخذ قرارات التصميم وتفكر في قصة للرسوم المتحركة الخاصة بك مع المفاجأة. فكر في ما يمكن أن تكون عليه قصتك ، وللحصول على مزيد من الأفكار ، **انظر داخل** مثال على المشاريع في "مفاجأة! الرسوم المتحركة - أمثلة في استوديو سكراتش: https://scratch.mit.edu/studios/29075822/
 
-تتكون الرسوم المتحركة من أربعة أجزاء:
-+ نظام
-+ فضول
-+ مفاجئة!
-+ رد الفعل
+The animation has three parts:
++ Curiosity
++ Surprise!
++ Reaction
 
-![مشروع مفاجأة الديناصورات.](images/dinosaur-surprise.png) ![مشروع بوو!'.](images/boo.png) ![مشروع "سحر القطط".](images/cat-magic.png) ![مشروع "المتعدي".](images/tresspass.png)
+![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
 
 --- /print-only ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-هناك أشخاص يُطلق عليهم <span style="color: #0faeb0">** مصممو السرد **</span> يقومون بسرد القصص للتطبيقات وألعاب الفيديو. لكن رواية القصص الرقمية تتيح للجميع مشاركة قصصهم وتصوراتهم الإبداعية مع أشخاص آخرين.
-</p>
  
