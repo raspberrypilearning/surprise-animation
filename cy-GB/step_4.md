@@ -1,34 +1,30 @@
-## Syrpreis
+## Add a surprise!
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Nawr, mae angen i ti ychwanegu syrpréis. Beth allai ddigwydd i'r gwrthrych? 
-- A fydd yn troi'n wrthrych arall? 
-- A fydd yn troi'n gymeriad? 
-- A fydd yn diflannu ac yn datgelu corlun arall? 
+Now, you need to add a surprise. What could happen to the object?
+- Will it turn into another object?
+- Will it turn into a character?
+- Will it disappear and reveal another sprite?
 
-Ti sy'n penderfynu!
-</div>
-<div>
+You decide! Create the **third part** of your animation.
 
-![Y prosiect 'Swyn y gath' yn dangos y syrpreis.](images/cat-magic.png)
-
-</div>
-</div>
+![A film strip with 3 frames. The third frame is highlighted. The frame shows a scene with character looking surprised at an object.](images/surprise.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Wyt ti wedi ysgrifennu stori gyda thro yn y plot neu syrpréis? Wyt ti wedi gwylio rhaglen deledu neu ddarllen llyfr gyda diweddglo anrhagweladwy? Galli di ddefnyddio'r un dulliau wrth greu stori ddigidol neu animeiddiad. 
+Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
 </p>
 
 ### Pryd bydd y syrpreis yn digwydd?
 
 --- task ---
 
-Dewisa'r corlun **gwrthrych**. Ychwanega sgript i wneud i'r syrpreis ddechrau pan rwyt ti am iddo wneud hynny.
+Select the 🎂🎾🎁 **interesting object** sprite. Add a script to make the surprise start when you want it to.
 
-Bydd angen i ti ddewis amser oedi sy'n gweithio i dy brosiect. Os oes gen ti gymeriad sy'n treulio amser hir yn bod yn chwilfrydig, bydd angen i ti ddewis amser oedi hirach.
+You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
 
-[[[scratch3-time-delay]]]
+```blocks3
+when flag clicked
+wait (5) seconds // change the number to create your time delay
+```
 
 --- /task ---
 
@@ -36,32 +32,38 @@ Bydd angen i ti ddewis amser oedi sy'n gweithio i dy brosiect. Os oes gen ti gym
 
 --- task ---
 
-Gallai'r gwrthrych `chwarae sain`{:class="block3sound"}, `newid gwisg`{:class="block3looks"}, `newid effeithiau graffeg`{:class="block3looks"}, neu `newid maint`{:class="block3looks"}.
+The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
 
-Fe allet ti ychwanegu gwisg annisgwyl i'r corlun, yna gallai'r corlun `newid gwisg`{:class="block3looks"} i'w datgelu. Er enghraifft, fel allet ti wneud i'r **Afal** droi yn **Ysbryd**.
+You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it.
+
+![A desert background with a rock jiggling back and forth.](images/bat.gif)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-Fe allet ti wneud i'r corlun droi yn gorlun wahanol — i wneud hyn, mae angen `cuddio`{:class="block3looks"} y corlun **gwrthrych** ar yr un pryd ag wyt ti'n `dangos`{:class="block3looks"} corlun arall.
+You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the 🎂🎾🎁 **interesting object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
 
 --- collapse ---
 ---
 title: Cuddio a dangos corluniau
 ---
 
-Y corlun **gwrthrych**:
+The 🎂🎾🎁 **interesting object** sprite:
 ```blocks3
-when [timer v] > (4) // set the delay
+when flag clicked
+show
+wait (5) seconds
 hide
 ```
 
-Corlun **syrpreis**:
+The 🎷👻⚡**surprise object** sprite:
 ```blocks3
-when [timer v] > (4) // same delay
+when flag clicked
+hide
+wait (5) seconds
 show
 ```
 
-**Awgrym:** Os wyt ti'n defnyddio `dangos`{:class="block3looks"} ar gorlun **syrpreis**, bydd angen gwneud iddo `guddio`{:class="block3looks"} `pan fydd y faner werdd wedi'i chlicio`{:class="block3events"}.
+**Tip:** If you make a 🎷👻⚡**surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
 
 --- /collapse ---
 
@@ -69,35 +71,28 @@ show
 
 --- task ---
 
-**Prawf:** Clicia ar y faner werdd. Ydy'r syrpreis yn digwydd ar yr amser iawn? Ydy'r animeiddiad yn ailosod yn iawn?
+**Test:** Click on the green flag. Does the surprise happen at the right time? Does the animation reset properly?
 
 --- /task ---
 
 --- task ---
 
-**Difa chwilod:**
+**Debug:**
 
-Os wyt ti angen i'r corlun fod o flaen neu y tu ôl i gorlun arall, galli di ddefnyddio haenau:
+If you need a sprite to be in front of or behind another sprite, you can use layers:
 
 [[[scratch3-positioning-with-layers]]]
 
-Os bydd y syrpreis yn digwydd ar yr amser anghywir, galli di drwsio hynny:
+If the surprise happens at the wrong time, you can fix that:
 
 --- collapse ---
 ---
-teitl: Mae sgriptiau amserydd yn cychwyn y syrpreis ar yr amser anghywir
+title: The surprise starts at the wrong time
 ---
 
-Gwna'n siŵr dy fod wedi dewis yr opsiwn `amserydd`{:class="block3events"} yn y bloc `pan fydd cryfder sain`{:class="block3events"}:
-
-```blocks3
-when [timer v] > [5]
-```
-
-Os wyt ti wedi dewis yr `amserydd`{:class="block3events"} yn gywir, rho gynnig ar addasu faint o amser mae'r amserydd yn aros.
+You might need to change the amount of time in some or all of the `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
 
 --- /collapse ---
 
 --- /task ---
 
---- save ---
