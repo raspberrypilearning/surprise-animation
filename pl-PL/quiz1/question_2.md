@@ -1,29 +1,17 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Pytanie 2 z 3
 ---
 
-In your project, you planned your animation with `timer`{:class="block3events"} or `wait`{:class="block3control"} blocks.
+In your project, you controlled your animation with `wait`{:class="block3control"} blocks.
 
-In this dinosaur project, you want the little dinosaur to wait 6 seconds before it pops out of the egg and surprises the big dinosaur.
+W tym projekcie dinozaurów chcesz, aby mały dinozaur poczekał 6 sekund, zanim wyskoczy z jaja i zaskoczy dużego dinozaura.
 
-![A dinosaur sprite and an egg sprite on the Stage.](images/quiz-q2.png)
+![Duszek dinozaura i duszek jajko na scenie.](images/quiz-q2.png)
 
-Which script for the **little dinosaur** sprite would make this happen?
+Który skrypt dla **małego dinozaura** sprawi, że tak się stanie?
 
 --- choices ---
-
-- ( )
-```blocks3
-when [loudness v] > (6)
-show
-```
-
-  --- feedback ---
-
- These are the right blocks to use, but you need to select `timer`{:class="block3events"} instead of `loudness`{:class="block3events"} in the drop-down menu.
-
-  --- /feedback ---
 
 - ( )
 ```blocks3
@@ -41,7 +29,7 @@ This script needs user interaction for the little dinosaur to show.
 ```blocks3
 when flag clicked
 show
-wait (6) seconds
+wait [6] seconds
 ```
 
   --- feedback ---
@@ -52,13 +40,14 @@ wait (6) seconds
 
 - (x)
 ```blocks3
-when [timer v] > (6)
+when flag clicked
+wait [6] seconds
 show
 ```
 
   --- feedback ---
 
- When the timer has waited 6 seconds, the little dinosaur appears and surprises the big dinosaur!
+ After 6 seconds, the little dinosaur appears and surprises the big dinosaur!
 
   --- /feedback ---
 
