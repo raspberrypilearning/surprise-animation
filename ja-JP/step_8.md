@@ -1,25 +1,22 @@
-## 共有する
+## What next?
 
-クラブにいる場合は、プロジェクトを友人や仲間と共有してみませんか？
+If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathway/scratch-intro) pathway, you can move on to the [I made you a book](https://projects.raspberrypi.org/en/projects/i-made-you-a-book) project. In this project, you will make a book in Scratch based on your own idea.
 
-プロジェクトがどのように機能するかを家族に示すこともできます。
+--- no-print ---
 
-Scratchアカウントをお持ちの場合は、Scratchを介してプロジェクトを共有できます。 あなたはあなたが知っている人々にリンクを送ることができ、そしてスクラッチコミュニティ全体があなたのプロジェクトを見つけてそれを試すことができるでしょう。
+**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+</div>
 
-[[[share-scratch]]]
+--- /no-print ---
 
-友達を招待してプロジェクトを作ってみませんか？ あなたが楽しかったことを彼らに伝えてください。
+--- print-only ---
 
-スクラッチアカウントをお持ちで'サプライズ！アニメーション'プロジェクトを共有している場合、 他の人があなたの作品にコメントする可能性があることに注意してください。 フィードバックは、あなたの作品を振り返るのに最適な方法です。 役に立たない、または無関係なコメントは無視してください。
+![An 'I made you a book' project.](images/book-cover.png)
 
-[[[comments-feedback-scratch]]]
+--- /print-only ---
 
---- task ---
+If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-あなたのプロジェクトでラズベリーパイ財団コミュニティに刺激を与えてください！
 
-あなたのプロジェクトを
-
-'サプライズ！アニメーション ー コミュニティ' スクラッチスタジオ</0>{:target="_blank"}に提出するには、 [このフォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}に記入してください。</p> 
-
---- /task ---
