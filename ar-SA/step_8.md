@@ -1,23 +1,22 @@
-## مشاركة
+## What next?
 
-إذا كنت في نادٍ ، فلماذا لا تشارك مشروعك مع الأصدقاء والأقران؟
+If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathway/scratch-intro) pathway, you can move on to the [I made you a book](https://projects.raspberrypi.org/en/projects/i-made-you-a-book) project. In this project, you will make a book in Scratch based on your own idea.
 
-يمكنك أيضًا إظهار كيفية عمل مشروعك لعائلتك.
+--- no-print ---
 
-إذا كان لديك حساب Scratch ، فيمكنك مشاركة مشروعك من خلال Scratch. يمكنك إرسال رابط إلى الأشخاص الذين تعرفهم ، وسيتمكن مجتمع Scratch بأكمله من العثور على مشروعك وتجربته.
+**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+</div>
 
-[[[share-scratch]]]
+--- /no-print ---
 
-لماذا لا تدعو أصدقائك لإنشاء مشروع؟ دعهم يعرفون كيف استمتعت.
+--- print-only ---
 
-إذا كان لديك حساب Scratch ، وشاركت "مفاجأة!"! المشروع، راقب التعليقات التي قد يعلق بها الآخرون حول إبداعك. التعليقات هي طريقة رائعة لاعادة التفكير في عملك. تجاهل أي تعليقات غير مفيدة أو غير ذات صلة.
+![An 'I made you a book' project.](images/book-cover.png)
 
-[[[comments-feedback-scratch]]]
+--- /print-only ---
 
---- task ---
+If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-ألهم مجتمع Raspberry Pi Foundation بمشروعك!
 
-لتقديم مشروعك إلى ['مفاجأة! الرسوم المتحركة -مجتمع استوديو سكراتش](https://scratch.mit.edu/studios/29079784){: target = "_ blank"} ، يرجى إكمال [هذا النموذج](https://form.raspberrypi.org/f/community-project-submissions){: target = "_ blank"}.
-
---- /task ---
