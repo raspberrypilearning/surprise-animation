@@ -1,16 +1,12 @@
-## Introduction
+## You will make
 
-Create a short animation with a surprise.
+Create a short animation 🎥 with a fun surprise 🎉!
 
-You will:
+Co zrobisz:
 
-+ Use Scratch to create an animation
-+ Test and debug your code when you make changes
-+ Break an animation into parts — this is called **decomposition** — and build it one part at a time
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. 
-</p>
++ Create your own animation
++ Test and debug your code
++ Build your animation one part at a time
 
 ![Examples of projects.](images/surprise-example.png)
 
@@ -21,12 +17,11 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Try it 
+### Play ▶️ 
 
 Click on the green flag to watch the animation.
 
-The animation has four parts:
-+ Setup
+The animation has three parts:
 + Curiosity
 + Surprise!
 + Reaction
@@ -42,13 +37,13 @@ The animation has four parts:
 
 --- /task ---
 
-### Get inspiration
+### Get ideas 💭
 
 --- task ---
 
-You will make design decisions and think of a story for your animation with a surprise.
+Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
 
-Think about what your story might be, and explore these example projects to get more ideas:
+⭐ Share your finished Surprise animation project for a chance of it being featured here.
 
 **BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -60,31 +55,28 @@ Think about what your story might be, and explore these example projects to get 
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Trespasser**: [See inside](https://scratch.mit.edu/projects/498616008/editor){:target="_blank"}
+**⭐ Jumpscare!**: [See inside](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498616008/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
 </div>
+
 --- /task ---
 
 --- /no-print ---
 
 --- print-only ---
 
-### Get inspiration
+### Get ideas 💭
 
-You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
+Podejmiesz decyzje projektowe i wymyślisz historię do swojej animacji z niespodzianką. Zastanów się, jaka może być Twoja historia i aby uzyskać więcej pomysłów, **Zajrzyj do środka** przykładowych projektów w sekcji „Niespodzianka! animacja — Przykłady Scratch studio: https://scratch.mit.edu/studios/29075822/
 
-The animation has four parts:
-+ Setup
+The animation has three parts:
 + Curiosity
 + Surprise!
 + Reaction
 
-![The 'Dinosaur surprise!' project.](images/dinosaur-surprise.png) ![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png) ![The 'Trespasser' project.](images/tresspass.png)
+![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
 
 --- /print-only ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-There are people called <span style="color: #0faeb0">**narrative designers**</span> who do storytelling for apps and video games. But digital storytelling allows everyone to share their stories and creative imaginings with other people.
-</p>
  
