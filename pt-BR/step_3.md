@@ -1,25 +1,22 @@
-## Curiosidade
+## Show curiosity
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-O objeto fará algo para atrair a atenção? Como o personagem vai reagir?
+Will the object do something to attract attention? How will the character react? You decide! Create the **second part** of your animation.
 
-Você decide!
-</div>
-<div>
+![A film strip with 3 frames. The second frame is highlighted. The frame shows a scene with character thinking 'hmmmm' while looking at a curious object.](images/curiosity.png)
 
-![O 'BOO!' projeto mostrando o personagem sendo curioso.](images/boo.png)
-
-</div>
-</div>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. In this step you will focus only on the curiosity part of your animation.
+</p>
 
 ### O objeto
 
 --- task ---
 
-**Escolha:** Se você deseja que o objeto faça algo, escolha o que o objeto fará.
+**Choose:** If you want the 🎂🎾🎁 **interesting object** to do something to attract attention, choose what the object will do.
 
-Adicione blocos ao final do **objeto** `quando a bandeira verde for clicada`{:class="block3events"} script de configuração.
+![A desert background with a rock jiggling back and forth.](images/jiggle.gif)
+
+Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green flag clicked`{:class="block3events"} setup script.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -31,19 +28,21 @@ Adicione blocos ao final do **objeto** `quando a bandeira verde for clicada`{:cl
 
 --- task ---
 
-Faça o personagem principal mostrar interesse no objeto. Adicione blocos ao final do script de configuração do **personagem**.
+Get the 🐙👩‍🦼🦖 **main character** to show interest in the object. Add blocks to the end of the 🐙👩‍🦼🦖 **main character's** setup script.
 
-Se você precisa que o personagem espere até que o objeto tenha feito algo, adicione um bloco `espere`{: class = "block3control"}.
+If you need the 🐙👩‍🦼🦖 **main character** to wait until the 🎂🎾🎁 **interesting object** has done something, add a `wait`{:class="block3control"} block.
 
-Você poderia usar os blocos `diga`{:class="block3looks"} ou `pense`{:class="block3looks"}, ou mesmo usar a `Texto para Fala`{: class = "block3extensions"} para fazer o personagem falar em voz alta!
+![A desert background with a rock jiggling back and forth.](images/bear.gif)
+
+You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
 
 [[[scratch3-text-to-speech]]]
 
-O personagem pode se emocionar, como no projeto [Falar no Espaço](https://projects.raspberrypi.org/en/projects/space-talk){: target = "_ blank"}.
+The character could emote, like in the [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-O personagem pode ser corajoso e se aproximar para verificar o objeto.
+The character could be brave and move closer to check out the object.
 
 [[[scratch3-animate-movement-costumes]]]
 
@@ -51,16 +50,16 @@ O personagem pode ser corajoso e se aproximar para verificar o objeto.
 
 --- task ---
 
-**Teste:** Clique na bandeira verde e teste o seu projeto. O personagem deve mostrar curiosidade sobre o objeto.
+**Test:** Click on the green flag to test your project. The 🐙👩‍🦼🦖 **main character** should show curiosity about the object.
 
-Clique na bandeira verde novamente. Se você mudou o **objeto** ou **caracteres** na posição ou na aparência dos atores, você precisará certificar-se de que eles sejam colocados de volta em sua posição inicial ou aparência inicial quando executar o projeto novamente.
+Click on the green flag again. If you changed the 🎂🎾🎁 **interesting object** or 🐙👩‍🦼🦖 **main character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
 
 --- collapse ---
 ---
 title: define a posição inicial e procure por um ator
 ---
 
-Escolha os blocos que você precisa para definir a posição e procure um ator no início.
+Choose the blocks that you need to set the position and looks for a sprite at the start.
 
 ```blocks3
 when flag clicked // add blocks to set up the start 
@@ -72,7 +71,7 @@ set [brightness v] effect to [80]
 show
 ```
 
-**Dica:** Todos os efeitos gráficos são apagados quando você clica na bandeira verde, então você não precisa apagá-los, mas pode ser necessário definir os efeitos que deseja que o ator tenha.
+**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want the sprite to have.
 
 --- /collapse ---
 
@@ -80,14 +79,14 @@ show
 
 --- task ---
 
-**Depurar:**
+**Debug:**
 
 --- collapse ---
 ---
 título: O som não está funcionando
 ---
 
-Verifique se o volume do seu computador ou tablet está alto o suficiente e se os alto-falantes ou fones de ouvido estão conectados e funcionando corretamente.
+Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
 
 --- /collapse ---
 
@@ -96,10 +95,9 @@ Verifique se o volume do seu computador ou tablet está alto o suficiente e se o
 título: Minha animação não é reiniciada corretamente quando clico na bandeira verde
 ---
 
-Verifique se o seu projeto tem os scripts `quando a bandeira verde for clicada`script {: class = "block3events"} para os atores que precisam deles e verifique se eles redefiniram a posição, o tamanho e procuram os atores. Para obter ajuda com isso, consulte **Defina a posição inicial e procure um ator** da tarefa acima.
+Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
 
 --- /collapse ---
 
 --- /task ---
 
---- save ---
