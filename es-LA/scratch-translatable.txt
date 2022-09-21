@@ -12,8 +12,24 @@ tamaño inicial
 
 posición inicial
 
-cambia el tiempo de espera
+change the number to create your time delay
 
-establece el tiempo de espera
+setup
 
-mismo tiempo de espera
+curiosity
+
+reaction
+
+reset
+
+surprise
+
+Hmm...
+
+BOO!
+
+What ever is this?
+
+Kitty, have you been messing with my potions again?
+
+Cat gotta haz milk.
