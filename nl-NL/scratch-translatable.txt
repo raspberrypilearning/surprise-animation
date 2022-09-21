@@ -12,24 +12,24 @@ startgrootte
 
 startpositie
 
-change the number to create your time delay
+verander het nummer om je vertraging te creëren
 
-setup
+instellen
 
-curiosity
+nieuwsgierigheid
 
-reaction
+reactie
 
-reset
+resetten
 
-surprise
+verrassing
 
 Hmm...
 
-BOO!
+BOE!
 
-What ever is this?
+Wat is dit?
 
-Kitty, have you been messing with my potions again?
+Kitty, heb je weer met mijn toverdrankjes zitten rommelen?
 
-Cat gotta haz milk.
+Kat moet melk.
