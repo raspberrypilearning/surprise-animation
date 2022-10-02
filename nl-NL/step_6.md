@@ -1,21 +1,21 @@
-## Upgrade your project
+## Verbeter je project
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You could upgrade your project by adding a reaction. How will your main character react? 
+Je kunt je project verbeteen door een reactie toe te voegen. Hoe zal je hoofdpersoon reageren? 
 
-You decide!
+Jij beslist!
 </div>
 <div>
 
-![The 'Trespasser' project showing the reaction to the surprise.](images/tresspass.png)
+![Het 'Overtreder'-project dat de reactie op de verrassing laat zien.](images/tresspass.png)
 
 </div>
 </div>
 
 --- task ---
 
-What will they do? Will they say something, make a sound, change costumes, or move?
+Wat zullen ze doen? Zullen ze iets zeggen, een geluid maken, van uiterlijk veranderen of bewegen?
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
@@ -33,28 +33,28 @@ What will they do? Will they say something, make a sound, change costumes, or mo
 
 --- task ---
 
-You could also:
-+ Add to or improve your animation, with movement, looks, and graphic effects
-+ Create or edit costumes in the Paint editor to make them look the way that you want
-+ Record your voice or record sound effects and add the new sounds to your project
+Je zou ook:
++ Je animatie kunnen uitbreiden of verbeteren met beweging, uiterlijken en grafische effecten
++ Uiterlijken kunnen maken of bewerken in de teken-editor om ze eruit te laten zien zoals jij dat wilt
++ Jouw stem of geluidseffecten kunnen opnemen en de nieuwe geluiden toevoegen aan jouw project
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Professional programmers explore and take inspiration from code created by other programmers. 
+Professionele programmeurs verkennen en halen inspiratie uit code die door andere programmeurs is gemaakt. 
 </p>
 
 --- task ---
 
-You can also look at the remixes for the [Surprise animation starter project](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} to see what other creators have made.
+Je kunt ook de remixes bekijken voor het [Verrassing! animatie startproject](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} om te zien wat andere makers hebben gemaakt.
 
 --- /task ---
 
 --- task ---
 
-Each project in the ['Surprise! animation — Examples' Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Elk project in de ['Verrassing! animatie — Voorbeelden' Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} heeft een **Bekijk van binnen** link, die je kunt gebruiken om het project in de Scratch-editor te openen en de code te bekijken om ideeën op te doen en te zien hoe het project werkt.
 
-**Doppelganger**: [See inside](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
+**Dubbelganger**: [Bekijk van binnen](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -63,7 +63,7 @@ Each project in the ['Surprise! animation — Examples' Scratch studio](https://
 
 --- task ---
 
-Take a look at our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} to see projects created by community members.
+Kijk dan eens bij onze ['Verrassing! animatie — Community' Scratchstudio](https://scratch.mit.edu/studios/29079784){:target="_blank"} om projecten te zien die zijn gemaakt door communityleden.
 
 --- /task ---
 
