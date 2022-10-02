@@ -1,10 +1,10 @@
-## You will make
+## Je gaat maken
 
-Create a short animation 🎥 with a fun surprise 🎉!
+Maak een korte animatie 🎥 met een verrassing 🎉!
 
 Je gaat:
 
-+ Create your own animation
++ Maak je eigen animatie
 + Test and debug your code
 + Build your animation one part at a time
 
