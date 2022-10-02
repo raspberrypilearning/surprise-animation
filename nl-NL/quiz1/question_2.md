@@ -3,7 +3,7 @@
 legend: Vraag 2 van 3
 ---
 
-In your project, you controlled your animation with `wait`{:class="block3control"} blocks.
+In je project bestuurde je je animatie met `wacht`{:class="block3control"} blokken.
 
 In dit dinosaurusproject wil je dat de kleine dinosaurus 6 seconden wacht voordat hij uit het ei springt en de grote dinosaurus verrast.
 
@@ -15,13 +15,13 @@ Welk script voor de **kleine dinosaurus** sprite zou dit mogelijk maken?
 
 - ( )
 ```blocks3
-when this sprite clicked
-show
+wanneer op deze sprite wordt geklikt
+verschijn
 ```
 
   --- feedback ---
 
-This script needs user interaction for the little dinosaur to show.
+Dit script heeft gebruikersinteractie nodig om de kleine dinosaurus te laten verschijnen.
 
   --- /feedback ---
 
@@ -34,20 +34,20 @@ wait [6] seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
+ Als de klok 6 seconden heeft gewacht, verschijnt de kleine dinosaurus en verrast de grote dinosaurus!
 
   --- /feedback ---
 
 - (x)
 ```blocks3
-when flag clicked
-wait [6] seconds
-show
+wanneer op de groene vlag wordt geklikt
+wacht [6] sec.
+verschijn
 ```
 
   --- feedback ---
 
- After 6 seconds, the little dinosaur appears and surprises the big dinosaur!
+ Na 6 seconden verschijnt de kleine dinosaurus en verrast de grote dinosaurus!
 
   --- /feedback ---
 
