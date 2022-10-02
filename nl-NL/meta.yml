@@ -10,17 +10,17 @@ steps:
   - 
     title: Inleiding
   - 
-    title: Create your scene
+    title: Creëer je scène
   - 
-    title: Show curiosity
+    title: Toon nieuwsgierigheid
     completion:
       - engaged
   - 
-    title: Add a surprise!
+    title: Voeg een verrassing toe!
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Snelle quiz
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -29,8 +29,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Verbeter je project
   - 
     title: Deel en speel
   - 
-    title: What next?
+    title: Wat kun je verder nog doen?
