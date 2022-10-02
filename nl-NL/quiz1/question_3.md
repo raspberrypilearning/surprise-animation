@@ -18,34 +18,34 @@ Welke volgorde staat voor de animatie die je hebt gemaakt?
 
   --- feedback ---
 
- The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
+ Het 'opzetten'-gedeelte stelt je animatie opnieuw in. Het moet als eerste komen, zodat je animatie op dezelfde manier opnieuw kan worden uitgevoerd.
 
   --- /feedback ---
 
 - (x)
-+ Setup
++ Opzetten
 
-+ Curiosity
++ Nieuwsgierigheid
 
 + Verrassing!
 
 
   --- feedback ---
 
- Yes! You set up your sprites first, then created curiosity then ended with a surprise.
+ Ja! Je stelde eerst je sprites in en vervolgens bouwde je je verhaal op om te eindigen met een verrassing.
 
   --- /feedback ---
 
 - ( )
 + Opzetten
 
-+ Surprise!
++ Verrassing!
 
-+ Curiosity
++ Nieuwsgierigheid
 
   --- feedback ---
 
- Curiosity was not at the end of the animation. Something came afterwards.
+ De verrassing zat niet aan het einde van de animatie. Later kwam er nog iets.
 
   --- /feedback ---
 
