@@ -1,26 +1,26 @@
 ---
-title: Surprise! animation
+title: Анімація Сюрпризу! 
 hero_image: images/banner.png
-description: Create an animation of a story with a surprise
+description: Створення анімаційної історії з сюрпризом
 version: 4
 listed: true
 copyedit: false
 last_tested: '2021-03-09'
 steps:
   - 
-    title: Introduction
+    title: Вступ
   - 
-    title: Create your scene
+    title: Створення своєї сцени
   - 
-    title: Show curiosity
+    title: Проявляй допитливість
     completion:
       - engaged
   - 
-    title: Add a surprise!
+    title: Додай сюрприз!
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Швидкий тест
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -29,8 +29,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Вдосконалення твого проєкту
   - 
-    title: Share and play
+    title: Ділись та грай
   - 
-    title: What next?
+    title: Що далі?
