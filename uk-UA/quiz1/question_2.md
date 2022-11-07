@@ -1,27 +1,27 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Питання 2 з 3
 ---
 
-In your project, you controlled your animation with `wait`{:class="block3control"} blocks.
+У твоєму проєкті ти контролюєш анімацію за допомогою блоків `чекати`{:class="block3control"}.
 
-In this dinosaur project, you want the little dinosaur to wait 6 seconds before it pops out of the egg and surprises the big dinosaur.
+У цьому проєкті з динозаврами, ти хочеш, щоб маленький динозавр почекав 6 секунд, перш ніж він вискочить з яйця і здивує великого динозавра.
 
-![A dinosaur sprite and an egg sprite on the Stage.](images/quiz-q2.png)
+![Спрайт динозавра та спрайт яйця на сцені.](images/quiz-q2.png)
 
-Which script for the **little dinosaur** sprite would make this happen?
+Який скрипт для спрайта **маленького динозаврика** зробить так, щоб це сталося?
 
 --- choices ---
 
 - ( )
 ```blocks3
-when this sprite clicked
-show
+коли спрайт натиснуто
+показати
 ```
 
   --- feedback ---
 
-This script needs user interaction for the little dinosaur to show.
+Цей скрипт потребує взаємодії з користувачем для показу маленького динозавра.
 
   --- /feedback ---
 
@@ -34,7 +34,7 @@ wait [6] seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
+ Тут маленький динозаврик дивує великого динозавра, а потім чекає 6 секунд.
 
   --- /feedback ---
 
@@ -47,7 +47,7 @@ show
 
   --- feedback ---
 
- After 6 seconds, the little dinosaur appears and surprises the big dinosaur!
+ Через 6 секунд з'являється маленький динозаврик та дивує великого динозавра!
 
   --- /feedback ---
 
