@@ -1,22 +1,22 @@
-## Show curiosity
+## Montrer de la curiosité
 
-Will the object do something to attract attention? How will the character react? You decide! Create the **second part** of your animation.
+L'objet fera-t-il quelque chose pour attirer l'attention ? Comment réagira le personnage ? C'est toi qui décides ! Crée la **seconde partie** de ton animation.
 
-![A film strip with 3 frames. The second frame is highlighted. The frame shows a scene with character thinking 'hmmmm' while looking at a curious object.](images/curiosity.png)
+![Une bande de film avec 3 images. La seconde image est mise en surbrillance. L'image montre une scène avec un personnage pensant "hmmmm" tout en regardant un objet curieux.](images/curiosity.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. In this step you will focus only on the curiosity part of your animation.
+  <span style="color: #0faeb0">**Décomposition**</span> consiste à décomposer un projet en parties plus petites et plus faciles à comprendre. Cela signifie que tu peux construire un projet une partie à la fois jusqu'à ce que tu l'aies terminé. Dans cette étape, tu te concentreras uniquement sur la partie curiosité de ton animation.
 </p>
 
 ### L’objet
 
 --- task ---
 
-**Choose:** If you want the 🎂🎾🎁 **interesting object** to do something to attract attention, choose what the object will do.
+**Choisir :** Si tu veux que l' 🎂🎾🎁 **objet intéressant** fasse quelque chose pour attirer l'attention, choisis ce que l'objet fera.
 
-![A desert background with a rock jiggling back and forth.](images/jiggle.gif)
+![Un arrière-plan désertique avec un rocher oscillant d'avant en arrière.](images/jiggle.gif)
 
-Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green flag clicked`{:class="block3events"} setup script.
+Ajoute des blocs à la fin du script de configuration de 🎂🎾🎁 **l'objet intéressant** `quand le drapeau vert est cliqué`{:class="block3events"}.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -28,21 +28,21 @@ Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green f
 
 --- task ---
 
-Get the 🐙👩‍🦼🦖 **main character** to show interest in the object. Add blocks to the end of the 🐙👩‍🦼🦖 **main character's** setup script.
+Fais en sorte que le 🐙👩‍🦼🦖 **personnage principal** s'intéresse à l'objet. Ajoute des blocs à la fin du script de configuration du 🐙👩‍🦼🦖 **personnage principal**.
 
-If you need the 🐙👩‍🦼🦖 **main character** to wait until the 🎂🎾🎁 **interesting object** has done something, add a `wait`{:class="block3control"} block.
+Si tu as besoin que le 🐙👩‍🦼🦖 **personnage principal** attende que l' 🎂🎾🎁 **objet intéressant** ait fait quelque chose, ajoute un bloc `attendre`{:class="block3control"}.
 
-![A desert background with a rock jiggling back and forth.](images/bear.gif)
+![Un arrière-plan désertique avec un rocher oscillant d'avant en arrière.](images/bear.gif)
 
-You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
+Tu peux utiliser les blocs `dire`{:class="block3looks"} ou `penser`{:class="block3looks"}, ou même utiliser l’extension `Synthèse vocale`{:class="block3extensions"} pour que le personnage puisse parler oralement !
 
 [[[scratch3-text-to-speech]]]
 
-The character could emote, like in the [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project.
+Le personnage pourrait émouvoir, comme dans le projet [Parler de l'espace](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-The character could be brave and move closer to check out the object.
+Le personnage pourrait être courageux et se rapprocher pour vérifier l'objet.
 
 [[[scratch3-animate-movement-costumes]]]
 
@@ -50,16 +50,16 @@ The character could be brave and move closer to check out the object.
 
 --- task ---
 
-**Test:** Click on the green flag to test your project. The 🐙👩‍🦼🦖 **main character** should show curiosity about the object.
+**Test :** Clique sur le drapeau vert pour tester ton projet. Le 🐙👩‍🦼🦖 **personnage principal** doit montrer de la curiosité pour l'objet.
 
-Click on the green flag again. If you changed the 🎂🎾🎁 **interesting object** or 🐙👩‍🦼🦖 **main character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
+Clique à nouveau sur le drapeau vert. Si tu as changé la position ou l'apparence du sprite 🎂🎾🎁 **objet intéressant** ou 🐙👩‍🦼🦖 **personnage principal**, tu devras t'assurer qu'ils sont remis à leur position ou apparence de départ lorsque tu exécutes à nouveau le projet.
 
 --- collapse ---
 ---
-title : Définir la position de départ et rechercher un sprite
+title: Définir la position de départ et rechercher un sprite
 ---
 
-Choose the blocks that you need to set the position and looks for a sprite at the start.
+Choisis les blocs dont tu as besoin pour définir la position et recherche un sprite au début.
 
 ```blocks3
 when flag clicked // add blocks to set up the start 
@@ -71,7 +71,7 @@ set [brightness v] effect to [80]
 show
 ```
 
-**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want the sprite to have.
+**Astuce :** tous les effets graphiques sont effacés lorsque tu cliques sur le drapeau vert, tu n'as donc pas besoin de les effacer, mais tu devras peut-être définir les effets souhaités pour ton sprite.
 
 --- /collapse ---
 
@@ -79,23 +79,23 @@ show
 
 --- task ---
 
-**Debug:**
+**Déboguer :**
 
 --- collapse ---
 ---
-title : Le son ne fonctionne pas
+title: Le son ne fonctionne pas
 ---
 
-Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
+Vérifie que le volume de ton ordinateur ou de ta tablette est suffisamment fort et que tes haut-parleurs ou tes écouteurs sont connectés et fonctionnent correctement.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title : Mon animation ne se réinitialise pas correctement lorsque je clique sur le drapeau vert
+title: Mon animation ne se réinitialise pas correctement lorsque je clique sur le drapeau vert
 ---
 
-Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
+Vérifie que ton projet a des scripts `quand le drapeau vert est cliqué`{:class="block3events"} pour les sprites qui en ont besoin, et vérifie qu'ils réinitialisent la position, la taille et l'apparence pour les sprites. Pour obtenir de l'aide, consulte la tâche **Définir la position de départ et l'apparence pour un sprite** ci-dessus.
 
 --- /collapse ---
 
