@@ -1,5 +1,5 @@
 ---
-title: Animation Surprise!
+title: Animation Surprise !
 hero_image: images/banner.png
 description: Créer une animation d'une histoire avec une surprise
 version: 4
@@ -10,17 +10,17 @@ steps:
   - 
     title: Introduction
   - 
-    title: Create your scene
+    title: Créer ta scène
   - 
-    title: Show curiosity
+    title: Montrer de la curiosité
     completion:
       - engaged
   - 
-    title: Add a surprise!
+    title: Ajouter une surprise !
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Questionnaire rapide
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -29,8 +29,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Améliorer ton projet
   - 
-    title: Share and play
+    title: Partager et jouer
   - 
-    title: What next?
+    title: Et ensuite ?
