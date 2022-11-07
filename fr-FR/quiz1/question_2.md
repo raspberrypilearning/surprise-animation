@@ -3,7 +3,7 @@
 legend : Question 2 sur 3
 ---
 
-In your project, you controlled your animation with `wait`{:class="block3control"} blocks.
+Dans ton projet, tu as contrôlé ton animation avec des blocs `attendre` {:class="block3control"}.
 
 Dans ce projet de dinosaure, tu veux que le petit dinosaure attende 6 secondes avant de sortir de l'œuf et de surprendre le grand dinosaure.
 
@@ -21,7 +21,7 @@ show
 
   --- feedback ---
 
-This script needs user interaction for the little dinosaur to show.
+Ce script nécessite une interaction de l’utilisateur pour que le petit dinosaure s'affiche.
 
   --- /feedback ---
 
@@ -34,7 +34,7 @@ wait [6] seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
+ Ici, le petit dinosaure surprend le grand dinosaure, puis attend 6 secondes.
 
   --- /feedback ---
 
@@ -47,7 +47,7 @@ show
 
   --- feedback ---
 
- After 6 seconds, the little dinosaur appears and surprises the big dinosaur!
+ Au bout de 6 secondes, le petit dinosaure apparaît et surprend le grand dinosaure !
 
   --- /feedback ---
 
