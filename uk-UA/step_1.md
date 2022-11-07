@@ -1,14 +1,14 @@
-## You will make
+## Ти зробиш
 
-Create a short animation 🎥 with a fun surprise 🎉!
+Створення короткометражної анімації 🎥 з веселим сюрпризом 🎉!
 
-You will:
+Зможеш:
 
-+ Create your own animation
-+ Test and debug your code
-+ Build your animation one part at a time
++ Створити власну анімацію
++ Тестувати та налагоджувати свій код
++ Побудувати свою анімацію по частинах
 
-![Examples of projects.](images/surprise-example.png)
+![Приклади проєктів.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -17,18 +17,18 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Play ▶️ 
+### Грати ▶️ 
 
-Click on the green flag to watch the animation.
+Натисни на зелений прапорець, щоб переглянути анімацію.
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+Анімація складається з трьох частин:
++ Цікавість
++ Сюрприз!
++ Реакція
 
 </div>
 <div>
-**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
+**Сюрприз для динозавра!**: [Переглянути код](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -37,25 +37,25 @@ The animation has three parts:
 
 --- /task ---
 
-### Get ideas 💭
+### Отримай ідеї 💭
 
 --- task ---
 
-Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
+Пограйся з цими прикладами проєктів, щоб отримати ідеї. Подумай, якою може бути твоя анімація, і вивчи ці приклади проєктів, щоб отримати більше ідей:
 
-⭐ Share your finished Surprise animation project for a chance of it being featured here.
+⭐ Поділися своїм готовим проєктом Сюрприз, щоб мати шанс бути опублікованим у цьому списку.
 
-**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
+**БУУ!**: [Переглянути код](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
+**Магія кота**: [Переглянути код](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Jumpscare!**: [See inside](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (featured community project)
+**⭐ Страх перед стрибком!**: [Переглянути код](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (проєкт спільноти)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -66,16 +66,16 @@ Play with these example projects to get ideas. Think about what your animation m
 
 --- print-only ---
 
-### Get ideas 💭
+### Отримай ідеї 💭
 
-You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
+Ти будеш приймати дизайнерські рішення та придумувати історію для своєї анімації з сюрпризом. Подумай, якою може бути твоя історія, а щоб отримати більше ідей, **Переглянь код** прикладів проєктів 'Сюрприз! Scratch 'Анімація Сюрпризу! — Приклади' https://scratch.mit.edu/studios/29075822/
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+Анімація складається з трьох частин:
++ Цікавість
++ Сюрприз!
++ Реакція
 
-![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
+![Проєкт 'БУУ!'.](images/boo.png) ![Проєкт 'Магія кота'.](images/cat-magic.png)
 
 --- /print-only ---
 
