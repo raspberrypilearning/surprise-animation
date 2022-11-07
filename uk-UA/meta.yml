@@ -1,0 +1,28 @@
+---
+title: Анімація Сюрпризу!
+hero_image: images/banner.png
+description: Створення анімаційної історії з сюрпризом
+version: 4
+listed: true
+copyedit: false
+last_tested: '2021-03-09'
+steps:
+  - title: Вступ
+  - title: Створення своєї сцени
+  - title: Проявляй допитливість
+    completion:
+      - engaged
+  - title: Додай сюрприз!
+    completion:
+      - internal
+  - title: Швидкий тест
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion:
+      - external
+  - title: Вдосконалення твого проєкту
+  - title: Ділись та грай
+  - title: Що далі?
