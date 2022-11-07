@@ -1,23 +1,23 @@
-## Quick quiz
+## Швидкий тест
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Дай відповідь на три запитання. Підказки допоможуть знайти правильну відповідь.
 
-When you have answered each question, click on **Check my answer**.
+Відповівши на кожне питання, натисни на **Перевірити мою відповідь**.
 
-Have fun!
+Розважайся!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Питання 1 з 3
 ---
 
-In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
+У проєкті була створена анімація з сюрпризом. Натисни на зелений прапорець, щоб запустити анімацію нижче, а потім запусти її ще раз.
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Did you notice anything odd the second time? The surprise was ruined! What code block would you add to make the surprise work?
+Можливо, другого разу було щось дивне? Сюрприз був зіпсований! Який блок коду потрібно додати, щоб сюрприз спрацював?
 
 --- choices ---
 
@@ -28,7 +28,7 @@ set size to (150) %
 
   --- feedback ---
 
- The **egg** sprite is the correct size when you run the program again.
+ Спрайт **яйця** має правильний розмір при повторному запуску.
 
   --- /feedback ---
 
@@ -39,18 +39,18 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Yes. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
+ Так. Тобі потрібно зробити так, щоб спрайт переходив у правильний образ (**яйця**) при запуску проєкту.
 
   --- /feedback ---
 
 - ( )
 ```blocks3
-show
+показати
 ```
 
   --- feedback ---
 
- You often need to remember to make a sprite show when the green flag is clicked, but in the project in the question, the **egg** sprite does show.
+ Зазвичай, потрібно не забути зробити так, щоб спрайт показувався при натисканні на зелений прапорець, але в проєкті із запитання спрайт **яйце** показується.
 
   --- /feedback ---
 
@@ -61,7 +61,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- The **egg** sprite does go to the correct starting position on the Stage.
+ Спрайт **яйце** займає правильну стартову позицію на Сцені.
 
   --- /feedback ---
 
