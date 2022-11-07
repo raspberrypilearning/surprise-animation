@@ -1,6 +1,6 @@
 ajoute la position du sprite
 
-<100 est plus petit,> 100 est plus grand
+<100 est plus petit, >100 est plus grand
 
 mettre à jour ceci pour ton costume choisi
 
@@ -12,24 +12,24 @@ taille de départ
 
 position de départ
 
-change the number to create your time delay
+changer le nombre pour créer ta temporisation
 
-setup
+configuration
 
-curiosity
+curiosité
 
-reaction
+réaction
 
-reset
+réinitialiser
 
 surprise
 
-Hmm...
+Mhmm...
 
-BOO!
+BOUH !
 
-What ever is this?
+Qu'est-ce que c'est que ça ?
 
-Kitty, have you been messing with my potions again?
+Kitty, as-tu encore joué avec mes potions ?
 
-Cat gotta haz milk.
+Le chat doit avoir du lait.
