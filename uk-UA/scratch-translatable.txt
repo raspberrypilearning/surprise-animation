@@ -1,35 +1,35 @@
-add the sprite's position
+задати позицію спрайта
 
-<100 is smaller, >100 is bigger
+<100 - менше, >100 - більше
 
-update this for your chosen costume
+зміни на обраний тобою образ
 
-turn to the left
+повернути ліворуч
 
-add blocks to set up the start
+додай блоки щоб налаштувати старт
 
-starting size
+початковий розмір
 
-starting position
+початкова позиція
 
-change the number to create your time delay
+зміни число для створення своєї часової затримки
 
-setup
+налаштування
 
-curiosity
+допитливість
 
-reaction
+реакція
 
-reset
+скидання
 
-surprise
+сюрприз
 
-Hmm...
+Хм...
 
-BOO!
+БУУ!
 
-What ever is this?
+Що це таке?
 
-Kitty, have you been messing with my potions again?
+Котику, ти знову бавився з моїм зіллям?
 
-Cat gotta haz milk.
+Кіт повинен пити молоко.
