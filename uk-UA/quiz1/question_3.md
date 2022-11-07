@@ -1,51 +1,51 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Питання 3 з 3
 ---
 
-You created your animation by breaking it into parts and building it in the order in which it runs.
+Ти створюєш свою анімацію, розділяючи її на частини та збираючи їх у тому порядку, в якому вона виконується.
 
-Which order represents the animation that you made?
+В якому порядку представлена анімація, яка була зроблена тобою?
 
 --- choices ---
 
 - ( )
-+ Curiosity
++ Цікавість
 
-+ Setup
++ Налаштування
 
-+ Surprise!
++ Сюрприз!
 
   --- feedback ---
 
- The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
+ Частина 'налаштування' повертає анімацію до початкового стану. Вона повинна стояти на першому місці, щоб анімацію можна було запустити ще раз у тому ж порядку.
 
   --- /feedback ---
 
 - (x)
-+ Setup
++ Налаштування
 
-+ Curiosity
++ Цікавість
 
-+ Surprise!
++ Сюрприз!
 
 
   --- feedback ---
 
- Yes! You set up your sprites first, then created curiosity then ended with a surprise.
+ Так! Спочатку були налаштовані спрайти, потім з'явилася цікавість, а закінчилося все сюрпризом.
 
   --- /feedback ---
 
 - ( )
-+ Setup
++ Налаштування
 
-+ Surprise!
++ Сюрприз!
 
-+ Curiosity
++ Цікавість
 
   --- feedback ---
 
- Curiosity was not at the end of the animation. Something came afterwards.
+ Цікавості не було в кінці анімації. Дещо прийшло пізніше.
 
   --- /feedback ---
 
