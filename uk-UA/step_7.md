@@ -1,39 +1,39 @@
-## Share and play
+## Ділись та грай
 
-If you are in a club, why not share your project with friends and peers?
+Якщо ти перебуваєш у клубі, чому б не поділитися своїм проєктом з друзями та однолітками?
 
-You could also show your family how your project works.
+Ти також можеш показати своїй родині, як працює твій проєкт.
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+Якщо у тебе є обліковий запис Scratch, ти можеш поділитися своїм проєктом через Scratch. Ти також можеш надіслати посилання своїм знайомим, і вся спільнота Scratch зможе знайти твій проєкт та попрацювати з ним.
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+Чому б не запросити друзів приєднатися до створення проєкту? Нехай вони знають, як ти розважився.
 
-If you have a Scratch account, and have shared your 'Surprise! animation' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+Якщо у тебе є обліковий запис Scratch, і ти поділився своїм проєктом 'Анімація! Сюрпризу!', слідкуй за коментарями, які інші люди можуть давати стосовно твоєї творчості. Відгуки - це чудовий спосіб проаналізувати твою роботу. Не звертай уваги на коментарі, які не є корисними або не стосуються теми.
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire the Raspberry Pi Foundation community with your project!
+Надихай спільноту Raspberry Pi Foundation своїм проєктом!
 
-To submit your project to our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Щоб подати свій проєкт до нашої ['Сюрприз! Scratch 'Анімація Сюрпризу!' — Спільнота](https://scratch.mit.edu/studios/29079784){:target="_blank"}, будь ласка, заповни [цю форму](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
 
-### Community submissions
+### Представлені проєкти спільноти
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
+Поглянь на ці дивовижні проєкти нашої спільноти ['Сюрприз! Scratch 'Анімація Сюрпризу!' — Спільнота](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
 
-**Surprise eggs**: [See inside](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
+**Яйця з сюрпризом**: [Переглянути код](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723810901/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Scarify building**: [See inside](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
+**Страхітлива будівля**: [Переглянути код](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/578827663/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -41,7 +41,7 @@ Take a look at these fabulous community projects from our ['Surprise! animation 
 
 --- task ---
 
-You can also look at the remixes for the [Surprise animation starter project](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} to see what other creators have made.
+Також ти можеш ознайомитися з реміксами [Стартових проєктів - Сюрприз!](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} та подивитися, що зробили інші автори.
 
 --- /task ---
 
