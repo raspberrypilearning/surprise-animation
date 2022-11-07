@@ -1,14 +1,14 @@
-## You will make
+## Ce que tu vas faire
 
-Create a short animation 🎥 with a fun surprise 🎉!
+Créer une courte animation 🎥 avec une surprise 🎉 !
 
 Tu vas devoir :
 
-+ Create your own animation
-+ Test and debug your code
-+ Build your animation one part at a time
++ Créer ta propre animation
++ Tester et déboguer ton code
++ Construire ton animation une partie à la fois
 
-![Examples of projects.](images/surprise-example.png)
+![Exemples de projets.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -17,18 +17,18 @@ Tu vas devoir :
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Play ▶️ 
+### Joue ▶️ 
 
-Click on the green flag to watch the animation.
+Clique sur le drapeau vert pour regarder l'animation.
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+L'animation comporte trois parties :
++ Curiosité
++ Surprise !
++ Réaction
 
 </div>
 <div>
-**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
+**Dinosaure surprise !** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -37,25 +37,25 @@ The animation has three parts:
 
 --- /task ---
 
-### Get ideas 💭
+### Trouve l'inspiration 💭
 
 --- task ---
 
-Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
+Joue avec ces exemples de projets pour trouver des idées. Réfléchis à ce que pourrait être ton animation et explore ces exemples de projets pour obtenir plus d'idées :
 
-⭐ Share your finished Surprise animation project for a chance of it being featured here.
+⭐ Partage ton projet d'animation Surprise terminé pour avoir une chance qu'il soit présenté ici.
 
-**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
+**BOUH !** : [Voir à l'intérieur](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
+**Chat magique** : [Voir à l'intérieur](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Jumpscare!**: [See inside](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (featured community project)
+**⭐ Jumpscare !** : [Voir à l'intérieur](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (projet de la communauté à l'affiche)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -66,16 +66,16 @@ Play with these example projects to get ideas. Think about what your animation m
 
 --- print-only ---
 
-### Get ideas 💭
+### Trouve l'inspiration 💭
 
 Tu prendras des décisions de conception et penseras à une histoire pour ton animation avec une surprise. Réfléchis à ce que pourrait être ton histoire et pour obtenir plus d'idées, **Voir à l'intérieur** exemples de projets dans la section « Surprise »! animation — Scratch studio exemples : https://scratch.mit.edu/studios/29075822/
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+L'animation comporte trois parties :
++ Curiosité
++ Surprise !
++ Réaction
 
-![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
+![Le projet "BOUH !".](images/boo.png) ![Le projet "Chat magique".](images/cat-magic.png)
 
 --- /print-only ---
 
