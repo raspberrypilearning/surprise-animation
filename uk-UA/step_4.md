@@ -1,25 +1,25 @@
-## Add a surprise!
+## Додай сюрприз!
 
-Now, you need to add a surprise. What could happen to the object?
-- Will it turn into another object?
-- Will it turn into a character?
-- Will it disappear and reveal another sprite?
+Тепер тобі потрібно додати сюрприз. Що може трапитися з об'єктом?
+- Можливо, він перетвориться на інший об'єкт?
+- Можливо, він перетвориться у персонажа?
+- Можливо, він зникне та з'явиться інший спрайт?
 
-You decide! Create the **third part** of your animation.
+Це тобі вирішувати! Створи **третю частину** своєї анімації.
 
-![A film strip with 3 frames. The third frame is highlighted. The frame shows a scene with character looking surprised at an object.](images/surprise.png)
+![Кінострічка з 3-ма кадрами. Третій кадр виділено. У кадрі зображено сцену, де персонаж здивовано дивиться на якийсь об'єкт.](images/surprise.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
+У тебе була нагода написати оповідання з несподіваним сюжетним поворотом чи сюрпризом? Переглядали серіал чи читали книгу з непередбачуваним фіналом? Ти можеш використовувати ті ж методи при створенні цифрової історії або анімації. 
 </p>
 
-### When will the surprise happen?
+### Коли з'явиться сюрприз?
 
 --- task ---
 
-Select the 🎂🎾🎁 **interesting object** sprite. Add a script to make the surprise start when you want it to.
+Вибери спрайт 🎂🎾🎁 **цікавий об'єкт**. Додай скрипт, щоб сюрприз розпочався тоді, коли ти цього хочеш.
 
-You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
+Тобі потрібно буде визначити час затримки, яка підходить для твого проєкту. Якщо у тебе є персонаж, який занадто довго проявляє цікавість, тобі потрібно буде вибрати більш тривалу затримку.
 
 ```blocks3
 when flag clicked
@@ -28,26 +28,26 @@ wait (5) seconds // change the number to create your time delay
 
 --- /task ---
 
-### Now, create the surprise!
+### А тепер - створи сюрприз!
 
 --- task ---
 
-The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
+Об'єкт може `відтворити звук`{:class="block3sound"}, `змінити образ`{:class="block3looks"}, `змінити графічні ефекти`{:class="block3looks"}, або `змінити розмір`{:class="block3looks"}.
 
-You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it.
+Можна додати спрайту незвичайний костюм, тоді спрайт зможе `змінити образ`{:class="block3looks"}, щоб показати його.
 
-![A desert background with a rock jiggling back and forth.](images/bat.gif)
+![На тлі пустелі камінь, який гойдається туди-сюди.](images/bat.gif)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the 🎂🎾🎁 **interesting object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
+Можна зробити так, щоб спрайт ніби перетворювався на іншого спрайта - для цього потрібно `сховати`{:class="block3looks"} спрайт 🎂🎾🎁 **цікавий об'єкт** одночасно з тим, як`показати`{:class="block3looks"} іншого спрайта.
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title: Показати та сховати спрайти
 ---
 
-The 🎂🎾🎁 **interesting object** sprite:
+Спрайт 🎂🎾🎁 **цікавий об'єкт**:
 ```blocks3
 when flag clicked
 show
@@ -55,7 +55,7 @@ wait (5) seconds
 hide
 ```
 
-The 🎷👻⚡**surprise object** sprite:
+Спрайт 🎷👻⚡**об'єкт-сюрприз**:
 ```blocks3
 when flag clicked
 hide
@@ -63,7 +63,7 @@ wait (5) seconds
 show
 ```
 
-**Tip:** If you make a 🎷👻⚡**surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Порада:** Якщо ти зробиш, щоб спрайт 🎷👻⚡**об'єкт-сюрприз** `показався`{:class="block3looks"}, потрібно зробити так, щоб він `сховався`{:class="block3looks"} `коли зелений прапорець натиснуто`{:class="block3events"}.
 
 --- /collapse ---
 
@@ -71,26 +71,26 @@ show
 
 --- task ---
 
-**Test:** Click on the green flag. Does the surprise happen at the right time? Does the animation reset properly?
+**Тест:** Натисни на зелений прапорець. Чи сюрприз трапляється в потрібний час? Чи правильно відбувається скидання анімації?
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**Налагодження:**
 
-If you need a sprite to be in front of or behind another sprite, you can use layers:
+Якщо тобі потрібно, щоб спрайт знаходився попереду або позаду іншого спрайта, ти можеш скористатися шарами:
 
 [[[scratch3-positioning-with-layers]]]
 
-If the surprise happens at the wrong time, you can fix that:
+Якщо сюрприз відбувається невчасно, це можна виправити:
 
 --- collapse ---
 ---
-title: The surprise starts at the wrong time
+title: Сюрприз стається невчасно
 ---
 
-You might need to change the amount of time in some or all of the `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
+Можливо, тобі доведеться змінити кількість часу в деяких або всіх блоках `чекати`{:class="block3control"}, або додати більше блоків `чекати`{:class="block3control"}, щоб підібрати правильний час.
 
 --- /collapse ---
 
