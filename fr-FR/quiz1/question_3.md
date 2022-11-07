@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend : Question 3 sur 3
+legend: Question 3 sur 3
 ---
 
 Tu as créé ton animation en la divisant en plusieurs parties et en la construisant dans l'ordre dans lequel elle s'exécute.
@@ -14,38 +14,38 @@ Quelle commande représente l'animation que tu as réalisée ?
 
 + Configuration
 
-+ Surprise!
++ Surprise !
 
   --- feedback ---
 
- The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
+ La partie « configuration » réinitialise ton animation. Elle doit venir en premier pour que ton animation puisse être exécutée à nouveau de la même manière.
 
   --- /feedback ---
 
 - (x)
-+ Setup
++ Configuration
 
-+ Curiosity
++ Curiosité
 
-+ Surprise!
++ Surprise !
 
 
   --- feedback ---
 
- Yes! You set up your sprites first, then created curiosity then ended with a surprise.
+ Oui ! Tu as d'abord configuré tes sprites, puis créé la curiosité et enfin terminé par une surprise.
 
   --- /feedback ---
 
 - ( )
 + Configuration
 
-+ Surprise!
++ Surprise !
 
-+ Curiosity
++ Curiosité
 
   --- feedback ---
 
- Curiosity was not at the end of the animation. Something came afterwards.
+ La curiosité n'était pas à la fin de l'animation. Quelque chose est venu après.
 
   --- /feedback ---
 
