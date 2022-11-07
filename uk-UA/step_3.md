@@ -1,22 +1,22 @@
-## Show curiosity
+## Проявляй допитливість
 
-Will the object do something to attract attention? How will the character react? You decide! Create the **second part** of your animation.
+Чи буде об'єкт робити щось, що приверне до себе увагу? Як відреагує персонаж? Це тобі вирішувати! Створи **другу частину** своєї анімації.
 
-![A film strip with 3 frames. The second frame is highlighted. The frame shows a scene with character thinking 'hmmmm' while looking at a curious object.](images/curiosity.png)
+![Кінострічка з 3-ма кадрами. Другий кадр виділено. У кадрі зображено сцену, в якій персонаж думає 'хмммм', дивлячись на цікавий об'єкт.](images/curiosity.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. In this step you will focus only on the curiosity part of your animation.
+  <span style="color: #0faeb0">**Декомпозиція **</span> - це розбиття проєкту на частини, які є меншими і легшими для розуміння. Це означає, що ти можеш будувати проєкт поступово, поки не завершиш його. На цьому етапі ти будеш зосереджуватися лише на цікавій частині своєї анімації.
 </p>
 
-### The object
+### Об'єкт
 
 --- task ---
 
-**Choose:** If you want the 🎂🎾🎁 **interesting object** to do something to attract attention, choose what the object will do.
+**Обери:** Якщо ти хочеш, щоб 🎂🎾🎁 **цікавий об'єкт** щось робив та привертав до себе увагу, вибери, що саме буде робити об'єкт.
 
-![A desert background with a rock jiggling back and forth.](images/jiggle.gif)
+![На тлі пустелі камінь, який гойдається туди-сюди.](images/jiggle.gif)
 
-Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green flag clicked`{:class="block3events"} setup script.
+Додай блоки в кінець скрипта налаштування 🎂🎾🎁 **цікавого об'єкта** `коли зелений прапорець натиснуто`{:class="block3events"}.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -24,25 +24,25 @@ Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green f
 
 --- /task ---
 
-### The character
+### Персонаж
 
 --- task ---
 
-Get the 🐙👩‍🦼🦖 **main character** to show interest in the object. Add blocks to the end of the 🐙👩‍🦼🦖 **main character's** setup script.
+Змусь 🐙👩‍🦼🦖 **головного персонажа** проявити інтерес до об'єкта. Додай блоки в кінець скрипта налаштування 🐙👩‍🦼🦖 **головного персонажа**.
 
-If you need the 🐙👩‍🦼🦖 **main character** to wait until the 🎂🎾🎁 **interesting object** has done something, add a `wait`{:class="block3control"} block.
+Якщо ти хочеш, щоб 🐙👩‍🦼🦖 **головний персонаж** дочекався, поки 🎂🎾🎁 **цікавий об'єкт** щось зробить, додай блок `чекати`{:class="block3control"}.
 
-![A desert background with a rock jiggling back and forth.](images/bear.gif)
+![На тлі пустелі камінь, який гойдається туди-сюди.](images/bear.gif)
 
-You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
+Ти можеш скористатися блоками `говорити`{:class="block3looks"} або `подумати`{:class="block3looks"}, або навіть скористатися розширенням `Текст у мову`{:class="block3extensions"}, щоб змусити персонажа говорити вголос!
 
 [[[scratch3-text-to-speech]]]
 
-The character could emote, like in the [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project.
+Персонаж може виражати емоції, як, наприклад, у проєкті [Космічна розмова](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-The character could be brave and move closer to check out the object.
+Персонаж може набратися сміливості та підійти ближче, щоб розглянути об'єкт.
 
 [[[scratch3-animate-movement-costumes]]]
 
@@ -50,16 +50,16 @@ The character could be brave and move closer to check out the object.
 
 --- task ---
 
-**Test:** Click on the green flag to test your project. The 🐙👩‍🦼🦖 **main character** should show curiosity about the object.
+**Тест:** Клацни на зелений прапорець, щоб протестувати свій проєкт. 🐙👩‍🦼🦖 **Головний персонаж** повинен проявляти цікавість до об'єкта.
 
-Click on the green flag again. If you changed the 🎂🎾🎁 **interesting object** or 🐙👩‍🦼🦖 **main character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
+Клацни на зелений прапорець ще раз. Якщо було змінено позицію або зовнішній вигляд спрайта 🎂🎾🎁 **цікавого об'єкта** або 🐙👩‍🦼🦖 **головного персонажа**, переконайся, що при повторному запуску проєкту вони будуть повернуті до початкового положення або вигляду.
 
 --- collapse ---
 ---
-title: Set the starting position and looks for a sprite
+title: Встанови стартову позицію та вигляд спрайта
 ---
 
-Choose the blocks that you need to set the position and looks for a sprite at the start.
+Вибери блоки, які тобі потрібні, щоб задати позицію та вигляд спрайта на старті.
 
 ```blocks3
 when flag clicked // add blocks to set up the start 
@@ -71,7 +71,7 @@ set [brightness v] effect to [80]
 show
 ```
 
-**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want the sprite to have.
+**Порада:** Всі графічні ефекти скидаються при натисканні на зелений прапорець, тому тобі не потрібно їх скидати, але тобі може знадобитися встановити ефекти, які ти хочеш, щоб спрайт мав.
 
 --- /collapse ---
 
@@ -79,23 +79,23 @@ show
 
 --- task ---
 
-**Debug:**
+**Налагодження:**
 
 --- collapse ---
 ---
-title: The sound is not working
+title: Звук не працює
 ---
 
-Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
+Переконайся, що гучність комп'ютера або планшета достатньо висока, а динаміки або навушники підключені та працюють правильно.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My animation does not reset properly when I click on the green flag
+title: Моя анімація не запускається правильно, коли я натискаю на зелений прапорець
 ---
 
-Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
+Переконайся, що твій проєкт має скрипт `коли зелений прапорець натиснуто`{:class="block3events"} для спрайтів, які їх потребують, та переконайся, що вони скинули позицію, розмір та зовнішній вигляд спрайтів. Допомогу в цьому можна знайти в завданні вище **Встанови стартову позицію та вигляд спрайта**.
 
 --- /collapse ---
 
