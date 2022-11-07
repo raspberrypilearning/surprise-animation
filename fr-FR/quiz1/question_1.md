@@ -1,23 +1,23 @@
-## Quick quiz
+## Questionnaire rapide
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Réponds aux trois questions. Il y a des indices pour te guider vers la bonne réponse.
 
-When you have answered each question, click on **Check my answer**.
+Lorsque tu as répondu à chaque question, clique sur **Vérifier ma réponse**.
 
-Have fun!
+Amuse-toi bien !
 
 --- question ---
 ---
-legend : Question 1 sur 3
+legend: Question 1 sur 3
 ---
 
-In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
+Dans ton projet, tu as réalisé une animation avec une surprise. Clique sur le drapeau vert pour lancer l'animation ci-dessous, puis relance-la.
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Did you notice anything odd the second time? The surprise was ruined! What code block would you add to make the surprise work?
+As-tu remarqué quelque chose d'étrange la deuxième fois ? La surprise était gâchée ! Quel bloc de code ajouterais-tu pour faire fonctionner la surprise ?
 
 --- choices ---
 
@@ -28,7 +28,7 @@ set size to (150) %
 
   --- feedback ---
 
- The **egg** sprite is the correct size when you run the program again.
+ L'**œuf** est de la bonne taille quand tu exécutes à nouveau le programme.
 
   --- /feedback ---
 
@@ -39,18 +39,18 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Yes. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
+ Oui. Tu dois faire basculer le sprite sur le bon costume (**œuf-a**) quand le projet démarre.
 
   --- /feedback ---
 
 - ( )
 ```blocks3
-montre-le
+show
 ```
 
   --- feedback ---
 
- You often need to remember to make a sprite show when the green flag is clicked, but in the project in the question, the **egg** sprite does show.
+ Tu dois souvent te rappeler de faire apparaître un sprite lorsque tu cliques sur le drapeau vert, mais dans le projet de la question, le sprite **œuf** apparaît.
 
   --- /feedback ---
 
@@ -61,7 +61,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- The **egg** sprite does go to the correct starting position on the Stage.
+ Le sprite **œuf** va à la bonne position de départ sur la scène.
 
   --- /feedback ---
 
