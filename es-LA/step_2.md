@@ -10,7 +10,7 @@ Add a backdrop 🖼️, main character 🐙👩‍🦼🦖, and interesting obje
   <span style="color: #0faeb0">**Animation**</span> creates the effect of movement by changing pictures quickly. The first animators carved pictures out of wooden blocks and used them as stamps. It is much faster to use Scratch to code your animation!
 </p>
 
-### Open the starter project
+### Abre el proyecto inicial
 
 --- task ---
 
@@ -57,7 +57,7 @@ Where do you want your sprites to start? How big do you want them to be? How do 
 
 Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation.
 
-**Tip:** Remember to set up both your 🐙👩‍🦼🦖 **main character** and your 🎂🎾🎁 **interesting object** sprites.
+**Consejo:** Recuerda configurar tanto tu 🐙👩‍🦼🦖 **personaje principal** como tu 🎂🎾🎁 **objeto interesante**.
 
 --- collapse ---
 ---
@@ -138,7 +138,7 @@ point in direction (-90) // turn to the left
 
 --- task ---
 
-Save your project.
+Guarda tu proyecto.
 
 [[[generic-scratch3-saving]]]
 
