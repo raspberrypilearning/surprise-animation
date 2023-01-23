@@ -1,4 +1,4 @@
-## You will make
+## Lo que harás
 
 Create a short animation 🎥 with a fun surprise 🎉!
 
@@ -17,9 +17,9 @@ Vas a:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Play ▶️ 
+### Reproducir ▶️ 
 
-Click on the green flag to watch the animation.
+Haz clic en la bandera verde para ver la animación.
 
 The animation has three parts:
 + Curiosity
