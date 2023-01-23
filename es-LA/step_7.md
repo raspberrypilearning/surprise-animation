@@ -1,4 +1,4 @@
-## Share and play
+## Comparte y juega
 
 If you are in a club, why not share your project with friends and peers?
 
