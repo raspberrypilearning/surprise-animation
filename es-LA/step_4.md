@@ -32,7 +32,7 @@ wait (5) seconds // change the number to create your time delay
 
 --- task ---
 
-The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
+El objeto podría `reproducir un sonido`{:class="block3sound"}, `cambiar de disfraz`{:class="block3looks"}, `cambiar de efectos gráficos`{:class="block3looks"} o `cambiar de tamaño`{:class="block3looks"}.
 
 You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it.
 
