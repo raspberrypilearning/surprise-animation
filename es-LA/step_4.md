@@ -19,7 +19,7 @@ Have you written a story with a plot twist or a surprise? Have you watched a sho
 
 Select the 🎂🎾🎁 **interesting object** sprite. Add a script to make the surprise start when you want it to.
 
-You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
+Deberás elegir un tiempo de espera que funcione para tu proyecto. Si tienes un personaje que pasa mucho tiempo siendo curioso, deberás elegir un mayor tiempo de espera.
 
 ```blocks3
 when flag clicked
@@ -63,7 +63,7 @@ wait (5) seconds
 show
 ```
 
-**Tip:** If you make a 🎷👻⚡**surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Consejo:** Si haces que un 🎷👻⚡**objeto sorpresa** `mostrar`{:class="block3looks"}, tendrás que hacerlo `ocultar`{:class="block3looks"} `cuando se haga clic en la bandera verde`{:clase="block3events"}.
 
 --- /collapse ---
 
@@ -71,7 +71,7 @@ show
 
 --- task ---
 
-**Test:** Click on the green flag. Does the surprise happen at the right time? Does the animation reset properly?
+**Prueba:** Haz clic en la bandera verde. Does the surprise happen at the right time? Does the animation reset properly?
 
 --- /task ---
 
