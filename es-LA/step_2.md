@@ -21,14 +21,14 @@ Open the [Surprise! animation starter project](https://scratch.mit.edu/projects/
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-There are people called <span style="color: #0faeb0">**narrative designers**</span> who do storytelling for apps and video games. Digital storytelling allows everyone to share their stories and creative imaginings with other people.
+There are people called <span style="color: #0faeb0">**narrative designers**</span> who do storytelling for apps and video games. La narración digital permite que todos compartan sus historias e imaginaciones creativas con otras personas.
 </p>
 
 ### Design your scene
 
 --- task ---
 
-**Choose:** a theme for your animation. You could choose:
+**Elige:** un tema para tu animación. Podrías elegir:
 
 + 🐯 Land Animals
 + 🐠 Sea animals
@@ -43,9 +43,9 @@ There are people called <span style="color: #0faeb0">**narrative designers**</sp
 
 --- task ---
 
-**Choose:** Choose a sprite to be the 🐙👩‍🦼🦖 **main character**, another sprite to be the 🎂🎾🎁 **interesting object** and a 🖼️ **backdrop** to set the scene.
+**Elige:** Elige un objeto para que sea el 🐙👩‍🦼🦖 **el personaje principal**, otro objeto para que sea el 🎂🎾🎁 **un objeto interesante** y un 🖼️ **ícono de fondo** para ambientar la escena.
 
-![Two Choose a Sprite icons and a Choose a Backdrop icon.](images/sprites-and-backdrop.png)
+![Dos Elige un personaje y Elige un icono de Fondo.](images/sprites-and-backdrop.png)
 
 --- /task ---
 
