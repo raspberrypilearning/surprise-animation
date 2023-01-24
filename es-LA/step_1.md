@@ -28,7 +28,7 @@ The animation has three parts:
 
 </div>
 <div>
-**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
+**¡Sorpresa! Dinosaurio**: [Ver dentro](https://scratch.mit.edu/projects/624080535/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -37,25 +37,25 @@ The animation has three parts:
 
 --- /task ---
 
-### Get ideas 💭
+### Obtén ideas 💭
 
 --- task ---
 
-Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
+Explora estos proyectos de ejemplo para obtener más ideas. Piensa en cuál podría ser tu historia y explora estos proyectos de ejemplo para obtener más ideas:
 
-⭐ Share your finished Surprise animation project for a chance of it being featured here.
+⭐ Comparte tu proyecto de animación sorpresa y ten la oportunidad de que se muestre aquí.
 
-**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
+**BOO!**: [Ver dentro](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
+**Magia de gato**: [Ver dentro](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Jumpscare!**: [See inside](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (featured community project)
+**⭐ Jumpscare!**: [Ver interior](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (proyecto destacado de la comunidad)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -66,7 +66,7 @@ Play with these example projects to get ideas. Think about what your animation m
 
 --- print-only ---
 
-### Get ideas 💭
+### Obtén ideas 💭
 
 Tomarás decisiones de diseño y pensarás en una historia para tu animación con una sorpresa. Piensa en cuál podría ser tu historia, y explora estos proyectos de ejemplo para obtener más ideas, **Ver dentro** proyectos de ejemplo en '¡Sorpresa! animación - Ejemplos del Estudio Scratch: https://scratch.mit.edu/studios/29075822/
 
