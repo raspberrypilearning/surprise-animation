@@ -1,8 +1,8 @@
-## Upgrade your project
+## Mejora tu proyecto
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You could upgrade your project by adding a reaction. How will your main character react? 
+Puedes mejorar tu proyecto agregando una reacción. How will your main character react? 
 
 You decide!
 </div>
@@ -52,9 +52,9 @@ You can also look at the remixes for the [Surprise animation starter project](ht
 
 --- task ---
 
-Each project in the ['Surprise! animation — Examples' Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Each project in the ['Surprise! animación - Ejemplos de 'Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_ blank"} tiene una opción **Ver dentro**, que puedes usar para abrir el proyecto en el editor de Scratch y mirar el código para obtener ideas y ver cómo funciona.
 
-**Doppelganger**: [See inside](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
+**Doppelganger**: [Ver dentro](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
 </div>
