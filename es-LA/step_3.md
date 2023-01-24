@@ -12,7 +12,7 @@ Will the object do something to attract attention? How will the character react?
 
 --- task ---
 
-**Choose:** If you want the 🎂🎾🎁 **interesting object** to do something to attract attention, choose what the object will do.
+**Elige:** Si deseas que el objeto haga algo, elige lo que hará.
 
 ![A desert background with a rock jiggling back and forth.](images/jiggle.gif)
 
@@ -50,7 +50,7 @@ The character could be brave and move closer to check out the object.
 
 --- task ---
 
-**Test:** Click on the green flag to test your project. The 🐙👩‍🦼🦖 **main character** should show curiosity about the object.
+**Prueba:** Haz clic en la bandera verde para probar tu proyecto. The 🐙👩‍🦼🦖 **main character** should show curiosity about the object.
 
 Click on the green flag again. If you changed the 🎂🎾🎁 **interesting object** or 🐙👩‍🦼🦖 **main character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
 
@@ -59,7 +59,7 @@ Click on the green flag again. If you changed the 🎂🎾🎁 **interesting obj
 title: Establece la posición y apariencia iniciales del objeto
 ---
 
-Choose the blocks that you need to set the position and looks for a sprite at the start.
+Elige los bloques que necesitas para establecer la posición y apariencia del objeto al principio.
 
 ```blocks3
 when flag clicked // add blocks to set up the start 
