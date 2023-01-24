@@ -1,16 +1,16 @@
 ## Comparte y juega
 
-If you are in a club, why not share your project with friends and peers?
+Si estás en un club, ¿por qué no compartes tu proyecto con tus amigos y compañeros?
 
 You could also show your family how your project works.
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+Si tienes una cuenta de Scratch, puedes compartir tu proyecto a través de Scratch. Puedes enviar un enlace a las personas que conoces y toda la comunidad de Scratch podrá encontrar tu proyecto y probarlo.
 
 [[[share-scratch]]]
 
 Why not invite your friends to create a project? Let them know how you had fun.
 
-If you have a Scratch account, and have shared your 'Surprise! animation' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+Si tienes una cuenta de Scratch y has compartido tu '¡Sorpresa! animation' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
 
 [[[comments-feedback-scratch]]]
 
@@ -22,22 +22,22 @@ To submit your project to our ['Surprise! animation — Community' Scratch studi
 
 --- /task ---
 
-### Community submissions
+### Aportaciones de la comunidad
 
 --- task ---
 
 Take a look at these fabulous community projects from our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
 
-**Surprise eggs**: [See inside](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
+**Huevos sorpresa**: [Ver dentro](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723810901/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Scarify building**: [See inside](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
+**Escarificar edificio**: [Ver dentro](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/578827663/?autostart=false" frameborder="0"></iframe>
 </div>
---- /task ---
+--- /tarea ---
 
 --- task ---
 
