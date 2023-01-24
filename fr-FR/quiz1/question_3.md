@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend : Question 3 sur 3
+legend: Question 3 sur 3
 ---
 
 Tu as créé ton animation en la divisant en plusieurs parties et en la construisant dans l'ordre dans lequel elle s'exécute.
@@ -14,9 +14,7 @@ Quelle commande représente l'animation que tu as réalisée ?
 
 + Configuration
 
-+ Surprise!
-
-+ Réaction
++ Surprise !
 
   --- feedback ---
 
@@ -24,48 +22,30 @@ Quelle commande représente l'animation que tu as réalisée ?
 
   --- /feedback ---
 
-- ( )
-+ Réaction
-
-+ Surprise!
-
-+ Curiosité
-
-+ Configuration
-
-  --- feedback ---
-
- Pense à ce que tu as fait en premier. La réaction est venue plus tard.
-
-  --- /feedback ---
-
 - (x)
-+ Installer
++ Configuration
 
 + Curiosité
 
-+ Surprise!
++ Surprise !
 
-+ Réaction
 
   --- feedback ---
 
- Oui! Tu configures d'abord tes sprites, puis ton histoire est construite jusqu'à une réaction finale.
+ Oui ! Tu as d'abord configuré tes sprites, puis créé la curiosité et enfin terminé par une surprise.
 
   --- /feedback ---
 
 - ( )
 + Configuration
 
++ Surprise !
+
 + Curiosité
-
-+ Réaction
-
-+ Surprise!
 
   --- feedback ---
 
- La surprise n'était pas au bout de l'animation. Quelque chose est venu après.
+ La curiosité n'était pas à la fin de l'animation. Quelque chose est venu après.
 
   --- /feedback ---
 

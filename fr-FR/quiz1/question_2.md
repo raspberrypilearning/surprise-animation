@@ -3,7 +3,7 @@
 legend : Question 2 sur 3
 ---
 
-Dans ton projet, tu as planifié ton animation avec des blocs `chronomètre`{:class="block3events"} ou `attendre`{:class="block3control"}.
+Dans ton projet, tu as contrôlé ton animation avec des blocs `attendre`{:class="block3control"}.
 
 Dans ce projet de dinosaure, tu veux que le petit dinosaure attende 6 secondes avant de sortir de l'œuf et de surprendre le grand dinosaure.
 
@@ -12,18 +12,6 @@ Dans ce projet de dinosaure, tu veux que le petit dinosaure attende 6 secondes a
 Quel script pour le sprite **petit dinosaure** ferait cela ?
 
 --- choices ---
-
-- ( )
-```blocks3
-when [loudness v] > (6)
-show
-```
-
-  --- feedback ---
-
- Ce sont les bons blocs à utiliser, mais tu dois sélectionner `chronomètre`{:class="block3events"} au lieu d'`volume sonore`{:class="block3events"} dans le menu déroulant.
-
-  --- /feedback ---
 
 - ( )
 ```blocks3
@@ -41,7 +29,7 @@ Ce script nécessite une interaction de l’utilisateur pour que le petit dinosa
 ```blocks3
 when flag clicked
 show
-wait (6) seconds
+wait [6] seconds
 ```
 
   --- feedback ---
@@ -52,13 +40,14 @@ wait (6) seconds
 
 - (x)
 ```blocks3
-when [timer v] > (6)
+when flag clicked
+wait [6] seconds
 show
 ```
 
   --- feedback ---
 
- Lorsque le minuteur a attendu 6 secondes, le petit dinosaure apparaît et surprend le grand dinosaure !
+ Au bout de 6 secondes, le petit dinosaure apparaît et surprend le grand dinosaure !
 
   --- /feedback ---
 

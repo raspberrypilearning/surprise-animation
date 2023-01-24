@@ -1,23 +1,29 @@
-## Partager
+## Et ensuite ?
 
-Si tu es dans un club, pourquoi ne pas partager ton projet avec tes amis et tes pairs ?
+Si tu suis le parcours [Introduction de Scratch](https://projects.raspberrypi.org/fr-FR/pathway/scratch-intro), tu peux passer au projet [Je t'ai fait un livre](https://projects.raspberrypi.org/fr-FR/projects/i-made-you-a-book). Dans ce projet, tu vas créer un livre en Scratch à partir de ta propre idée.
 
-Tu peux également montrer à ta famille comment fonctionne ton projet.
+--- no-print ---
 
-Si tu as un compte Scratch, tu peux partager ton projet via Scratch. Tu peux envoyer un lien à des personnes que tu connais, et toute la communauté Scratch pourra trouver ton projet et l'essayer.
+**Éclairer le chemin du retour** : [Voyez à l'intérieur](https://scratch.mit.edu/projects/667606549/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/667606549/?autostart=false" frameborder="0"></iframe>
+</div>
 
-[[[share-scratch]]]
+--- /no-print ---
 
-Pourquoi ne pas inviter tes amis à créer un projet ? Fais-leur savoir combien tu t'es amusé(e).
+--- print-only ---
 
-Si tu as un compte Scratch et que tu as partagé ton "Surprise ! animation », garde un œil sur les commentaires que d'autres pourraient faire sur ton création. Les réactions et commentaires te donnent un excellent moyen de réfléchir à ton travail. Ignore les commentaires inutiles ou non pertinents.
+![Un projet "Je t'ai fait un livre".](images/book-cover.png)
 
-[[[comments-feedback-scratch]]]
+--- /print-only ---
 
---- task ---
+Si tu veux t'amuser davantage à explorer Scratch, tu peux essayer l'un de [ces projets](https://projects.raspberrypi.org/fr-FR/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-Inspire la communauté Raspberry Pi Foundation avec ton projet !
+***
+Ce projet a été traduit par des bénévoles:
 
-Pour soumettre ton projet à notre ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}, remplis [ce formulaire](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Sk Abdul Gafur
+Michel Arnols
+Jonathan Vannieuwkerke
 
---- /task ---
+Grâce aux bénévoles, nous pouvons donner aux gens du monde entier la chance d'apprendre dans leur propre langue. Vous pouvez nous aider à atteindre plus de personnes en vous portant volontaire pour la traduction - plus d'informations sur [rpf.io/translate](https://rpf.io/translate).
