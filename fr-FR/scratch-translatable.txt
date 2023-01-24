@@ -1,6 +1,6 @@
 ajoute la position du sprite
 
-<100 est plus petit,> 100 est plus grand
+<100 est plus petit, >100 est plus grand
 
 mettre à jour ceci pour ton costume choisi
 
@@ -12,8 +12,24 @@ taille de départ
 
 position de départ
 
-change le délai
+changer le nombre pour créer ta temporisation
 
-régler le délai
+configuration
 
-même retard
+curiosité
+
+réaction
+
+réinitialiser
+
+surprise
+
+Mhmm...
+
+BOUH !
+
+Qu'est-ce que c'est que ça ?
+
+Kitty, as-tu encore joué avec mes potions ?
+
+Le chat doit avoir du lait.

@@ -1,34 +1,30 @@
-## Surprise
+## Ajouter une surprise !
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Maintenant, tu dois ajouter une surprise. Que peut-il arriver à l'objet ? 
-- Se transformera-t-il en un autre objet ? 
-- Est-ce qu'il va devenir un personnage ? 
-- Va-t-il disparaître et révéler un autre sprite ? 
+Maintenant, tu dois ajouter une surprise. Que peut-il arriver à l'objet ?
+- Se transformera-t-il en un autre objet ?
+- Est-ce qu'il va devenir un personnage ?
+- Va-t-il disparaître et révéler un autre sprite ?
 
-Tu décides!
-</div>
-<div>
+C'est toi qui décides ! Crée la **troisième partie** de ton animation.
 
-![Le projet 'Cat magic' montrant la surprise.](images/cat-magic.png)
-
-</div>
-</div>
+![Une bande de film avec 3 images. La troisième image est mise en surbrillance. L'image montre une scène avec un personnage qui semble surpris par un objet.](images/surprise.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 As-tu écrit une histoire avec un rebondissement ou une surprise ? As-tu regardé une émission ou lu un livre dont la fin est imprévisible ? Tu peux utiliser les mêmes méthodes lorsque tu crées une histoire ou une animation numérique. 
 </p>
 
-### A quand la surprise ?
+### Quand la surprise va-t-elle arriver ?
 
 --- task ---
 
-Sélectionne le sprite d'**objet**. Ajoute un script pour que la surprise commence quand tu le souhaites.
+Sélectionne le sprite 🎂🎾🎁 **objet intéressant**. Ajoute un script pour que la surprise commence quand tu le souhaites.
 
 Tu dois choisir un délai qui convient à ton projet. Si tu as un personnage qui passe beaucoup de temps à être curieux, tu devras choisir un délai plus long.
 
-[[[scratch3-time-delay]]]
+```blocks3
+when flag clicked
+wait (5) seconds // changer le nombre pour créer ta temporisation
+```
 
 --- /task ---
 
@@ -38,30 +34,36 @@ Tu dois choisir un délai qui convient à ton projet. Si tu as un personnage qui
 
 L'objet pourrait `jouer un son`{:class="block3sound"}, `basculer sur le costume`{:class="block3looks"}, `changer les effets graphiques`{:class="block3looks"}, ou `changer la taille`{:class="block3looks"}.
 
-Tu peux ajouter un costume surprenant au sprite, alors le sprite pourrait `basculer sur le costume`{:class="block3looks"} pour le révéler. Par exemple, tu peux transformer la **pomme** en **fantôme**.
+Tu pourrais ajouter un costume surprenant au sprite, puis le sprite pourrait `basculer sur le costume`{:class="block3looks"} pour le révéler.
+
+![Un arrière-plan désertique avec un rocher oscillant d'avant en arrière.](images/bat.gif)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-Tu peux faire en sorte que le sprite semble se transformer en un sprite différent — pour ce faire, `cacher`{:class="block3looks"} l'**objet** sprite en même temps que tu `montres`{:class="block3looks"} un autre sprite.
+Tu peux donner l'impression que le sprite se transforme en un sprite différent. Pour ce faire, `cache`{:class="block3looks"} le sprite🎂🎾🎁 **objet intéressant** en même temps que tu `montres`{:class="block3looks"} un autre sprite.
 
 --- collapse ---
 ---
 title: Masquer et afficher les sprites
 ---
 
-Le sprite **objet**:
+Le sprite🎂🎾🎁 **objet intéressant** :
 ```blocks3
-when [timer v] > (4) // régler le délai
+when flag clicked
+show
+wait (5) seconds
 hide
 ```
 
-Un sprite **surprise**:
+Le sprite🎷👻⚡**objet surprise** :
 ```blocks3
-when [timer v] > (4) // même retard
+when flag clicked
+hide
+wait (5) seconds
 show
 ```
 
-**Astuce :** Si tu fais un `montrer`{:class="block3looks"} le sprite **surprise**, tu devras le `cacher`{:class="block3looks"} `quand le drapeau vert est cliqué`{:class="block3events"}.
+**Astuce :** si tu 🎷👻⚡ **montres** un sprite `objet surprise`{:class="block3looks"}, tu devras le `cacher` `quand le drapeau vert est cliqué`{:class="block3events"}.
 
 --- /collapse ---
 
@@ -75,7 +77,7 @@ show
 
 --- task ---
 
-**Déboguer:**
+**Déboguer :**
 
 Si tu as besoin qu'un sprite soit devant ou derrière un autre sprite, tu peux utiliser des calques :
 
@@ -85,19 +87,12 @@ Si la surprise se produit au mauvais moment, tu peux y remédier :
 
 --- collapse ---
 ---
-title: Les scripts de minuterie déclenchent la surprise au mauvais moment
+title: La surprise commence au mauvais moment
 ---
 
-Assure-toi d'avoir sélectionné le `chronomètre`{:class="block3events"} dans le bloc `quand le volume sonore`{:class="block3events"} :
-
-```blocks3
-when [timer v] > [5]
-```
-
-Si tu as le `chronomètre`{:class="block3events"}, essaye d'ajuster le temps d'attente du minuteur.
+Tu devras peut-être modifier la durée de certains ou de tous les blocs `attendre`{:class="block3control"}, ou ajouter plus de blocs `attendre`{:class="block3control"}, pour obtenir le bon timing.
 
 --- /collapse ---
 
 --- /task ---
 
---- save ---

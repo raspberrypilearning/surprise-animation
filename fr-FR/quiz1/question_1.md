@@ -1,17 +1,14 @@
+## Questionnaire rapide
 
-## Que faire ensuite?
+Réponds aux trois questions. Il y a des indices pour te guider vers la bonne réponse.
 
-Bravo, tu as beaucoup appris ! Maintenant, il est temps de réfléchir - la réflexion est une partie importante de l'apprentissage, car elle aide à établir de nouvelles connexions dans ton cerveau.
+Lorsque tu as répondu à chaque question, clique sur **Vérifier ma réponse**.
 
-Réponds aux trois questions ci-dessous pour réfléchir à ce que tu as appris.
-
-Lorsque tu as répondu à chaque question, tapes sur **Soumettre**. Tu seras guidé vers la bonne réponse. Tu peux faire cette activité autant de fois que tu le souhaites.
-
-Amuse-toi bien!
+Amuse-toi bien !
 
 --- question ---
 ---
-legend : Question 1 sur 3
+legend: Question 1 sur 3
 ---
 
 Dans ton projet, tu as réalisé une animation avec une surprise. Clique sur le drapeau vert pour lancer l'animation ci-dessous, puis relance-la.
@@ -48,12 +45,12 @@ switch costume to [egg-a v]
 
 - ( )
 ```blocks3
-montre-le
+show
 ```
 
   --- feedback ---
 
- Tu dois souvent te rappeler de faire apparaître un sprite lorsque tu cliques sur le drapeau vert, mais dans le projet de la question, le sprite d'**œuf** apparaît.
+ Tu dois souvent te rappeler de faire apparaître un sprite lorsque tu cliques sur le drapeau vert, mais dans le projet de la question, le sprite **œuf** apparaît.
 
   --- /feedback ---
 
@@ -64,7 +61,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- Le sprite d'**oeuf** va à la bonne position de départ sur la scène.
+ Le sprite **œuf** va à la bonne position de départ sur la scène.
 
   --- /feedback ---
 
