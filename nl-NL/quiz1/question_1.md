@@ -1,11 +1,8 @@
+## Snelle quiz
 
-## Reflectie
+Beantwoord de drie vragen. Er zijn tips om je naar het juiste antwoord te leiden.
 
-Goed gedaan, je hebt veel geleerd! Nu is het tijd om te reflecteren - reflecteren is een belangrijk onderdeel van leren, omdat het helpt om nieuwe verbindingen in je hersenen te maken.
-
-Beantwoord de drie onderstaande vragen om na te denken over wat je hebt geleerd.
-
-Wanneer je elke vraag hebt beantwoord, klik je op **Verzenden**. Je wordt naar het juiste antwoord geleid. Je kunt deze activiteit zo vaak doen als je wilt.
+Wanneer je elke vraag hebt beantwoord, klik je op **Verzenden**.
 
 Veel plezier!
 
@@ -37,7 +34,7 @@ set size to (150) %
 
 - (x)
 ```blocks3
-switch costume to [egg-a v]
+switch costume to [ei-a v]
 ```
 
   --- feedback ---

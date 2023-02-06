@@ -16,26 +16,9 @@ Welke volgorde staat voor de animatie die je hebt gemaakt?
 
 + Verrassing!
 
-+ Reactie
-
   --- feedback ---
 
  Het 'opzetten'-gedeelte stelt je animatie opnieuw in. Het moet als eerste komen, zodat je animatie op dezelfde manier opnieuw kan worden uitgevoerd.
-
-  --- /feedback ---
-
-- ( )
-+ Reactie
-
-+ Verrassing!
-
-+ Nieuwsgierigheid
-
-+ Opzetten
-
-  --- feedback ---
-
- Denk na over wat je het eerste deed. De reactie kwam later.
 
   --- /feedback ---
 
@@ -46,22 +29,19 @@ Welke volgorde staat voor de animatie die je hebt gemaakt?
 
 + Verrassing!
 
-+ Reactie
 
   --- feedback ---
 
- Ja! Je stelt eerst je sprites in en vervolgens bouw je je verhaal op tot een laatste reactie.
+ Ja! Je stelde eerst je sprites in en vervolgens bouwde je je verhaal op om te eindigen met een verrassing.
 
   --- /feedback ---
 
 - ( )
 + Opzetten
 
-+ Nieuwsgierigheid
-
-+ Reactie
-
 + Verrassing!
+
++ Nieuwsgierigheid
 
   --- feedback ---
 
