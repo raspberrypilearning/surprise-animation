@@ -1,25 +1,22 @@
-## Nieuwsgierigheid
+## Toon nieuwsgierigheid
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Zal het voorwerp iets doen om de aandacht te trekken? Hoe zal de hoofdpersoon reageren?
+Zal het voorwerp iets doen om de aandacht te trekken? Hoe zal de hoofdpersoon reageren? Jij beslist! Maak het **tweede deel** van je animatie.
 
-Jij beslist!
-</div>
-<div>
+![Een filmstrip met 3 frames. Het tweede frame is gemarkeerd. Het beeld toont een scène met een hoofdpersoon di 'hmmmm' denkt terwijl hij naar een merkwaardig object kijkt.](images/curiosity.png)
 
-![Het 'BOE!' project waarbij de hoofdpersoon nieuwsgierig is.](images/boo.png)
-
-</div>
-</div>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+  <span style="color: #0faeb0">**Decompositie**</span> is een project opsplitsen in kleinere en gemakkelijker te begrijpen delen. Dit betekent dat je een project stap voor stap kunt bouwen totdat je het hebt voltooid. In deze stap concentreer je je alleen op het nieuwsgierigheidsgedeelte van je animatie.
+</p>
 
 ### Het voorwerp
 
 --- task ---
 
-**Kies:** Als je wilt dat het voorwerp iets doet, kies dan wat het voorwerp zal doen.
+**Kies:** Als je wilt dat het 🎂🎾🎁 **interessante object** iets doet om de aandacht te trekken, kies dan wat het object zal doen.
 
-Blokken toe te voegen aan het einde van het **voorwerp** zijn `als op de groene vlag wordt geklikt`{:class="block3events"} instel-script.
+![Een woestijnachtergrond met een rots die heen en weer schudt.](images/jiggle.gif)
+
+Voeg blokken toe aan het einde van het 🎂🎾🎁 **interessante object**'s `wanneer op de groene vlag werd geklikt`{:class="block3events"} instel-script.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -31,9 +28,11 @@ Blokken toe te voegen aan het einde van het **voorwerp** zijn `als op de groene 
 
 --- task ---
 
-Laat de hoofdpersoon interesse tonen voor het voorwerp. Voeg blokken toe aan het einde van het instel-script van de **hoofdpersoon**.
+Laat de 🐙👩‍🦼🦖 **hoofdpersoon** interesse tonen voor het voorwerp. Voeg blokken toe aan het einde van het instel-script van de 🐙👩‍🦼🦖 **hoofdpersoon**.
 
-Als je wilt dat de hoofdpersoon wacht totdat het voorwerp iets heeft gedaan, voeg je een `wacht`{:class="block3control"}-blok toe.
+Als je wilt dat de 🐙👩‍🦼🦖 **hoofdpersoon** wacht totdat het 🎂🎾🎁 **interessante voorwerp** iets heeft gedaan, voeg je een `wacht`{:class="block3control"}-blok toe.
+
+![Een woestijnachtergrond met een rots die heen en weer schudt.](images/bear.gif)
 
 Je zou `zeg`{:class="block3looks"} of `denk`{:class="block3looks"} blokken kunnen gebruiken, of zelfs de `Tekst naar spraak`{:class="block3extensions"} extensie gebruiken om de hoofdpersoon hardop te laten praten!
 
@@ -51,9 +50,9 @@ De hoofdpersoon kan dapper zijn en dichterbij komen om het voorwerp te bekijken.
 
 --- task ---
 
-**Test:** Klik op de groene vlag om je project te testen. De hoofdpersoon moet nieuwsgierig zijn naar het voorwerp.
+**Test:** Klik op de groene vlag om je project te testen. De 🐙👩‍🦼🦖 **hoofdpersoon** moet nieuwsgierig zijn naar het voorwerp.
 
-Klik nogmaals op de groene vlag. Als je de **voorwerp** of **hoofdpersoon** sprite hebt gewijzigd, moet je ervoor zorgen dat ze terug worden gezet naar hun startpositie of uiterlijk wanneer je het project opnieuw uitvoert.
+Klik nogmaals op de groene vlag. Als je de positie van het 🎂🎾🎁 **interssante voorwerp** of de 🐙👩‍🦼🦖 **hoofdpersoon** sprite hebt gewijzigd, moet je ervoor zorgen dat ze terug worden gezet naar hun startpositie of uiterlijken wanneer je het project opnieuw uitvoert.
 
 --- collapse ---
 ---
@@ -63,13 +62,13 @@ title: Stel de startpositie en uiterlijk in voor een sprite
 Kies de blokken die je nodig hebt om de positie en uiterlijk aan het begin in te stellen voor een sprite.
 
 ```blocks3
-when flag clicked // voeg blokken toe om de start in te stellen 
+when flag clicked // voeg blokken toe om het begin in te stellen 
 switch costume to [costume1 v]
 set size to (100) % // startgrootte
 go to x: (-200) y: (50) // startpositie
-point in direction [90]
-set [brightness v] effect to [80]
-show
+richt naar [90] graden
+verander [helderheid v] effect met [80]
+verschijn
 ```
 
 **Tip:** Alle grafische effecten worden gewist wanneer je op de groene vlag klikt, dus je hoeft ze niet te wissen, maar je moet mogelijk de effecten instellen die je wilt dat de sprite heeft.
@@ -102,4 +101,3 @@ Controleer of je project `wanneer op de groene vlag wordt geklikt`{:class="block
 
 --- /task ---
 
---- save ---

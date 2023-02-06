@@ -1,23 +1,47 @@
-## Verbeter je project
+## Deel en speel
 
-Als je tijd hebt, kun je jouw project verbeteren.
+Als je lid bent van een club, waarom zou je je project dan niet delen met vrienden en collega's?
 
-Je kunt:
-+ Je animatie uitbreiden of verbeteren met beweging, uiterlijken en grafische effecten
-+ Uiterlijken maken of bewerken in de Paint-editor om ze eruit te laten zien zoals jij dat wilt
-+ Jouw stem of geluidseffecten opnemen en de nieuwe geluiden toevoegen aan jouw project
+Je kunt jouw familie ook laten zien hoe jouw project werkt.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Professionele programmeurs verkennen en halen inspiratie uit code die door andere programmeurs is gemaakt. 
-</p>
+Als je een Scratch-account hebt, kun je je project delen via Scratch. Je kunt een link sturen naar mensen die je kent, en de hele Scratch-gemeenschap zal je project kunnen vinden en uitproberen.
 
-Elk project in de ['Verrassing! animatie — Voorbeelden' Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} heeft een **Bekijk van binnen** link, die je kunt gebruiken om het project in de Scratch-editor te openen en de code te bekijken om ideeën op te doen en te zien hoe het project werkt.
+[[[share-scratch]]]
 
-**Dubbelganger**: [Bekijk van binnen](https://scratch.mit.edu/projects/595401074/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/595401074/?autostart=false" frameborder="0"></iframe>
-</div>
+Waarom nodig je je vrienden niet uit om een project te maken? Laat ze weten hoeveel plezier je hebt gehad.
+
+Als je een Scratch-account hebt en je 'Verrassing! animatie'-project hebt gedeeld, let dan op opmerkingen die anderen over jouw creatie kunnen maken. Terugkoppeling is een geweldige manier om te reflecteren op je werk. Negeer alle opmerkingen die nutteloos of irrelevant zijn.
+
+[[[comments-feedback-scratch]]]
+
+--- task ---
+
+Inspireer de Raspberry Pi Foundation-gemeenschap met jouw project!
 
 Kijk dan eens bij onze ['Verrassing! animatie — Community' Scratchstudio](https://scratch.mit.edu/studios/29079784){:target="_blank"} om projecten te zien die zijn gemaakt door communityleden.
 
---- save ---
+--- /task ---
+
+### Community-inzendingen
+
+--- task ---
+
+Bekijk deze fantastische gemeenschapsprojecten van onze ['Surprise! animatie — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
+
+**Verrassingseitjes**: [Bekijk van binnen](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723810901/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Schrikaanjagend gebouw**: [Bekijk van binnen](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/578827663/?autostart=false" frameborder="0"></iframe>
+</div>
+--- /task ---
+
+--- task ---
+
+Je kunt ook de remixes bekijken voor het [Verrassing! animatie startproject](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} om te zien wat andere makers hebben gemaakt.
+
+--- /task ---
+

@@ -1,23 +1,31 @@
-## Deel
+## Wat kun je verder nog doen?
 
-Als je lid bent van een club, waarom zou je je project dan niet delen met vrienden en collega's?
+Als je het [Introductie tot Scratch](https://projects.raspberrypi.org/nl-NL/pathway/scratch-intro) pad volgt, kun je doorgaan naar het [Ik heb een boek voor je gemaakt](https://projects.raspberrypi.org/nl-NL/projects/i-made-you-a-book) project. In dit project maak je een boek in Scratch op basis van je eigen idee.
 
-Je kunt jouw familie ook laten zien hoe jouw project werkt.
+--- no-print ---
 
-Als je een Scratch-account hebt, kun je je project delen via Scratch. Je kunt een link sturen naar mensen die je kent, en de hele Scratch-gemeenschap zal je project kunnen vinden en uitproberen.
+**Verlicht de weg naar huis**: [Van binnen bekijken](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+</div>
 
-[[[share-scratch]]]
+--- /no-print ---
 
-Waarom nodig je je vrienden niet uit om een project te maken? Laat ze weten hoeveel plezier je hebt gehad.
+--- print-only ---
 
-Als je een Scratch-account hebt en je 'Verrassing! animatie'-project hebt gedeeld, let dan op opmerkingen die anderen over jouw creatie kunnen maken. Terugkoppeling is een geweldige manier om te reflecteren op je werk. Negeer alle opmerkingen die nutteloos of irrelevant zijn.
+![Een 'Ik heb een boek voor je gemaakt'-project.](images/book-cover.png)
 
-[[[comments-feedback-scratch]]]
+--- /print-only ---
 
---- task ---
+Wil je nog meer plezier hebben met het verkennen van Scratch, dan kun je één van [deze projecten](https://projects.raspberrypi.org/nl-NL/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) proberen.
 
-Inspireer de Raspberry Pi Foundation-gemeenschap met jouw project!
 
-Om jouw project in te dienen bij onze ['Verrassing! animatie — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}, vul [dit formulier](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} in.
+***
+Dit project werd vertaald door vrijwilligers:
 
---- /task ---
+Robert-Jan Kempenaar
+Sanneke van der Meer
+Max Schaaper
+Iny van Beuningen
+
+Dankzij vrijwilligers kunnen we mensen over de hele wereld de kans geven om in hun eigen taal te leren. Jij kunt ons helpen meer mensen te bereiken door vrijwillig te starten met vertalen - meer informatie op [rpf.io/translate](https://rpf.io/translate).
