@@ -34,15 +34,15 @@ wait [6] seconds
 
   --- feedback ---
 
- Als de klok 6 seconden heeft gewacht, verschijnt de kleine dinosaurus en verrast de grote dinosaurus!
+ Hier verrast de kleine dinosaurus de grote dinosaurus en wacht dan 6 seconden.
 
   --- /feedback ---
 
 - (x)
 ```blocks3
-wanneer op de groene vlag wordt geklikt
-wacht [6] sec.
-verschijn
+when flag clicked
+wait [6] seconds
+show
 ```
 
   --- feedback ---
