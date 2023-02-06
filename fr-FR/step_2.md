@@ -83,7 +83,7 @@ Pour modifier la taille d'un sprite pour l'ensemble du projet, modifie le nombre
 
 ![](images/sprite-pane-size.png)
 
-Pour modifier la taille d'un sprite pour une partie du projet, ajoute du code pour `mettre à la taille sur`{:class="block3looks"} la taille de ton choix. C'est une bonne oiption si tu veux que ton sprite change de taille dans le projet.
+Pour modifier la taille d'un sprite pour une partie du projet, ajoute du code pour `mettre à la taille sur`{:class="block3looks"} la taille de ton choix. C'est une bonne option si tu veux que ton sprite change de taille dans le projet.
 
 ```blocks3
 set size to [100] % // <100 is smaller, >100 is bigger
