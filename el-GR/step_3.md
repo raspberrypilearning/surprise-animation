@@ -92,7 +92,7 @@ Check that the volume on your computer or tablet is loud enough and that your sp
 
 --- collapse ---
 ---
-title: Η κινούμενη εικόνα μου δεν επανέρχεται σωστά όταν κάνω κλικ στην πράσινη σημαία
+title: My animation does not reset properly when I click on the green flag
 ---
 
 Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
