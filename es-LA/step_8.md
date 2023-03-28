@@ -13,10 +13,10 @@ Si estás siguiendo la ruta [Introducción a Scratch](https://projects.raspberry
 
 --- print-only ---
 
-![An 'I made you a book' project.](images/book-cover.png)
+![Un proyecto de 'Te hice un libro'.](images/book-cover.png)
 
 --- /print-only ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+Si quieres divertirte más explorando Scratch, entonces puedes probar cualquiera de [estos proyectos](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
 
