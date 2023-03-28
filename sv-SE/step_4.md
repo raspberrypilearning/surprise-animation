@@ -1,25 +1,25 @@
-## Add a surprise!
+## Lägg till en överraskning!
 
-Now, you need to add a surprise. What could happen to the object?
-- Will it turn into another object?
-- Will it turn into a character?
-- Will it disappear and reveal another sprite?
+Nu behöver du lägga till en överraskning. Vad skulle kunna hända med föremålet?
+- Kommer det att förvandlas till ett annat föremål?
+- Kommer det att bli en karaktär?
+- Kommer den att försvinna och avslöja en annan sprajt?
 
-You decide! Create the **third part** of your animation.
+Du väljer! Skapa den **tredje delen** av din animering.
 
-![A film strip with 3 frames. The third frame is highlighted. The frame shows a scene with character looking surprised at an object.](images/surprise.png)
+![En filmremsa med 3 bilder. Den tredje bilden är markerad. Bilden visar en scen med en karaktär som tittar förvånat på ett föremål.](images/surprise.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
+Har du skrivit en berättelse med en plottwist eller överraskning? Har du sett en serie eller läst en bok med ett oförutsägbart slut? Du kan använda samma metoder när du skapar en digital berättelse eller animering. 
 </p>
 
-### When will the surprise happen?
+### När kommer överraskningen att hända?
 
 --- task ---
 
-Select the 🎂🎾🎁 **interesting object** sprite. Add a script to make the surprise start when you want it to.
+Välj 🎂🎾🎁 **intressant objekts**sprajten. Lägg till kod som får överraskningen att starta när du vill det.
 
-You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
+Du bör välja en tidsfördröjning som fungerar för ditt projekt. Om du har en karaktär som är nyfiken länge bör du välja en längre fördröjning.
 
 ```blocks3
 when flag clicked
@@ -28,26 +28,26 @@ wait (5) seconds // change the number to create your time delay
 
 --- /task ---
 
-### Now, create the surprise!
+### Skapa nu överraskningen!
 
 --- task ---
 
-The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
+Objektet kan `spela ett ljud`{:class="block3sound"}, `byta klädsel`{:class="block3looks"}, `ändra bildeffekter`{:class="block3looks"} eller `ändra storlek`{:class="block3looks"}.
 
-You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it.
+Du kan skapa en överraskande klädsel för sprajten som den sedan kan `ändra klädsel till`{:class="block3looks"} för att visa.
 
-![A desert background with a rock jiggling back and forth.](images/bat.gif)
+![En ökenbakgrund med en sten som vickar fram och tillbaka.](images/bat.gif)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the 🎂🎾🎁 **interesting object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
+Du kan få sprajten att verka förvandlas till en annan sprajt — för att göra detta, `dölj`{:class="block3looks"} den🎂🎾🎁 **intressanta objekt** sprajten samtidigt som du `visar`{:class= "block3looks"} en annan sprajt.
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title: Dölj och visa sprajter
 ---
 
-The 🎂🎾🎁 **interesting object** sprite:
+Den 🎂🎾🎁 **intressanta objekt**sprajten:
 ```blocks3
 when flag clicked
 show
@@ -55,7 +55,7 @@ wait (5) seconds
 hide
 ```
 
-The 🎷👻⚡**surprise object** sprite:
+🎷👻⚡**överraskningsobjekt**sprajten:
 ```blocks3
 when flag clicked
 hide
@@ -63,7 +63,7 @@ wait (5) seconds
 show
 ```
 
-**Tip:** If you make a 🎷👻⚡**surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Tips:** Om du får 🎷👻⚡**överraskningsobjektet**att `visas`{:class="block3looks"}, måste du `dölja`{:class="block3looks"} den `när den gröna flaggan klickas på`{:class="block3events"}.
 
 --- /collapse ---
 
@@ -71,26 +71,26 @@ show
 
 --- task ---
 
-**Test:** Click on the green flag. Does the surprise happen at the right time? Does the animation reset properly?
+**Test:** Klicka på den gröna flaggan. Händer överraskningen vid rätt tidpunkt? Återställs animeringen ordentligt?
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**Debug (Felsökning):**
 
-If you need a sprite to be in front of or behind another sprite, you can use layers:
+Om du vill att en sprajt ska vara framför eller bakom en annan sprajt kan du använda lager:
 
 [[[scratch3-positioning-with-layers]]]
 
-If the surprise happens at the wrong time, you can fix that:
+Om överraskningen sker vid fel tidpunkt kan du fixa det:
 
 --- collapse ---
 ---
-title: The surprise starts at the wrong time
+title: Överraskningen sker vid fel tidpunkt
 ---
 
-You might need to change the amount of time in some or all of the `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
+Du kan behöva ändra tiden i några eller alla av de `vänta`{:class="block3control"}blocken eller lägga till fler `vänta`{:class="block3control"}block, för att få rätt timing.
 
 --- /collapse ---
 
