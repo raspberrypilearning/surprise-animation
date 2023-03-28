@@ -10,13 +10,13 @@ steps:
   - 
     title: Introducción
   - 
-    title: Create your scene
+    title: Crea tu escena
   - 
-    title: Show curiosity
+    title: Muestra curiosidad
     completion:
       - engaged
   - 
-    title: Add a surprise!
+    title: '¡Añade una sorpresa!'
     completion:
       - internal
   - 
