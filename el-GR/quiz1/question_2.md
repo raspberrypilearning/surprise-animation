@@ -3,7 +3,7 @@
 legend: Ερώτηση 2 από 3
 ---
 
-In your project, you controlled your animation with `wait`{:class="block3control"} blocks.
+Στο έργο σου, έλεγξε την κινούμενη εικόνα σου με μπλοκ `περίμενε`{:class="block3control"}.
 
 Σε αυτό το έργο με τους δεινόσαυρους, ο μικρός δεινόσαυρος θα περιμένει 6 δευτερόλεπτα πριν βγει από το αυγό και τρομάξει τον μεγάλο δεινόσαυρο.
 
@@ -15,13 +15,13 @@ In your project, you controlled your animation with `wait`{:class="block3control
 
 - ( )
 ```blocks3
-when this sprite clicked
-show
+όταν γίνει κλικ σε αυτό το αντικείμενο
+εμφανίσου
 ```
 
   --- feedback ---
 
-This script needs user interaction for the little dinosaur to show.
+Αυτό το script χρειάζεται αλληλεπίδραση από τον χρήστη για να εμφανιστεί ο μικρός δεινόσαυρος.
 
   --- /feedback ---
 
@@ -34,7 +34,7 @@ wait [6] seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
+ Εδώ, ο μικρός δεινόσαυρος τρομάζει τον μεγάλο δεινόσαυρο και στη συνέχεια περιμένει 6 δευτερόλεπτα.
 
   --- /feedback ---
 
@@ -47,7 +47,7 @@ show
 
   --- feedback ---
 
- After 6 seconds, the little dinosaur appears and surprises the big dinosaur!
+ Μετά από 6 δευτερόλεπτα, εμφανίζεται ο μικρός δεινόσαυρος και κάνει έκπληξη στον μεγάλο δεινόσαυρο!
 
   --- /feedback ---
 
