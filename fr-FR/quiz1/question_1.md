@@ -45,7 +45,7 @@ switch costume to [egg-a v]
 
 - ( )
 ```blocks3
-show
+montre-le
 ```
 
   --- feedback ---
