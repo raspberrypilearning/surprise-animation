@@ -1,23 +1,23 @@
-## Add a surprise!
+## ¡Añade una sorpresa!
 
-Now, you need to add a surprise. What could happen to the object?
-- Will it turn into another object?
-- Will it turn into a character?
-- Will it disappear and reveal another sprite?
+Ahora necesitas agregar una sorpresa. ¿Qué podría pasarle al objeto?
+- ¿Se convertirá en otro objeto?
+- ¿Se convertirá en un personaje?
+- ¿Desaparecerá y revelará otro objeto?
 
-You decide! Create the **third part** of your animation.
+¡Tú decides! Crea la **tercera parte** de tu animación.
 
-![A film strip with 3 frames. The third frame is highlighted. The frame shows a scene with character looking surprised at an object.](images/surprise.png)
+![Una tira de película con 3 fotogramas. El tercer cuadro está resaltado. El cuadro muestra una escena con un personaje que mira sorprendido a un objeto.](images/surprise.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
+¿Alguna vez has escrito una historia con un giro de la trama o una sorpresa? ¿Has visto un programa o leído un libro con un final impredecible? Puede utilizar los mismos métodos al crear una historia o animación digital. 
 </p>
 
 ### ¿Cuándo ocurrirá la sorpresa?
 
 --- task ---
 
-Select the 🎂🎾🎁 **interesting object** sprite. Add a script to make the surprise start when you want it to.
+Selecciona el 🎂🎾🎁 **objeto interesante**. Agrega un script para que la sorpresa comience cuando lo desees.
 
 Deberás elegir un tiempo de espera que funcione para tu proyecto. Si tienes un personaje que pasa mucho tiempo siendo curioso, deberás elegir un mayor tiempo de espera.
 
@@ -34,20 +34,20 @@ wait (5) seconds // change the number to create your time delay
 
 El objeto podría `reproducir un sonido`{:class="block3sound"}, `cambiar de disfraz`{:class="block3looks"}, `cambiar de efectos gráficos`{:class="block3looks"} o `cambiar de tamaño`{:class="block3looks"}.
 
-You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it.
+Podrías agregar un disfraz increíble al objeto, luego podría `cambiar de disfraz`{:class="block3looks"} para revelarlo.
 
-![A desert background with a rock jiggling back and forth.](images/bat.gif)
+![Un fondo desértico con una roca sacudiendose de un lado a otro.](images/bat.gif)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the 🎂🎾🎁 **interesting object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
+Puedes hacer que la figura parezca convertirse en otra diferente - para hacerlo, `esconde`{:class="block3looks"} los 🎂🎾🎁 **objeto interesante** al mismo tiempo que `muestra`{:class="block3looks"} otro objeto.
 
 --- collapse ---
 ---
 title: Esconde y muestra objetos
 ---
 
-The 🎂🎾🎁 **interesting object** sprite:
+Los 🎂🎾🎁 **objeto interesante** figura:
 ```blocks3
 when flag clicked
 show
@@ -55,7 +55,7 @@ wait (5) seconds
 hide
 ```
 
-The 🎷👻⚡**surprise object** sprite:
+Los 🎷👻⚡**objeto sorpresa** figura:
 ```blocks3
 when flag clicked
 hide
@@ -71,7 +71,7 @@ show
 
 --- task ---
 
-**Prueba:** Haz clic en la bandera verde. Does the surprise happen at the right time? Does the animation reset properly?
+**Prueba:** Haz clic en la bandera verde. ¿Ocurre la sorpresa en el momento adecuado? ¿La animación se reinicia correctamente?
 
 --- /task ---
 
@@ -79,18 +79,18 @@ show
 
 **Debug:**
 
-If you need a sprite to be in front of or behind another sprite, you can use layers:
+Si necesitas que un objeto esté delante o detrás de otro objeto, puedes utilizar capas:
 
 [[[scratch3-positioning-with-layers]]]
 
-If the surprise happens at the wrong time, you can fix that:
+Si la sorpresa ocurre en el momento equivocado, puedes solucionarlo:
 
 --- collapse ---
 ---
-title: The surprise starts at the wrong time
+título: La sorpresa comienza en el momento equivocado
 ---
 
-You might need to change the amount of time in some or all of the `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
+Es posible que deba cambiar la cantidad de tiempo en algunos o en todos `esperar`{:class="block3control"} los bloques, o agregar más `esperar`{:clase="block3control"} bloques, para obtener el tiempo correcto.
 
 --- /collapse ---
 
