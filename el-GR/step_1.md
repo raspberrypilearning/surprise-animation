@@ -1,14 +1,14 @@
-## You will make
+## Τι θα φτιάξεις
 
-Create a short animation 🎥 with a fun surprise 🎉!
+Θα δημιουργήσεις μια σύντομο κινούμενο σχέδιο 🎥 με μια διασκεδαστική έκπληξη 🎉!
 
 Θα χρειαστεί να:
 
-+ Create your own animation
-+ Test and debug your code
-+ Build your animation one part at a time
++ Δημιουργήσεις το δικό σου κινούμενο σχέδιο
++ Δοκίμασε και διόρθωσε τα σφάλματα στον κώδικά σου
++ Φτιάξε το κινούμενο σχέδιο σου φτιάχνοντας ένα μέρος τη φορά
 
-![Examples of projects.](images/surprise-example.png)
+![Παραδείγματα έργων.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -17,18 +17,18 @@ Create a short animation 🎥 with a fun surprise 🎉!
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Play ▶️ 
+### Παίξε ▶️ 
 
-Click on the green flag to watch the animation.
+Πάτησε στην πράσινη σημαία για να παρακολουθήσεις το κινούμενο σχέδιο.
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+Το κινούμενο σχέδιο έχει τρία μέρη:
++ Περιέργεια
++ Έκπληξη!
++ Αντίδραση
 
 </div>
 <div>
-**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
+**Έκπληξη δεινοσαύρων!**: [Δες μέσα](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -37,25 +37,25 @@ The animation has three parts:
 
 --- /task ---
 
-### Get ideas 💭
+### Βρες ιδέες 💭
 
 --- task ---
 
-Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
+Παίξε με αυτά τα παραδείγματα έργων για να πάρεις ιδέες. Σκέψου ποιο μπορεί να είναι το κινούμενο σχέδιο σου και εξερεύνησε αυτά τα παραδείγματα έργων για να πάρεις περισσότερες ιδέες:
 
-⭐ Share your finished Surprise animation project for a chance of it being featured here.
+⭐ Μοιράσου το ολοκληρωμένο έργο κινουμένων σχεδίων Έκπληξη για να έχεις την ευκαιρία να προβληθεί εδώ.
 
-**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
+**ΜΠΟΥ!**: [Δες μέσα](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
+**Μαγεία Γάτας**: [Δες μέσα](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Jumpscare!**: [See inside](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (featured community project)
+**⭐ Kοψοχολιάζω!**: [Δες μέσα](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (επιλεγμένο έργο κοινότητας)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -66,16 +66,16 @@ Play with these example projects to get ideas. Think about what your animation m
 
 --- print-only ---
 
-### Get ideas 💭
+### Βρες ιδέες 💭
 
 Θα πάρεις σχεδιαστικές αποφάσεις και θα σκεφτείς μια ιστορία για την κινούμενη εικόνα σου με μια έκπληξη. Σκέψου ποια μπορεί να είναι η ιστορία σου και, για να πάρεις περισσότερες ιδέες, **δες μέσα** στα παραδείγματα έργων στο Scratch Studio! 'Surprise! animation — Examples': https://scratch.mit.edu/studios/29075822/
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+Το κινούμενο σχέδιο έχει τρία μέρη:
++ Περιέργεια
++ 'Εκπληξη!
++ Αντίδραση
 
-![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
+![Το έργο «Μπου!».](images/boo.png) ![Το έργο «Μαγεία της Γάτας».](images/cat-magic.png)
 
 --- /print-only ---
 
