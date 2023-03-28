@@ -1,26 +1,26 @@
 ---
-title: Surprise! animation
+title: Överraskning! animering
 hero_image: images/banner.png
-description: Create an animation of a story with a surprise
+description: Skapa en animation av en berättelse med en överraskning
 version: 4
 listed: true
 copyedit: false
 last_tested: '2021-03-09'
 steps:
   - 
-    title: Introduction
+    title: Inledning
   - 
-    title: Create your scene
+    title: Skapa din scen
   - 
-    title: Show curiosity
+    title: Visa nyfikenhet
     completion:
       - engaged
   - 
-    title: Add a surprise!
+    title: Lägg till en överraskning!
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Snabbt quiz
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -29,8 +29,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Uppgradera ditt projekt
   - 
-    title: Share and play
+    title: Dela och spela
   - 
-    title: What next?
+    title: Vad händer nu?
