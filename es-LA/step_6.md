@@ -2,20 +2,20 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Puedes mejorar tu proyecto agregando una reacción. How will your main character react? 
+Puedes mejorar tu proyecto agregando una reacción. ¿Cómo reaccionará tu personaje principal? 
 
-You decide!
+¡Tú decides!
 </div>
 <div>
 
-![The 'Trespasser' project showing the reaction to the surprise.](images/tresspass.png)
+![El proyecto 'Intruso' muestra la reacción a la sorpresa.](images/tresspass.png)
 
 </div>
 </div>
 
 --- task ---
 
-What will they do? Will they say something, make a sound, change costumes, or move?
+¿Qué harán? - ¿Dirá algo, hará un sonido, cambiará de disfraz o se moverá?
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
@@ -33,26 +33,26 @@ What will they do? Will they say something, make a sound, change costumes, or mo
 
 --- task ---
 
-You could also:
-+ Add to or improve your animation, with movement, looks, and graphic effects
-+ Create or edit costumes in the Paint editor to make them look the way that you want
-+ Record your voice or record sound effects and add the new sounds to your project
+También puedes:
++ Añade o mejora tu animación, con movimiento, atuendos y efectos gráficos
++ Crea o edita disfraces en el Editor de dibujo para que se vean como tú quieras
++ Graba tu voz o efectos de sonido y agregalos a tu proyecto
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Professional programmers explore and take inspiration from code created by other programmers. 
+Los programadores profesionales exploran y se inspiran en el código creado por otros programadores. 
 </p>
 
 --- task ---
 
-You can also look at the remixes for the [Surprise animation starter project](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} to see what other creators have made.
+También puedes ver las mezclas del [ proyecto de iniciación en animación Sorpresa ](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} para ver lo que otros creadores han construido.
 
 --- /task ---
 
 --- task ---
 
-Each project in the ['Surprise! animación - Ejemplos de 'Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_ blank"} tiene una opción **Ver dentro**, que puedes usar para abrir el proyecto en el editor de Scratch y mirar el código para obtener ideas y ver cómo funciona.
+Cada proyecto en [ ¡Sorpresa! animación - Ejemplos de 'Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_ blank"} tiene una opción **Ver dentro**, que puedes usar para abrir el proyecto en el editor de Scratch y mirar el código para obtener ideas y ver cómo funciona.
 
 **Doppelganger**: [Ver dentro](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -63,7 +63,7 @@ Each project in the ['Surprise! animación - Ejemplos de 'Scratch studio](https:
 
 --- task ---
 
-Take a look at our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} to see projects created by community members.
+¡Echa un vistazo a nuestra [¡Sorpresa! animación - Comunidad del estudio Scratch ](https://scratch.mit.edu/studios/29079784){:target="_ blank"} para ver proyectos creados por miembros de la comunidad.
 
 --- /task ---
 
