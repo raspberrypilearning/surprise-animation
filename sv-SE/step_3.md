@@ -1,22 +1,22 @@
-## Show curiosity
+## Visa nyfikenhet
 
-Will the object do something to attract attention? How will the character react? You decide! Create the **second part** of your animation.
+Kommer föremålet göra något som drar till sig uppmärksamhet? Hur kommer karaktären reagera? Du väljer! Skapa den **andra delen** av din animering.
 
-![A film strip with 3 frames. The second frame is highlighted. The frame shows a scene with character thinking 'hmmmm' while looking at a curious object.](images/curiosity.png)
+![En filmremsa med 3 bilder. Den andra bilden är markerad. Bilden visar en scene med en karaktär som tänker "hmmmmmm" och kollar på ett underligt föremål.](images/curiosity.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. In this step you will focus only on the curiosity part of your animation.
+  <span style="color: #0faeb0">**Nedbrytning**</span> är att bryta ner ett projekt i delar som är mindre och lättare att förstå. Detta betyder att du kan skapa ditt projekt ett steg i taget tills du är klar med det. I detta steg kommer du endast fokusera på den nyfikna delen av din animering.
 </p>
 
-### The object
+### Föremålet
 
 --- task ---
 
-**Choose:** If you want the 🎂🎾🎁 **interesting object** to do something to attract attention, choose what the object will do.
+**Välj:** Om du vill att det 🎂🎾🎁 **intressanta objektet** ska göra något för att dra till sig uppmärksamhet, välj vad objektet ska göra.
 
-![A desert background with a rock jiggling back and forth.](images/jiggle.gif)
+![En ökenbakgrund med en sten som vickar fram och tillbaka.](images/jiggle.gif)
 
-Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green flag clicked`{:class="block3events"} setup script.
+Lägg till block i slutet av det 🎂🎾🎁 **intressanta objektets** `när gröna flaggan klickas på`{:class="block3events"}startkod.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -24,25 +24,25 @@ Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green f
 
 --- /task ---
 
-### The character
+### Karaktären
 
 --- task ---
 
-Get the 🐙👩‍🦼🦖 **main character** to show interest in the object. Add blocks to the end of the 🐙👩‍🦼🦖 **main character's** setup script.
+Få 🐙👩‍🦼🦖 **huvudkaraktären** att bli intresserad av objektet. Lägg till block i slutet av 🐙👩‍🦼🦖 **huvudkaraktärens**startkoden.
 
-If you need the 🐙👩‍🦼🦖 **main character** to wait until the 🎂🎾🎁 **interesting object** has done something, add a `wait`{:class="block3control"} block.
+Om du vill att 🐙👩‍🦼🦖 **huvudkaraktären** väntar tills det 🎂🎾🎁 **intressanta objektet** har gjort något, lägg till ett `vänta`{:class="block3control"} block.
 
-![A desert background with a rock jiggling back and forth.](images/bear.gif)
+![En ökenbakgrund med en sten som vickar fram och tillbaka.](images/bear.gif)
 
-You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
+Du kan använda `säg`{:class="block3looks"}- eller `tänk`{:class="block3looks"}block, eller till och med`text till tal`{:class="block3extensions"}-tillägg för att få karaktärer att prata högt!
 
 [[[scratch3-text-to-speech]]]
 
-The character could emote, like in the [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project.
+Karaktären skulle kunna gestikulera såsom i [Rymdsamtals](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}projektet.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-The character could be brave and move closer to check out the object.
+Karaktären kan vara modig och flytta närmare föremålet för att undersöka det.
 
 [[[scratch3-animate-movement-costumes]]]
 
@@ -50,16 +50,16 @@ The character could be brave and move closer to check out the object.
 
 --- task ---
 
-**Test:** Click on the green flag to test your project. The 🐙👩‍🦼🦖 **main character** should show curiosity about the object.
+**Test:** Klicka på den gröna flaggan för att testa ditt projekt. 🐙👩‍🦼🦖 **Huvudkaraktären** bör visa nyfikenhet för objektet.
 
-Click on the green flag again. If you changed the 🎂🎾🎁 **interesting object** or 🐙👩‍🦼🦖 **main character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
+Klicka på den gröna flaggan igen. Om du ändrade det 🎂🎾🎁 **intressanta objektets**- eller 🐙👩‍🦼🦖 **huvudkaraktär** sprajtens position eller utseende måste du se till att de återställs till sin startposition eller startutseende när du kör projektet igen.
 
 --- collapse ---
 ---
-title: Set the starting position and looks for a sprite
+title: Ställ in startpositionen och utseendet för en sprajt
 ---
 
-Choose the blocks that you need to set the position and looks for a sprite at the start.
+Välj de block som du behöver för att ställa in positionen och utseendet i början.
 
 ```blocks3
 when flag clicked // add blocks to set up the start 
@@ -71,7 +71,7 @@ set [brightness v] effect to [80]
 show
 ```
 
-**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want the sprite to have.
+**Tips:** Alla bildeffekter tas bort när du klickar på den gröna flaggan så du behöver inte ta bort dem manuellt, men du kanske behöver ställa in de effekter som du vill att sprajten ska ha.
 
 --- /collapse ---
 
@@ -79,23 +79,23 @@ show
 
 --- task ---
 
-**Debug:**
+**Debug (Felsökning):**
 
 --- collapse ---
 ---
-title: The sound is not working
+title: Ljudet fungerar inte
 ---
 
-Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
+Kontrollera att volymen på din dator eller surfplatta är tillräckligt hög och att dina högtalare eller hörlurar är anslutna och fungerar som de ska.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My animation does not reset properly when I click on the green flag
+title: Min animation återställs inte ordentligt när jag klickar på den gröna flaggan
 ---
 
-Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
+Kontrollera att ditt projekt har `när grön flagga klickas på`{:class="block3events"}-block för de sprajter som behöver dem, och kontrollera att de återställer position, storlek och utseende för sprajterna. För hjälp med detta, se **Ställ in startpositionen och leta efter en sprajt** -uppgiften ovan.
 
 --- /collapse ---
 
