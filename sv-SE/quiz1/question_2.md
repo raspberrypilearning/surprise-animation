@@ -1,27 +1,27 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Fråga 2 av 3
 ---
 
-In your project, you controlled your animation with `wait`{:class="block3control"} blocks.
+Du kontrollerar din animering med `vänta`{:class="block3control"}block i projektet.
 
-In this dinosaur project, you want the little dinosaur to wait 6 seconds before it pops out of the egg and surprises the big dinosaur.
+I det här dinosaurieprojektet vill du att den lilla dinosaurien ska vänta 6 sekunder innan den dyker upp ur ägget och överraskar den stora dinosaurien.
 
-![A dinosaur sprite and an egg sprite on the Stage.](images/quiz-q2.png)
+![En dinosauriesprajt och en äggsprajt på scenen.](images/quiz-q2.png)
 
-Which script for the **little dinosaur** sprite would make this happen?
+Vilket kod för den **lilla dinosaurie**sprajten skulle få detta att hända?
 
 --- choices ---
 
 - ( )
 ```blocks3
-when this sprite clicked
-show
+när denna sprajt klickas
+visa
 ```
 
   --- feedback ---
 
-This script needs user interaction for the little dinosaur to show.
+Denna kod behöver användarinteraktion för att den lilla dinosaurien ska visas.
 
   --- /feedback ---
 
@@ -34,7 +34,7 @@ wait [6] seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
+ Här överraskar den lilla dinosaurien den stora dinosaurien och väntar sedan i 6 sekunder.
 
   --- /feedback ---
 
@@ -47,7 +47,7 @@ show
 
   --- feedback ---
 
- After 6 seconds, the little dinosaur appears and surprises the big dinosaur!
+ Efter 6 sekunder dyker den lilla dinosaurien upp och överraskar den stora dinosaurien!
 
   --- /feedback ---
 
