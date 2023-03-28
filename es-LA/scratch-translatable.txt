@@ -12,24 +12,24 @@ tamaño inicial
 
 posición inicial
 
-change the number to create your time delay
+cambie el número para crear su retraso de tiempo
 
-setup
+configuración
 
-curiosity
+curiosidad
 
-reaction
+reacción
 
-reset
+reiniciar
 
-surprise
+sorpresa
 
-Hmm...
+Mmm...
 
-BOO!
+¡Buu!
 
-What ever is this?
+¿Qué es esto?
 
-Kitty, have you been messing with my potions again?
+Gatito, ¿has estado jugando con mis pociones otra vez?
 
-Cat gotta haz milk.
+Gatito debe tomar leche.
