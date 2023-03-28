@@ -1,35 +1,35 @@
-add the sprite's position
+lägg till sprajtens position
 
-<100 is smaller, >100 is bigger
+<100 är mindre, >100 är större
 
-update this for your chosen costume
+uppdatera detta för din valda klädsel
 
-turn to the left
+sväng vänster
 
-add blocks to set up the start
+lägg till block för att ställa in starten
 
-starting size
+startstorlek
 
-starting position
+startposition
 
-change the number to create your time delay
+ändra talet för att skapa din tidsfördröjning
 
-setup
+förberedelse
 
-curiosity
+nyfikenhet
 
-reaction
+reaktion
 
-reset
+återställ
 
-surprise
+överraskning
 
 Hmm...
 
 BOO!
 
-What ever is this?
+Vad är det här?
 
-Kitty, have you been messing with my potions again?
+Kitty, har du mixtrat med mina trolldrycker igen?
 
-Cat gotta haz milk.
+Katt måste få mjölk.
