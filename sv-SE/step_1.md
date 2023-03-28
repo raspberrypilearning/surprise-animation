@@ -1,14 +1,14 @@
-## You will make
+## Du kommer skapa
 
-Create a short animation 🎥 with a fun surprise 🎉!
+Skapa en kort animering 🎥 med en rolig överraskning 🎉!
 
-You will:
+Du kommer:
 
-+ Create your own animation
-+ Test and debug your code
-+ Build your animation one part at a time
++ Skapa din egen animering
++ Testa och hitta felen i din kod
++ Skapa din animering ett steg åt gången
 
-![Examples of projects.](images/surprise-example.png)
+![Exempel på projekt.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -17,18 +17,18 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Play ▶️ 
+### Spela ▶️ 
 
-Click on the green flag to watch the animation.
+Klicka på den gröna flaggan för att se animeringen.
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+Animeringen har tre delar:
++ Nyfikenhet
++ Överraskning!
++ Reaktion
 
 </div>
 <div>
-**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
+**Dinosaurieöverraskning!**: [Se inuti](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -37,25 +37,25 @@ The animation has three parts:
 
 --- /task ---
 
-### Get ideas 💭
+### Få idéer 💭
 
 --- task ---
 
-Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
+Lek med dessa exempelprojekt för att få inspiration. Fundera på hur din animering skulle kunna se ut och kolla på dessa exempelprojekt för att få fler idéer:
 
-⭐ Share your finished Surprise animation project for a chance of it being featured here.
+⭐ Dela ditt färdiga Överrasknings animeringsprojekt för en chans att få det visat här.
 
-**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
+**BOO!**: [Se inuti](https://scratch.mit.edu/projects/498655116/editor){:target="_blank">
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
+**Katmagi**: [Se inuti](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Jumpscare!**: [See inside](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (featured community project)
+**⭐ Jumpscare!**: [Se inuti](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (utvalt community-projekt)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -66,16 +66,16 @@ Play with these example projects to get ideas. Think about what your animation m
 
 --- print-only ---
 
-### Get ideas 💭
+### Få idéer 💭
 
-You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
+Du kommer fatta designbeslut och komma på en berättelse för din animering med en överraskning. Fundera på vad din berättelse skulle kunna vara och **Se inuti** exempelprojekt för att få fler idéer om "Överraskning! animeringen -- Exempel" Scratch studio: https://scratch.mit.edu/studios/29075822/
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+Animeringen har tre delar:
++ Nyfikenhet
++ Överraskning!
++ Reaktion
 
-![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
+!["BOO!"-projektet.](images/boo.png) !["Katmagi"-projektet.](images/cat-magic.png)
 
 --- /print-only ---
 
