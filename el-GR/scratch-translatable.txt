@@ -12,24 +12,24 @@
 
 θέση εκκίνησης
 
-change the number to create your time delay
+άλλαξε τον αριθμό για να δημιουργήσεις τη χρονική σου καθυστέρηση
 
-setup
+προετοιμασία
 
-curiosity
+περιέργεια
 
-reaction
+αντίδραση
 
-reset
+επαναφορά
 
-surprise
+έκπληξη
 
-Hmm...
+Χμμ...
 
-BOO!
+Μπου!
 
-What ever is this?
+Τι είναι αυτό άραγε;
 
-Kitty, have you been messing with my potions again?
+Kitty, έμπλεξες τα μαγικά μου φίλτρα;
 
-Cat gotta haz milk.
+Η γάτα πρέπει να έχει γάλα.
