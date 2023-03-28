@@ -1,89 +1,89 @@
-## Create your scene
+## Skapa din scen
 
-Have you got an idea about your animation?
+Har du någon idé för din animering?
 
-Add a backdrop 🖼️, main character 🐙👩‍🦼🦖, and interesting object 🎂🎾🎁 of your choice to create the **first part** of your animation.
+Lägg till en bakgrund 🖼️, huvudkaraktär 🐙👩‍🦼🦖 och ett intressant objekt 🎂🎾🎁 som du väljer för att skapa en **första del** av din animering.
 
-![A film strip with 3 frames. The first frame is highlighted. The frame shows a scene with character, object, and background.](images/scene.png)
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Animation**</span> creates the effect of movement by changing pictures quickly. The first animators carved pictures out of wooden blocks and used them as stamps. It is much faster to use Scratch to code your animation!
-</p>
-
-### Open the starter project
-
---- task ---
-
-Open the [Surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"}.
-
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29075822){:target="_blank"}.
-
---- /task ---
+![En filmremsa med 3 bildrutor. Den första bildrutan är markerad. Bildrutan visar en scen med en karaktär, ett objekt och en bakgrund.](images/scene.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-There are people called <span style="color: #0faeb0">**narrative designers**</span> who do storytelling for apps and video games. Digital storytelling allows everyone to share their stories and creative imaginings with other people.
+  <span style="color: #0faeb0">**Animering**</span> kan se ut som rörelse genom att byta bilder snabbt. De första animatörerna ristade bilder i träblock och använde dem som frimärken. Det går mycket snabbare att använda Scratch för att koda din animation!
 </p>
 
-### Design your scene
+### Öppna startprojektet
 
 --- task ---
 
-**Choose:** a theme for your animation. You could choose:
+Öppna [Överaskningen! animeringsstartprojekt](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"}.
 
-+ 🐯 Land Animals
-+ 🐠 Sea animals
-+ 👽 Aliens
-+ 🌿 Nature
-+ 🌈 Weather
-+ 🌮 Food
-+ 🚀 Travel
-+ ⚾ Sport .... Or something else
+⏱️ Inte mycket tid? Du kan utgå från ett av [exemplen](https://scratch.mit.edu/studios/29075822){:target="_blank"}.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Det finns <span style="color: #0faeb0">**berättelsedesigners**</span> som skriver handlingen för appar och spel. Digitalt berättande låter alla dela sina berättelser och kreativa föreställningar med andra människor.
+</p>
+
+### Skapa din scen
+
+--- task ---
+
+**Välj:** ett tema för din animering. Du kan välja:
+
++ 🐯 Landdjur
++ 🐠 Havsdjur
++ 👽 Utomjordingar
++ 🌿 Natur
++ 🌈 Väder
++ 🌮 Mat
++ 🚀 Resor
++ ⚾ Sport .... Eller något annat
 
 --- /task ---
 
 --- task ---
 
-**Choose:** Choose a sprite to be the 🐙👩‍🦼🦖 **main character**, another sprite to be the 🎂🎾🎁 **interesting object** and a 🖼️ **backdrop** to set the scene.
+**Välj:** Välj en sprajt som 🐙👩‍🦼🦖 **huvudkaraktär**, en annan sprajt som det 🎂🎾🎁 **intressanta objektet** och en 🖼️ **bakgrund** för att skapa scenen.
 
-![Two Choose a Sprite icons and a Choose a Backdrop icon.](images/sprites-and-backdrop.png)
+![Två Välj en Sprajtikon och en Välj en bakgrundsikon.](images/sprites-and-backdrop.png)
 
 --- /task ---
 
-### Prepare your sprites
+### Förbered dina sprajter
 
-Where do you want your sprites to start? How big do you want them to be? How do you want them to look?
+Var vill du att dina sprajter ska börja? Hur stora vill du att de ska vara? Hur vill du att de ska se ut?
 
 --- task ---
 
-Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation.
+Lägg till ett`när den gröna flaggan klickas på`{:class="block3events"}block och lägg sedan till block under för att ställa in dina sprajter i början av din animering.
 
-**Tip:** Remember to set up both your 🐙👩‍🦼🦖 **main character** and your 🎂🎾🎁 **interesting object** sprites.
+**Tips:** Kom ihåg att ställa in både din 🐙👩‍🦼🦖 **huvudkaraktär** och dina 🎂🎾🎁 **intressanta objekt** sprajter.
 
 --- collapse ---
 ---
-title: Position your sprites
+title: Placera dina sprajter
 ---
 
-Move the 🐙👩‍🦼🦖 **main character** to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
+Flytta 🐙👩‍🦼🦖 **huvudkaraktären** till en valfri plats på scenen, lägg sedan till ett `gå till x: y:`{:class="block3motion"}-block till din kod:
 
 ```blocks3
 go to x: (0) y: (0) // add the sprite's position
 ```
 
-Repeat this task for the 🎂🎾🎁 **interesting object**.
+Upprepa detta för det 🎂🎾🎁 **intressanta objektet**.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Resize your sprites
+title: Ändra storlek på dina sprajter
 ---
 
-To change the size of a sprite for the whole project, change the number in the **Size** property in the Sprite pane:
+För att ändra storleken på en sprajt för hela projektet, ändra numret i egenskapen **Storlek** sprajtrutan:
 
 ![](images/sprite-pane-size.png)
 
-To change the size of a sprite for part of the project, add code to `set size to`{:class="block3looks"} the size of your choice. This option is good if you want your sprite to change size in the project.
+För att ändra storleken på en sprajt under en del av projektet, använd`sätt storlek till`{:class="block3looks"}blocket. Detta alternativ är bra om du vill att din sprajt ska ändra storlek i projektet.
 
 ```blocks3
 set size to [100] % // <100 is smaller, >100 is bigger
@@ -93,20 +93,20 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: Set the costumes of your sprites
+title: Ställ in dina sprajters klädslar
 ---
 
-To change the costume of a sprite for the whole project, click on the **Costumes** tab and select one of the available costumes:
+För att ändra klädseln på en sprajt under hela projektet, klicka på fliken **klädslar** och välj en av de tillgängliga klädslarna:
 
-![The Costumes tab, with the available costumes for a sprite.](images/nano-costumes.png)
+![Klädsel fliken med de tillgängliga klädslarna för sprajten.](images/nano-costumes.png)
 
-To change the costume of a sprite for part of the project, add a `switch costume to`{:class="block3looks"} block to your code and update it to show the costume of your choice:
+För att ändra klädseln på en sprajt under projektets gång, lägg till ett `ändra klädsel till`{:class="block3looks"}-block till din kod och uppdatera den för att visa ditt val av klädsel:
 
 ```blocks3
 switch costume to [ v]  // update this for your chosen costume
 ```
 
-To hide a sprite at the start of the project, add a `hide`{:class="block3looks"} block to your code:
+För att dölja en sprajt i början av projektet, lägg till ett `dölj`{:class="block3looks"}block till din kod:
 
 ```blocks3
 hide 
@@ -116,16 +116,16 @@ hide
 
 --- collapse ---
 ---
-title: Set the direction of your sprites
+title: Ställ in riktningen för dina sprajter
 ---
 
-Your sprites might be facing the wrong way when you add them to your project.
+Dina sprajter kan vara vända åt fel håll när du lägger till dem i ditt projekt.
 
-To change the direction of a sprite for the whole project, change the **Direction** and **rotation style** in the Sprite pane:
+För att ändra riktning på en sprajt för hela projektet, ändra **riktning** och **rotationsstil** i sprajtrutan:
 
-![The Direction and rotation style menu in the Sprite pane.](images/sprite-pane-direction.png)
+![Rikings- och rotationsstilmenyn i sprajtlistan.](images/sprite-pane-direction.png)
 
-To change the direction of a sprite for part of the project, add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}:
+För att ändra riktning av en sprajt under en del av projektet, lägg till block som ändrar `rotationsstil`{:class="block3motion"} och `riktning`{:class="block3motion"}:
 
 ```blocks3
 set rotation style [left-right v]
@@ -138,7 +138,7 @@ point in direction (-90) // turn to the left
 
 --- task ---
 
-Save your project.
+Spara ditt projekt.
 
 [[[generic-scratch3-saving]]]
 
