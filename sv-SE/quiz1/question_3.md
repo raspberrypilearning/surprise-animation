@@ -1,51 +1,51 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Fråga 3 av 3
 ---
 
-You created your animation by breaking it into parts and building it in the order in which it runs.
+Du skapade din animering genom att dela upp den i delar och sen bygga den i den ordning den körs.
 
-Which order represents the animation that you made?
+Vilken ordning representerar animeringen du skapade?
 
 --- choices ---
 
 - ( )
-+ Curiosity
++ Nyfikenhet
 
-+ Setup
++ Förberedelse
 
-+ Surprise!
++ Överraskning!
 
   --- feedback ---
 
- The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
+ Förberedelse delen återställer din animering. Den måste komma först så att din animering kan köras igen på samma sätt.
 
   --- /feedback ---
 
 - (x)
-+ Setup
++ Förberedelse
 
-+ Curiosity
++ Nyfikenhet
 
-+ Surprise!
++ Överraskning!
 
 
   --- feedback ---
 
- Yes! You set up your sprites first, then created curiosity then ended with a surprise.
+ Ja! Först förberedde du dina sprajter, sen väckte du intresse och avslutade med en överraskning.
 
   --- /feedback ---
 
 - ( )
-+ Setup
++ Förberedelse
 
-+ Surprise!
++ Överraskning!
 
-+ Curiosity
++ Nyfikenhet
 
   --- feedback ---
 
- Curiosity was not at the end of the animation. Something came afterwards.
+ Nyfikenhet var inte i slutet av animeringen. Det kom något efteråt.
 
   --- /feedback ---
 
