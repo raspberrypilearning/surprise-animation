@@ -1,23 +1,23 @@
-## Quick quiz
+## Snabbt quiz
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Svara på de tre frågorna. Det finns ledtrådar för att hjälpa dig på vägen till svaret.
 
-When you have answered each question, click on **Check my answer**.
+Tryck på **Kolla mitt svar** när du har svarat på alla frågor.
 
-Have fun!
+Ha det så kul!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Fråga 1 av 3
 ---
 
-In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
+Du skapade en animering med en överraskning i ditt projekt. Klicka på den gröna flaggan för att köra animeringen nedan och kör den sen igen.
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Did you notice anything odd the second time? The surprise was ruined! What code block would you add to make the surprise work?
+Märkte du något konstigt den andra gången? Överraskningen var förstörd! Vilket kodblock skulle du lägga till för att få överraskningen att fungera?
 
 --- choices ---
 
@@ -28,7 +28,7 @@ set size to (150) %
 
   --- feedback ---
 
- The **egg** sprite is the correct size when you run the program again.
+ **ägg**sprajten har rätt storlek när du kör programmet igen.
 
   --- /feedback ---
 
@@ -39,18 +39,18 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Yes. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
+ Ja. Du måste få sprajten att byta till rätt klädsel (**ägg-a**) när projektet startar.
 
   --- /feedback ---
 
 - ( )
 ```blocks3
-show
+visa
 ```
 
   --- feedback ---
 
- You often need to remember to make a sprite show when the green flag is clicked, but in the project in the question, the **egg** sprite does show.
+ Du behöver ofta komma ihåg att visa sprajter när den gröna flaggan klickas, men i detta projekt visas **ägg** sprajten direkt.
 
   --- /feedback ---
 
@@ -61,7 +61,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- The **egg** sprite does go to the correct starting position on the Stage.
+ **ägg**sprajten går till rätt startposition på scenen.
 
   --- /feedback ---
 
