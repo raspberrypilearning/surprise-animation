@@ -2,23 +2,23 @@
 
 Si estás en un club, ¿por qué no compartes tu proyecto con tus amigos y compañeros?
 
-You could also show your family how your project works.
+También podrías mostrarle a tu familia cómo funciona tu proyecto.
 
 Si tienes una cuenta de Scratch, puedes compartir tu proyecto a través de Scratch. Puedes enviar un enlace a las personas que conoces y toda la comunidad de Scratch podrá encontrar tu proyecto y probarlo.
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+¿Por qué no invitas a tus amigos a crear un proyecto? Déjales saber cuánto te divertiste.
 
-Si tienes una cuenta de Scratch y has compartido tu '¡Sorpresa! animation' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+Si tienes una cuenta de Scratch y has compartido tu '¡Sorpresa! proyecto de animación, mantente atento a los comentarios que otros puedan hacer sobre tu creación. La retroalimentación es una excelente manera de reflexionar sobre tu trabajo. Ignora cualquier comentario que no sea de ayuda o irrelevante.
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire the Raspberry Pi Foundation community with your project!
+¡Inspira a la comunidad de la Fundación Raspberry Pi con tu proyecto!
 
-To submit your project to our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Para enviar tu proyecto a nuestro [ ¡Sorpresa! animación - La comunidad de Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_ blank"}, por favor completa [este formulario](https://form.raspberrypi.org/f/community-project-submissions){:target="_ blank"}.
 
 --- /task ---
 
@@ -26,7 +26,7 @@ To submit your project to our ['Surprise! animation — Community' Scratch studi
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
+Echa un vistazo a estos fabulosos proyectos de la comunidad de nuestra [ ¡Sorpresa! animación — Estudio Scratch de la comunidad](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
 
 **Huevos sorpresa**: [Ver dentro](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -41,7 +41,7 @@ Take a look at these fabulous community projects from our ['Surprise! animation 
 
 --- task ---
 
-You can also look at the remixes for the [Surprise animation starter project](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} to see what other creators have made.
+También puedes ver las mezclas del [ proyecto de iniciación Sorpresa ](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} para ver lo que otros creadores han construido.
 
 --- /task ---
 
