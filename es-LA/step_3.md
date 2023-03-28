@@ -1,11 +1,11 @@
-## Show curiosity
+## Demuestra curiosidad
 
-Will the object do something to attract attention? How will the character react? You decide! Create the **second part** of your animation.
+¿El objeto hará algo para llamar la atención? ¿Cómo reaccionará el personaje? ¡Tú decides! Crea la **segunda parte** de tu animación.
 
-![A film strip with 3 frames. The second frame is highlighted. The frame shows a scene with character thinking 'hmmmm' while looking at a curious object.](images/curiosity.png)
+![Una tira de película con 3 fotogramas. El segundo cuadro está resaltado. El cuadro muestra una escena con el personaje pensando 'mmmm' mientras mira un objeto curioso.](images/curiosity.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. In this step you will focus only on the curiosity part of your animation.
+  <span style="color: #0faeb0">**Descomposición**</span> es dividir un proyecto en partes más pequeñas y más fáciles de entender. Esto significa que puedes construir un proyecto una parte a la vez hasta que lo hayas completado. En este paso, te concentrarás solo en la curiosidad de tu animación.
 </p>
 
 ### El objeto
@@ -14,9 +14,9 @@ Will the object do something to attract attention? How will the character react?
 
 **Elige:** Si deseas que el objeto haga algo, elige lo que hará.
 
-![A desert background with a rock jiggling back and forth.](images/jiggle.gif)
+![Un fondo desértico con una roca sacudiendose de un lado a otro.](images/jiggle.gif)
 
-Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green flag clicked`{:class="block3events"} setup script.
+Agrega bloques al final del 🎂🎾🎁 **objeto interesante** `cuando la bandera verde hizo clic en`{:class="block3events"} la configuración del script.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -28,21 +28,21 @@ Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green f
 
 --- task ---
 
-Get the 🐙👩‍🦼🦖 **main character** to show interest in the object. Add blocks to the end of the 🐙👩‍🦼🦖 **main character's** setup script.
+Haz que el 🐙👩‍🦼🦖 **personaje principal ** muestre interés en el objeto. Agrega bloques al final del script de configuración del 🐙👩‍🦼🦖 **personaje principal**.
 
-If you need the 🐙👩‍🦼🦖 **main character** to wait until the 🎂🎾🎁 **interesting object** has done something, add a `wait`{:class="block3control"} block.
+Si necesitas que el 🐙👩‍🦼🦖 **personaje principal** espere hasta que el 🎂🎾🎁 **objeto interesante** haya hecho algo, agregue un bloque `wait`{:class="block3control"}.
 
-![A desert background with a rock jiggling back and forth.](images/bear.gif)
+![Un fondo desértico con una roca sacudiendose de un lado a otro.](images/bear.gif)
 
-You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
+Puedes usar bloques `decir`{:class="block3looks"} o `pensar`{:class="block3looks"}, o incluso usar la extensión `Texto a Voz`{:class="block3extensions"} ¡para hacerlo hablar!
 
 [[[scratch3-text-to-speech]]]
 
-The character could emote, like in the [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project.
+El personaje podría emocionarse, como en el proyecto [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-The character could be brave and move closer to check out the object.
+El personaje podría ser valiente y acercarse a ver el objeto.
 
 [[[scratch3-animate-movement-costumes]]]
 
@@ -50,9 +50,9 @@ The character could be brave and move closer to check out the object.
 
 --- task ---
 
-**Prueba:** Haz clic en la bandera verde para probar tu proyecto. The 🐙👩‍🦼🦖 **main character** should show curiosity about the object.
+**Prueba:** Haz clic en la bandera verde para probar tu proyecto. El 🐙👩‍🦼🦖 **personaje principal** debe mostrar curiosidad por el objeto.
 
-Click on the green flag again. If you changed the 🎂🎾🎁 **interesting object** or 🐙👩‍🦼🦖 **main character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
+Vuelve a hacer clic en la bandera verde. Si cambiaste la posición o el aspecto del 🎂🎾🎁 **objeto interesante** o del 🐙👩‍🦼🦖 **personaje principal**, tendrás que asegurarte de que vuelva a su posición o aspecto inicial cuando ejecutes el proyecto de nuevo.
 
 --- collapse ---
 ---
@@ -86,7 +86,7 @@ show
 título: El sonido no funciona
 ---
 
-Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
+Verifica que el volumen de tu computadora o tableta sea lo suficientemente alto y que tus parlantes o audífonos estén conectados y funcionando correctamente.
 
 --- /collapse ---
 
@@ -95,7 +95,7 @@ Check that the volume on your computer or tablet is loud enough and that your sp
 título: Mi animación no se restablece correctamente cuando hago clic en la bandera verde
 ---
 
-Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
+Verifica que tu proyecto tenga scripts `al presionar la bandera verde ⚑`{:class="block3events"} para los objetos que los necesitan, y verifica que restablezcan la posición, tamaño y apariencia de estos. Para obtener ayuda sobre esto, consulta la tarea de arriba **Establece la posición inicial y apariencia del objeto**.
 
 --- /collapse ---
 
