@@ -1,14 +1,14 @@
 ## Lo que harás
 
-Create a short animation 🎥 with a fun surprise 🎉!
+¡Crea una animación corta 🎥 con una sorpresa 🎉!
 
 Vas a:
 
-+ Create your own animation
-+ Test and debug your code
-+ Build your animation one part at a time
++ Crea tu propia animación
++ Prueba y depura tu código
++ Crea tu animación de parte en parte
 
-![Examples of projects.](images/surprise-example.png)
+![Ejemplos de proyectos.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -21,10 +21,10 @@ Vas a:
 
 Haz clic en la bandera verde para ver la animación.
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+La animación tiene cuatro partes:
++ Curiosidad
++ ¡Sorpresa!
++ Reacción
 
 </div>
 <div>
@@ -70,12 +70,12 @@ Explora estos proyectos de ejemplo para obtener más ideas. Piensa en cuál podr
 
 Tomarás decisiones de diseño y pensarás en una historia para tu animación con una sorpresa. Piensa en cuál podría ser tu historia, y explora estos proyectos de ejemplo para obtener más ideas, **Ver dentro** proyectos de ejemplo en '¡Sorpresa! animación - Ejemplos del Estudio Scratch: https://scratch.mit.edu/studios/29075822/
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+La animación tiene cuatro partes:
++ Curiosidad
++ ¡Sorpresa!
++ Reacción
 
-![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
+![El proyecto '¡BOO!'.](images/boo.png) ![El proyecto 'Magia de gato'.](images/cat-magic.png)
 
 --- /print-only ---
 
