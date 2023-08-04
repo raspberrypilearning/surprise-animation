@@ -16,26 +16,9 @@ Creaste tu animación dividiéndola en partes y construyéndola en el orden en q
 
 + ¡Sorpresa!
 
-+ Reacción
-
   --- feedback ---
 
  La parte 'configuración' reinicia tu animación. Tiene que estar primero para que tu animación se pueda ejecutar nuevamente de la misma manera.
-
-  --- /feedback ---
-
-- ( )
-+ Reacción
-
-+ ¡Sorpresa!
-
-+ Curiosidad
-
-+ Configuración
-
-  --- feedback ---
-
- Piensa en lo que hiciste primero. La reacción viene después.
 
   --- /feedback ---
 
@@ -46,26 +29,23 @@ Creaste tu animación dividiéndola en partes y construyéndola en el orden en q
 
 + ¡Sorpresa!
 
-+ Reacción
 
   --- feedback ---
 
- ¡Sí! Primero configuraste tus objetos, luego tu historia se desarrolla hasta tener una reacción final.
+ ¡Sí! Primero configuraste tus objetos, después creaste curiosidad y al final terminaste con una sorpresa.
 
   --- /feedback ---
 
 - ( )
 + Configuración
 
-+ Curiosidad
-
-+ Reacción
-
 + ¡Sorpresa!
+
++ Curiosidad
 
   --- feedback ---
 
- La sorpresa no ocurrió al final de la animación. Algo vino después.
+ La curiosidad no estaba al final de la animación. Algo vino después.
 
   --- /feedback ---
 

@@ -15,20 +15,8 @@ En este proyecto de dinosaurios, quieres que el dinosaurio pequeño espere 6 seg
 
 - ( )
 ```blocks3
-when [loudness v] > (6)
-show
-```
-
-  --- feedback ---
-
- Estos son los bloques correctos para usar, pero debes seleccionar `cronómetro`{:class="block3events"} en lugar de `volumen del sonido`{:class="block3events"} en el menú desplegable.
-
-  --- /feedback ---
-
-- ( )
-```blocks3
-when this sprite clicked
-show
+al hacer clic en este objeto 
+muestra
 ```
 
   --- feedback ---
@@ -41,7 +29,7 @@ Este script necesita interacción del usuario para que se muestre el dinosaurio 
 ```blocks3
 when flag clicked
 show
-wait (6) seconds
+wait [6] seconds
 ```
 
   --- feedback ---
@@ -52,7 +40,8 @@ wait (6) seconds
 
 - (x)
 ```blocks3
-when [timer v] > (6)
+when flag clicked
+wait [6] seconds
 show
 ```
 

@@ -1,23 +1,31 @@
-## Comparte
+## ¿Qué sigue?
 
-Si estás en un club, ¿por qué no compartes tu proyecto con tus amigos y compañeros?
+Si estás siguiendo la ruta [Introducción a Scratch](https://projects.raspberrypi.org/es-LA/pathway/scratch-intro), puedes pasar al proyecto [Te hice un libro](https://projects.raspberrypi.org/es-LA/projects/i-made-you-a-book). En este proyecto, harás un libro en Scratch basado en tus propias ideas.
 
-También podrías mostrarle a tu familia cómo funciona tu proyecto.
+--- no-print ---
 
-Si tienes una cuenta de Scratch, puedes compartir tu proyecto a través de Scratch. Puedes enviar un enlace a las personas que conoces y toda la comunidad de Scratch podrá encontrar tu proyecto y probarlo.
+**Ilumina el camino a casa**: [Ver dentro](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+</div>
 
-[[[share-scratch]]]
+--- /no-print ---
 
-¿Por qué no invitas a tus amigos a crear un proyecto? Déjales saber cuánto te divertiste.
+--- print-only ---
 
-Si tienes una cuenta de Scratch y has compartido tu '¡Sorpresa! animación', mantente atento a los comentarios que otros puedan hacer sobre tu creación. La retroalimentación es una excelente manera de reflexionar sobre tu trabajo. Ignora cualquier comentario que sea inútil o irrelevante.
+![Un proyecto de 'Te hice un libro'.](images/book-cover.png)
 
-[[[comments-feedback-scratch]]]
+--- /print-only ---
 
---- task ---
+Si quieres divertirte más explorando Scratch, entonces puedes probar cualquiera de [estos proyectos](https://projects.raspberrypi.org/es-LA/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
-¡Inspira a la comunidad de la Fundación Raspberry Pi con tu proyecto!
+***
+Este proyecto fue traducido por voluntarios:
 
-Para enviar tu proyecto a nuestro ['¡Sorpresa! animación - Comunidad' de Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}, por favor completa [este formulario](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Verónica VL
+Marina Muñoz
+Ana Luisa Cubas Córdova
+Reymar Kingsea
 
---- /task ---
+
+Gracias a los voluntarios, podemos dar a las personas de todo el mundo la oportunidad de aprender en su propio idioma. Puedes ayudarnos a llegar a más personas ofreciéndote como voluntario para traducir. Más información en [rpf.io/translate](https://rpf.io/translate).

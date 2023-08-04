@@ -1,20 +1,13 @@
-## Sorpresa
+## ¡Añade una sorpresa!
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Ahora necesitas agregar una sorpresa. ¿Qué podría pasar con el objeto? 
-- ¿Se convertirá en otro objeto? 
-- ¿Se convertirá en un personaje? 
-- ¿Desaparecerá y revelará otro objeto? 
+Ahora necesitas agregar una sorpresa. ¿Qué podría pasarle al objeto?
+- ¿Se convertirá en otro objeto?
+- ¿Se convertirá en un personaje?
+- ¿Desaparecerá y revelará otro objeto?
 
-¡Tú decides!
-</div>
-<div>
+¡Tú decides! Crea la **tercera parte** de tu animación.
 
-![El proyecto 'Magia de gato' mostrando la sorpresa.](images/cat-magic.png)
-
-</div>
-</div>
+![Una tira de película con 3 fotogramas. El tercer cuadro está resaltado. El cuadro muestra una escena con un personaje que mira sorprendido a un objeto.](images/surprise.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 ¿Alguna vez has escrito una historia con un giro de la trama o una sorpresa? ¿Has visto un programa o leído un libro con un final impredecible? Puede utilizar los mismos métodos al crear una historia o animación digital. 
@@ -24,11 +17,14 @@ Ahora necesitas agregar una sorpresa. ¿Qué podría pasar con el objeto?
 
 --- task ---
 
-Selecciona el objeto del **objeto**. Agrega un script para que la sorpresa comience cuando lo desees.
+Selecciona el 🎂🎾🎁 **objeto interesante**. Agrega un script para que la sorpresa comience cuando lo desees.
 
 Deberás elegir un tiempo de espera que funcione para tu proyecto. Si tienes un personaje que pasa mucho tiempo siendo curioso, deberás elegir un mayor tiempo de espera.
 
-[[[scratch3-time-delay]]]
+```blocks3
+when flag clicked
+wait (5) seconds // cambie el número para crear su retraso de tiempo
+```
 
 --- /task ---
 
@@ -38,7 +34,9 @@ Deberás elegir un tiempo de espera que funcione para tu proyecto. Si tienes un 
 
 El objeto podría `reproducir un sonido`{:class="block3sound"}, `cambiar de disfraz`{:class="block3looks"}, `cambiar de efectos gráficos`{:class="block3looks"} o `cambiar de tamaño`{:class="block3looks"}.
 
-Podrías agregar un disfraz increíble al objeto, luego el objeto podría `cambiar de disfraz`{:class="block3looks"} para revelarlo. Por ejemplo, podrías hacer que una **Manzana** se convierta en un **Fantasma**.
+Podrías agregar un disfraz increíble al objeto, luego podría `cambiar de disfraz`{:class="block3looks"} para revelarlo.
+
+![Un fondo desértico con una roca sacudiendose de un lado a otro.](images/bat.gif)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -49,19 +47,23 @@ Puedes hacer que el objeto parezca convertirse en otro objeto diferente. Para ha
 title: Esconde y muestra objetos
 ---
 
-El objeto **Objeto**:
+Los 🎂🎾🎁 **objeto interesante** figura:
 ```blocks3
-when [timer v] > (4) // establece el tiempo de espera
+when flag clicked
+show
+wait (5) seconds
 hide
 ```
 
-Un objeto **sorpresa**:
+Los 🎷👻⚡**objeto sorpresa** figura:
 ```blocks3
-when [timer v] > (4) // mismo tiempo de espera
+when flag clicked
+hide
+wait (5) seconds
 show
 ```
 
-**Sugerencia:** Si haces que un objeto **sorpresa** se pueda `mostrar`{:class="block3looks"}, deberías hacer que se `esconda`{:class="block3looks"} `al presionar bandera verde ⚑`{:class="block3events"}.
+**Consejo:** Si haces que un 🎷👻⚡**objeto sorpresa** se pueda `mostrar`{:class="block3looks"}, deberías hacer que se `esconda`{:class="block3looks"} `al presionar bandera verde ⚑`{:class="block3events"}.
 
 --- /collapse ---
 
@@ -75,7 +77,7 @@ show
 
 --- task ---
 
-**Depurar:**
+**Debug:**
 
 Si necesitas que un objeto esté delante o detrás de otro objeto, puedes utilizar capas:
 
@@ -88,16 +90,9 @@ Si la sorpresa ocurre en el momento equivocado, puedes solucionarlo:
 title: Los scripts del cronómetro hacen ocurrir la sorpresa en el momento equivocado
 ---
 
-Asegúrate de haber seleccionado la opción `cronómetro`{:class="block3events"} en el bloque `cuando volumen del sonido`{:class="block3events"}:
-
-```blocks3
-when [timer v] > [5]
-```
-
-Si haz seleccionado el `cronómetro`{:class="block3events"} correctamente, intenta ajustar el tiempo de espera del cronómetro.
+Es posible que deba cambiar la cantidad de tiempo en algunos o en todos `esperar`{:class="block3control"} los bloques, o agregar más `esperar`{:clase="block3control"} bloques, para obtener el tiempo correcto.
 
 --- /collapse ---
 
 --- /task ---
 
---- save ---
