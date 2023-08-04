@@ -34,7 +34,7 @@ set size to (150) %
 
 - (x)
 ```blocks3
-switch costume to [egg-a v]
+switch costume to [huevo-a v]
 ```
 
   --- feedback ---
