@@ -7,7 +7,7 @@ Agrega un fondo 🖼️, un personaje principal 🐙👩‍🦼🦖 y un objeto 
 ![Una tira de película con 3 fotogramas. El primero está resaltado. El marco muestra una escena con personaje, objeto y fondo.](images/scene.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Animación **</span> crea el efecto de movimiento al cambiar las imágenes rápidamente. Los primeros animadores tallaron imágenes en bloques de madera y los utilizaron como sellos. ¡Es mucho más rápido usar Scratch para programar tu animación!
+  <span style="color: #0faeb0">**Animación**</span> crea el efecto de movimiento al cambiar las imágenes rápidamente. Los primeros animadores tallaron imágenes en bloques de madera y los utilizaron como sellos. ¡Es mucho más rápido usar Scratch para programar tu animación!
 </p>
 
 ### Abre el proyecto inicial
@@ -55,7 +55,7 @@ Hay personas llamadas <span style="color: #0faeb0">**diseñadores narrativos**</
 
 --- task ---
 
-Agrega un bloque`al presionar la bandera verde`{:class="block3events"}, luego, debajo, agrega bloques para configurar tus objetos al comienzo de tu animación.
+Agrega un bloque `al presionar la bandera verde`{:class="block3events"}, luego, debajo, agrega bloques para configurar tus objetos al comienzo de tu animación.
 
 **Consejo:** Recuerda configurar tanto tu 🐙👩‍🦼🦖 **personaje principal** como tu 🎂🎾🎁 **objeto interesante**.
 
