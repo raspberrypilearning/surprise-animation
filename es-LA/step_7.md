@@ -1,23 +1,46 @@
-## Mejora tu proyecto
+## Comparte y juega
 
-Si tienes tiempo, puedes mejorar tu proyecto.
+Si estás en un club, ¿por qué no compartes tu proyecto con tus amigos y compañeros?
 
-Tú podrías:
-+ Agregar o mejorar tu animación, con movimiento, apariencia y efectos gráficos
-+ Crear o editar disfraces en el Editor de dibujo para que se vean como tú quieras
-+ Grabar tu voz o grabar efectos de sonido y agregarlos a tu proyecto
+También podrías mostrarle a tu familia cómo funciona tu proyecto.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Los programadores profesionales exploran y se inspiran en el código creado por otros programadores. 
-</p>
+Si tienes una cuenta de Scratch, puedes compartir tu proyecto a través de Scratch. Puedes enviar un enlace a las personas que conoces y toda la comunidad de Scratch podrá encontrar tu proyecto y probarlo.
 
-Cada proyecto en ['¡Sorpresa! animación - Ejemplos de 'Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} tiene una opción **Ver dentro**, que puedes usar para abrir el proyecto en el editor de Scratch y mirar el código para obtener ideas y ver cómo funciona.
+[[[share-scratch]]]
 
-**Doble**: [Ver dentro](https://scratch.mit.edu/projects/624080821/editor){:target="_blank"}
+¿Por qué no invitas a tus amigos a crear un proyecto? Déjales saber cuánto te divertiste.
+
+Si tienes una cuenta de Scratch y has compartido tu '¡Sorpresa! animación', mantente atento a los comentarios que otros puedan hacer sobre tu creación. La retroalimentación es una excelente manera de reflexionar sobre tu trabajo. Ignora cualquier comentario que sea inútil o irrelevante.
+
+[[[comments-feedback-scratch]]]
+
+--- task ---
+
+¡Inspira a la comunidad de la Fundación Raspberry Pi con tu proyecto!
+
+Para enviar tu proyecto a nuestro ['¡Sorpresa! animación - Comunidad' de Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}, por favor completa [este formulario](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+
+--- /task ---
+
+### Aportaciones de la comunidad
+
+--- task ---
+
+Echa un vistazo a estos fabulosos proyectos de la comunidad de nuestra [ ¡Sorpresa! animación — Estudio Scratch de la comunidad](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
+
+**Huevos sorpresa**: [Ver dentro](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/624080821/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723810901/?autostart=false" frameborder="0"></iframe>
 </div>
 
-¡Echa un vistazo a nuestra [¡Sorpresa! animación - Comunidad de 'Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} para ver proyectos creados por miembros de la comunidad.
+**Escarificar edificio**: [Ver dentro](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/578827663/?autostart=false" frameborder="0"></iframe>
+</div>
+--- /tarea ---
 
---- save ---
+--- task ---
+
+También puedes ver las mezclas del [ proyecto de iniciación Sorpresa ](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} para ver lo que otros creadores han construido.
+
+--- /task ---

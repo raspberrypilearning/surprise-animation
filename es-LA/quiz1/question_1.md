@@ -1,11 +1,8 @@
+## Examen rápido
 
-## Reflexión
+Contesta las tres preguntas. Hay pistas para guiarte hacia la respuesta correcta.
 
-¡Bien hecho, has aprendido mucho! Ahora es el momento de reflexionar: reflexionar es una parte importante del aprendizaje, porque ayuda a establecer nuevas conexiones en tu cerebro.
-
-Responde las tres preguntas siguientes para reflexionar sobre lo que has aprendido.
-
-Cuando hayas respondido a cada pregunta, has clic en **Enviar**. Vamos a guiarte hacia la respuesta correcta. Puedes realizar esta actividad tantas veces como quieras.
+Cuando hayas respondido a cada pregunta, haz clic en **Revisar mi respuesta**.
 
 ¡Qué te diviertas!
 

@@ -1,17 +1,12 @@
-## Curiosidad
+## Demuestra curiosidad
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-¿El objeto hará algo para llamar la atención? ¿Cómo reaccionará el personaje?
+¿El objeto hará algo para llamar la atención? ¿Cómo reaccionará el personaje? ¡Tú decides! Crea la **segunda parte** de tu animación.
 
-¡Tú decides!
-</div>
-<div>
+![Una tira de película con 3 fotogramas. El segundo cuadro está resaltado. El cuadro muestra una escena con el personaje pensando 'mmmm' mientras mira un objeto curioso.](images/curiosity.png)
 
-![El proyecto 'BOO!' que muestra al personaje curioseando.](images/boo.png)
-
-</div>
-</div>
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+  <span style="color: #0faeb0">**Descomposición**</span> es dividir un proyecto en partes más pequeñas y más fáciles de entender. Esto significa que puedes construir un proyecto una parte a la vez hasta que lo hayas completado. En este paso, te concentrarás solo en la curiosidad de tu animación.
+</p>
 
 ### El objeto
 
@@ -19,7 +14,9 @@
 
 **Elige:** Si deseas que el objeto haga algo, elige lo que hará.
 
-Agrega bloques al final del script de configuración del **objeto** `al presionar bandera verde ⚑`{:class="block3events"}.
+![Un fondo desértico con una roca sacudiendose de un lado a otro.](images/jiggle.gif)
+
+Agrega bloques al final del 🎂🎾🎁 **objeto interesante** `cuando la bandera verde hizo clic en`{:class="block3events"} la configuración del script.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -31,11 +28,13 @@ Agrega bloques al final del script de configuración del **objeto** `al presiona
 
 --- task ---
 
-Haz que el personaje principal muestre interés en el objeto. Agrega bloques al final del script de configuración del **personaje**.
+Haz que el 🐙👩‍🦼🦖 **personaje principal** muestre interés en el objeto. Agrega bloques al final del script de configuración del 🐙👩‍🦼🦖 **personaje principal**.
 
-Si necesitas que el personaje espere hasta que el objeto haya hecho algo, agrega un bloque `esperar`{:class="block3control"}.
+Si necesitas que el 🐙👩‍🦼🦖 **personaje principal** espere hasta que el 🎂🎾🎁 **objeto interesante** haya hecho algo, agregue un bloque `wait`{:class="block3control"}.
 
-Puedes usar bloques `decir`{:class="block3looks"} o `pensar`{:class="block3looks"}, o incluso usar la extensión `Texto a Voz`{:class="block3extensions"} ¡para hacer al personaje hablar!
+![Un fondo desértico con una roca sacudiendose de un lado a otro.](images/bear.gif)
+
+Puedes usar bloques `decir`{:class="block3looks"} o `pensar`{:class="block3looks"}, o incluso usar la extensión `Texto a Voz`{:class="block3extensions"} ¡para hacerlo hablar!
 
 [[[scratch3-text-to-speech]]]
 
@@ -43,7 +42,7 @@ El personaje podría emocionarse, como en el proyecto [Conversación espacial](h
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-El personaje podría ser valiente y acercarse para ver el objeto.
+El personaje podría ser valiente y acercarse a ver el objeto.
 
 [[[scratch3-animate-movement-costumes]]]
 
@@ -51,9 +50,9 @@ El personaje podría ser valiente y acercarse para ver el objeto.
 
 --- task ---
 
-**Prueba:** Haz clic en la bandera verde para probar tu proyecto. El personaje debe mostrar curiosidad por el objeto.
+**Prueba:** Haz clic en la bandera verde para probar tu proyecto. El 🐙👩‍🦼🦖 **personaje principal** debe mostrar curiosidad por el objeto.
 
-Vuelve a hacer clic en la bandera verde. Si cambiaste la posición o el aspecto del objeto del **personaje** o del **objeto**, tendrás que asegurarte de que vuelva a su posición o aspecto inicial cuando ejecutes el proyecto de nuevo.
+Vuelve a hacer clic en la bandera verde. Si cambiaste la posición o el aspecto del 🎂🎾🎁 **objeto interesante** o del 🐙👩‍🦼🦖 **personaje principal**, tendrás que asegurarte de que vuelva a su posición o aspecto inicial cuando ejecutes el proyecto de nuevo.
 
 --- collapse ---
 ---
@@ -64,15 +63,15 @@ Elige los bloques que necesitas para establecer la posición y apariencia del ob
 
 ```blocks3
 when flag clicked // agrega bloques para configurar el inicio 
-switch costume to [costume1 v]
+switch costume to [disfraz1 v]
 set size to (100) % // tamaño inicial
 go to x: (-200) y: (50) // posición inicial
 point in direction [90]
-set [brightness v] effect to [80]
+set [brillo v] effect to [80]
 show
 ```
 
-**Sugerencia:** Todos los efectos gráficos se borran cuando haces clic en la bandera verde, por lo que no necesitas borrarlos, pero es posible que debas configurar los efectos que deseas que el objeto tenga.
+**Consejo:** Todos los efectos gráficos se borran cuando haces clic en la bandera verde, por lo que no necesitas borrarlos, pero es posible que debas configurar los efectos que deseas que el objeto tenga.
 
 --- /collapse ---
 
@@ -80,7 +79,7 @@ show
 
 --- task ---
 
-**Depurar:**
+**Debug:**
 
 --- collapse ---
 ---
@@ -102,4 +101,3 @@ Verifica que tu proyecto tenga scripts `al presionar bandera verde ⚑`{:class="
 
 --- /task ---
 
---- save ---
