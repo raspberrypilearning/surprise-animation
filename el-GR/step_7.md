@@ -1,23 +1,47 @@
-## Αναβάθμιση του έργου σου
+## Μοίρασου και παίξε
 
-Εάν έχεις χρόνο, μπορείς να αναβαθμίσεις το έργο σου.
+Εάν είσαι σε μια λέσχη, γιατί να μην μοιραστείς το έργο σου με φίλους/ες και συνομήλικους;
 
-Θα μπορούσες να:
-+ Προσθέσεις ή βελτιώσεις την κινούμενη εικόνα σου, με κίνηση, όψη και εφέ γραφικών
-+ Δημιούργησε ή επεξεργάσου ενδυμασίες στον επεξεργαστή Ζωγραφική για να φαίνονται όπως θέλεις
-+ Ηχογράφησε τη φωνή σου ή εφέ ήχου και πρόσθεσε τους νέους ήχους στο έργο σου
+Θα μπορούσες επίσης να δείξεις στην οικογένειά σου πώς λειτουργεί το έργο σου.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Οι επαγγελματίες προγραμματιστές εξερευνούν και εμπνέονται από κώδικα που δημιουργήθηκε από άλλους προγραμματιστές. 
-</p>
+Εάν διαθέτεις λογαριασμό Scratch, μπορείς να μοιραστείς το έργο σου μέσω του Scratch. Μπορείς να στείλεις έναν σύνδεσμο σε άτομα που γνωρίζεις και ολόκληρη η κοινότητα Scratch θα μπορεί να βρει το έργο σου και να το δοκιμάσει.
 
-Κάθε έργο στην [Κινούμενη εικόνα Έκπληξη! — Στα παραδείγματα στο Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} υπάρχει ένας σύνδεσμος**Δες μέσα**, τον οποίο μπορείς να χρησιμοποιήσεις για να ανοίξεις το έργο στο επεξεργαστή του Scratch και να δεις τον κώδικα για να πάρεις ιδέες και να δες πώς λειτουργεί το έργο.
+[[[share-scratch]]]
 
-**Doppelganger**: [Δες μέσα](https://scratch.mit.edu/projects/633587448/editor){:target="_blank"}
+Γιατί να μην καλέσεις τους φίλους σου να δημιουργήσουν ένα έργο; Ενημέρωσέ τους για το πόσο διασκέδασες.
+
+Αν έχεις λογαριασμό Scratch και μοιράστηκες το έργο 'Έκπληξη! κινούμενο σχέδιο', πρόσεξε τα σχόλια που μπορούν να κάνουν άλλοι για τη δημιουργία σου. Η ανατροφοδότηση είναι ένας πολύ καλός τρόπος για να αναστοχαστείς πάνω στη δουλειά σου. Αγνόησε οποιαδήποτε σχόλια δεν σε βοηθούν ή είναι άσχετα.
+
+[[[comments-feedback-scratch]]]
+
+--- task ---
+
+Δώσε έμπνευση στην κοινότητα του Raspberry Pi Foundation με το έργο σου!
+
+Για να υποβάλεις το έργο σου στην [' Έκπληξη! κινούμενο σχέδιο— Κοινότητα' Scratch στούντιο](https://scratch.mit.edu/studios/29079784){:target="_blank"}, συμπλήρωσε [αυτήν τη φόρμα](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+
+--- /task ---
+
+### Υποβολές στην κοινότητα
+
+--- task ---
+
+Ρίξτε μια ματιά σε αυτά τα υπέροχα έργα της κοινότητάς μας για την ['Έκπληξη! κινούμενο σχέδιο — Κοινότητα' Scratch στούντιο](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
+
+**Αυγά έκπληξη**: [Δες μέσα](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/633587448/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723810901/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Ρίξε μια ματιά στη δικιά μας [Κινούμενη εικόνα Έκπληξη! - Κοινότητα Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} για να δεις έργα που δημιουργούνται από μέλη της κοινότητας.
+**Scarify building**: [Δες μέσα](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/578827663/?autostart=false" frameborder="0"></iframe>
+</div>
+--- /task ---
 
---- save ---
+--- task ---
+
+Μπορείς επίσης να δεις τα remixes για το [Έκπληξη κινούμενο σχέδιο αρχικό έργο](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} για να δεις τι έχουν φτιάξει άλλοι δημιουργοί.
+
+--- /task ---
+
