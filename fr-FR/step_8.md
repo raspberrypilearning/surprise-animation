@@ -3,10 +3,8 @@
 Si tu suis le parcours [Introduction de Scratch](https://projects.raspberrypi.org/en/pathway/scratch-intro), tu peux passer au projet [Je t'ai fait un livre](https://projects.raspberrypi.org/en/projects/i-made-you-a-book). Dans ce projet, tu vas créer un livre en Scratch à partir de ta propre idée.
 
 --- no-print ---
-
-**Éclairer le chemin du retour** : [Voyez à l'intérieur](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /no-print ---
