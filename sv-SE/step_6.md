@@ -53,10 +53,8 @@ Du kan även kolla på remixarna av ["Startprojektet i överraskningsanimering](
 --- task ---
 
 Varje projekt i ['Överraskningen! animering — Exempel Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} har en **Se inuti** -länk, som du kan använda för att öppna projektet i Scratch-redigeraren och titta på koden för att få idéer och se hur projektet fungerar.
-
-**Dubbelgångare**: [Se inuti](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /task ---
