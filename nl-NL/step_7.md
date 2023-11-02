@@ -27,18 +27,12 @@ Kijk dan eens bij onze ['Verrassing! animatie — Community' Scratchstudio](http
 --- task ---
 
 Bekijk deze fantastische gemeenschapsprojecten van onze ['Surprise! animatie — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
-
-**Verrassingseitjes**: [Bekijk van binnen](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723810901/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Schrikaanjagend gebouw**: [Bekijk van binnen](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/578827663/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
---- /task ---
-
 --- task ---
 
 Je kunt ook de remixes bekijken voor het [Verrassing! animatie startproject](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} om te zien wat andere makers hebben gemaakt.
