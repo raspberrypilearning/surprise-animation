@@ -53,10 +53,8 @@
 --- task ---
 
 Кожен проєкт ["Сюрприз! Scratch 'Анімація Сюрпризу! — Приклади'](https://scratch.mit.edu/studios/29075822){:target="_blank"} має посилання **Переглянути код**, за допомогою якої можна відкрити проєкт в редакторі Scratch і подивитися на код, щоб отримати ідеї та побачити, як працює проєкт.
-
-**Двійник**: [Переглянути код](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /task ---
