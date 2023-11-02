@@ -28,9 +28,8 @@ Animeringen har tre delar:
 
 </div>
 <div>
-**Dinosaurieöverraskning!**: [Se inuti](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -44,20 +43,14 @@ Animeringen har tre delar:
 Lek med dessa exempelprojekt för att få inspiration. Fundera på hur din animering skulle kunna se ut och kolla på dessa exempelprojekt för att få fler idéer:
 
 ⭐ Dela ditt färdiga Överrasknings animeringsprojekt för en chans att få det visat här.
-
-**BOO!**: [Se inuti](https://scratch.mit.edu/projects/498655116/editor){:target="_blank">
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Katmagi**: [Se inuti](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**⭐ Jumpscare!**: [Se inuti](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (utvalt community-projekt)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /task ---
