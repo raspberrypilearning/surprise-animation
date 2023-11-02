@@ -12,24 +12,24 @@ rozmiar początkowy
 
 pozycja startowa
 
-change the number to create your time delay
+zmień liczbę, aby utworzyć opóźnienie czasowe
 
-setup
+ustawienia początkowe
 
-curiosity
+ciekawość
 
-reaction
+reakcja
 
-reset
+resetowanie
 
-surprise
+niespodzianka
 
 Hmm...
 
 BOO!
 
-What ever is this?
+Co to jest?
 
-Kitty, have you been messing with my potions again?
+Kitty, znowu bawiłaś się moimi eliksirami?
 
-Cat gotta haz milk.
+Kotek chce mleko.
