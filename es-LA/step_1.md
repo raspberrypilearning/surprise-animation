@@ -28,9 +28,8 @@ La animación tiene cuatro partes:
 
 </div>
 <div>
-**¡Sorpresa! Dinosaurio**: [Ver dentro](https://scratch.mit.edu/projects/624080535/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -44,20 +43,14 @@ La animación tiene cuatro partes:
 Explora estos proyectos de ejemplo para obtener más ideas. Piensa en cuál podría ser tu historia y explora estos proyectos de ejemplo para obtener más ideas:
 
 ⭐ Comparte tu proyecto de animación sorpresa y ten la oportunidad de que se muestre aquí.
-
-**BOO!**: [Ver dentro](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Magia de gato**: [Ver dentro](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**⭐ Jumpscare!**: [Ver interior](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (proyecto destacado de la comunidad)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /task ---
