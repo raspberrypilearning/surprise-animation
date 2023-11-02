@@ -53,10 +53,8 @@
 --- task ---
 
 Κάθε έργο στην [ Έκπληξη! κινούμενο σχέδιο — Παραδείγματα ' Scratch στούντιο](https://scratch.mit.edu/studios/29075822){:target="_blank"} έχει έναν σύνδεσμο **Δες μέσα**, τον οποίο μπορείς να χρησιμοποιήσεις για να ανοίξεις το έργο στο πρόγραμμα επεξεργασίας Scratch και να δεις τον κώδικα για να πάρεις ιδέες και να δεις πώς λειτουργεί το έργο.
-
-**Σωσίας**: [Δες μέσα](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /task ---
