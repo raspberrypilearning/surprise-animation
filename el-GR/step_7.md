@@ -27,18 +27,12 @@
 --- task ---
 
 Ρίξτε μια ματιά σε αυτά τα υπέροχα έργα της κοινότητάς μας για την ['Έκπληξη! κινούμενο σχέδιο — Κοινότητα' Scratch στούντιο](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
-
-**Αυγά έκπληξη**: [Δες μέσα](https://scratch.mit.edu/projects/723810901/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723810901/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Scarify building**: [Δες μέσα](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/578827663/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
---- /task ---
-
 --- task ---
 
 Μπορείς επίσης να δεις τα remixes για το [Έκπληξη κινούμενο σχέδιο αρχικό έργο](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} για να δεις τι έχουν φτιάξει άλλοι δημιουργοί.
