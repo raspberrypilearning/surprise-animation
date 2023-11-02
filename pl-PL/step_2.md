@@ -1,76 +1,76 @@
-## Create your scene
+## Stwórz swoją scenę
 
-Have you got an idea about your animation?
+Masz pomysł na swoją animację?
 
-Add a backdrop 🖼️, main character 🐙👩‍🦼🦖, and interesting object 🎂🎾🎁 of your choice to create the **first part** of your animation.
+Dodaj tło 🖼️, głównego bohatera 🐙👩‍🦼🦖 i interesujący obiekt 🎂🎾🎁, aby stworzyć** pierwszą część** twojej animacji.
 
-![A film strip with 3 frames. The first frame is highlighted. The frame shows a scene with character, object, and background.](images/scene.png)
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Animation**</span> creates the effect of movement by changing pictures quickly. The first animators carved pictures out of wooden blocks and used them as stamps. It is much faster to use Scratch to code your animation!
-</p>
-
-### Open the starter project
-
---- task ---
-
-Open the [Surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"}.
-
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29075822){:target="_blank"}.
-
---- /task ---
+![Taśma filmowa z 3 klatkami. Pierwsza klatka jest podświetlona. Ramka przedstawia scenę z postacią, obiektem i tłem.](images/scene.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-There are people called <span style="color: #0faeb0">**narrative designers**</span> who do storytelling for apps and video games. Digital storytelling allows everyone to share their stories and creative imaginings with other people.
+  <span style="color: #0faeb0">**Animacja**</span> tworzy efekt ruchu, szybko zmieniając zdjęcia. Pierwsi animatorzy rzeźbili obrazy z drewnianych klocków i używali ich jako pieczątek. Kodowanie animacji za pomocą Scratcha jest znacznie szybsze!
 </p>
 
-### Design your scene
+### Otwórz projekt startowy
 
 --- task ---
 
-**Choose:** a theme for your animation. You could choose:
+Otwórz [Niespodziankę! projekt startowy animacji](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"}.
 
-+ 🐯 Land Animals
-+ 🐠 Sea animals
-+ 👽 Aliens
-+ 🌿 Nature
-+ 🌈 Weather
-+ 🌮 Food
-+ 🚀 Travel
-+ ⚾ Sport .... Or something else
+⏱️ Mało czasu? Możesz zacząć od jednego z [przykładów](https://scratch.mit.edu/studios/29075822){:target="_blank"}.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Niektóre osoby nazywane <span style="color: #0faeb0">**projektantami narracji**</span> zajmują się opowiadaniem historii w aplikacjach i grach wideo. Cyfrowe opowiadanie historii pozwala każdemu dzielić się swoimi historiami i kreatywnymi wyobrażeniami z innymi ludźmi.
+</p>
+
+### Zaprojektuj swoją scenę
+
+--- task ---
+
+**Wybierz:** temat dla swojej animacji. Możesz wybrać:
+
++ 🐯 Zwierzęta lądowe
++ 🐠 Zwierzęta morskie
++ 👽 Kosmici
++ 🌿 Natura
++ 🌈 Pogoda
++ 🌮 Jedzenie
++ 🚀 Podróże
++ ⚾ Sport .... Albo coś innego
 
 --- /task ---
 
 --- task ---
 
-**Choose:** Choose a sprite to be the 🐙👩‍🦼🦖 **main character**, another sprite to be the 🎂🎾🎁 **interesting object** and a 🖼️ **backdrop** to set the scene.
+**Wybierz:** Wybierz duszka, który będzie 🐙👩‍🦼🦖 **głównym bohaterem**, innego duszka 🎂🎾🎁 **interesującym obiektem** i 🖼️ **tłem**, aby ustawić scenę.
 
-![Two Choose a Sprite icons and a Choose a Backdrop icon.](images/sprites-and-backdrop.png)
+![Dwie ikony Wybierz duszka i ikonę Wybierz tło.](images/sprites-and-backdrop.png)
 
 --- /task ---
 
-### Prepare your sprites
+### Przygotuj duszki
 
-Where do you want your sprites to start? How big do you want them to be? How do you want them to look?
+Gdzie Twoje duszki mają zaczynać? Jak duże mają być? Jak chcesz, żeby wyglądały?
 
 --- task ---
 
-Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation.
+Dodaj blok {:class="block3events"}`kiedy kliknięto flagę`, a następnie poniżej dodaj bloki, aby ustawić swoje duszki na początku animacji.
 
-**Tip:** Remember to set up both your 🐙👩‍🦼🦖 **main character** and your 🎂🎾🎁 **interesting object** sprites.
+**Wskazówka:** Pamiętaj, aby ustawić zarówno swojego 🐙👩‍🦼🦖 **głównego bohatera**, jak i swojego 🎂🎾🎁 **interesujący obiekt** duszki.
 
 --- collapse ---
 ---
 title: Ustaw swoje duszki
 ---
 
-Move the 🐙👩‍🦼🦖 **main character** to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
+Przesuń 🐙👩‍🦼🦖 **głównego bohatera** w wybrane miejsce na scenie, a następnie dodaj blok `go to x: y:`{:class="block3motion"} do swojego kodu:
 
 ```blocks3
 go to x: (0) y: (0) // add the sprite's position
 ```
 
-Repeat this task for the 🎂🎾🎁 **interesting object**.
+Powtórz to zadanie dla **interesującego obiektu**.
 
 --- /collapse ---
 
@@ -79,11 +79,11 @@ Repeat this task for the 🎂🎾🎁 **interesting object**.
 title: Zmień rozmiar swoich duszków
 ---
 
-To change the size of a sprite for the whole project, change the number in the **Size** property in the Sprite pane:
+Aby zmienić rozmiar duszka dla całego projektu, zmień liczbę we właściwościach**Rozmiar** w kafelku duszka:
 
 ![](images/sprite-pane-size.png)
 
-To change the size of a sprite for part of the project, add code to `set size to`{:class="block3looks"} the size of your choice. This option is good if you want your sprite to change size in the project.
+Aby zmienić rozmiar duszka dla części projektu, dodaj kod na `ustaw rozmiar na`{:class="block3looks"} wybrany przez Ciebie rozmiar. Ta opcja jest dobra, jeśli chcesz, aby twój duszek zmienił rozmiar w projekcie.
 
 ```blocks3
 set size to [100] % // <100 is smaller, >100 is bigger
@@ -96,17 +96,17 @@ set size to [100] % // <100 is smaller, >100 is bigger
 title: Ustaw kostiumy swoich duszków
 ---
 
-To change the costume of a sprite for the whole project, click on the **Costumes** tab and select one of the available costumes:
+Aby zmienić kostium duszka dla całego projektu, kliknij **Kostiumy** i wybierz jeden z dostępnych kostiumów:
 
-![The Costumes tab, with the available costumes for a sprite.](images/nano-costumes.png)
+![Zakładka Kostiumy, z dostępnymi kostiumami dla duszka.](images/nano-costumes.png)
 
-To change the costume of a sprite for part of the project, add a `switch costume to`{:class="block3looks"} block to your code and update it to show the costume of your choice:
+Aby zmienić kostium duszka dla części projektu, dodaj blok `zmień kostium na`{:class="block3looks"} w swoim kodzie i zaktualizuj go, aby wyświetlał wybrany kostium:
 
 ```blocks3
 switch costume to [ v]  // update this for your chosen costume
 ```
 
-To hide a sprite at the start of the project, add a `hide`{:class="block3looks"} block to your code:
+Aby ukryć duszka na początku projektu, dodaj do swojego kodu blok `ukryj`{:class="block3looks"}:
 
 ```blocks3
 hide 
@@ -119,13 +119,13 @@ hide
 title: Ustaw kierunek swoich duszków
 ---
 
-Your sprites might be facing the wrong way when you add them to your project.
+Twoje duszki mogą być skierowane w złą stronę, gdy dodasz je do swojego projektu.
 
-To change the direction of a sprite for the whole project, change the **Direction** and **rotation style** in the Sprite pane:
+Aby zmienić kierunek duszka dla całego projektu, zmień **Kierunek** i **styl obrotu ** w panelu duszka:
 
-![The Direction and rotation style menu in the Sprite pane.](images/sprite-pane-direction.png)
+![Menu Kierunek i styl obrotu w panelu duszka.](images/sprite-pane-direction.png)
 
-To change the direction of a sprite for part of the project, add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}:
+Aby zmienić kierunek duszka dla części projektu, dodaj bloki do kodu, aby zmienić `styl obrotu`{:class="block3motion"} i `kierunek`{:class="block3motion"}:
 
 ```blocks3
 set rotation style [left-right v]
@@ -138,7 +138,7 @@ point in direction (-90) // turn to the left
 
 --- task ---
 
-Save your project.
+Zapisz swój projekt.
 
 [[[generic-scratch3-saving]]]
 
