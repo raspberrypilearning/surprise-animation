@@ -1,25 +1,25 @@
-## Add a surprise!
+## Dodaj niespodziankę!
 
-Now, you need to add a surprise. What could happen to the object?
-- Will it turn into another object?
-- Will it turn into a character?
-- Will it disappear and reveal another sprite?
+Teraz musisz dodać niespodziankę. Co może się stać z obiektem?
+- Czy zamieni się w inny przedmiot?
+- Czy zmieni się w postać?
+- Czy zniknie i odsłoni kolejnego duszka?
 
-You decide! Create the **third part** of your animation.
+Ty decydujesz! Utwórz ** trzecią część** swojej animacji.
 
-![A film strip with 3 frames. The third frame is highlighted. The frame shows a scene with character looking surprised at an object.](images/surprise.png)
+![Taśma filmowa z 3 klatkami. Trzecia klatka jest podświetlona. Ramka przedstawia scenę, w której postać wygląda na zaskoczoną obiektem.](images/surprise.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
+Czy napisałeś historię z niespodzianką lub zwrotem akcji? Oglądałeś program lub czytałeś książkę z niespodziewanym zakończeniem? Możesz użyć tych samych metod podczas tworzenia cyfrowej opowieści lub animacji. 
 </p>
 
 ### Kiedy nastąpi niespodzianka?
 
 --- task ---
 
-Select the 🎂🎾🎁 **interesting object** sprite. Add a script to make the surprise start when you want it to.
+Wybierz 🎂🎾🎁 **interesujących obiektów** duszka. Dodaj skrypt, aby niespodzianka zaczęła się, kiedy chcesz.
 
-You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
+Musisz wybrać opóźnienie, które będzie pasować do Twojego projektu. Jeśli masz postać, która spędza dużo czasu na zaciekawienie, będziesz musiał wybrać dłuższe opóźnienie.
 
 ```blocks3
 when flag clicked
@@ -32,22 +32,22 @@ wait (5) seconds // change the number to create your time delay
 
 --- task ---
 
-The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
+Obiekt może `zagrać dźwięk`{:class="block3sound"}, `zmienić kostium`{:class="block3looks"}, `zmienić efekty graficzne`{:class="block3looks"} lub `zmienić rozmiar`{:class="block3looks"}.
 
-You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it.
+Można dodać zaskakujący strój do duszka, aby później mógł `zmień kostium`{class = „block3looks”}, aby go odsłonić.
 
-![A desert background with a rock jiggling back and forth.](images/bat.gif)
+![Tło pustyni ze skałą jiggling tam i z powrotem.](images/bat.gif)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the 🎂🎾🎁 **interesting object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
+Możesz sprawić, by duszek zmienił się w innego duszka — aby to zrobić, `ukryj`{:class="block3looks"} 🎂🎾🎁 **interesujący obiekt** duszek w tym samym czasie, gdy `pokaż`{:class= "block3looks"} inny duszek.
 
 --- collapse ---
 ---
 title: Ukryj i pokaż duszki
 ---
 
-The 🎂🎾🎁 **interesting object** sprite:
+🎂🎾🎁 **interesujący obiekt** sprite:
 ```blocks3
 when flag clicked
 show
@@ -55,7 +55,7 @@ wait (5) seconds
 hide
 ```
 
-The 🎷👻⚡**surprise object** sprite:
+🎷👻⚡**obiektów niespodzianek** sprite:
 ```blocks3
 when flag clicked
 hide
@@ -63,7 +63,7 @@ wait (5) seconds
 show
 ```
 
-**Tip:** If you make a 🎷👻⚡**surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Wskazówka:** Jeśli stworzysz 🎷👻⚡**obiekt-niespodziankę** duszek `pokaż`{:class="block3looks"}, będziesz musiał to zrobić `ukryj`{:class="block3looks"} `po kliknięciu zielonej flagi`{:class="block3events"}.
 
 --- /collapse ---
 
@@ -71,26 +71,26 @@ show
 
 --- task ---
 
-**Test:** Click on the green flag. Does the surprise happen at the right time? Does the animation reset properly?
+**Test:** Kliknij zieloną flagę. Czy niespodzianka zdarza się we właściwym czasie? Czy animacja resetuje się prawidłowo?
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**Debugowanie:**
 
-If you need a sprite to be in front of or behind another sprite, you can use layers:
+Jeśli chcesz, aby duszek znajdował się przed lub za innym duszkiem, możesz użyć warstw:
 
 [[[scratch3-positioning-with-layers]]]
 
-If the surprise happens at the wrong time, you can fix that:
+Jeśli niespodzianka wydarzy się w niewłaściwym czasie, możesz to naprawić:
 
 --- collapse ---
 ---
-title: The surprise starts at the wrong time
+title: Niespodzianka zaczyna się w złym momencie
 ---
 
-You might need to change the amount of time in some or all of the `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
+Być może będziesz musiał zmienić czas w niektórych lub wszystkich blokach `wait`{:class="block3control"} lub dodać więcej bloków `wait`{:class="block3control"}, aby uzyskać właściwy czas.
 
 --- /collapse ---
 
