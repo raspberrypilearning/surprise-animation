@@ -27,18 +27,12 @@
 --- task ---
 
 Поглянь на ці дивовижні проєкти нашої спільноти ['Сюрприз! Scratch 'Анімація Сюрпризу!' — Спільнота](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
-
-**Яйця з сюрпризом**: [Переглянути код](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723810901/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Страхітлива будівля**: [Переглянути код](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/578827663/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
---- /task ---
-
 --- task ---
 
 Також ти можеш ознайомитися з реміксами [Стартових проєктів - Сюрприз!](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} та подивитися, що зробили інші автори.
