@@ -3,10 +3,8 @@
 Om du följer [Introduktion till Scratch](https://projects.raspberrypi.org/en/pathway/scratch-intro)-vägen kan du gå vidare till [Jag har gjort en bok till dig](https://projects.raspberrypi.org/en/projects/i-made-you-a-book) -projektet. I det här projektet kommer du att göra en bok i Scratch utifrån din egen idé.
 
 --- no-print ---
-
-**Lys upp vägen hem**: [Se inuti](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /no-print ---
