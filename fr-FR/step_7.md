@@ -27,18 +27,12 @@ Pour soumettre ton projet à notre studio Scratch [Surprise ! animation : commu
 --- task ---
 
 Jetez un œil à ces fabuleux projets communautaires de notre studio Scratch [Surprise ! animation : communauté](https://scratch.mit.edu/studios/29079784){:target="_blank"} :
-
-**Oeufs surprise** : [Voir à l'intérieur](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723810901/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Bâtiment qui fait peur** : [Voir à l'intérieur](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/578827663/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
---- /task ---
-
 --- task ---
 
 Tu peux également consulter les remixes du [projet de démarrage animation Surprise](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} pour voir ce que d'autres créateurs ont fait.
