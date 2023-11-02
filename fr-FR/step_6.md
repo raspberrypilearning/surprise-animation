@@ -53,10 +53,8 @@ Tu peux également consulter les remixes du [projet de démarrage animation Surp
 --- task ---
 
 Chaque projet dans le studio Scratch [Surprise ! animation : exemples](https://scratch.mit.edu/studios/29075822){:target="_blank"} a un lien **Voir à l'intérieur**, que tu peux utiliser pour ouvrir le projet dans l'éditeur Scratch et regarder le code pour avoir des idées et voir comment le projet fonctionne.
-
-**Doppelganger** : [Voir à l'intérieur](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /task ---
