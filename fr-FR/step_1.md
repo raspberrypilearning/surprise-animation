@@ -28,9 +28,8 @@ L'animation comporte trois parties :
 
 </div>
 <div>
-**Dinosaure surprise !** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -44,20 +43,14 @@ L'animation comporte trois parties :
 Joue avec ces exemples de projets pour trouver des idées. Réfléchis à ce que pourrait être ton animation et explore ces exemples de projets pour obtenir plus d'idées :
 
 ⭐ Partage ton projet d'animation Surprise terminé pour avoir une chance qu'il soit présenté ici.
-
-**BOUH !** : [Voir à l'intérieur](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Chat magique** : [Voir à l'intérieur](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**⭐ Jumpscare !** : [Voir à l'intérieur](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (projet de la communauté à l'affiche)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /task ---
