@@ -1,22 +1,22 @@
-## Show curiosity
+## Okazuj ciekawość
 
-Will the object do something to attract attention? How will the character react? You decide! Create the **second part** of your animation.
+Czy przedmiot zrobi coś, co przyciągnie uwagę? Jak zareaguje postać? Ty decydujesz! Utwórz **drugą część** swojej animacji.
 
-![A film strip with 3 frames. The second frame is highlighted. The frame shows a scene with character thinking 'hmmmm' while looking at a curious object.](images/curiosity.png)
+![Taśma filmowa z 3 klatkami. Druga ramka jest podświetlona. Ramka przedstawia scenę, w której postać myśli „hmmmm”, patrząc na ciekawy przedmiot.](images/curiosity.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. In this step you will focus only on the curiosity part of your animation.
+  <span style="color: #0faeb0">**Dekompozycja**</span> to rozbicie projektu na mniejsze i łatwiejsze do zrozumienia części. Oznacza to, że możesz budować części projektu po kolei, dopóki go nie ukończysz. W tym kroku skupisz się tylko na ciekawej części animacji.
 </p>
 
 ### Obiekt
 
 --- task ---
 
-**Choose:** If you want the 🎂🎾🎁 **interesting object** to do something to attract attention, choose what the object will do.
+**Wybierz:** Jeśli chcesz, aby 🎂🎾🎁 **interesujący obiekt** zrobił coś, co przyciągnie uwagę, wybierz, co zrobi ten przedmiot.
 
-![A desert background with a rock jiggling back and forth.](images/jiggle.gif)
+![Tło pustyni ze skałą jiggling tam iz powrotem.](images/jiggle.gif)
 
-Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green flag clicked`{:class="block3events"} setup script.
+Dodaj bloki na końcu 🎂🎾🎁 **interesujących obiektów** `po kliknięciu zielonej flagi`{:class="block3events"} skryptu instalacyjnego.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -28,21 +28,21 @@ Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green f
 
 --- task ---
 
-Get the 🐙👩‍🦼🦖 **main character** to show interest in the object. Add blocks to the end of the 🐙👩‍🦼🦖 **main character's** setup script.
+Zdobądź 🐙👩‍🦼🦖 **głównego bohatera**, aby okazać zainteresowanie przedmiotem. Dodaj bloki na końcu skryptu konfiguracyjnego 🐙👩‍🦼🦖 **głównego bohatera**.
 
-If you need the 🐙👩‍🦼🦖 **main character** to wait until the 🎂🎾🎁 **interesting object** has done something, add a `wait`{:class="block3control"} block.
+Jeśli potrzebujesz, aby 🐙👩‍🦼🦖 **główny bohater** poczekał, aż 🎂🎾🎁 **interesujący obiekt** coś zrobi, dodaj blok `czekać`{:class="block3control"}.
 
-![A desert background with a rock jiggling back and forth.](images/bear.gif)
+![Tło pustyni ze skałą jiggling tam i z powrotem.](images/bear.gif)
 
-You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
+Możesz użyć bloków `powiedz`{:class="block3looks"} lub `pomyśl`{:class="block3looks"}, a nawet użyj `rozszerzenia Tekst do Mowy`{:class="block3extensions"}, aby sprawić by bohater przemówił!
 
 [[[scratch3-text-to-speech]]]
 
-The character could emote, like in the [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project.
+Postać może pokazywać emotki, jak w projekcie [Kosmiczna rozmowa](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-The character could be brave and move closer to check out the object.
+Postać może być odważna i podejść bliżej, aby sprawdzić obiekt.
 
 [[[scratch3-animate-movement-costumes]]]
 
@@ -50,16 +50,16 @@ The character could be brave and move closer to check out the object.
 
 --- task ---
 
-**Test:** Click on the green flag to test your project. The 🐙👩‍🦼🦖 **main character** should show curiosity about the object.
+**Test:** Kliknij zieloną flagę, aby przetestować swój projekt. 🐙👩‍🦼🦖 **główny bohater** powinien okazywać ciekawość obiektu.
 
-Click on the green flag again. If you changed the 🎂🎾🎁 **interesting object** or 🐙👩‍🦼🦖 **main character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
+Ponownie kliknij zieloną flagę. Jeśli zmieniłeś 🎂🎾🎁 **interesujący obiekt** lub 🐙👩‍🦼🦖 **głównego bohatera** pozycję lub wygląd duszka, będziesz musiał upewnić się, że po ponownym uruchomieniu projektu zostaną one ustawione z powrotem w początkowej pozycji lub wyglądzie.
 
 --- collapse ---
 ---
 title: Ustaw pozycję startową i wygląd duszka
 ---
 
-Choose the blocks that you need to set the position and looks for a sprite at the start.
+Wybierz bloki, których potrzebujesz, aby ustawić pozycję i wygląd duszka na początku.
 
 ```blocks3
 when flag clicked // add blocks to set up the start 
@@ -71,7 +71,7 @@ set [brightness v] effect to [80]
 show
 ```
 
-**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want the sprite to have.
+**Wskazówka:** Wszystkie efekty graficzne są usuwane po kliknięciu zielonej flagi, więc nie musisz ich czyścić, ale może być konieczne ustawienie efektów, które chcesz, aby duszek miał.
 
 --- /collapse ---
 
@@ -79,14 +79,14 @@ show
 
 --- task ---
 
-**Debug:**
+**Debugowanie:**
 
 --- collapse ---
 ---
 title: Dźwięk nie działa
 ---
 
-Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
+Sprawdź, czy głośność na komputerze lub tablecie jest wystarczająca, a głośniki lub słuchawki są podłączone i działają prawidłowo.
 
 --- /collapse ---
 
@@ -95,7 +95,7 @@ Check that the volume on your computer or tablet is loud enough and that your sp
 title: Moja animacja nie resetuje się poprawnie po kliknięciu zielonej flagi
 ---
 
-Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
+Sprawdź, czy projekt ma skrypt `kiedy kliknięto zieloną flagę`{class = „block3events”} dla duszków, które tego potrzebują, i sprawdź, czy przywracają duszkom ich położenie, rozmiar i wygląd. Aby uzyskać pomoc, zobacz **Ustaw pozycję początkową i wygląd duszków** powyżej.
 
 --- /collapse ---
 
