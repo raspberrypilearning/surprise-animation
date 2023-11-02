@@ -1,6 +1,6 @@
-## Quick quiz
+## اختبار سريع
 
-Answer the three questions. There are hints to guide you to the correct answer.
+اجب على الاسئلة الثلاثة. There are hints to guide you to the correct answer.
 
 When you have answered each question, click on **Check my answer**.
 
@@ -8,7 +8,7 @@ Have fun!
 
 --- question ---
 ---
-القائمة: السؤال 1 من 3
+legend: السؤال 1 من 3
 ---
 
 In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
