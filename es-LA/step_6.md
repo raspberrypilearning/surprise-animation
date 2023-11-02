@@ -53,10 +53,8 @@ También puedes ver las mezclas del [ proyecto de iniciación en animación Sorp
 --- task ---
 
 Cada proyecto en [ ¡Sorpresa! animación - Ejemplos de 'Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_ blank"} tiene una opción **Ver dentro**, que puedes usar para abrir el proyecto en el editor de Scratch y mirar el código para obtener ideas y ver cómo funciona.
-
-**Doppelganger**: [Ver dentro](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /task ---
