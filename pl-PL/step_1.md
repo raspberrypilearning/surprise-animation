@@ -1,14 +1,14 @@
-## You will make
+## Co będziesz robić
 
-Create a short animation 🎥 with a fun surprise 🎉!
+Stwórz krótką animację 🎥 z fajną niespodzianką 🎉!
 
 Co zrobisz:
 
-+ Create your own animation
-+ Test and debug your code
-+ Build your animation one part at a time
++ Stwórz własną animację
++ Przetestuj i debuguj swój kod
++ Twórz animację po jednej części na raz
 
-![Examples of projects.](images/surprise-example.png)
+![Przykłady projektów.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -17,47 +17,40 @@ Co zrobisz:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Play ▶️ 
+### Odtwórz ▶️ 
 
-Click on the green flag to watch the animation.
+Kliknij zieloną flagę, aby obejrzeć animację.
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+Animacja składa się z trzech części:
++ Ciekawość
++ Niespodzianka!
++ Reakcja
 
 </div>
 <div>
-**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 </div>
 
 --- /task ---
 
-### Get ideas 💭
+### Zdobądź pomysły 💭
 
 --- task ---
 
-Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
+Zapoznaj się z tymi przykładowymi projektami, aby zdobyć więcej pomysłów. Zastanów się, jaka może być Twoja animacja, i zapoznaj się z tymi przykładowymi projektami, aby uzyskać więcej pomysłów:
 
-⭐ Share your finished Surprise animation project for a chance of it being featured here.
-
-**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
+⭐ Udostępnij swój ukończony projekt animacji Niespodzianka, aby mieć szansę na opublikowanie go tutaj.
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**⭐ Jumpscare!**: [See inside](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /task ---
@@ -66,16 +59,16 @@ Play with these example projects to get ideas. Think about what your animation m
 
 --- print-only ---
 
-### Get ideas 💭
+### Zdobądź pomysły 💭
 
 Podejmiesz decyzje projektowe i wymyślisz historię do swojej animacji z niespodzianką. Zastanów się, jaka może być Twoja historia i aby uzyskać więcej pomysłów, **Zajrzyj do środka** przykładowych projektów w sekcji „Niespodzianka! animacja — Przykłady Scratch studio: https://scratch.mit.edu/studios/29075822/
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+Animacja składa się z trzech części:
++ Ciekawość
++ Niespodzianka!
++ Reakcja
 
-![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
+![Projekt „BOO!”.](images/boo.png) ![Projekt „Kocia magia”.](images/cat-magic.png)
 
 --- /print-only ---
 
