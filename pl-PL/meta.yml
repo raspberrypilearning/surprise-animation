@@ -1,0 +1,30 @@
+---
+title: Animacja Niespodzianka!
+hero_image: images/banner.png
+description: Stwórz animację historii z niespodzianką
+meta_title: Projekty programistyczne Scratch dla dzieci i młodzieży | Animacja Niespodzianka!
+meta_description: Naucz się programować w języku Scratch dzięki projektom programistycznym Fundacji Raspberry Pi dla dzieci i nastolatków. Stwórz animację historii z niespodzianką.
+version: 4
+listed: true
+copyedit: false
+last_tested: '2021-03-09'
+steps:
+  - title: Wprowadzenie
+  - title: Stwórz swoją scenę
+  - title: Okazuj ciekawość
+    completion:
+      - engaged
+  - title: Dodaj niespodziankę!
+    completion:
+      - internal
+  - title: Szybki quiz
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion:
+      - external
+  - title: Ulepsz swój projekt
+  - title: Udostępnij i graj
+  - title: Co dalej?
