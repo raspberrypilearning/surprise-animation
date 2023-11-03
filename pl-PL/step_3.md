@@ -95,7 +95,7 @@ Sprawdź, czy głośność na komputerze lub tablecie jest wystarczająca, a gł
 title: Moja animacja nie resetuje się poprawnie po kliknięciu zielonej flagi
 ---
 
-Sprawdź, czy projekt ma skrypt `kiedy kliknięto zieloną flagę`{class = „block3events”} dla duszków, które tego potrzebują, i sprawdź, czy przywracają duszkom ich położenie, rozmiar i wygląd. Aby uzyskać pomoc, zobacz **Ustaw pozycję początkową i wygląd duszków** powyżej.
+Sprawdź, czy projekt ma skrypt `kiedy kliknięto zieloną flagę`{:class="block3events"} dla duszków, które tego potrzebują, i sprawdź, czy przywracają duszkom ich położenie, rozmiar i wygląd. Aby uzyskać pomoc, zobacz **Ustaw pozycję początkową i wygląd duszków** powyżej.
 
 --- /collapse ---
 

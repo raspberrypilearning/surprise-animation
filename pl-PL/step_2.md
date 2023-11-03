@@ -129,7 +129,7 @@ Aby zmienić kierunek duszka dla całego projektu, zmień **Kierunek** i **styl 
 Aby zmienić kierunek duszka dla części projektu, dodaj bloki do kodu, aby zmienić `styl obrotu`{:class="block3motion"} i `kierunek`{:class="block3motion"}:
 
 ```blocks3
-set rotation style [lewo-prawa v]
+set rotation style [lewo-prawo v]
 point in direction (-90) // obróć w lewo
 ```
 
