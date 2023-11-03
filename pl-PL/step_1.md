@@ -17,7 +17,7 @@ Co zrobisz:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Odtwórz ▶️ 
+### Odtwórz ▶️
 
 Kliknij zieloną flagę, aby obejrzeć animację.
 
