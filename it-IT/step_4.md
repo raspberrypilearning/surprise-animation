@@ -1,25 +1,25 @@
-## Add a surprise!
+## Aggiungi una sorpresa!
 
-Now, you need to add a surprise. What could happen to the object?
-- Will it turn into another object?
-- Will it turn into a character?
-- Will it disappear and reveal another sprite?
+Ora devi aggiungere una sorpresa. Cosa potrebbe succedere all'oggetto?
+- Si trasformerà in un altro oggetto?
+- Diventerà un personaggio?
+- Scomparirà e rivelerà un altro sprite?
 
-You decide! Create the **third part** of your animation.
+Lo decidi tu! Crea la **terza parte** della tua animazione.
 
-![A film strip with 3 frames. The third frame is highlighted. The frame shows a scene with character looking surprised at an object.](images/surprise.png)
+![Una striscia di pellicola con 3 fotogrammi. Il terzo fotogramma è evidenziato. Il fotogramma mostra una scena con un personaggio che guarda sorpreso un oggetto.](images/surprise.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
+Hai scritto una storia con un colpo di scena o una sorpresa? Hai guardato uno spettacolo o letto un libro con un finale imprevedibile? Puoi utilizzare gli stessi metodi quando crei una storia digitale o un'animazione. 
 </p>
 
-### When will the surprise happen?
+### Quando avverrà la sorpresa?
 
 --- task ---
 
-Select the 🎂🎾🎁 **interesting object** sprite. Add a script to make the surprise start when you want it to.
+Seleziona lo sprite dell'🎂🎾🎁 **oggetto interessante**. Aggiungi uno script per far iniziare la sorpresa quando vuoi.
 
-You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
+Dovrai scegliere la durata della pausa adatta al tuo progetto. Se il tuo personaggio resta per molto tempo incuriosito, dovrai scegliere un'attesa più lunga.
 
 ```blocks3
 when flag clicked
@@ -28,26 +28,26 @@ wait (5) seconds // change the number to create your time delay
 
 --- /task ---
 
-### Now, create the surprise!
+### Ora crea la sorpresa!
 
 --- task ---
 
-The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
+L'oggetto può `riprodurre un suono`{:class="block3sound"}, `cambiare costume`{:class="block3looks"}, `cambiare effetti grafici`{:class="block3looks"} o `cambiare dimensione`{:class="block3looks"}.
 
-You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it.
+Potresti aggiungere un costume sorprendente allo sprite, poi lo sprite potrebbe `cambiare costume`{:class="block3looks"} per rivelarlo.
 
-![A desert background with a rock jiggling back and forth.](images/bat.gif)
+![Uno sfondo desertico con una roccia che si muove avanti e indietro.](images/bat.gif)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the 🎂🎾🎁 **interesting object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
+Potresti far sembrare che lo sprite si trasformi in uno sprite diverso: per fare ciò, `nascondi`{:class="block3looks"} lo sprite dell' 🎂🎾🎁 **oggetto interessante** nello stesso momento in cui si `mostra`{:class= "block3looks"} un altro sprite.
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title: Mostra e nascondi gli sprite
 ---
 
-The 🎂🎾🎁 **interesting object** sprite:
+Lo sprite dell' 🎂🎾🎁 **oggetto interessante**:
 ```blocks3
 when flag clicked
 show
@@ -55,7 +55,7 @@ wait (5) seconds
 hide
 ```
 
-The 🎷👻⚡**surprise object** sprite:
+Lo sprite dell'🎷👻⚡**oggetto sorpresa**:
 ```blocks3
 when flag clicked
 hide
@@ -63,7 +63,7 @@ wait (5) seconds
 show
 ```
 
-**Tip:** If you make a 🎷👻⚡**surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Suggerimento:** Se usi nell' 🎷👻⚡**oggetto sorpresa** il blocco `mostra`{:class="block3looks"}, dovrai farlo `nascondere`{:class="block3looks"} `quando fai clic sulla bandierina verde`{:class="block3events"}.
 
 --- /collapse ---
 
@@ -71,7 +71,7 @@ show
 
 --- task ---
 
-**Test:** Click on the green flag. Does the surprise happen at the right time? Does the animation reset properly?
+**Prova:** Clicca sulla bandierina verde. La sorpresa arriva al momento giusto? L'animazione si ripristina correttamente?
 
 --- /task ---
 
@@ -79,18 +79,18 @@ show
 
 **Debug:**
 
-If you need a sprite to be in front of or behind another sprite, you can use layers:
+Se hai bisogno che uno sprite sia davanti o dietro un altro sprite, puoi usare i livelli:
 
 [[[scratch3-positioning-with-layers]]]
 
-If the surprise happens at the wrong time, you can fix that:
+Se la sorpresa arriva nel momento sbagliato, puoi sistemarla:
 
 --- collapse ---
 ---
-title: The surprise starts at the wrong time
+title: La sorpresa inizia nel momento sbagliato
 ---
 
-You might need to change the amount of time in some or all of the `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
+Potresti dover modificare la quantità di tempo in alcuni o tutti i blocchi `attendi`{:class="block3control"} o aggiungere altri blocchi `attendi`{:class="block3control"} per ottenere i tempi giusti.
 
 --- /collapse ---
 
