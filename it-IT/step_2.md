@@ -1,89 +1,89 @@
-## Create your scene
+## Crea la tua scena
 
-Have you got an idea about your animation?
+Hai un'idea per la tua animazione?
 
-Add a backdrop 🖼️, main character 🐙👩‍🦼🦖, and interesting object 🎂🎾🎁 of your choice to create the **first part** of your animation.
+Aggiungi uno sfondo 🖼️, un personaggio principale 🐙👩‍🦼🦖 e un oggetto interessante 🎂🎾🎁 a tua scelta per creare la **prima parte** della tua animazione.
 
-![A film strip with 3 frames. The first frame is highlighted. The frame shows a scene with character, object, and background.](images/scene.png)
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Animation**</span> creates the effect of movement by changing pictures quickly. The first animators carved pictures out of wooden blocks and used them as stamps. It is much faster to use Scratch to code your animation!
-</p>
-
-### Open the starter project
-
---- task ---
-
-Open the [Surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"}.
-
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29075822){:target="_blank"}.
-
---- /task ---
+![Una striscia di pellicola con 3 fotogrammi. Il primo fotogramma è evidenziato. Il fotogramma mostra una scena con personaggio, un oggetto e uno sfondo.](images/scene.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-There are people called <span style="color: #0faeb0">**narrative designers**</span> who do storytelling for apps and video games. Digital storytelling allows everyone to share their stories and creative imaginings with other people.
+  Un'<span style="color: #0faeb0">**Animazione**</span> crea l'effetto del movimento cambiando rapidamente le immagini. I primi animatori intagliavano figure da blocchi di legno e le usavano come stampi. È molto più veloce usare Scratch per programmare la tua animazione!
 </p>
 
-### Design your scene
+### Apri il progetto iniziale
 
 --- task ---
 
-**Choose:** a theme for your animation. You could choose:
+Apri il [ progetto iniziale Sorpresa! animazione](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"}.
 
-+ 🐯 Land Animals
-+ 🐠 Sea animals
-+ 👽 Aliens
-+ 🌿 Nature
-+ 🌈 Weather
-+ 🌮 Food
-+ 🚀 Travel
-+ ⚾ Sport .... Or something else
+⏱️ Hai poco tempo? Puoi iniziare da uno degli [esempi](https://scratch.mit.edu/studios/29075822){:target="_blank"}.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Ci sono persone chiamate <span style="color: #0faeb0">**designer narrativi**</span> che si occupano di storytelling per app e videogiochi. Il digital storytelling consente a tutti di condividere le proprie storie e la propria immaginazione creativa con altre persone.
+</p>
+
+### Progetta la tua scena
+
+--- task ---
+
+**Scegli:** un tema per la tua animazione. Potresti scegliere:
+
++ 🐯Animali terrestri
++ 🐠 Animali marini
++ 👽 Alieni
++ 🌿 Natura
++ 🌈 Meteo
++ 🌮 Cibo
++ 🚀 Viaggi
++ ⚾ Sport .... O qualcos'altro
 
 --- /task ---
 
 --- task ---
 
-**Choose:** Choose a sprite to be the 🐙👩‍🦼🦖 **main character**, another sprite to be the 🎂🎾🎁 **interesting object** and a 🖼️ **backdrop** to set the scene.
+**Scegli:** Scegli uno sprite che sia il 🐙👩‍🦼🦖 **personaggio principale**, un altro sprite che sia l' 🎂🎾🎁 **oggetto interessante** e uno 🖼️ **sfondo** per ambientare la scena.
 
-![Two Choose a Sprite icons and a Choose a Backdrop icon.](images/sprites-and-backdrop.png)
+![Due icone Scegli uno Sprite e un'icona Scegli uno Sfondo.](images/sprites-and-backdrop.png)
 
 --- /task ---
 
-### Prepare your sprites
+### Prepara i tuoi sprite
 
-Where do you want your sprites to start? How big do you want them to be? How do you want them to look?
+Da dove vuoi che cominci il tuo sprite? Quanto grandi saranno? Come vuoi che appaiano?
 
 --- task ---
 
-Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation.
+Aggiungi un blocco `quando si clicca sulla bandierina verde`{:class="block3events"} poi, sotto, aggiungi i blocchi per impostare i tuoi sprite all'inizio dell'animazione.
 
-**Tip:** Remember to set up both your 🐙👩‍🦼🦖 **main character** and your 🎂🎾🎁 **interesting object** sprites.
+**Suggerimento:** Ricordati di impostare sia il tuo 🐙👩‍🦼🦖 **personaggio principale** sia i tuoi 🎂🎾🎁 **oggetti interessanti**.
 
 --- collapse ---
 ---
-title: Position your sprites
+title: Posiziona i tuoi sprite
 ---
 
-Move the 🐙👩‍🦼🦖 **main character** to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
+Sposta il 🐙👩‍🦼🦖 **personaggio principale** nella posizione che preferisci sullo stage, quindi aggiungi un blocco `vai a x: y:`{:class="block3motion"} al tuo codice:
 
 ```blocks3
 go to x: (0) y: (0) // add the sprite's position
 ```
 
-Repeat this task for the 🎂🎾🎁 **interesting object**.
+Ripeti questo processo per l'🎂🎾🎁 **oggetto interessante**.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Resize your sprites
+title: Ridimensiona i tuoi sprite
 ---
 
-To change the size of a sprite for the whole project, change the number in the **Size** property in the Sprite pane:
+Per modificare la dimensione di uno sprite per l'intero progetto, modifica il numero nella proprietà **Dimensione** nel riquadro Sprite:
 
 ![](images/sprite-pane-size.png)
 
-To change the size of a sprite for part of the project, add code to `set size to`{:class="block3looks"} the size of your choice. This option is good if you want your sprite to change size in the project.
+Per modificare la dimensione di uno sprite per una parte del progetto, aggiungi il blocco `porta la dimensione a`{:class="block3looks"} e imposta la dimensione che preferisci. Questa opzione è utile se vuoi che il tuo sprite cambi dimensione nel progetto.
 
 ```blocks3
 set size to [100] % // <100 is smaller, >100 is bigger
@@ -93,20 +93,20 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: Set the costumes of your sprites
+title: imposta i costumi dei tuoi sprite
 ---
 
-To change the costume of a sprite for the whole project, click on the **Costumes** tab and select one of the available costumes:
+Per cambiare il costume di uno sprite per l'intero progetto, clicca sulla scheda **Costumi** e seleziona uno dei costumi disponibili:
 
-![The Costumes tab, with the available costumes for a sprite.](images/nano-costumes.png)
+![La scheda Costumi, con i costumi disponibili per uno sprite.](images/nano-costumes.png)
 
-To change the costume of a sprite for part of the project, add a `switch costume to`{:class="block3looks"} block to your code and update it to show the costume of your choice:
+Per cambiare il costume di uno sprite per una parte del progetto, aggiungi un blocco `passa al costume`{:class="block3looks"} al tuo codice e aggiornalo per mostrare il costume di tua scelta:
 
 ```blocks3
 switch costume to [ v]  // update this for your chosen costume
 ```
 
-To hide a sprite at the start of the project, add a `hide`{:class="block3looks"} block to your code:
+Per nascondere uno sprite all'inizio del progetto, aggiungi un blocco `nascondi`{:class="block3looks"} al tuo codice:
 
 ```blocks3
 hide 
@@ -116,16 +116,16 @@ hide
 
 --- collapse ---
 ---
-title: Set the direction of your sprites
+title: Imposta la direzione dei tuoi sprite
 ---
 
-Your sprites might be facing the wrong way when you add them to your project.
+I tuoi sprite potrebbero essere rivolti nella direzione sbagliata quando li aggiungi al tuo progetto.
 
-To change the direction of a sprite for the whole project, change the **Direction** and **rotation style** in the Sprite pane:
+Per cambiare la direzione di uno sprite per l'intero progetto, cambia la **Direzione** e lo **stile di rotazione** nel riquadro degli Sprite:
 
-![The Direction and rotation style menu in the Sprite pane.](images/sprite-pane-direction.png)
+![Il menu Direzione e stile di rotazione nel riquadro degli Sprite.](images/sprite-pane-direction.png)
 
-To change the direction of a sprite for part of the project, add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}:
+Per cambiare la direzione di uno sprite per una parte del progetto, aggiungi i blocchi `usa stile rotazione`{:class="block3motion"} e `punta in direzione`{:class="block3motion"}:
 
 ```blocks3
 set rotation style [left-right v]
@@ -138,7 +138,7 @@ point in direction (-90) // turn to the left
 
 --- task ---
 
-Save your project.
+Salva il tuo progetto.
 
 [[[generic-scratch3-saving]]]
 
