@@ -1,23 +1,23 @@
-## Quick quiz
+## Quiz veloce
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Rispondi alle tre domande. Ci sono suggerimenti per aiutarti a trovare la risposta corretta.
 
-When you have answered each question, click on **Check my answer**.
+Dopo aver risposto a ciascuna domanda, fai clic su **Controlla la mia risposta**.
 
-Have fun!
+Divertiti!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Domanda 1 di 3
 ---
 
-In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
+Nel tuo progetto hai realizzato un'animazione con una sorpresa. Fai clic sulla bandierina verde per eseguire l'animazione qui sotto, poi eseguila di nuovo.
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Did you notice anything odd the second time? The surprise was ruined! What code block would you add to make the surprise work?
+Hai notato qualcosa di strano la seconda volta? La sorpresa è stata rovinata! Quale blocco di codice aggiungeresti per far funzionare la sorpresa?
 
 --- choices ---
 
@@ -28,7 +28,7 @@ set size to (150) %
 
   --- feedback ---
 
- The **egg** sprite is the correct size when you run the program again.
+ Lo sprite **egg** ha le dimensioni corrette quando esegui nuovamente il programma.
 
   --- /feedback ---
 
@@ -39,7 +39,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Yes. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
+ Sì. Devi fare in modo che lo sprite passi al costume corretto (**egg-a**) quando inizia il progetto.
 
   --- /feedback ---
 
@@ -50,7 +50,7 @@ show
 
   --- feedback ---
 
- You often need to remember to make a sprite show when the green flag is clicked, but in the project in the question, the **egg** sprite does show.
+ Devi ricordarti di mostrare uno sprite quando si fa clic sulla bandierina verde, ma nel progetto in questione viene visualizzato lo sprite **egg**.
 
   --- /feedback ---
 
@@ -61,7 +61,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- The **egg** sprite does go to the correct starting position on the Stage.
+ Lo sprite **egg** va nella posizione iniziale corretta sullo Stage.
 
   --- /feedback ---
 
