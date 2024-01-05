@@ -1,35 +1,35 @@
-add the sprite's position
+aggiungi la posizione dello sprite
 
-<100 is smaller, >100 is bigger
+<100 è più piccolo, >100 è più grande
 
-update this for your chosen costume
+aggiorna questo per il costume scelto
 
-turn to the left
+gira a sinistra
 
-add blocks to set up the start
+aggiungi blocchi per impostare l'inizio
 
-starting size
+dimensione iniziale
 
-starting position
+posizione iniziale
 
-change the number to create your time delay
+cambia il numero per creare il ritardo
 
 setup
 
-curiosity
+curiosità
 
-reaction
+reazione
 
 reset
 
-surprise
+sorpresa
 
 Hmm...
 
 BOO!
 
-What ever is this?
+Cos'è mai questo?
 
-Kitty, have you been messing with my potions again?
+Kitty, hai di nuovo giocato con le mie pozioni?
 
-Cat gotta haz milk.
+Micio vuole la pappa.
