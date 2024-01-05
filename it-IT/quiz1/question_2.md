@@ -1,15 +1,15 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Domanda 2 di 3
 ---
 
-In your project, you controlled your animation with `wait`{:class="block3control"} blocks.
+Nel tuo progetto, hai controllato l'animazione con il blocco `attendi`{:class="block3control"}.
 
-In this dinosaur project, you want the little dinosaur to wait 6 seconds before it pops out of the egg and surprises the big dinosaur.
+In questo progetto sul dinosauro, vuoi che il piccolo dinosauro aspetti 6 secondi prima di uscire dall'uovo e sorprendere il grande dinosauro.
 
-![A dinosaur sprite and an egg sprite on the Stage.](images/quiz-q2.png)
+![Uno sprite di dinosauro e uno sprite di uovo sullo Stage.](images/quiz-q2.png)
 
-Which script for the **little dinosaur** sprite would make this happen?
+Quale script per lo sprite **piccolo dinosauro** crea questa scena?
 
 --- choices ---
 
@@ -21,7 +21,7 @@ show
 
   --- feedback ---
 
-This script needs user interaction for the little dinosaur to show.
+Questo script ha bisogno di un'interazione utente per far apparire il piccolo dinosauro.
 
   --- /feedback ---
 
@@ -34,7 +34,7 @@ wait [6] seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
+ Qui, il piccolo dinosauro sorprende il grande dinoauro, e poi aspetta 6 secondi.
 
   --- /feedback ---
 
@@ -47,7 +47,7 @@ show
 
   --- feedback ---
 
- After 6 seconds, the little dinosaur appears and surprises the big dinosaur!
+ Dopo 6 secondi, il piccolo dinosauro appare e sorprende il grande dinosauro!
 
   --- /feedback ---
 
