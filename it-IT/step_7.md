@@ -1,32 +1,32 @@
-## Share and play
+## Condividi e gioca
 
-If you are in a club, why not share your project with friends and peers?
+Se fai parte di un club, perché non condividere il tuo progetto con gli amici e compagni?
 
-You could also show your family how your project works.
+Potresti anche mostrare alla tua famiglia come funziona il tuo progetto.
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+Se hai un account Scratch, puoi condividere il tuo progetto tramite Scratch. Puoi inviare un collegamento alle persone che conosci e l'intera comunità di Scratch sarà in grado di trovare il tuo progetto e provarlo.
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+Perché non invitare i tuoi amici a creare un progetto? Fagli sapere come ti sei divertito.
 
-If you have a Scratch account, and have shared your 'Surprise! animation' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+Se hai un account Scratch e hai condiviso il tuo progetto 'Sorpresa! animazione', tieni d'occhio i commenti che altri potrebbero fare sulla tua creazione. Il feedback è un ottimo modo per riflettere sul tuo lavoro. Ignora eventuali commenti inutili o irrilevanti.
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire the Raspberry Pi Foundation community with your project!
+Ispira la comunità della Raspberry Pi Foundation con il tuo progetto!
 
-To submit your project to our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Per inviare il tuo progetto al nostro [' Sorpresa! animazione — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}, completa [questo modulo](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
 
-### Community submissions
+### Contributi della comunità
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
+Dai un'occhiata a questi favolosi progetti comunitari del nostro progetto ['Sorpresa! animazione — Scratch studio della community](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
@@ -35,7 +35,7 @@ Take a look at these fabulous community projects from our ['Surprise! animation 
 </div>
 --- task ---
 
-You can also look at the remixes for the [Surprise animation starter project](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} to see what other creators have made.
+Puoi anche guardare i remix del [progetto iniziale di animazione Sorpresa](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} per vedere cosa hanno realizzato altri creatori.
 
 --- /task ---
 
