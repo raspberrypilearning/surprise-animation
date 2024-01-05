@@ -1,6 +1,6 @@
-## What next?
+## E adesso?
 
-If you are following the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathway/scratch-intro) pathway, you can move on to the [I made you a book](https://projects.raspberrypi.org/en/projects/i-made-you-a-book) project. In this project, you will make a book in Scratch based on your own idea.
+Se stai seguendo il percorso [Introduzione a Scratch](https://projects.raspberrypi.org/en/pathway/scratch-intro), puoi passare al progetto [Ho creato un libro per te](https://projects.raspberrypi.org/en/projects/i-made-you-a-book). In questo progetto, realizzerai un libro in Scratch basato su una tua idea.
 
 --- no-print ---
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -11,10 +11,10 @@ If you are following the [Introduction to Scratch](https://projects.raspberrypi.
 
 --- print-only ---
 
-![An 'I made you a book' project.](images/book-cover.png)
+![Un progetto 'Ho creato un libro per te'.](images/book-cover.png)
 
 --- /print-only ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+Se vuoi divertirti ancora di più esplorando Scratch, puoi provare uno qualsiasi di [questi progetti](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
 
 
