@@ -1,0 +1,35 @@
+aggiungi la posizione dello sprite
+
+<100 è più piccolo, >100 è più grande
+
+aggiorna questo per il costume scelto
+
+gira a sinistra
+
+aggiungi blocchi per impostare l'inizio
+
+dimensione iniziale
+
+posizione iniziale
+
+cambia il numero per creare il ritardo
+
+setup
+
+curiosità
+
+reazione
+
+reset
+
+sorpresa
+
+Hmm...
+
+BOO!
+
+Cos'è mai questo?
+
+Kitty, hai di nuovo giocato con le mie pozioni?
+
+Micio vuole la pappa.
