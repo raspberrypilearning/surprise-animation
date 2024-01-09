@@ -2,7 +2,7 @@
 
 Masz pomysł na swoją animację?
 
-Dodaj tło 🖼️, głównego bohatera 🐙👩‍🦼🦖 i interesujący obiekt 🎂🎾🎁, aby stworzyć**pierwszą część** twojej animacji.
+Dodaj tło 🖼️, głównego bohatera 🐙👩‍🦼🦖 i interesujący obiekt 🎂🎾🎁, aby stworzyć **pierwszą część** twojej animacji.
 
 ![Taśma filmowa z 3 klatkami. Pierwsza klatka jest podświetlona. Ramka przedstawia scenę z postacią, obiektem i tłem.](images/scene.png)
 
