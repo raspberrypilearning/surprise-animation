@@ -43,7 +43,7 @@ Niektóre osoby nazywane <span style="color: #0faeb0">**projektantami narracji**
 
 --- task ---
 
-**Wybierz:** Wybierz duszka, który będzie 🐙👩‍🦼🦖 **głównym bohaterem**, innego duszka 🎂🎾🎁 **interesującym obiektem** i 🖼️ **tłem**, aby ustawić scenę.
+**Wybierz:** Wybierz duszka, który będzie 🐙👩‍🦼🦖 **głównym bohaterem**, innego duszka który będzie🎂🎾🎁 **interesującym obiektem** i 🖼️ **tło**, aby ustawić scenę.
 
 ![Dwie ikony Wybierz duszka i ikonę Wybierz tło.](images/sprites-and-backdrop.png)
 
@@ -57,7 +57,7 @@ Gdzie Twoje duszki mają zaczynać? Jak duże mają być? Jak chcesz, żeby wygl
 
 Dodaj blok {:class="block3events"}`kiedy kliknięto flagę`, a następnie poniżej dodaj bloki, aby ustawić swoje duszki na początku animacji.
 
-**Wskazówka:** Pamiętaj, aby ustawić zarówno swojego 🐙👩‍🦼🦖 **głównego bohatera**, jak i swojego 🎂🎾🎁 **interesujący obiekt** duszki.
+**Wskazówka:** Pamiętaj, aby ustawić zarówno swojego 🐙👩‍🦼🦖 **głównego bohatera**, jak i duszka, który będzie twoim 🎂🎾🎁 **interesującym obiektem**.
 
 --- collapse ---
 ---
