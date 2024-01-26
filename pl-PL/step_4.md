@@ -40,7 +40,7 @@ Można dodać zaskakujący strój do duszka, aby później mógł `zmień kostiu
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-Możesz sprawić, by duszek zmienił się w innego duszka — aby to zrobić, `ukryj`{:class="block3looks"} 🎂🎾🎁 **interesujący obiekt** duszek w tym samym czasie, gdy `pokaż`{:class= "block3looks"} inny duszek.
+Możesz sprawić, by duszek zmienił się w innego duszka — aby to zrobić, `ukryj`{:class="block3looks"} 🎂🎾🎁 **interesujący obiekt** duszek w tym samym czasie, gdy `pokaż`{:class="block3looks"} inny duszek.
 
 --- collapse ---
 ---
