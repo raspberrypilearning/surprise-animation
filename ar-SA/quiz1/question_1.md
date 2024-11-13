@@ -1,23 +1,23 @@
 ## اختبار سريع
 
-اجب على الاسئلة الثلاثة. There are hints to guide you to the correct answer.
+اجب على الاسئلة الثلاثة. هناك تلميحات لإرشادك إلى الإجابة الصحيحة.
 
-When you have answered each question, click on **Check my answer**.
+عندما تجيب على كل سؤال ، انقر فوق **تحقق من الإجابة**. سيتم توجيهك نحو الإجابة الصحيحة.
 
-Have fun!
+إستمتع!
 
 --- question ---
 ---
 legend: السؤال 1 من 3
 ---
 
-In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
+في مشروعك ، قمت بعمل رسوم متحركة مفاجأة. انقر فوق العلم الأخضر لتشغيل الرسم المتحرك أدناه ، ثم قم بتشغيله مرة أخرى.
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Did you notice anything odd the second time? The surprise was ruined! What code block would you add to make the surprise work?
+هل لاحظت أي شيء غريب في المرة الثانية؟ المفاجأة دمرت! ماهي كتلة التعليمات البرمجية التي ستضيفها لجعل المفاجأة تعمل؟
 
 --- choices ---
 
@@ -28,7 +28,7 @@ set size to (150) %
 
   --- feedback ---
 
- The **egg** sprite is the correct size when you run the program again.
+ كائن ال**بيضة** في حجمه الصحيح عند تشغيل البرنامج مرة أخرى.
 
   --- /feedback ---
 
@@ -39,7 +39,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Yes. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
+ نعم. تحتاج إلى تبديل زي الكائن إلى الزي الصحيح (**egg-a**) عند بدء المشروع.
 
   --- /feedback ---
 
@@ -50,7 +50,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- You often need to remember to make a sprite show when the green flag is clicked, but in the project in the question, the **egg** sprite does show.
+ غالبًا ما تحتاج إلى تذكر عمل مشاهدة للكائن عند النقر فوق العلم الأخضر ، ولكن في المشروع في السؤال ، يظهر الكائن **بيضة**.
 
   --- /feedback ---
 
@@ -61,7 +61,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- The **egg** sprite does go to the correct starting position on the Stage.
+ تنتقل صورة كائن **البيضة** إلى موضع البداية الصحيح على المنصة.
 
   --- /feedback ---
 
