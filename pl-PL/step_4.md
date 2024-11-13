@@ -5,7 +5,7 @@ Teraz musisz dodać niespodziankę. Co może się stać z obiektem?
 - Czy zmieni się w postać?
 - Czy zniknie i odsłoni kolejnego duszka?
 
-Ty decydujesz! Utwórz ** trzecią część** swojej animacji.
+Ty decydujesz! Utwórz **trzecią część** swojej animacji.
 
 ![Taśma filmowa z 3 klatkami. Trzecia klatka jest podświetlona. Ramka przedstawia scenę, w której postać wygląda na zaskoczoną obiektem.](images/surprise.png)
 
@@ -47,7 +47,7 @@ Możesz sprawić, by duszek zmienił się w innego duszka — aby to zrobić, `u
 title: Ukryj i pokaż duszki
 ---
 
-🎂🎾🎁 **interesujący obiekt** sprite:
+Duszek 🎂🎾🎁 **interesujących obiektów**:
 ```blocks3
 when flag clicked
 show
@@ -55,7 +55,7 @@ wait (5) seconds
 hide
 ```
 
-🎷👻⚡**obiektów niespodzianek** sprite:
+Duszek 🎷👻⚡**obiektów niespodzianek**:
 ```blocks3
 when flag clicked
 hide
@@ -63,7 +63,7 @@ wait (5) seconds
 show
 ```
 
-**Wskazówka:** Jeśli stworzysz 🎷👻⚡**obiekt-niespodziankę** duszek `pokaż`{:class="block3looks"}, będziesz musiał to zrobić `ukryj`{:class="block3looks"} `po kliknięciu zielonej flagi`{:class="block3events"}.
+**Wskazówka:** Jeśli stworzysz 🎷👻⚡**obiekt-niespodziankę** duszek `pokaż`{:class="block3looks"}, będziesz musiał to zrobić `ukryj`{:class="block3looks"} `kiedy kliknięto zieloną flagę`{:class="block3events"}.
 
 --- /collapse ---
 
@@ -90,7 +90,7 @@ Jeśli niespodzianka wydarzy się w niewłaściwym czasie, możesz to naprawić:
 title: Niespodzianka zaczyna się w złym momencie
 ---
 
-Być może będziesz musiał zmienić czas w niektórych lub wszystkich blokach `wait`{:class="block3control"} lub dodać więcej bloków `wait`{:class="block3control"}, aby uzyskać właściwy czas.
+Być może będziesz musiał zmienić czas w niektórych lub wszystkich blokach `czekaj`{:class="block3control"} lub dodać więcej bloków `czekaj`{:class="block3control"}, aby uzyskać właściwy czas.
 
 --- /collapse ---
 
