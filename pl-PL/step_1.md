@@ -61,7 +61,7 @@ Zapoznaj się z tymi przykładowymi projektami, aby zdobyć więcej pomysłów. 
 
 ### Zdobądź pomysły 💭
 
-Podejmiesz decyzje projektowe i wymyślisz historię do swojej animacji z niespodzianką. Zastanów się, jaka może być Twoja historia i aby uzyskać więcej pomysłów, **Zajrzyj do środka** przykładowych projektów w sekcji „Niespodzianka! animacja — Przykłady Scratch studio: https://scratch.mit.edu/studios/29075822/
+Podejmiesz decyzje projektowe i wymyślisz historię do swojej animacji z niespodzianką. Zastanów się, jaka może być Twoja historia i aby uzyskać więcej pomysłów, **Zajrzyj do środka** przykładowych projektów w sekcji „Niespodzianka! animacja — Przykłady” Scratch studio: https://scratch.mit.edu/studios/29075822/
 
 Animacja składa się z trzech części:
 + Ciekawość
