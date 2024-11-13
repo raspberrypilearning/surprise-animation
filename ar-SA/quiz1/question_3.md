@@ -18,34 +18,34 @@
 
   --- feedback ---
 
- The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
+ جزء "الإعداد" يعيد تعيين الرسوم المتحركة الخاصة بك. يجب أن يأتي أولاً حتى يمكن تشغيل الرسوم المتحركة مرة أخرى بنفس الطريقة.
 
   --- /feedback ---
 
 - (x)
-+ Setup
++ تثبيت
 
-+ Curiosity
++ فضول
 
 + مفاجئة!
 
 
   --- feedback ---
 
- Yes! You set up your sprites first, then created curiosity then ended with a surprise.
+ نعم! لقد قمت بإعداد الكائنات الخاصة بك أولاً، ثم قمت بإنشاء الفضول ثم انتهيت بمفاجأة.
 
   --- /feedback ---
 
 - ( )
 + نظام
 
-+ Surprise!
++ مفاجئة!
 
-+ Curiosity
++ فضول
 
   --- feedback ---
 
- Curiosity was not at the end of the animation. Something came afterwards.
+ الفضول لم يكن في نهاية الرسوم المتحركة. شيء ما جاء بعد ذلك.
 
   --- /feedback ---
 
