@@ -1,9 +1,9 @@
 --- question ---
 ---
-القائمة: السؤال 2 من 3
+legend: السؤال 2 من 3
 ---
 
-In your project, you controlled your animation with `wait`{:class="block3control"} blocks.
+في مشروعك، قمت بالتحكم في الرسوم المتحركة الخاصة بك باستخدام كتلة `انتظر`{:class="block3control"}.
 
 في مشروع الديناصورات هذا ، تريد أن ينتظر الديناصور الصغير 6 ثوانٍ قبل أن يخرج من البيضة ويفاجأ الديناصور الكبير.
 
@@ -21,7 +21,7 @@ show
 
   --- feedback ---
 
-This script needs user interaction for the little dinosaur to show.
+يحتاج هذا الكود البرمجي إلى تفاعل المستخدم حتى يظهر الديناصور الصغير.
 
   --- /feedback ---
 
@@ -34,7 +34,7 @@ wait [6] seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
+ هنا ، يفاجئ الديناصور الصغير الديناصور الكبير ، ثم ينتظر 6 ثوان.
 
   --- /feedback ---
 
@@ -47,7 +47,7 @@ show
 
   --- feedback ---
 
- After 6 seconds, the little dinosaur appears and surprises the big dinosaur!
+ بعد 6 ثواني، يظهر الديناصور الصغير ويفاجئ الديناصور الكبير!
 
   --- /feedback ---
 
