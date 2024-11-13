@@ -3,7 +3,7 @@
 legend: Pytanie 2 z 3
 ---
 
-W swoim projekcie kontrolowałeś animację za pomocą `bloków oczekiwania` {:class="block3control"}.
+W swoim projekcie kontrolowałeś animację za pomocą bloków `czekaj` {:class="block3control"}.
 
 W tym projekcie dinozaurów chcesz, aby mały dinozaur poczekał 6 sekund, zanim wyskoczy z jaja i zaskoczy dużego dinozaura.
 
