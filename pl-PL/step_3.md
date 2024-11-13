@@ -16,7 +16,7 @@ Czy przedmiot zrobi coś, co przyciągnie uwagę? Jak zareaguje postać? Ty decy
 
 ![Tło pustyni ze skałą jiggling tam iz powrotem.](images/jiggle.gif)
 
-Dodaj bloki na końcu 🎂🎾🎁 **interesujących obiektów** `po kliknięciu zielonej flagi`{:class="block3events"} skryptu instalacyjnego.
+Dodaj bloki na końcu 🎂🎾🎁 **interesujących obiektów** `kiedy kliknięto zieloną flagę`{:class="block3events"} skryptu instalacyjnego.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -50,7 +50,7 @@ Postać może być odważna i podejść bliżej, aby sprawdzić obiekt.
 
 --- task ---
 
-**Test:** Kliknij zieloną flagę, aby przetestować swój projekt. 🐙👩‍🦼🦖 **główny bohater** powinien okazywać ciekawość obiektu.
+**Test:** Kliknij zieloną flagę, aby przetestować swój projekt. 🐙👩‍🦼🦖 **Główny bohater** powinien okazywać ciekawość obiektu.
 
 Ponownie kliknij zieloną flagę. Jeśli zmieniłeś 🎂🎾🎁 **interesujący obiekt** lub 🐙👩‍🦼🦖 **głównego bohatera** pozycję lub wygląd duszka, będziesz musiał upewnić się, że po ponownym uruchomieniu projektu zostaną one ustawione z powrotem w początkowej pozycji lub wyglądzie.
 
