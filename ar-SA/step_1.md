@@ -1,4 +1,4 @@
-## You will make
+## سوف تصنع
 
 Create a short animation 🎥 with a fun surprise 🎉!
 
@@ -36,7 +36,7 @@ The animation has three parts:
 
 --- /task ---
 
-### Get ideas 💭
+### احصل على أفكار 💭
 
 --- task ---
 
@@ -64,9 +64,9 @@ Play with these example projects to get ideas. Think about what your animation m
 ستتخذ قرارات التصميم وتفكر في قصة للرسوم المتحركة الخاصة بك مع المفاجأة. فكر في ما يمكن أن تكون عليه قصتك ، وللحصول على مزيد من الأفكار ، **انظر داخل** مثال على المشاريع في "مفاجأة! الرسوم المتحركة - أمثلة في استوديو سكراتش: https://scratch.mit.edu/studios/29075822/
 
 The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
++ فضول
++ مفاجئة!
++ رد الفعل
 
 ![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
 
