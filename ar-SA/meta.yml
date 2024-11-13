@@ -2,8 +2,8 @@
 title: مفاجئة! الرسوم المتحركة
 hero_image: images/banner.png
 description: قم بإنشاء رسم متحرك لقصة بمفاجأة
-meta_title: Scratch coding projects for kids and teens | Surprise! animation
-meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make a Scratch animation with a fun surprise.
+meta_title: مشاريع البرمجة باستخدام منصة سكراتش للأطفال والمراهقين |مفاجأة! الرسوم المتحركة
+meta_description: تعلم البرمجة في سكراتش باستخدام مشاريع البرمجة الخاصة بمؤسسة Raspberry Pi مؤسسة للأطفال والمراهقين. أنشئ رسومًا متحركة وألعابًا وتطبيقات من سكراتش والمزيد.
 version: 4
 listed: true
 copyedit: false
@@ -12,17 +12,17 @@ steps:
   - 
     title: المقدمة
   - 
-    title: Create your scene
+    title: اصنع مشهدك
   - 
-    title: Show curiosity
+    title: فضول
     completion:
       - engaged
   - 
-    title: Add a surprise!
+    title: أضف مفاجأة!
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: اختبار سريع
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -31,8 +31,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: قم بترقية مشروعك
   - 
-    title: Share and play
+    title: شارك والعب
   - 
-    title: What next?
+    title: ما التالي؟
