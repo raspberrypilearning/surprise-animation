@@ -55,7 +55,7 @@ Gdzie Twoje duszki mają zaczynać? Jak duże mają być? Jak chcesz, żeby wygl
 
 --- task ---
 
-Dodaj blok {:class="block3events"}`kiedy kliknięto flagę`, a następnie poniżej dodaj bloki, aby ustawić swoje duszki na początku animacji.
+Dodaj blok `kiedy kliknięto flagę`{:class="block3events"}, a następnie poniżej dodaj bloki, aby ustawić swoje duszki na początku animacji.
 
 **Wskazówka:** Pamiętaj, aby ustawić zarówno swojego 🐙👩‍🦼🦖 **głównego bohatera**, jak i duszka, który będzie twoim 🎂🎾🎁 **interesującym obiektem**.
 
@@ -64,7 +64,7 @@ Dodaj blok {:class="block3events"}`kiedy kliknięto flagę`, a następnie poniż
 title: Ustaw swoje duszki
 ---
 
-Przesuń 🐙👩‍🦼🦖 **głównego bohatera** w wybrane miejsce na scenie, a następnie dodaj blok `go to x: y:`{:class="block3motion"} do swojego kodu:
+Przesuń 🐙👩‍🦼🦖 **głównego bohatera** w wybrane miejsce na scenie, a następnie dodaj blok `idź do x: y:`{:class="block3motion"} do swojego kodu:
 
 ```blocks3
 go to x: (0) y: (0) // add the sprite's position
@@ -121,7 +121,7 @@ title: Ustaw kierunek swoich duszków
 
 Twoje duszki mogą być skierowane w złą stronę, gdy dodasz je do swojego projektu.
 
-Aby zmienić kierunek duszka dla całego projektu, zmień **Kierunek** i **styl obrotu ** w panelu duszka:
+Aby zmienić kierunek duszka dla całego projektu, zmień **Kierunek** i **styl obrotu** w panelu duszka:
 
 ![Menu Kierunek i styl obrotu w panelu duszka.](images/sprite-pane-direction.png)
 
