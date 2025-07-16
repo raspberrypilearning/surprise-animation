@@ -1,12 +1,12 @@
-## You will make
+## Das wirst du machen
 
-Create a short animation 🎥 with a fun surprise 🎉!
+Erstelle eine kurze Animation 🎥 mit einer lustigen Überraschung 🎉!
 
-You will:
+Du wirst:
 
-+ Create your own animation
-+ Test and debug your code
-+ Build your animation one part at a time
++ Deine eigene Animation erstellen
++ Dein Projekt testen und Fehler suchen und beheben
++ Erstelle deine Animation Schritt für Schritt
 
 ![Examples of projects.](images/surprise-example.png)
 
@@ -17,14 +17,14 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Play ▶️ 
+### Spielen ▶️ 
 
-Click on the green flag to watch the animation.
+Klicke auf die grüne Flagge, um die Animation anzusehen.
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+Die Animation besteht aus drei Teilen:
++ Neugier
++ Überraschung!
++ Reaktion
 
 </div>
 <div>
