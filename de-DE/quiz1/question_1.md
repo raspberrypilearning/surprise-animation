@@ -1,6 +1,6 @@
-## Quick quiz
+## Kurzes Quiz
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Beantworte die drei Fragen. Hinweise helfen dir beim Finden der richtigen Antwort.
 
 When you have answered each question, click on **Check my answer**.
 
