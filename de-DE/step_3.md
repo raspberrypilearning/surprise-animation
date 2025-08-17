@@ -1,22 +1,22 @@
-## Show curiosity
+## Zeige Neugier
 
-Will the object do something to attract attention? How will the character react? You decide! Create the **second part** of your animation.
+Wird das Objekt etwas tun, um Aufmerksamkeit zu erregen? Wie wird der Charakter reagieren? Es ist deine Entscheidung! Erstelle den **zweiten Teil** deiner Animation.
 
-![A film strip with 3 frames. The second frame is highlighted. The frame shows a scene with character thinking 'hmmmm' while looking at a curious object.](images/curiosity.png)
+![Ein Filmstreifen mit 3 Bildern. Der zweite Rahmen (frame) ist hervorgehoben. Der Rahmen zeigt eine Szene, in der der Charakter „hmmmm“ denkt, während er ein merkwürdiges Objekt betrachtet.](images/curiosity.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. In this step you will focus only on the curiosity part of your animation.
+  <span style="color: #0faeb0">**Zerlegung**</span> ist die Aufteilung eines Projekts in kleinere und leichter verständliche Teile. Dies bedeutet, dass du ein Projekt Stück für Stück aufbauen kannst, bis du es abgeschlossen hast. In diesem Schritt konzentrierst du dich nur auf den Neugier-Teil deiner Animation.
 </p>
 
-### The object
+### Das Objekt
 
 --- task ---
 
-**Choose:** If you want the 🎂🎾🎁 **interesting object** to do something to attract attention, choose what the object will do.
+**Wähle:** Wenn das 🎂🎾🎁 **interessante Objekt** etwas tun soll, um Aufmerksamkeit zu erregen, wähle aus, was das Objekt tun soll.
 
-![A desert background with a rock jiggling back and forth.](images/jiggle.gif)
+![Ein Wüstenhintergrund mit einem hin und her wackelnden Felsen.](images/jiggle.gif)
 
-Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green flag clicked`{:class="block3events"} setup script.
+Füge Blöcke in deinem🎂🎾🎁 **interessanten Objekt** am Ende des `Wenn grüne Flagge angeklickt wird`{:class="block3events"}-Skripts hinzu.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -24,25 +24,25 @@ Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green f
 
 --- /task ---
 
-### The character
+### Der Charakter
 
 --- task ---
 
-Get the 🐙👩‍🦼🦖 **main character** to show interest in the object. Add blocks to the end of the 🐙👩‍🦼🦖 **main character's** setup script.
+Bringe die 🐙👩‍🦼🦖 **Hauptfigur** dazu, Interesse an dem Objekt zu zeigen. Füge Blöcke am Ende des Setup-Skripts der 🐙👩‍🦼🦖 **Hauptfigur** hinzu.
 
-If you need the 🐙👩‍🦼🦖 **main character** to wait until the 🎂🎾🎁 **interesting object** has done something, add a `wait`{:class="block3control"} block.
+Wenn die 🐙👩‍🦼🦖 **Hauptfigur** warten soll, bis das 🎂🎾🎁 **interessante Objekt** etwas getan hat, füge einen `warte`{:class="block3control"}-Block hinzu.
 
-![A desert background with a rock jiggling back and forth.](images/bear.gif)
+![Ein Wüstenhintergrund mit einem hin und her wackelnden Felsen.](images/bear.gif)
 
-You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
+Du könntest `sage`{:class="block3looks"} oder `denke`{:class="block3looks"}-Blöcke verwenden, oder sogar die Erweiterung `Text zu Sprache`{:class="block3extensions"}, um die Figur laut sprechen zu lassen!
 
 [[[scratch3-text-to-speech]]]
 
-The character could emote, like in the [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project.
+Der Charakter könnte Emotionen zeigen, wie im Projekt [Weltraumgespräch](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-The character could be brave and move closer to check out the object.
+Der Charakter könnte mutig sein und näher herangehen, um das Objekt zu erkunden.
 
 [[[scratch3-animate-movement-costumes]]]
 
@@ -50,16 +50,16 @@ The character could be brave and move closer to check out the object.
 
 --- task ---
 
-**Test:** Click on the green flag to test your project. The 🐙👩‍🦼🦖 **main character** should show curiosity about the object.
+**Test:** Klicke auf die grüne Flagge, um dein Projekt zu testen. Die 🐙👩‍🦼🦖 **Hauptfigur** sollte Neugierde hinsichtlich des Objekts zeigen.
 
-Click on the green flag again. If you changed the 🎂🎾🎁 **interesting object** or 🐙👩‍🦼🦖 **main character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
+Klicke erneut auf die grüne Flagge. If you changed the 🎂🎾🎁 **interesting object** or 🐙👩‍🦼🦖 **main character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
 
 --- collapse ---
 ---
-title: Set the starting position and looks for a sprite
+title: Lege die Startposition und das Aussehen einer Figur fest
 ---
 
-Choose the blocks that you need to set the position and looks for a sprite at the start.
+Wähle die Blöcke aus, um die Position und das Aussehen beim Start festzulegen.
 
 ```blocks3
 when flag clicked // add blocks to set up the start 
@@ -79,23 +79,23 @@ show
 
 --- task ---
 
-**Debug:**
+**Fehlersuche:**
 
 --- collapse ---
 ---
-title: The sound is not working
+title: Der Ton funktioniert nicht
 ---
 
-Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
+Überprüfe, ob die Lautstärke deines Computers oder Tablets hoch genug ist und ob deine Lautsprecher oder Kopfhörer angeschlossen sind und ordnungsgemäß funktionieren.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My animation does not reset properly when I click on the green flag
+title: Meine Animation wird nicht richtig zurückgesetzt, wenn ich auf die grüne Flagge klicke
 ---
 
-Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
+Überprüfe, ob dein Projekt `wenn grüne Flagge angeklickt wird`{:class="block3events"}-Skripte für die Figuren enthält, die dies benötigen und dort die Position, Größe und das Aussehen der Figuren zurückgesetzt werden. Hilfe hierzu findest du in der obigen Aufgabe **Lege die Startposition und das Aussehen einer Figur fest **.
 
 --- /collapse ---
 
