@@ -1,21 +1,21 @@
-## Upgrade your project
+## Verbessere dein Projekt
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You could upgrade your project by adding a reaction. How will your main character react? 
+Du könntest dein Projekt durch das Hinzufügen einer Reaktion verbessern. Wie wird dein Hauptcharakter reagieren? 
 
-You decide!
+Es ist deine Entscheidung!
 </div>
 <div>
 
-![The 'Trespasser' project showing the reaction to the surprise.](images/tresspass.png)
+![Das „Unbefugtes Betreten“-Projekt zeigt die Reaktion auf die Überraschung.](images/tresspass.png)
 
 </div>
 </div>
 
 --- task ---
 
-What will they do? Will they say something, make a sound, change costumes, or move?
+Was werden sie tun? Werden die Figuren etwas sagen, ein Geräusch machen, das Kostüm wechseln oder sich bewegen?
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
@@ -33,26 +33,26 @@ What will they do? Will they say something, make a sound, change costumes, or mo
 
 --- task ---
 
-You could also:
-+ Add to or improve your animation, with movement, looks, and graphic effects
-+ Create or edit costumes in the Paint editor to make them look the way that you want
-+ Record your voice or record sound effects and add the new sounds to your project
+Du könntest auch:
++ Ergänze oder verbessere deine Animation durch Bewegung, Aussehen und grafischen Effekten
++ Erstelle oder bearbeite deine Kostüme im Zeichen-Editor, um ihnen das gewünschte Aussehen zu verleihen
++ Nehme deine Stimme auf oder nehme Soundeffekte auf und füge die neuen Sounds deinem Projekt hinzu
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Professional programmers explore and take inspiration from code created by other programmers. 
+Professionelle Programmierer erkunden den Code anderer Programmierer und lassen sich davon inspirieren. 
 </p>
 
 --- task ---
 
-You can also look at the remixes for the [Surprise animation starter project](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} to see what other creators have made.
+Du kannst dir auch die Remixe für das [Überraschung! Animation Starter-Projekt](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} ansehen, um zu sehen, was andere Ersteller gemacht haben.
 
 --- /task ---
 
 --- task ---
 
-Each project in the ['Surprise! animation — Examples' Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Jedes Projekt in der [„Überraschung! Animation – Beispiele" Scratch Studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} hat einen **Schau hinein** Link, mit dem du das Projekt im Scratch-Editor öffnen und den Code ansehen kannst, um Ideen zu sammeln und zu sehen, wie das Projekt funktioniert.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
@@ -61,7 +61,7 @@ Each project in the ['Surprise! animation — Examples' Scratch studio](https://
 
 --- task ---
 
-Take a look at our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} to see projects created by community members.
+Schau dir unsere [„Überraschung! Animation – Community" Scratch-Studio ](https://scratch.mit.edu/studios/29079784){:target="_blank"} an, um von Community-Mitgliedern erstellte Projekte anzusehen.
 
 --- /task ---
 
