@@ -42,7 +42,7 @@ Die Animation besteht aus drei Teilen:
 
 Probiere diese Beispielprojekte aus, um Ideen zu bekommen. Überlege, wie deine Animation aussehen könnte, und hole dir einige Ideen bei diesen Beispielprojekten:
 
-⭐ Share your finished Surprise animation project for a chance of it being featured here.
+⭐ Teile dein fertiges Überraschung! Animations-Projekt - mit etwas Glück wird es hier vorgestellt.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
@@ -61,7 +61,7 @@ Probiere diese Beispielprojekte aus, um Ideen zu bekommen. Überlege, wie deine 
 
 ### Hole dir Ideen 💭
 
-You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
+Du wirst Entscheidungen zum Design (Aussehen) treffen und denkst dir eine Geschichte mit einer Überraschung für deine Animation aus. Denke darüber nach, wie deine Geschichte aussehen könnte. **Schau hinein** und sammle weitere Ideen mit den Beispielprojekten in „Überraschung! Animation – Beispiele" aus Scratch Studio: https://scratch.mit.edu/studios/29075822/
 
 Die Animation besteht aus drei Teilen:
 + Neugier
