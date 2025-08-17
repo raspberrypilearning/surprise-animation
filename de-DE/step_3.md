@@ -52,7 +52,7 @@ Der Charakter könnte mutig sein und näher herangehen, um das Objekt zu erkunde
 
 **Test:** Klicke auf die grüne Flagge, um dein Projekt zu testen. Die 🐙👩‍🦼🦖 **Hauptfigur** sollte Neugierde hinsichtlich des Objekts zeigen.
 
-Klicke erneut auf die grüne Flagge. If you changed the 🎂🎾🎁 **interesting object** or 🐙👩‍🦼🦖 **main character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
+Klicke erneut auf die grüne Flagge. Wenn du die Position oder das Aussehen der Figur 🎂🎾🎁 **interessantes Objekt** oder 🐙👩‍🦼🦖 **Hauptfigur** geändert hast, achte darauf, dass diese beim erneuten Ausführen des Projekts auf ihre ursprüngliche Position oder Aussehen zurückgesetzt werden.
 
 --- collapse ---
 ---
@@ -71,7 +71,7 @@ set [brightness v] effect to [80]
 show
 ```
 
-**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want the sprite to have.
+**Tipp:** Alle Grafikeffekte werden gelöscht, wenn du auf die grüne Flagge klickst. Diese musst du also nicht löschen. Aber möglicherweise musst du die Effekte festlegen, die die Figur haben soll.
 
 --- /collapse ---
 
