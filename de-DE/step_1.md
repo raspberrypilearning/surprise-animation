@@ -8,7 +8,7 @@ Du wirst:
 + Dein Projekt testen und Fehler suchen und beheben
 + Erstelle deine Animation Schritt für Schritt
 
-![Examples of projects.](images/surprise-example.png)
+![Beispielprojekte.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -36,11 +36,11 @@ Die Animation besteht aus drei Teilen:
 
 --- /task ---
 
-### Get ideas 💭
+### Hole dir Ideen 💭
 
 --- task ---
 
-Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
+Probiere diese Beispielprojekte aus, um Ideen zu bekommen. Überlege, wie deine Animation aussehen könnte, und hole dir einige Ideen bei diesen Beispielprojekten:
 
 ⭐ Share your finished Surprise animation project for a chance of it being featured here.
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -59,16 +59,16 @@ Play with these example projects to get ideas. Think about what your animation m
 
 --- print-only ---
 
-### Get ideas 💭
+### Hole dir Ideen 💭
 
 You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+Die Animation besteht aus drei Teilen:
++ Neugier
++ Überraschung!
++ Reaktion
 
-![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
+![Das „BUH!“-Projekt.](images/boo.png) ![Das Projekt „Katzenmagie“.](images/cat-magic.png)
 
 --- /print-only ---
 
