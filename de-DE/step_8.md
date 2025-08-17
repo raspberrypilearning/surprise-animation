@@ -11,10 +11,10 @@ Wenn du dem Pfad [Einführung in Scratch](https://projects.raspberrypi.org/en/pa
 
 --- print-only ---
 
-![An 'I made you a book' project.](images/book-cover.png)
+![Ein „Ich habe dir ein Buch gemacht“-Projekt.](images/book-cover.png)
 
 --- /print-only ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+Wenn du mehr Spaß beim Erkunden von Scratch haben möchten, kannst du eines [dieser Projekte](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201)ausprobieren.
 
 
