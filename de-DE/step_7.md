@@ -1,16 +1,16 @@
-## Share and play
+## Teile und spiele
 
-If you are in a club, why not share your project with friends and peers?
+Wenn du Mitglied in einem Club bist, warum teilst du dein Projekt nicht mit Freunden und anderen Mitgliedern?
 
-You could also show your family how your project works.
+Du könntest auch deiner Familie zeigen, wie dein Projekt funktioniert.
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+Wenn du ein Scratch-Konto hast, kannst du dein Projekt über Scratch teilen. Du kannst einen Link an Personen senden, die du kennst, und die gesamte Scratch-Community kann dein Projekt finden und ausprobieren.
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+Warum nicht deine Freunde einladen, ein Projekt zu erstellen? Lass sie wissen, wie viel Spaß du hattest.
 
-If you have a Scratch account, and have shared your 'Surprise! animation' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+If you have a Scratch account, and have shared your 'Surprise! Animation“ geteilt hast, behalte die Kommentare im Auge, die andere zu deiner Kreation abgeben. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
 
 [[[comments-feedback-scratch]]]
 
