@@ -10,23 +10,23 @@ Wenn du ein Scratch-Konto hast, kannst du dein Projekt über Scratch teilen. Du 
 
 Warum nicht deine Freunde einladen, ein Projekt zu erstellen? Lass sie wissen, wie viel Spaß du hattest.
 
-If you have a Scratch account, and have shared your 'Surprise! Animation“ geteilt hast, behalte die Kommentare im Auge, die andere zu deiner Kreation abgeben. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+Wenn du ein Scratch-Konto hast und dein Projekt „Überraschung! Animation“ geteilt hast, behalte die Kommentare im Auge, die andere zu deiner Kreation abgeben. Feedback ist eine großartige Möglichkeit, über deine Arbeit nachzudenken. Ignoriere alle Kommentare, die nicht hilfreich oder irrelevant sind.
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire the Raspberry Pi Foundation community with your project!
+Begeistere die Raspberry Pi Foundation Community mit deinem Projekt!
 
-To submit your project to our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Um dein Projekt bei unserer [„Überraschung! Animation – Community" Scratch Studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} einzureichen, fülle bitte [dieses Formular](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} aus.
 
 --- /task ---
 
-### Community submissions
+### Community Einreichungen
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
+Schau dir diese fantastischen Community-Projekte unserer [„Überraschung! Animation – Community" Scratch Studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} an:
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
@@ -35,7 +35,7 @@ Take a look at these fabulous community projects from our ['Surprise! animation 
 </div>
 --- task ---
 
-You can also look at the remixes for the [Surprise animation starter project](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} to see what other creators have made.
+Du kannst dir auch die Remixe für das [Überraschung! Animation Starter-Projekt](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} ansehen, um zu sehen, was andere Ersteller gemacht haben.
 
 --- /task ---
 
