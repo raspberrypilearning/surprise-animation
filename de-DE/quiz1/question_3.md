@@ -1,51 +1,51 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Frage 3 von 3
 ---
 
-You created your animation by breaking it into parts and building it in the order in which it runs.
+Du hast deine Animation erstellt, indem du sie in Teile zerlegt und in der Reihenfolge erstellt hast, in der sie abläuft.
 
-Which order represents the animation that you made?
+Welche Reihenfolge stellt die von dir erstellte Animation dar?
 
 --- choices ---
 
 - ( )
-+ Curiosity
++ Neugier
 
-+ Setup
++ Vorbereitung
 
-+ Surprise!
++ Überraschung!
 
   --- feedback ---
 
- The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
+ Der „Vorbereitungs“-Teil setzt deine Animation zurück. Es muss als Erstes kommen werden, damit deine Animation auf die gleiche Weise erneut ausgeführt werden kann.
 
   --- /feedback ---
 
 - (x)
-+ Setup
++ Vorbereitung
 
-+ Curiosity
++ Neugier
 
-+ Surprise!
++ Überraschung!
 
 
   --- feedback ---
 
- Yes! You set up your sprites first, then created curiosity then ended with a surprise.
+ Genau richtig! Du hast zuerst deine Figuren eingerichtet, dann die Neugier geweckt und am Ende für eine Überraschung gesorgt.
 
   --- /feedback ---
 
 - ( )
-+ Setup
++ Vorbereitung
 
-+ Surprise!
++ Überraschung!
 
-+ Curiosity
++ Neugier
 
   --- feedback ---
 
- Curiosity was not at the end of the animation. Something came afterwards.
+ Die Neugier kam nicht am Ende der Animation. Danach kam noch etwas anderes.
 
   --- /feedback ---
 
