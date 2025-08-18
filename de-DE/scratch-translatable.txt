@@ -1,35 +1,35 @@
-add the sprite's position
+füge die Position der Figur hinzu
 
-<100 is smaller, >100 is bigger
+<100 ist kleiner, >100 ist größer
 
-update this for your chosen costume
+passe dies an für dein ausgewähltes Kostüm
 
-turn to the left
+nach links drehen
 
-add blocks to set up the start
+füge Blöcke hinzu, um den Start vorzubereiten
 
-starting size
+Ausgangsgröße
 
-starting position
+Startposition
 
-change the number to create your time delay
+ändere die Zahl, um deine Verzögerung einzustellen
 
-setup
+Vorbereitung
 
-curiosity
+Neugier
 
-reaction
+Reaktion
 
-reset
+Zurücksetzung
 
-surprise
+Überraschung
 
 Hmm...
 
-BOO!
+BUH!
 
-What ever is this?
+Was ist denn das?
 
-Kitty, have you been messing with my potions again?
+Kitty, hast du schon wieder an meinen Zaubertränken herumgepfuscht?
 
-Cat gotta haz milk.
+Eine Katze braucht Milch.
