@@ -1,0 +1,35 @@
+füge die Position der Figur hinzu
+
+<100 ist kleiner, >100 ist größer
+
+passe dies an für dein ausgewähltes Kostüm
+
+nach links drehen
+
+füge Blöcke hinzu, um den Start vorzubereiten
+
+Ausgangsgröße
+
+Startposition
+
+ändere die Zahl, um deine Verzögerung einzustellen
+
+Vorbereitung
+
+Neugier
+
+Reaktion
+
+Zurücksetzung
+
+Überraschung
+
+Hmm...
+
+BUH!
+
+Was ist denn das?
+
+Kitty, hast du schon wieder an meinen Zaubertränken herumgepfuscht?
+
+Eine Katze braucht Milch.
