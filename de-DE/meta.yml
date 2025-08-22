@@ -1,0 +1,30 @@
+---
+title: Überraschung! Animation
+hero_image: images/banner.png
+description: Erstelle eine Animation von einer Geschichte mit einer Überraschung
+meta_title: Scratch Coding Projekte für Kinder und Jugendliche | Überraschung! Animation
+meta_description: Lerne Coding in Scratch mit den Coding Projekten der Raspberry Pi Foundation für Kinder und Jugendliche. Erstelle mit Scratch eine Animation mit einer lustigen Überraschung.
+pdf: resources/surprise-animation.pdf
+version: 4
+listed: true
+copyedit: false
+last_tested: '2021-03-09'
+steps:
+- title: Einleitung
+- title: Erstelle deine Szene
+- title: Zeige Neugier
+  completion:
+  - engaged
+- title: Füge eine Überraschung hinzu!
+  completion:
+  - internal
+- title: Kurzes Quiz
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 3
+    passing_score: 3
+  completion:
+  - external
+- title: Verbessere Dein Projekt
+- title: Teile und spiele
