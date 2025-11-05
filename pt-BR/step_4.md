@@ -44,7 +44,7 @@ You could make the sprite seem to turn into a different sprite — to do this, `
 
 --- collapse ---
 ---
-título: Ocultar e mostrar atores
+title: Hide and show sprites
 ---
 
 The 🎂🎾🎁 **interesting object** sprite:
