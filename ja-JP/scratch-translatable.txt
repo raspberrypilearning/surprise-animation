@@ -1,16 +1,16 @@
-スプライトの位置を追加します
+add the sprite's position
 
-<100は小さく、> 100は大きい
+<100 is smaller, >100 is bigger
 
-選択したコスチュームに合わせてこれを更新します
+update this for your chosen costume
 
-左に曲がる
+turn to the left
 
-ブロックを追加して開始を設定します
+add blocks to set up the start
 
-開始サイズ
+starting size
 
-開始位置
+starting position
 
 change the number to create your time delay
 
