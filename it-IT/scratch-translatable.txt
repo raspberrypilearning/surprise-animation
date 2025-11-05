@@ -1,28 +1,28 @@
-aggiungi la posizione dello sprite
+add the sprite's position
 
-<100 è più piccolo, >100 è più grande
+<100 is smaller, >100 is bigger
 
-aggiorna questo per il costume scelto
+update this for your chosen costume
 
-gira a sinistra
+turn to the left
 
-aggiungi blocchi per impostare l'inizio
+add blocks to set up the start
 
-dimensione iniziale
+starting size
 
-posizione iniziale
+starting position
 
-cambia il numero per creare il ritardo
+change the number to create your time delay
 
 setup
 
-curiosità
+curiosity
 
-reazione
+reaction
 
 reset
 
-sorpresa
+surprise
 
 Hmm...
 
