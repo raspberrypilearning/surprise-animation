@@ -1,28 +1,28 @@
-dodaj pozycję duszka
+add the sprite's position
 
-<100 jest mniejsze, >100 jest większe
+<100 is smaller, >100 is bigger
 
-zaktualizuj to dla wybranego stroju
+update this for your chosen costume
 
-obróć w lewo
+turn to the left
 
-dodaj bloki, aby skonfigurować start
+add blocks to set up the start
 
-rozmiar początkowy
+starting size
 
-pozycja startowa
+starting position
 
-zmień liczbę, aby utworzyć opóźnienie czasowe
+change the number to create your time delay
 
-ustawienia początkowe
+setup
 
-ciekawość
+curiosity
 
-reakcja
+reaction
 
-resetowanie
+reset
 
-niespodzianka
+surprise
 
 Hmm...
 
