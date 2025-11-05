@@ -61,7 +61,7 @@ Dodaj blok `kiedy kliknięto flagę`{:class="block3events"}, a następnie poniż
 
 --- collapse ---
 ---
-title: Ustaw swoje duszki
+title: Position your sprites
 ---
 
 Przesuń 🐙👩‍🦼🦖 **głównego bohatera** w wybrane miejsce na scenie, a następnie dodaj blok `idź do x: y:`{:class="block3motion"} do swojego kodu:
@@ -76,7 +76,7 @@ Powtórz to zadanie dla **interesującego obiektu**.
 
 --- collapse ---
 ---
-title: Zmień rozmiar swoich duszków
+title: Resize your sprites
 ---
 
 Aby zmienić rozmiar duszka dla całego projektu, zmień liczbę we właściwościach**Rozmiar** w kafelku duszka:
@@ -93,7 +93,7 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: Ustaw kostiumy swoich duszków
+title: Set the costumes of your sprites
 ---
 
 Aby zmienić kostium duszka dla całego projektu, kliknij **Kostiumy** i wybierz jeden z dostępnych kostiumów:
@@ -116,7 +116,7 @@ hide
 
 --- collapse ---
 ---
-title: Ustaw kierunek swoich duszków
+title: Set the direction of your sprites
 ---
 
 Twoje duszki mogą być skierowane w złą stronę, gdy dodasz je do swojego projektu.
