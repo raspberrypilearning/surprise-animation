@@ -1,6 +1,6 @@
 --- question ---
 ---
-legenda: Pergunta 2 de 3
+legend: Question 2 of 3
 ---
 
 In your project, you controlled your animation with `wait`{:class="block3control"} blocks.
