@@ -28,8 +28,9 @@
 
 </div>
 <div>
+**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -43,14 +44,20 @@
 Пограйся з цими прикладами проєктів, щоб отримати ідеї. Подумай, якою може бути твоя анімація, і вивчи ці приклади проєктів, щоб отримати більше ідей:
 
 ⭐ Поділися своїм готовим проєктом Сюрприз, щоб мати шанс бути опублікованим у цьому списку.
+
+**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**⭐ Jumpscare!**: [See inside](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
