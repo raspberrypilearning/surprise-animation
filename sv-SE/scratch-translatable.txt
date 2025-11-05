@@ -1,28 +1,28 @@
-lägg till sprajtens position
+add the sprite's position
 
-<100 är mindre, >100 är större
+<100 is smaller, >100 is bigger
 
-uppdatera detta för din valda klädsel
+update this for your chosen costume
 
-sväng vänster
+turn to the left
 
-lägg till block för att ställa in starten
+add blocks to set up the start
 
-startstorlek
+starting size
 
-startposition
+starting position
 
-ändra talet för att skapa din tidsfördröjning
+change the number to create your time delay
 
-förberedelse
+setup
 
-nyfikenhet
+curiosity
 
-reaktion
+reaction
 
-återställ
+reset
 
-överraskning
+surprise
 
 Hmm...
 
