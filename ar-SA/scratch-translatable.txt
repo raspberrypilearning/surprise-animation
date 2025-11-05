@@ -1,16 +1,16 @@
-أضف موقع الكائن
+add the sprite's position
 
-<100 أصغر من ،> 100 أكبر من
+<100 is smaller, >100 is bigger
 
-قم بتحديث الزي الذي اخترته
+update this for your chosen costume
 
-اتجه إلى اليسار
+turn to the left
 
-إضافة الكتل لإعداد البداية
+add blocks to set up the start
 
-حجم عند البداية
+starting size
 
-الموقع عند البداية
+starting position
 
 change the number to create your time delay
 
