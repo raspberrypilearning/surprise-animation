@@ -44,7 +44,7 @@ You could make the sprite seem to turn into a different sprite — to do this, `
 
 --- collapse ---
 ---
-title: スプライトの表示と非表示
+title: Hide and show sprites
 ---
 
 The 🎂🎾🎁 **interesting object** sprite:
