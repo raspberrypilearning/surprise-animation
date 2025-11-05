@@ -44,7 +44,7 @@ wait (5) seconds // change the number to create your time delay
 
 --- collapse ---
 ---
-title: Показати та сховати спрайти
+title: Hide and show sprites
 ---
 
 Спрайт 🎂🎾🎁 **цікавий об'єкт**:
@@ -87,7 +87,7 @@ show
 
 --- collapse ---
 ---
-title: Сюрприз стається невчасно
+title: The surprise starts at the wrong time
 ---
 
 Можливо, тобі доведеться змінити кількість часу в деяких або всіх блоках `чекати`{:class="block3control"}, або додати більше блоків `чекати`{:class="block3control"}, щоб підібрати правильний час.
