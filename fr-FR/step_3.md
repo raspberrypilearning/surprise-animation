@@ -56,7 +56,7 @@ Clique à nouveau sur le drapeau vert. Si tu as changé la position ou l'apparen
 
 --- collapse ---
 ---
-title: Définir la position de départ et rechercher un sprite
+title: Set the starting position and looks for a sprite
 ---
 
 Choisis les blocs dont tu as besoin pour définir la position et recherche un sprite au début.
@@ -83,7 +83,7 @@ show
 
 --- collapse ---
 ---
-title: Le son ne fonctionne pas
+title: The sound is not working
 ---
 
 Vérifie que le volume de ton ordinateur ou de ta tablette est suffisamment fort et que tes haut-parleurs ou tes écouteurs sont connectés et fonctionnent correctement.
@@ -92,7 +92,7 @@ Vérifie que le volume de ton ordinateur ou de ta tablette est suffisamment fort
 
 --- collapse ---
 ---
-title: Mon animation ne se réinitialise pas correctement lorsque je clique sur le drapeau vert
+title: My animation does not reset properly when I click on the green flag
 ---
 
 Vérifie que ton projet a des scripts `quand le drapeau vert est cliqué`{:class="block3events"} pour les sprites qui en ont besoin, et vérifie qu'ils réinitialisent la position, la taille et l'apparence pour les sprites. Pour obtenir de l'aide, consulte la tâche **Définir la position de départ et l'apparence pour un sprite** ci-dessus.
