@@ -53,8 +53,10 @@ Du kannst dir auch die Remixe für das [Überraschung! Animation Starter-Projekt
 --- task ---
 
 Jedes Projekt in der [„Überraschung! Animation – Beispiele" Scratch Studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} hat einen **Schau hinein** Link, mit dem du das Projekt im Scratch-Editor öffnen und den Code ansehen kannst, um Ideen zu sammeln und zu sehen, wie das Projekt funktioniert.
+
+**Doppelganger**: [See inside](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
