@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Питання 2 з 3
+legend: Question 2 of 3
 ---
 
 У твоєму проєкті ти контролюєш анімацію за допомогою блоків `чекати`{:class="block3control"}.
