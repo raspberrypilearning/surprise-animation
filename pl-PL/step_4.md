@@ -44,7 +44,7 @@ Możesz sprawić, by duszek zmienił się w innego duszka — aby to zrobić, `u
 
 --- collapse ---
 ---
-title: Ukryj i pokaż duszki
+title: Hide and show sprites
 ---
 
 Duszek 🎂🎾🎁 **interesujących obiektów**:
@@ -87,7 +87,7 @@ Jeśli niespodzianka wydarzy się w niewłaściwym czasie, możesz to naprawić:
 
 --- collapse ---
 ---
-title: Niespodzianka zaczyna się w złym momencie
+title: The surprise starts at the wrong time
 ---
 
 Być może będziesz musiał zmienić czas w niektórych lub wszystkich blokach `czekaj`{:class="block3control"} lub dodać więcej bloków `czekaj`{:class="block3control"}, aby uzyskać właściwy czas.
