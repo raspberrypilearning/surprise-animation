@@ -56,7 +56,7 @@ Click on the green flag again. If you changed the 🎂🎾🎁 **interesting obj
 
 --- collapse ---
 ---
-title: اضبط موضع البداية والبحث عن كائن
+title: Set the starting position and looks for a sprite
 ---
 
 Choose the blocks that you need to set the position and looks for a sprite at the start.
@@ -83,7 +83,7 @@ show
 
 --- collapse ---
 ---
-title: الصوت لا يعمل
+title: The sound is not working
 ---
 
 Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
@@ -92,7 +92,7 @@ Check that the volume on your computer or tablet is loud enough and that your sp
 
 --- collapse ---
 ---
-title: لا يتم إعادة تعيين الرسوم المتحركة الخاصة بي بشكل صحيح عند النقر فوق العلم الأخضر
+title: My animation does not reset properly when I click on the green flag
 ---
 
 Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
