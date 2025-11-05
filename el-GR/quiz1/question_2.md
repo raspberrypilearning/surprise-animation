@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Ερώτηση 2 από 3
+legend: Question 2 of 3
 ---
 
 Στο έργο σου, έλεγξε την κινούμενη εικόνα σου με μπλοκ `περίμενε`{:class="block3control"}.
