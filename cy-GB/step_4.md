@@ -44,7 +44,7 @@ You could make the sprite seem to turn into a different sprite — to do this, `
 
 --- collapse ---
 ---
-title: Cuddio a dangos corluniau
+title: Hide and show sprites
 ---
 
 The 🎂🎾🎁 **interesting object** sprite:
