@@ -1,28 +1,28 @@
-füge die Position der Figur hinzu
+add the sprite's position
 
-<100 ist kleiner, >100 ist größer
+<100 is smaller, >100 is bigger
 
-passe dies an für dein ausgewähltes Kostüm
+update this for your chosen costume
 
-nach links drehen
+turn to the left
 
-füge Blöcke hinzu, um den Start vorzubereiten
+add blocks to set up the start
 
-Ausgangsgröße
+starting size
 
-Startposition
+starting position
 
-ändere die Zahl, um deine Verzögerung einzustellen
+change the number to create your time delay
 
-Vorbereitung
+setup
 
-Neugier
+curiosity
 
-Reaktion
+reaction
 
-Zurücksetzung
+reset
 
-Überraschung
+surprise
 
 Hmm...
 
