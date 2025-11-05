@@ -1,16 +1,16 @@
-adicione a posição do ator
+add the sprite's position
 
-<100 é menor,> 100 é maior
+<100 is smaller, >100 is bigger
 
-atualize isso para o seu traje escolhido
+update this for your chosen costume
 
-Vire à esquerda
+turn to the left
 
-adicione blocos para configurar o início
+add blocks to set up the start
 
-tamanho inicial
+starting size
 
-posições iniciais
+starting position
 
 change the number to create your time delay
 
