@@ -8,7 +8,7 @@ Veel plezier!
 
 --- question ---
 ---
-legend: Vraag 1 van 3
+legend: Question 1 of 3
 ---
 
 In je project heb je een animatie gemaakt met een verrassing. Klik op de groene vlag om de onderstaande animatie uit te voeren en voer deze vervolgens opnieuw uit.
