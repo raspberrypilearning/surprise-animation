@@ -1,30 +1,30 @@
-agrega la posición del objeto
+add the sprite's position
 
-<100 es más pequeño, > 100 es más grande
+<100 is smaller, >100 is bigger
 
-actualiza esto para tu disfraz elegido
+update this for your chosen costume
 
-dobla a la izquierda
+turn to the left
 
-agrega bloques para configurar el inicio
+add blocks to set up the start
 
-tamaño inicial
+starting size
 
-posición inicial
+starting position
 
-cambie el número para crear su retraso de tiempo
+change the number to create your time delay
 
-configuración
+setup
 
-curiosidad
+curiosity
 
-reacción
+reaction
 
-reiniciar
+reset
 
-sorpresa
+surprise
 
-Mmm...
+Hmm...
 
 ¡Buu!
 
