@@ -27,12 +27,18 @@ Um dein Projekt bei unserer [„Überraschung! Animation – Community" Scratch 
 --- task ---
 
 Schau dir diese fantastischen Community-Projekte unserer [„Überraschung! Animation – Community" Scratch Studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} an:
+
+**Surprise eggs**: [See inside](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723810901/?autostart=false" frameborder="0"></iframe>
 </div>
+
+**Scarify building**: [See inside](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/578827663/?autostart=false" frameborder="0"></iframe>
 </div>
+--- /task ---
+
 --- task ---
 
 Du kannst dir auch die Remixe für das [Überraschung! Animation Starter-Projekt](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} ansehen, um zu sehen, was andere Ersteller gemacht haben.
