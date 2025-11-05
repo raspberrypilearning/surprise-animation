@@ -61,7 +61,7 @@ Agrega un bloque`al presionar la bandera verde`{:class="block3events"}, luego, d
 
 --- collapse ---
 ---
-title: Posiciona tus objetos
+title: Position your sprites
 ---
 
 Mueve al 🐙👩‍🦼🦖 **personaje principal** a la posición que elijas en el escenario, luego agrega un bloque `ir a x: y:`{:class="block3motion"} a tu código:
@@ -76,7 +76,7 @@ Repite esta tarea para el 🎂🎾🎁 **objeto interesante**.
 
 --- collapse ---
 ---
-title: Cambia el tamaño de tus objetos
+title: Resize your sprites
 ---
 
 Para cambiar el tamaño de un objeto para todo el proyecto, cambia el número en la propiedad **Tamaño** en el Panel:
@@ -93,7 +93,7 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: Configura los disfraces de tus objetos
+title: Set the costumes of your sprites
 ---
 
 Para cambiar el disfraz de un objeto para todo el proyecto, haz clic en la pestaña **Disfraces** y selecciona uno de los disponibles:
@@ -116,7 +116,7 @@ hide
 
 --- collapse ---
 ---
-title: Configura la dirección de tus objetos
+title: Set the direction of your sprites
 ---
 
 Es posible que tus objetos estén orientados de manera incorrecta cuando los agregues a tu proyecto.
