@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Frage 3 von 3
+legend: Question 3 of 3
 ---
 
 Du hast deine Animation erstellt, indem du sie in Teile zerlegt und in der Reihenfolge erstellt hast, in der sie abläuft.
