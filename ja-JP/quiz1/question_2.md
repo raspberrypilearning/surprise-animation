@@ -1,6 +1,6 @@
 --- question ---
 ---
-凡例：質問2/3
+legend: Question 2 of 3
 ---
 
 In your project, you controlled your animation with `wait`{:class="block3control"} blocks.
