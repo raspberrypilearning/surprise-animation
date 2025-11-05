@@ -61,7 +61,7 @@ Add a `when green flag clicked`{:class="block3events"} block, then, underneath, 
 
 --- collapse ---
 ---
-title: スプライトを配置します
+title: Position your sprites
 ---
 
 Move the 🐙👩‍🦼🦖 **main character** to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
@@ -76,7 +76,7 @@ Repeat this task for the 🎂🎾🎁 **interesting object**.
 
 --- collapse ---
 ---
-title: スプライトのサイズを変更します
+title: Resize your sprites
 ---
 
 To change the size of a sprite for the whole project, change the number in the **Size** property in the Sprite pane:
@@ -93,7 +93,7 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: スプライトのコスチュームを設定します
+title: Set the costumes of your sprites
 ---
 
 To change the costume of a sprite for the whole project, click on the **Costumes** tab and select one of the available costumes:
@@ -116,7 +116,7 @@ hide
 
 --- collapse ---
 ---
-title: スプライトの方向を設定します
+title: Set the direction of your sprites
 ---
 
 Your sprites might be facing the wrong way when you add them to your project.
