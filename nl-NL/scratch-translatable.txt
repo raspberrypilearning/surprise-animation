@@ -1,28 +1,28 @@
-voeg de positie van de sprite toe
+add the sprite's position
 
-<100 is kleiner, >100 is groter
+<100 is smaller, >100 is bigger
 
-pas dit aan voor je gekozen uiterlijk
+update this for your chosen costume
 
-draai naar links
+turn to the left
 
-voeg blokken toe om de start in te stellen
+add blocks to set up the start
 
-startgrootte
+starting size
 
-startpositie
+starting position
 
-verander het nummer om je vertraging te creëren
+change the number to create your time delay
 
-instellen
+setup
 
-nieuwsgierigheid
+curiosity
 
-reactie
+reaction
 
-resetten
+reset
 
-verrassing
+surprise
 
 Hmm...
 
