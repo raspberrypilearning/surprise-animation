@@ -8,7 +8,7 @@ Have fun!
 
 --- question ---
 ---
-legend: Cwestiwn 1 o 3
+legend: Question 1 of 3
 ---
 
 In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
