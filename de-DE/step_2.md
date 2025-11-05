@@ -61,7 +61,7 @@ Füge einen Block `Wenn grüne Flagge angeklickt wird`{:class="block3events"} hi
 
 --- collapse ---
 ---
-title: Positioniere deine Figuren
+title: Position your sprites
 ---
 
 Bewege die 🐙👩‍🦼🦖 **Hauptfigur** an die gewünschte Position auf der Bühne und füge dann einen `gehe zu x: y:`{:class="block3motion"}-Block zu deinem Code hinzu:
@@ -76,7 +76,7 @@ Wiederhole diese Aufgabe für das 🎂🎾🎁 **interessante Objekt**.
 
 --- collapse ---
 ---
-title: Passe die Größe deiner Figuren an
+title: Resize your sprites
 ---
 
 Um die Größe einer Figur für das gesamte Projekt zu ändern, ändere die Zahl in der Eigenschaft **Größe** im Figuren-Bereich:
@@ -93,7 +93,7 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: Lege die Kostüme deiner Figuren fest
+title: Set the costumes of your sprites
 ---
 
 Um das Kostüm einer Figur für das gesamte Projekt zu ändern, klicke auf die Registerkarte **Kostüme** und wähle eines der verfügbaren Kostüme aus:
@@ -116,7 +116,7 @@ hide
 
 --- collapse ---
 ---
-title: Lege die Richtung deiner Figuren fest
+title: Set the direction of your sprites
 ---
 
 Deine Figuren sind möglicherweise in die falsche Richtung ausgerichtet, wenn du sie zu deinem Projekt hinzufügst.
