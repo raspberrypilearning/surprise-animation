@@ -56,7 +56,7 @@ Ponownie kliknij zieloną flagę. Jeśli zmieniłeś 🎂🎾🎁 **interesując
 
 --- collapse ---
 ---
-title: Ustaw pozycję startową i wygląd duszka
+title: Set the starting position and looks for a sprite
 ---
 
 Wybierz bloki, których potrzebujesz, aby ustawić pozycję i wygląd duszka na początku.
@@ -83,7 +83,7 @@ show
 
 --- collapse ---
 ---
-title: Dźwięk nie działa
+title: The sound is not working
 ---
 
 Sprawdź, czy głośność na komputerze lub tablecie jest wystarczająca, a głośniki lub słuchawki są podłączone i działają prawidłowo.
@@ -92,7 +92,7 @@ Sprawdź, czy głośność na komputerze lub tablecie jest wystarczająca, a gł
 
 --- collapse ---
 ---
-title: Moja animacja nie resetuje się poprawnie po kliknięciu zielonej flagi
+title: My animation does not reset properly when I click on the green flag
 ---
 
 Sprawdź, czy projekt ma skrypt `kiedy kliknięto zieloną flagę`{class = „block3events”} dla duszków, które tego potrzebują, i sprawdź, czy przywracają duszkom ich położenie, rozmiar i wygląd. Aby uzyskać pomoc, zobacz **Ustaw pozycję początkową i wygląd duszków** powyżej.
