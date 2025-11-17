@@ -67,7 +67,7 @@ title: Position your sprites
 Przesuń 🐙👩‍🦼🦖 **głównego bohatera** w wybrane miejsce na scenie, a następnie dodaj blok `idź do x: y:`{:class="block3motion"} do swojego kodu:
 
 ```blocks3
-go to x: (0) y: (0) // add the sprite's position
+idź do x: (0) y: (0) // dodaj pozycję duszka
 ```
 
 Powtórz to zadanie dla **interesującego obiektu**.
@@ -86,7 +86,7 @@ Aby zmienić rozmiar duszka dla całego projektu, zmień liczbę we właściwoś
 Aby zmienić rozmiar duszka dla części projektu, dodaj kod na `ustaw rozmiar na`{:class="block3looks"} wybrany przez Ciebie rozmiar. Ta opcja jest dobra, jeśli chcesz, aby twój duszek zmienił rozmiar w projekcie.
 
 ```blocks3
-set size to [100] % // <100 is smaller, >100 is bigger
+ustaw rozmiar na [100] % // <100 is smaller, >100 jest większe
 ```
 
 --- /collapse ---
@@ -103,13 +103,13 @@ Aby zmienić kostium duszka dla całego projektu, kliknij **Kostiumy** i wybierz
 Aby zmienić kostium duszka dla części projektu, dodaj blok `zmień kostium na`{:class="block3looks"} w swoim kodzie i zaktualizuj go, aby wyświetlał wybrany kostium:
 
 ```blocks3
-switch costume to [ v]  // update this for your chosen costume
+zmień kostium na [ v] // zaktualizuj to dla wybranego stroju
 ```
 
 Aby ukryć duszka na początku projektu, dodaj do swojego kodu blok `ukryj`{:class="block3looks"}:
 
 ```blocks3
-hide 
+ukryj 
 ```
 
 --- /collapse ---
@@ -128,8 +128,8 @@ Aby zmienić kierunek duszka dla całego projektu, zmień **Kierunek** i **styl 
 Aby zmienić kierunek duszka dla części projektu, dodaj bloki do kodu, aby zmienić `styl obrotu`{:class="block3motion"} i `kierunek`{:class="block3motion"}:
 
 ```blocks3
-set rotation style [left-right v]
-point in direction (-90) // turn to the left
+ustaw styl obrotu [lewo-prawo v]
+ustaw kierunek na (-90) // skręć w lewo
 ```
 
 --- /collapse ---
