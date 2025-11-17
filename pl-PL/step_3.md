@@ -62,13 +62,13 @@ title: Set the starting position and looks for a sprite
 Wybierz bloki, których potrzebujesz, aby ustawić pozycję i wygląd duszka na początku.
 
 ```blocks3
-when flag clicked // add blocks to set up the start 
-switch costume to [costume1 v]
-set size to (100) % // starting size
-go to x: (-200) y: (50) // starting position
-point in direction [90]
-set [brightness v] effect to [80]
-show
+kiedy kliknięto flagę// dodaj bloki, aby skonfigurować start 
+przełącz kostium na [kostium1 v]
+ustaw rozmiar na (100) % // rozmiar początkowy
+idź do x: (-200) y: (50) // pozycja początkowa
+ustaw kierunek na [90]
+ustaw efekt [jasność v] na [80]
+pokaż
 ```
 
 **Wskazówka:** Wszystkie efekty graficzne są usuwane po kliknięciu zielonej flagi, więc nie musisz ich czyścić, ale może być konieczne ustawienie efektów, które chcesz, aby duszek miał.
