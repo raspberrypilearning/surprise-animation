@@ -15,8 +15,8 @@ Który skrypt dla **małego dinozaura** sprawi, że tak się stanie?
 
 - ( )
 ```blocks3
-when this sprite clicked
-show
+kiedy ten duszek kliknięty
+pokaż
 ```
 
   --- feedback ---
