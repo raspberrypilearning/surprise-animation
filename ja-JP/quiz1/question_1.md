@@ -1,23 +1,23 @@
-## Quick quiz
+## ふくしゅう
 
-Answer the three questions. There are hints to guide you to the correct answer.
+3つの質問に答えてください。 必要に応じて、ヒントを見てください。
 
-When you have answered each question, click on **Check my answer**.
+それぞれの質問に回答したら、**送信**をクリックします。
 
-Have fun!
+やってみよう！
 
 --- question ---
 ---
 legend: Question 1 of 3
 ---
 
-In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
+このプロジェクトでは、驚きのあるストーリーのアニメーションを作成します。 緑の旗をクリックして下のアニメーションを実行してから、もう一度実行してください。
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Did you notice anything odd the second time? The surprise was ruined! What code block would you add to make the surprise work?
+2回目で何かおかしいことに気づきましたか？ サプライズのはずがサプライズではなくなってしまいました！ サプライズを機能させるために、どのコードブロックを追加しますか？
 
 --- choices ---
 
@@ -28,7 +28,7 @@ set size to (150) %
 
   --- feedback ---
 
- The **egg** sprite is the correct size when you run the program again.
+ 再度プログラムを実行すると、**卵** スプライトが正しいサイズになります。
 
   --- /feedback ---
 
@@ -39,7 +39,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Yes. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
+ はい。 プロジェクトの開始時に、スプライトを正しいコスチューム（**卵**）に切り替える必要があります
 
   --- /feedback ---
 
@@ -50,7 +50,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- You often need to remember to make a sprite show when the green flag is clicked, but in the project in the question, the **egg** sprite does show.
+ 緑の旗がクリックされたときにスプライトを表示することを覚えておく必要があることがよくありますが、問題のプロジェクトでは、 **卵** スプライトが表示されます。
 
   --- /feedback ---
 
@@ -61,7 +61,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- The **egg** sprite does go to the correct starting position on the Stage.
+ **卵** スプライトは、ステージ上の正しい開始位置に移動します。
 
   --- /feedback ---
 
