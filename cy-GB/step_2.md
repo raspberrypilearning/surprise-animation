@@ -1,8 +1,8 @@
-## Create your scene
+## Gosod
 
 Have you got an idea about your animation?
 
-Add a backdrop 🖼️, main character 🐙👩‍🦼🦖, and interesting object 🎂🎾🎁 of your choice to create the **first part** of your animation.
+Agora'r [prosiect cychwynnol animeiddio syrpreis!](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"} ac edrych ar yr holl gorluniau a chefnlenni y galli di eu defnyddio. Treulia ychydig o amser yn meddwl am dy brif gymeriad, gwrthrych diddorol, a chefndir.
 
 ![A film strip with 3 frames. The first frame is highlighted. The frame shows a scene with character, object, and background.](images/scene.png)
 
@@ -55,9 +55,9 @@ Where do you want your sprites to start? How big do you want them to be? How do 
 
 --- task ---
 
-Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation.
+I newid safle dy gorlun **prif gymeriad** ar gyfer rhan o'r prosiect, symuda'r prif gymeriad i'r safle o dy ddewis ar y Llwyfan, ac wedyn ychwanegu bloc `mynd i x: y:`{:class="block3motion"} at dy god:
 
-**Tip:** Remember to set up both your 🐙👩‍🦼🦖 **main character** and your 🎂🎾🎁 **interesting object** sprites.
+Gwna'r dasg hon eto ar gyfer y **gwrthrych diddorol**.
 
 --- collapse ---
 ---
@@ -70,7 +70,7 @@ Move the 🐙👩‍🦼🦖 **main character** to the position of your choice o
 go to x: (0) y: (0) // add the sprite's position
 ```
 
-Repeat this task for the 🎂🎾🎁 **interesting object**.
+I newid maint corlun ar gyfer y prosiect cyfan, newidia'r rhif yn y briodwedd **Maint** yng nghwarel y Corlun:
 
 --- /collapse ---
 
@@ -96,7 +96,7 @@ set size to [100] % // <100 is smaller, >100 is bigger
 title: Set the costumes of your sprites
 ---
 
-To change the costume of a sprite for the whole project, click on the **Costumes** tab and select one of the available costumes:
+I guddio corlun ar ddechrau'r prosiect, ychwanega floc `cuddio`{:class="block3looks"} i dy god:
 
 ![The Costumes tab, with the available costumes for a sprite.](images/nano-costumes.png)
 
@@ -106,7 +106,7 @@ To change the costume of a sprite for part of the project, add a `switch costume
 switch costume to [ v]  // update this for your chosen costume
 ```
 
-To hide a sprite at the start of the project, add a `hide`{:class="block3looks"} block to your code:
+Efallai bydd dy gorluniau yn wynebu'r ffordd anghywir pan fyddi di'n eu hychwanegu at dy brosiect.
 
 ```blocks3
 hide 
@@ -119,7 +119,7 @@ hide
 title: Set the direction of your sprites
 ---
 
-Your sprites might be facing the wrong way when you add them to your project.
+I newid cyfeiriad corlun ar gyfer rhan o brosiect, ychwanega flociau i dy god er mwyn newid y `steil cylchdroi`{:class="block3motion"} a'r `cyfeiriad`{:class="block3motion"}:
 
 To change the direction of a sprite for the whole project, change the **Direction** and **rotation style** in the Sprite pane:
 
@@ -138,7 +138,7 @@ point in direction (-90) // turn to the left
 
 --- task ---
 
-Save your project.
+--- save ---
 
 [[[generic-scratch3-saving]]]
 
