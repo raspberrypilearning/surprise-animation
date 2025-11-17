@@ -3,18 +3,18 @@
 legend: Question 3 of 3
 ---
 
-You created your animation by breaking it into parts and building it in the order in which it runs.
+Ты создал свою анимацию, разбив ее на части и построив в том порядке, в котором она выполняется.
 
-Which order represents the animation that you made?
+Какой порядок представляет созданную тобой анимацию?
 
 --- choices ---
 
 - ( )
-+ Curiosity
++ Любопытство
 
-+ Setup
++ Подготовка
 
-+ Surprise!
++ Сюрприз!
 
   --- feedback ---
 
@@ -27,7 +27,7 @@ Which order represents the animation that you made?
 
 + Curiosity
 
-+ Surprise!
++ Сюрприз!
 
 
   --- feedback ---
@@ -37,7 +37,7 @@ Which order represents the animation that you made?
   --- /feedback ---
 
 - ( )
-+ Setup
++ Подготовка
 
 + Surprise!
 
