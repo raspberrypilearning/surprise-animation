@@ -1,14 +1,14 @@
 ## سوف تصنع
 
-Create a short animation 🎥 with a fun surprise 🎉!
+قم بإنشاء رسوم متحركة قصيرة مع مفاجأة.
 
 سوف تقوم بما يلي:
 
-+ Create your own animation
-+ Test and debug your code
-+ Build your animation one part at a time
++ قم بإنشاء الرسوم المتحركة الخاصة بك
++ اختبار وتصحيح التعليمات البرمجية الخاصة بك عند إجراء التغييرات
++ قم ببناء الرسوم المتحركة الخاصة بك جزءًا واحدًا في كل مرة
 
-![Examples of projects.](images/surprise-example.png)
+![أمثلة على المشاريع.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -17,14 +17,15 @@ Create a short animation 🎥 with a fun surprise 🎉!
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Play ▶️ 
+### جربها 
 
-Click on the green flag to watch the animation.
+انقر فوق العلم الأخضر لمشاهدة الرسوم المتحركة.
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+تتكون الرسوم المتحركة من أربع أجزاء:
++ إعداد
++ فضول
++ مفاجأة!
++ رد الفعل
 
 </div>
 <div>
@@ -41,9 +42,9 @@ The animation has three parts:
 
 --- task ---
 
-Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
+استكشف هذه الأمثلة على المشاريع للحصول على أفكار لكتابك. فكر في ماهية قصتك ، واستكشف هذه الأمثلة من المشاريع للحصول على مزيد من الأفكار:
 
-⭐ Share your finished Surprise animation project for a chance of it being featured here.
+⭐ شارك مشروع الرسوم المتحركة المفاجئ الخاص بك للحصول على فرصة عرضه هنا.
 
 **BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -66,16 +67,16 @@ Play with these example projects to get ideas. Think about what your animation m
 
 --- print-only ---
 
-### Get ideas 💭
+### احصل على أفكار 💭
 
 ستتخذ قرارات التصميم وتفكر في قصة للرسوم المتحركة الخاصة بك مع المفاجأة. فكر في ما يمكن أن تكون عليه قصتك ، وللحصول على مزيد من الأفكار ، **انظر داخل** مثال على المشاريع في "مفاجأة! الرسوم المتحركة - أمثلة في استوديو سكراتش: https://scratch.mit.edu/studios/29075822/
 
-The animation has three parts:
+تتكون الرسوم المتحركة من أربع أجزاء:
 + فضول
 + مفاجئة!
 + رد الفعل
 
-![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
+![مشروع بوو!'.](images/boo.png) ![مشروع "سحر القطط".](images/cat-magic.png)
 
 --- /print-only ---
 
