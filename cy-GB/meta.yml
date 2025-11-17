@@ -13,25 +13,25 @@ steps:
   - 
     title: Cyflwyniad
   - 
-    title: Create your scene
+    title: Gosod
   - 
-    title: Show curiosity
+    title: Chwilfrydedd
     completion:
       - engaged
   - 
-    title: Add a surprise!
+    title: Syrpreis
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Ymateb
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
     completion:
-      - external
+      - internal
   - 
-    title: Upgrade your project
+    title: Myfyrio
   - 
-    title: Share and play
+    title: Uwchraddio dy brosiect
