@@ -1,14 +1,14 @@
-## You will make
+## Co budeš dělat
 
-Create a short animation 🎥 with a fun surprise 🎉!
+Vytvoříš krátkou animaci 🎥 se zábavným překvapením 🎉!
 
-You will:
+Budeš:
 
-+ Create your own animation
-+ Test and debug your code
-+ Build your animation one part at a time
++ Vytvářet vlastní animaci
++ Testovat a ladit svůj kód
++ Sestavovat svou animaci jednu část po druhé
 
-![Examples of projects.](images/surprise-example.png)
+![Příklady projektů.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -17,14 +17,14 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Play ▶️ 
+### Hrej ▶️ 
 
-Click on the green flag to watch the animation.
+Kliknutím na zelenou vlajku spustíš animaci.
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+Animace má tři části:
++ Zvídavost
++ Překvapení!
++ Reakce
 
 </div>
 <div>
@@ -37,13 +37,13 @@ The animation has three parts:
 
 --- /task ---
 
-### Get ideas 💭
+### Inspiruj se 💭
 
 --- task ---
 
-Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
+Pohraj si s těmito ukázkovými projekty, a inspiruj se. Popřemýšlej, o čem by tvoje animace mohla být, a prozkoumej tyto ukázkové projekty, abys získal další nápady:
 
-⭐ Share your finished Surprise animation project for a chance of it being featured here.
+⭐ Poděl se o svůj hotový animovaný projekt Překvapení, abys měl šanci, že zde bude uveden.
 
 **BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -66,16 +66,16 @@ Play with these example projects to get ideas. Think about what your animation m
 
 --- print-only ---
 
-### Get ideas 💭
+### Inspiruj se 💭
 
-You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
+Budeš navrhovat designu a vymyslíš příběh pro svou animaci s překvapením. Přemýšlej o tom, jaký by mohl být tvůj příběh, a chceš-li získat další nápady, **Podívej se** na příklad projektů v 'Překvapení! animace — Příklady' Scratch studio: https://scratch.mit.edu/studios/29075822/
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+Animace má tři části:
++ Zvídavost
++ Překvapení!
++ Reakce
 
-![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
+!['BOO!' projekt.](images/boo.png) !['Kočičí magie' projekt.](images/cat-magic.png)
 
 --- /print-only ---
 
