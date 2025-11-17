@@ -23,7 +23,7 @@ Czy zauważyłeś coś dziwnego za drugim razem? Niespodzianka została zrujnowa
 
 - ( )
 ```blocks3
-set size to (150) %
+ustaw rozmiar na (150) %
 ```
 
   --- feedback ---
@@ -34,7 +34,7 @@ set size to (150) %
 
 - (x)
 ```blocks3
-switch costume to [egg-a v]
+zmień kostium na [egg-a v]
 ```
 
   --- feedback ---
@@ -56,7 +56,7 @@ pokaż
 
 - ( )
 ```blocks3
-go to x: (75) y: (-100)
+idź do x: (75) y: (-100)
 ```
 
   --- feedback ---
