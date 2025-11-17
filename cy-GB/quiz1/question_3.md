@@ -25,7 +25,7 @@ Pa drefn sy'n cynrychioli'r animeiddiad y gwnes di ei greu?
 - (x)
 + Setup
 
-+ Curiosity
++ Ymateb
 
 + Syrpreis!
 
@@ -41,7 +41,7 @@ Pa drefn sy'n cynrychioli'r animeiddiad y gwnes di ei greu?
 
 + Surprise!
 
-+ Curiosity
++ Gosod
 
   --- feedback ---
 
