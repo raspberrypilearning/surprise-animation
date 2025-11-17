@@ -1,14 +1,14 @@
-## You will make
+## Você vai fazer
 
-Create a short animation 🎥 with a fun surprise 🎉!
+Crie uma curta animação com uma surpresa.
 
 Você vai:
 
-+ Create your own animation
-+ Test and debug your code
-+ Build your animation one part at a time
++ Usar Scratch para criar uma animação
++ Testar e depurar seu código ao fazer alterações
++ Dividir uma animação em partes - isso é chamado de **decomposição** - e construir uma parte de cada vez
 
-![Examples of projects.](images/surprise-example.png)
+![Exemplos de projetos.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -17,14 +17,13 @@ Você vai:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Play ▶️ 
+### Experimente Clique na bandeira verde para assistir à animação.
 
-Click on the green flag to watch the animation.
-
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+A animação tem quatro partes:
++ Configuração
++ Curiosidade
++ Surpresa!
++ Reação
 
 </div>
 <div>
@@ -37,13 +36,13 @@ The animation has three parts:
 
 --- /task ---
 
-### Get ideas 💭
+### Tenha ideias 💭
 
 --- task ---
 
-Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
+Brinque com estes projetos de exemplo para ter ideias. Pense em como pode ser sua história e explore estes projetos de exemplo para obter mais ideias:
 
-⭐ Share your finished Surprise animation project for a chance of it being featured here.
+⭐ Compartilhe o seu projeto de animação "Surpresa", para ter a oportunidade dele ser apresentado aqui.
 
 **BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -66,16 +65,16 @@ Play with these example projects to get ideas. Think about what your animation m
 
 --- print-only ---
 
-### Get ideas 💭
+### Tenha ideias 💭
 
 Você tomará decisões de design e pensará em uma história para sua animação com uma surpresa. Pense em como pode ser sua história e, para ter mais ideias, **Veja em** projeto de exemplo na seção 'Surpresa! animação - Estúdio Scratch de exemplos: https://scratch.mit.edu/studios/29075822/
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+A animação tem quatro partes:
++ Curiosidade
++ Surpresa!
++ Reação
 
-![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
+![O 'BOO!' projeto.](images/boo.png) ![O projeto 'magia do gato'.](images/cat-magic.png)
 
 --- /print-only ---
 
