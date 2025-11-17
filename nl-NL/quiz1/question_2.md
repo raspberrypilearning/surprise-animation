@@ -41,8 +41,8 @@ wait [6] seconds
 - (x)
 ```blocks3
 when flag clicked
-wait [6] seconds
 show
+wait (6) seconds
 ```
 
   --- feedback ---
