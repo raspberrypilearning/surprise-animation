@@ -1,4 +1,4 @@
-## Show curiosity
+## Chwilfrydedd
 
 Will the object do something to attract attention? How will the character react? You decide! Create the **second part** of your animation.
 
@@ -42,7 +42,7 @@ The character could emote, like in the [Space talk](https://projects.raspberrypi
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-The character could be brave and move closer to check out the object.
+Clicia ar y faner werdd eto. Os wyt ti wedi newid safloedd neu edrychiad corluniau'r **gwrthrych** neu'r **cymeriad** bydd angen i ti wneud yn siŵr eu bod yn cael eu gosod yn ôl i'w safle neu eu hedrychiad cychwynol pan fyddi di'n rhedeg y prosiect eto.
 
 [[[scratch3-animate-movement-costumes]]]
 
