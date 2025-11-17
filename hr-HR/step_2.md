@@ -10,7 +10,7 @@ Add a backdrop 🖼️, main character 🐙👩‍🦼🦖, and interesting obje
   <span style="color: #0faeb0">**Animation**</span> creates the effect of movement by changing pictures quickly. The first animators carved pictures out of wooden blocks and used them as stamps. It is much faster to use Scratch to code your animation!
 </p>
 
-### Open the starter project
+### Otvori početni projekt
 
 --- task ---
 
@@ -34,7 +34,7 @@ There are people called <span style="color: #0faeb0">**narrative designers**</sp
 + 🐠 Sea animals
 + 👽 Aliens
 + 🌿 Nature
-+ 🌈 Weather
++ 🌈 Vrijeme
 + 🌮 Food
 + 🚀 Travel
 + ⚾ Sport .... Or something else
@@ -138,7 +138,7 @@ point in direction (-90) // turn to the left
 
 --- task ---
 
-Save your project.
+Spremi svoj projekt.
 
 [[[generic-scratch3-saving]]]
 
