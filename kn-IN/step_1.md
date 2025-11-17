@@ -2,7 +2,7 @@
 
 Create a short animation 🎥 with a fun surprise 🎉!
 
-You will:
+ನೀವು ಮಾಡಬೇಕಾಗಿರುವುದು:
 
 + Create your own animation
 + Test and debug your code
@@ -68,7 +68,7 @@ Play with these example projects to get ideas. Think about what your animation m
 
 ### Get ideas 💭
 
-You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
+ನೀವು ವಿನ್ಯಾಸ ನಿರ್ಧಾರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವಿರಿ ಮತ್ತು ನಿಮ್ಮ ಅನಿಮೇಷನ್ ಗಾಗಿ ಒಂದು ಕಥೆಯನ್ನು ಅಚ್ಚರಿಯೊಂದಿಗೆ ಯೋಚಿಸುವಿರಿ. ನಿಮ್ಮ ಕಥೆ ಏನೆಂದು ಯೋಚಿಸಿ, ಮತ್ತು ಹೆಚ್ಚಿನ ವಿಚಾರಗಳನ್ನು ಪಡೆಯಲು, ಯೋಜನೆಯ ಉದಾಹರಣೆಯೊಳಗೆ 'Surprise! ನಲ್ಲಿ **See inside** ಅನ್ನು ನೋಡಿ animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
 
 The animation has three parts:
 + Curiosity
