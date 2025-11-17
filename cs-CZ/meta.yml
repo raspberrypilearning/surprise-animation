@@ -1,9 +1,9 @@
 ---
-title: Surprise! animation
+title: animace Překvapení!
 hero_image: images/banner.png
-description: Create an animation of a story with a surprise
-meta_title: Scratch coding projects for kids and teens | Surprise! animation
-meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make a Scratch animation with a fun surprise.
+description: Vytvoř animaci příběhu s překvapením
+meta_title: Kódovací projekty ve Scratchi pro děti a náctileté | animace Překvapení!
+meta_description: Nauč se kódovat ve Scratch s projekty Raspberry Pi Foundation pro děti a dospívající. Vytvoř animaci Scratch se zábavným překvapením.
 pdf: resources/surprise-animation.pdf
 version: 4
 listed: true
@@ -11,19 +11,19 @@ copyedit: false
 last_tested: '2021-03-09'
 steps:
   - 
-    title: Introduction
+    title: Úvod
   - 
-    title: Create your scene
+    title: Vytvoř svou scénu
   - 
-    title: Show curiosity
+    title: Ukaž zvídavost
     completion:
       - engaged
   - 
-    title: Add a surprise!
+    title: Přidej překvapení!
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Rychlý kvíz
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -32,6 +32,6 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Vylepši si projekt
   - 
-    title: Share and play
+    title: Sdílej a hraj
