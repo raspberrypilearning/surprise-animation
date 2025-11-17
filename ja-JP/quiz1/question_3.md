@@ -18,34 +18,34 @@ legend: Question 3 of 3
 
   --- feedback ---
 
- The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
+ 「セットアップ」部分はアニメーションをリセットします。 アニメーションを同じ方法で再度実行できるように、最初に来る必要があります。
 
   --- /feedback ---
 
 - (x)
-+ Setup
++ セットアップ
 
-+ Curiosity
++ 好奇心
 
 + サプライズ！
 
 
   --- feedback ---
 
- Yes! You set up your sprites first, then created curiosity then ended with a surprise.
+ はい! 最初にスプライトを設定し、次にストーリーを構築して最終的な反応を実現します。
 
   --- /feedback ---
 
 - ( )
 + セットアップ
 
-+ Surprise!
++ サプライズ！
 
-+ Curiosity
++ 好奇心
 
   --- feedback ---
 
- Curiosity was not at the end of the animation. Something came afterwards.
+ サプライズはアニメーションの終わりではありませんでした。 その後、何かが起こった。
 
   --- /feedback ---
 
