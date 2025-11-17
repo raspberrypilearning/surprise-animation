@@ -14,17 +14,17 @@ Si tienes una cuenta de Scratch y has compartido tu '¡Sorpresa! proyecto de ani
 
 [[[comments-feedback-scratch]]]
 
---- task ---
+Los programadores profesionales exploran y se inspiran en el código creado por otros programadores.
 
 ¡Inspira a la comunidad de la Fundación Raspberry Pi con tu proyecto!
 
 Para enviar tu proyecto a nuestro [ ¡Sorpresa! animación - La comunidad de Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_ blank"}, por favor completa [este formulario](https://form.raspberrypi.org/f/community-project-submissions){:target="_ blank"}.
 
---- /task ---
+Agregar o mejorar tu animación, con movimiento, apariencia y efectos gráficos
 
 ### Aportaciones de la comunidad
 
---- task ---
+Mejora tu proyecto
 
 Echa un vistazo a estos fabulosos proyectos de la comunidad de nuestra [ ¡Sorpresa! animación — Estudio Scratch de la comunidad](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
 
@@ -39,9 +39,9 @@ Echa un vistazo a estos fabulosos proyectos de la comunidad de nuestra [ ¡Sorpr
 </div>
 --- /task ---
 
---- task ---
+--- save ---
 
 También puedes ver las mezclas del [ proyecto de iniciación Sorpresa ](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} para ver lo que otros creadores han construido.
 
---- /task ---
+Tú podrías:
 
