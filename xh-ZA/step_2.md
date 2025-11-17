@@ -1,67 +1,67 @@
-## Create your scene
+## Yenza umboniso wakho
 
-Have you got an idea about your animation?
+Ingaba unombono malunga nopopayi wakho?
 
-Add a backdrop 🖼️, main character 🐙👩‍🦼🦖, and interesting object 🎂🎾🎁 of your choice to create the **first part** of your animation.
+Yongeza umfanekiso wangasemva🖼️, umlinganiswa ophambili 🐙👩‍🦼🦖, kunye nento enomdla 🎂🎾🎁 ekhethwe nguwe ukwenza **indawo yokuqala** yopopayi wakho.
 
-![A film strip with 3 frames. The first frame is highlighted. The frame shows a scene with character, object, and background.](images/scene.png)
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Animation**</span> creates the effect of movement by changing pictures quickly. The first animators carved pictures out of wooden blocks and used them as stamps. It is much faster to use Scratch to code your animation!
-</p>
-
-### Open the starter project
-
---- task ---
-
-Open the [Surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"}.
-
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29075822){:target="_blank"}.
-
---- /task ---
+![Umcu wefilimu onezakhelo ezintathu 3. Isakhelo sokuqala sigxininisiwe. Isakhelo sibonisa umboniso onomlinganiswa, into, kunye nomfanekiso wangasemva.](images/scene.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-There are people called <span style="color: #0faeb0">**narrative designers**</span> who do storytelling for apps and video games. Digital storytelling allows everyone to share their stories and creative imaginings with other people.
+  <span style="color: #0faeb0">** Upopayi **</span> wenza isphumo sentshukumo ngokutshintsha imifanekiso ngokukhawulezisa. Abenzi bokuqala bopopayi babekrola iinkuni baze bazenze izitampu. Ukusebenzisa u-Scratch ekubhaleni ikhowudi yokwenza upopayi wakho, kuyakhaulezisa kakhulu!
 </p>
 
-### Design your scene
+### Vula iprojekthi yokuqalisa
 
 --- task ---
 
-**Choose:** a theme for your animation. You could choose:
+Vula [Ummangaliso! iprojekthi yokuqala oopopayi](https://scratch.mit.edu/projects/582222532/editor){:thagethi="_blank"}.
 
-+ 🐯 Land Animals
-+ 🐠 Sea animals
-+ 👽 Aliens
-+ 🌿 Nature
-+ 🌈 Weather
-+ 🌮 Food
-+ 🚀 Travel
-+ ⚾ Sport .... Or something else
+Akukho xesha elininzi? Ungaqala komnye [wemizekelo](https://scratch.mit.edu/studios/29075822){:target="_blank"}.
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Kukho abantu ababizwa <span style="color: #0faeb0">**abaqulunqi beembali **</span> abenza amabali eeApps kunye nemidlalo yevidiyo. Amabali adijithali avumela bonke abantu uba babelane ngamabali abo nemifanekiso enobuchule kunye nabanye abantu.
+</p>
+
+### Yakha umboniso wakho
+
+--- task ---
+
+**Khetha:** umxholo wopopayi wakho. Unokukhetha:
+
++ 🐯 Izilwanyana zasemhlabeni
++ 🐠 Izilwanyana zaselwandle
++ 👽 ii-Aliyeni
++ 🌿 Indalo
++ 🌈 Imozulu
++ 🌮 Ukutya
++ 🚀 Ukuhamba
++ ⚾ Ezemidlalo .... Okanye enye into
 
 --- /task ---
 
 --- task ---
 
-**Choose:** Choose a sprite to be the 🐙👩‍🦼🦖 **main character**, another sprite to be the 🎂🎾🎁 **interesting object** and a 🖼️ **backdrop** to set the scene.
+**Khetha:** Khetha isprite sibe ngo🐙👩‍🦼🦖 ** owona mlinganiswa**, esinye isprite sibe yi🎂🎾🎁**into enomdla** kunye no🖼️**mfanekiso wangasemva** ukuze wenze umboniso.
 
-![Two Choose a Sprite icons and a Choose a Backdrop icon.](images/sprites-and-backdrop.png)
+![Ezimbini Khetha ii-icon zeSprite kwaye Khetha i-icon yomfanekiso wangasemva.](images/sprites-and-backdrop.png)
 
 --- /task ---
 
-### Prepare your sprites
+### Lungisa iziprite yakho
 
-Where do you want your sprites to start? How big do you want them to be? How do you want them to look?
+Ufuna ziqale phi iziprite zakho? Ufuna zibe nkulu kangakanani? Ufuna zibene nkangeleko enjani?
 
 --- task ---
 
-Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation.
+Yongeza i `xa iflegi eluhlaza icofiwe`{:class="block3events"} ibhlokhi, emva koko, ngaphantsi, yongeza iibhloko ukuseta iziprite zakho ekuqaleni komfanekiso wakho woopopayi.
 
-**Tip:** Remember to set up both your 🐙👩‍🦼🦖 **main character** and your 🎂🎾🎁 **interesting object** sprites.
+**Ingcebiso:** Khumbula ukubeka 🐙👩‍🦼🦖** owona mlinganiswa** kunye ne 🎂🎾🎁** nto enomdla** yakho ye ziprite.
 
 --- collapse ---
 ---
-title: Position your sprites
+isihloko: Misa iziprite yakho ngohlobo.
 ---
 
 Move the 🐙👩‍🦼🦖 **main character** to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
@@ -76,7 +76,7 @@ Repeat this task for the 🎂🎾🎁 **interesting object**.
 
 --- collapse ---
 ---
-title: Resize your sprites
+isihloko: Buyisel ubungakanani be ziprite zakho
 ---
 
 To change the size of a sprite for the whole project, change the number in the **Size** property in the Sprite pane:
@@ -138,7 +138,7 @@ point in direction (-90) // turn to the left
 
 --- task ---
 
-Save your project.
+Gcina iprojekthi yakho.
 
 [[[generic-scratch3-saving]]]
 
