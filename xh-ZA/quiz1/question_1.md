@@ -1,10 +1,10 @@
-## Quick quiz
+## Imibuzo ekhawulezayo
 
-Answer the three questions. There are hints to guide you to the correct answer.
+Phendula imibuzo emithathu. Kukho iingcebiso zokukukhokelela kwimpendulo echanekileyo.
 
 When you have answered each question, click on **Check my answer**.
 
-Have fun!
+Yonwaba!
 
 --- question ---
 ---
@@ -39,7 +39,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Yes. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
+ Ewe. I `tshintsha isinxibo ukuya ku`{:class="block3looks"} iibhloko zitshintsha isinxibo se-sprite ukuze ingalo ishukume. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
 
   --- /feedback ---
 
