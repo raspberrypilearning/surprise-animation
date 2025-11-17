@@ -3,18 +3,18 @@
 legend: Question 3 of 3
 ---
 
-You created your animation by breaking it into parts and building it in the order in which it runs.
+आपने अपना एनीमेशन इसे भागों में तोड़कर और इसे चलाने के क्रम में बनाकर बनाया है।
 
-Which order represents the animation that you made?
+आपके द्वारा बनाए गए एनिमेशन को कौन-सा क्रम दर्शाता है?
 
 --- choices ---
 
 - ( )
-+ Curiosity
++ जिज्ञासा
 
-+ Setup
++ स्थापित करना
 
-+ Surprise!
++ आश्चर्य!
 
   --- feedback ---
 
@@ -27,7 +27,7 @@ Which order represents the animation that you made?
 
 + Curiosity
 
-+ Surprise!
++ आश्चर्य!
 
 
   --- feedback ---
@@ -37,7 +37,7 @@ Which order represents the animation that you made?
   --- /feedback ---
 
 - ( )
-+ Setup
++ स्थापित करना
 
 + Surprise!
 
