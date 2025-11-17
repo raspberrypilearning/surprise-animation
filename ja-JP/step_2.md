@@ -1,76 +1,76 @@
-## Create your scene
+## 場面を作る
 
-Have you got an idea about your animation?
+アニメーションについてのアイデアはありますか？
 
-Add a backdrop 🖼️, main character 🐙👩‍🦼🦖, and interesting object 🎂🎾🎁 of your choice to create the **first part** of your animation.
+背景🖼️、メインキャラクター🐙👩‍🦼🦖、興味をひくオブジェクト🎂🎾🎁を追加して、アニメーションの**はじまり**を作成します。
 
-![A film strip with 3 frames. The first frame is highlighted. The frame shows a scene with character, object, and background.](images/scene.png)
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Animation**</span> creates the effect of movement by changing pictures quickly. The first animators carved pictures out of wooden blocks and used them as stamps. It is much faster to use Scratch to code your animation!
-</p>
-
-### Open the starter project
-
---- task ---
-
-Open the [Surprise! animation starter project](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"}.
-
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29075822){:target="_blank"}.
-
---- /task ---
+![3つのフレームのフィルムストリップ。 最初のフレームが強調表示されている。 フレームには、キャラクター、オブジェクト、背景を含むシーンが表示されている。](images/scene.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-There are people called <span style="color: #0faeb0">**narrative designers**</span> who do storytelling for apps and video games. Digital storytelling allows everyone to share their stories and creative imaginings with other people.
+  <span style="color: #0faeb0">**アニメーション**</span> は、素早く絵を変更することで動きの効果を作ります。 初期のアニメーターは木のブロックに絵を彫り、それをスタンプとして使いました。 Scratchを使ってアニメーションをプログラムする方がはるかに速いです！
 </p>
 
-### Design your scene
+### スタータープロジェクトを開く
 
 --- task ---
 
-**Choose:** a theme for your animation. You could choose:
+[サプライズ！ アニメーションスタータープロジェクト](https://scratch.mit.edu/projects/582222532/editor){:target="_blank"}を開きます。
 
-+ 🐯 Land Animals
-+ 🐠 Sea animals
-+ 👽 Aliens
-+ 🌿 Nature
-+ 🌈 Weather
-+ 🌮 Food
-+ 🚀 Travel
-+ ⚾ Sport .... Or something else
+⏱️ あまり時間がないですか？ [プロジェクト例](https://scratch.mit.edu/studios/29075822){:target="_blank"}のいずれかから始めることができます。
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+アプリやビデオゲームの物語を語る<span style="color: #0faeb0">**ナラティブ（物語）デザイナー**</span>と呼ばれる人々がいます。 デジタル物語により、誰もが自分の物語や創作的な想像を他の人と共有できるようになります。
+</p>
+
+### 場面をデザインする
+
+--- task ---
+
+**選択:** アニメーションのテーマ。 例えば
+
++ 🐯 陸の動物
++ 🐠 海の動物
++ 👽 宇宙人
++ 🌿 自然
++ 🌈 天気
++ 🌮 食べ物
++ 🚀 旅行
++ ⚾ スポーツ .... または他の何か
 
 --- /task ---
 
 --- task ---
 
-**Choose:** Choose a sprite to be the 🐙👩‍🦼🦖 **main character**, another sprite to be the 🎂🎾🎁 **interesting object** and a 🖼️ **backdrop** to set the scene.
+**選択:** 🐙👩‍🦼🦖**メインキャラクター** となるスプライト、他の🎂🎾🎁**興味をひくオブジェクト**のスプライト、そして場面を決める🖼️**背景**を選択します。
 
-![Two Choose a Sprite icons and a Choose a Backdrop icon.](images/sprites-and-backdrop.png)
+![2つの「スプライトを選ぶ」と「背景を選ぶ」アイコン。](images/sprites-and-backdrop.png)
 
 --- /task ---
 
-### Prepare your sprites
+### スプライトを準備する
 
-Where do you want your sprites to start? How big do you want them to be? How do you want them to look?
+スプライトはどの場所から始めたいですか？ どれくらいの大きさにしたいですか？ どのように見せたいですか？
 
 --- task ---
 
-Add a `when green flag clicked`{:class="block3events"} block, then, underneath, add blocks to set up your sprites at the start of your animation.
+`緑の旗をクリックしたとき`{:class="block3events"}ブロックを追加し、その下にブロックを追加して、アニメーションを始めるときのスプライトを設定してください。
 
-**Tip:** Remember to set up both your 🐙👩‍🦼🦖 **main character** and your 🎂🎾🎁 **interesting object** sprites.
+**ヒント:** 🐙👩‍🦼🦖**メインキャラクター** と🎂🎾🎁**興味をひくオブジェクト**の両方のスプライトを設定することを忘れないでください。
 
 --- collapse ---
 ---
 title: Position your sprites
 ---
 
-Move the 🐙👩‍🦼🦖 **main character** to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
+🐙👩‍🦼🦖**メインキャラクター**をステージ上の任意の位置に移動し、コードに`x座標を～、y座標を～にする`{:class="block3motion"}ブロックを追加します。
 
 ```blocks3
 go to x: (0) y: (0) // add the sprite's position
 ```
 
-Repeat this task for the 🎂🎾🎁 **interesting object**.
+🎂🎾🎁**興味をひくオブジェクト**に対してこのタスクを繰り返します。
 
 --- /collapse ---
 
@@ -79,11 +79,11 @@ Repeat this task for the 🎂🎾🎁 **interesting object**.
 title: Resize your sprites
 ---
 
-To change the size of a sprite for the whole project, change the number in the **Size** property in the Sprite pane:
+プロジェクト全体のスプライトのサイズを変更するには、スプライトペインの**大きさ**プロパティの数字を変更します。
 
 ![](images/sprite-pane-size.png)
 
-To change the size of a sprite for part of the project, add code to `set size to`{:class="block3looks"} the size of your choice. This option is good if you want your sprite to change size in the project.
+スプライトのサイズをプロジェクトの一部分で変更するには、好きなサイズの`大きさを～％にする`{:class="block3looks"}コードを追加してください。 このオプションは、プロジェクト内でスプライトのサイズを変更したい場合に適しています。
 
 ```blocks3
 set size to [100] % // <100 is smaller, >100 is bigger
@@ -96,17 +96,17 @@ set size to [100] % // <100 is smaller, >100 is bigger
 title: Set the costumes of your sprites
 ---
 
-To change the costume of a sprite for the whole project, click on the **Costumes** tab and select one of the available costumes:
+プロジェクト全体でスプライトのコスチュームを変更するには、**コスチューム**タブをクリックして、そこにあるコスチュームの1つを選択します。
 
-![The Costumes tab, with the available costumes for a sprite.](images/nano-costumes.png)
+![スプライトに使用できるコスチュームが表示されます。](images/nano-costumes.png)
 
-To change the costume of a sprite for part of the project, add a `switch costume to`{:class="block3looks"} block to your code and update it to show the costume of your choice:
+プロジェクトの一部分でスプライトのコスチュームを変更するには、`コスチュームを～にする`{:class="block3looks"}ブロックを追加して好きなコスチュームを表示します。
 
 ```blocks3
 switch costume to [ v]  // update this for your chosen costume
 ```
 
-To hide a sprite at the start of the project, add a `hide`{:class="block3looks"} block to your code:
+プロジェクトの開始時にスプライトを非表示にするには、`隠す`{:class="block3looks"}ブロックをコードに追加します。
 
 ```blocks3
 hide 
@@ -119,13 +119,13 @@ hide
 title: Set the direction of your sprites
 ---
 
-Your sprites might be facing the wrong way when you add them to your project.
+スプライトをプロジェクトに追加したとき、スプライトが間違った方向を向いていることがあります。
 
-To change the direction of a sprite for the whole project, change the **Direction** and **rotation style** in the Sprite pane:
+スプライトの向きをプロジェクト全体で変更するには、スプライトペインの**向き**と**回転方法**を変えてください。
 
-![The Direction and rotation style menu in the Sprite pane.](images/sprite-pane-direction.png)
+![スプライトペインの方向と回転方法メニュー。](images/sprite-pane-direction.png)
 
-To change the direction of a sprite for part of the project, add blocks to your code to change the `rotation style`{:class="block3motion"} and `direction`{:class="block3motion"}:
+スプライトの方向をプロジェクトの一部分で変更するには、ブロックをコードに追加して`回転方法`{:class="block3motion"}と`向き`{:class="block3motion"}を変えてください。
 
 ```blocks3
 set rotation style [left-right v]
@@ -138,7 +138,7 @@ point in direction (-90) // turn to the left
 
 --- task ---
 
-Save your project.
+プロジェクトを保存します。
 
 [[[generic-scratch3-saving]]]
 
