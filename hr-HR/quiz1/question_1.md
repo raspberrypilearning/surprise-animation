@@ -4,7 +4,7 @@ Answer the three questions. There are hints to guide you to the correct answer.
 
 When you have answered each question, click on **Check my answer**.
 
-Have fun!
+Zabavi se!
 
 --- question ---
 ---
@@ -39,7 +39,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Yes. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
+ Da. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
 
   --- /feedback ---
 
