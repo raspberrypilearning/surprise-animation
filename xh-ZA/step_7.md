@@ -1,4 +1,4 @@
-## Share and play
+## Dlalisanani
 
 If you are in a club, why not share your project with friends and peers?
 
@@ -16,7 +16,7 @@ If you have a Scratch account, and have shared your 'Surprise! animation' projec
 
 --- task ---
 
-Inspire the Raspberry Pi Foundation community with your project!
+Khuthaza uluntu lweRaspberry Pi Foundation ngeprojekthi yakho!
 
 To submit your project to our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
