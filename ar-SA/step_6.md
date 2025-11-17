@@ -1,21 +1,21 @@
-## Upgrade your project
+## قم بترقية مشروعك
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You could upgrade your project by adding a reaction. How will your main character react? 
+يمكنك ترقية مشروعك عن طريق إضافة رد فعل. كيف سيكون رد فعل شخصيتك الرئيسية؟ 
 
-You decide!
+أنت قرر!
 </div>
 <div>
 
-![The 'Trespasser' project showing the reaction to the surprise.](images/tresspass.png)
+![مشروع "Tresspasser" يوضح رد الفعل على المفاجأة.](images/tresspass.png)
 
 </div>
 </div>
 
 --- task ---
 
-What will they do? Will they say something, make a sound, change costumes, or move?
+ماذا سيفعلون؟ - هل سيقولون شيئًا ، أو يصدرون صوتًا ، أو يغيرون الأزياء ، أو يتحركون؟
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
@@ -33,26 +33,26 @@ What will they do? Will they say something, make a sound, change costumes, or mo
 
 --- task ---
 
-You could also:
-+ Add to or improve your animation, with movement, looks, and graphic effects
-+ Create or edit costumes in the Paint editor to make them look the way that you want
-+ Record your voice or record sound effects and add the new sounds to your project
+يمكنك إضافة:
++ أضف إلى الرسوم المتحركة الخاصة بك أو قم بتحسينها، من خلال الحركة والمظهر والتأثيرات الرسومية
++ قم بإنشاء الأزياء أو تحريرها في محرر الرسام لجعلها تبدو بالطريقة التي تريدها
++ سجل صوتك أو سجل مؤثرات صوتية وأضف الأصوات الجديدة إلى مشروعك
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Professional programmers explore and take inspiration from code created by other programmers. 
+يستكشف المبرمجون المحترفون ويستلهمون من التعليمات البرمجية التي أنشأها مبرمجون آخرون. 
 </p>
 
 --- task ---
 
-You can also look at the remixes for the [Surprise animation starter project](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} to see what other creators have made.
+يمكنك أيضًا إلقاء نظرة على التعديلات لمشروع [مفاجأة مشروع الرسوم المتحركة المبدئي](https://scratch.mit.edu/projects/582222532/remixes) {:target="_blank"} لمعرفة ما قام به منشئو المحتوى الآخرون.
 
 --- /task ---
 
 --- task ---
 
-Each project in the ['Surprise! animation — Examples' Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+كل مشروع في ['مفاجأة! كل مشروع في ](https://scratch.mit.edu/studios/29075822)'لقد صنعت لك كتابًا - أمثلة' Scratch معارضي في**{: target = "_ blank"} به **اطلع على البرنامج ، والذي يمكنك استخدامه لفتح المشروع في محرر Scratch وإلقاء نظرة على المقاطع البرمجية للحصول على أفكار ومعرفة كيفية عمل المشروع.
 
 **Doppelganger**: [See inside](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -63,7 +63,7 @@ Each project in the ['Surprise! animation — Examples' Scratch studio](https://
 
 --- task ---
 
-Take a look at our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"} to see projects created by community members.
+ألق نظرة على ['مفاجئتنا! الرسوم المتحركة - استوديو سكراتش للمجتمع](https://scratch.mit.edu/studios/29079784){: target = "_ blank"} لمشاهدة المشاريع التي أنشأها أعضاء المجتمع.
 
 --- /task ---
 
