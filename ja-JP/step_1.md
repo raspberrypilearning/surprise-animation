@@ -1,14 +1,14 @@
-## You will make
+## はじめに
 
-Create a short animation 🎥 with a fun surprise 🎉!
+サプライズ（驚き）🎉のある、短いアニメーション🎥を作成します！
 
 あなたは次のことを行います。
 
-+ Create your own animation
-+ Test and debug your code
-+ Build your animation one part at a time
++ アニメーションを作成する
++ コードをテストしてデバッグする
++ アニメーションをパーツごとに構築する
 
-![Examples of projects.](images/surprise-example.png)
+![プロジェクトの例。](images/surprise-example.png)
 
 --- no-print ---
 
@@ -17,14 +17,14 @@ Create a short animation 🎥 with a fun surprise 🎉!
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Play ▶️ 
+### 試してみる▶️
 
-Click on the green flag to watch the animation.
+緑色の旗をクリックしてアニメーションをご覧ください。
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+アニメーションは3つの部分で構成されています。
++ 好奇心
++ 驚き！
++ 反応
 
 </div>
 <div>
@@ -37,13 +37,13 @@ The animation has three parts:
 
 --- /task ---
 
-### Get ideas 💭
+### インスピレーションを得る
 
 --- task ---
 
-Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
+サンプルプロジェクトを試してアイディアを得ましょう。 どんなアニメーションになるか考えて、サンプルプロジェクトを通してもっとアイデアを得ましょう。
 
-⭐ Share your finished Surprise animation project for a chance of it being featured here.
+⭐ 完成したサプライズプロジェクトを共有すると、ここで紹介される可能性があります。
 
 **BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -66,16 +66,16 @@ Play with these example projects to get ideas. Think about what your animation m
 
 --- print-only ---
 
-### Get ideas 💭
+### アイデアを得る
 
 サプライズのあるアニメーションのデザインを決めて、ストーリーを考えます。 あなたのストーリーがどんなものになるか考え、より多くのアイデアを得るために、 **「サプライズ！」** のサンプルプロジェクトの中を見てみましょう。 アニメーション — スクラッチスタジオの例：https://scratch.mit.edu/studios/29075822/
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+アニメーションには4つの部品があります。
++ 好奇心
++ サプライズ！
++ 反応
 
-![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
+![」プロジェクト。](images/boo.png) ![「猫の魔法」プロジェクト。](images/cat-magic.png)
 
 --- /print-only ---
 
