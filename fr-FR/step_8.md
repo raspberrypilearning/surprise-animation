@@ -9,7 +9,7 @@ Si tu suis le parcours [Introduction de Scratch](https://projects.raspberrypi.or
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
 
---- /no-print ---
+--- /task ---
 
 --- print-only ---
 
