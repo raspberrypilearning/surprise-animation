@@ -1,4 +1,4 @@
-## Add a surprise!
+## Syrpreis
 
 Now, you need to add a surprise. What could happen to the object?
 - Will it turn into another object?
@@ -22,8 +22,8 @@ Select the 🎂🎾🎁 **interesting object** sprite. Add a script to make the 
 You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
 
 ```blocks3
-when flag clicked
-wait (5) seconds // change the number to create your time delay
+when [timer v] > (4) // gosod yr amser oedi
+hide
 ```
 
 --- /task ---
@@ -34,13 +34,13 @@ wait (5) seconds // change the number to create your time delay
 
 The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
 
-You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it.
+Fe allet ti wneud i'r corlun droi yn gorlun wahanol — i wneud hyn, mae angen `cuddio`{:class="block3looks"} y corlun **gwrthrych** ar yr un pryd ag wyt ti'n `dangos`{:class="block3looks"} corlun arall.
 
 ![A desert background with a rock jiggling back and forth.](images/bat.gif)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the 🎂🎾🎁 **interesting object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
+Corlun **syrpreis**:
 
 --- collapse ---
 ---
@@ -49,18 +49,13 @@ title: Hide and show sprites
 
 The 🎂🎾🎁 **interesting object** sprite:
 ```blocks3
-when flag clicked
+when [timer v] > (4) // yr un amser oedi
 show
-wait (5) seconds
-hide
 ```
 
 The 🎷👻⚡**surprise object** sprite:
 ```blocks3
-when flag clicked
-hide
-wait (5) seconds
-show
+when [timer v] > [5]
 ```
 
 **Tip:** If you make a 🎷👻⚡**surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
@@ -83,7 +78,7 @@ If you need a sprite to be in front of or behind another sprite, you can use lay
 
 [[[scratch3-positioning-with-layers]]]
 
-If the surprise happens at the wrong time, you can fix that:
+Os wyt ti wedi dewis yr `amserydd`{:class="block3events"} yn gywir, rho gynnig ar addasu faint o amser mae'r amserydd yn aros.
 
 --- collapse ---
 ---
