@@ -3,18 +3,18 @@
 legend: Question 3 of 3
 ---
 
-You created your animation by breaking it into parts and building it in the order in which it runs.
+ನಿಮ್ಮ ಆನಿಮೇಶನ್ ಅನ್ನು ನೀವು ಭಾಗಗಳಾಗಿ ವಿಭಜಿಸಿ ಮತ್ತು ಅದನ್ನು ಚಲಿಸುವ ಕ್ರಮದಲ್ಲಿ ನಿರ್ಮಿಸಿದ್ದೀರಿ.
 
-Which order represents the animation that you made?
+ಯಾವ ಕ್ರಮವು ನೀವು ಮಾಡಿದ ಅನಿಮೇಷನ್ ಅನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ?
 
 --- choices ---
 
 - ( )
-+ Curiosity
++ ಕುತೂಹಲ
 
-+ Setup
++ ಸೆಟಪ್(setup)
 
-+ Surprise!
++ ಆಶ್ಚರ್ಯ!
 
   --- feedback ---
 
@@ -27,7 +27,7 @@ Which order represents the animation that you made?
 
 + Curiosity
 
-+ Surprise!
++ ಆಶ್ಚರ್ಯ!
 
 
   --- feedback ---
@@ -37,7 +37,7 @@ Which order represents the animation that you made?
   --- /feedback ---
 
 - ( )
-+ Setup
++ ಸೆಟಪ್(setup)
 
 + Surprise!
 
