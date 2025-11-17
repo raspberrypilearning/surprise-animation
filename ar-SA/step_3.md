@@ -1,22 +1,22 @@
-## Show curiosity
+## أظهر الفضول
 
-Will the object do something to attract attention? How will the character react? You decide! Create the **second part** of your animation.
+هل سيفعل الكائن شيئًا لجذب الانتباه؟ كيف سيكون رد فعل الكائن؟ انت صاحب القرار! قم بإنشاء الجزء **الثاني** من الرسوم المتحركة الخاصة بك.
 
-![A film strip with 3 frames. The second frame is highlighted. The frame shows a scene with character thinking 'hmmmm' while looking at a curious object.](images/curiosity.png)
+![شريط فيلم مكون من 3 إطارات. يتم تسليط الضوء على الإطار الثاني. يُظهر الإطار مشهدًا حيث تفكر الشخصية "هممممم" أثناء النظر إلى شيء مثير للفضول.](images/curiosity.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. In this step you will focus only on the curiosity part of your animation.
+  <span style="color: #0faeb0">** التفكيك **</span> هو تقسيم المشروع إلى أجزاء أصغر وأسهل في الفهم. هذا يعني أنه يمكنك بناء مشروع. جزء واحد في كل مرة حتى تكمله. في هذه الخطوة سوف تركز فقط على الجزء الفضولي من الرسوم المتحركة الخاصة بك.
 </p>
 
 ### الكائن
 
 --- task ---
 
-**Choose:** If you want the 🎂🎾🎁 **interesting object** to do something to attract attention, choose what the object will do.
+**اختر:** إذا كنت تريد أن يقوم الكائن بشيء ما ، فاختر ما سيفعله الكائن.
 
-![A desert background with a rock jiggling back and forth.](images/jiggle.gif)
+![خلفية صحراوية مع صخرة تهتز ذهابًا وإيابًا.](images/jiggle.gif)
 
-Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green flag clicked`{:class="block3events"} setup script.
+أضف كتلًا إلى نهاية الكائن `عند النقر على العلم الأخضر`{:class="block3events"} لضبط التعليمات البرمجية.
 
 [[[scratch3-jiggle-a-sprite]]]
 
@@ -28,21 +28,21 @@ Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green f
 
 --- task ---
 
-Get the 🐙👩‍🦼🦖 **main character** to show interest in the object. Add blocks to the end of the 🐙👩‍🦼🦖 **main character's** setup script.
+احصل على الشخصية الرئيسية لإظهار الاهتمام بالكائن. أضف الكتل إلى نهاية لضبط التعليمة البرمجية **الخاص بـ**.
 
-If you need the 🐙👩‍🦼🦖 **main character** to wait until the 🎂🎾🎁 **interesting object** has done something, add a `wait`{:class="block3control"} block.
+إذا كنت في حاجة إلى أنتظار شخصية ما لعمل شيء لديه، إضف كتلة `الانتظار`{:class="block3control"}.
 
-![A desert background with a rock jiggling back and forth.](images/bear.gif)
+![خلفية صحراوية مع صخرة تهتز ذهابًا وإيابًا.](images/bear.gif)
 
-You could use `say`{:class="block3looks"} or `think`{:class="block3looks"} blocks, or even use the `Text to Speech`{:class="block3extensions"} extension to make the character talk out loud!
+يمكنك استخدام كتلة `قول`{:class="block3looks"} أو كتلة `فكر`{:class="block3looks"} ، أو حتى استخدام `نص إلى كلام`{:class="block3extensions"} لجعل الشخصية تتحدث بصوت عال!
 
 [[[scratch3-text-to-speech]]]
 
-The character could emote, like in the [Space talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"} project.
+يمكن للشخصية أن ترمز ، كما هو الحال في مشروع [حديث الفضاء](https://projects.raspberrypi.org/ar-SA/projects/space-talk){:target="_blank"}.
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-The character could be brave and move closer to check out the object.
+يمكن أن تكون الشخصية شجاعة وتقترب أكثر للتحقق من الكائن.
 
 [[[scratch3-animate-movement-costumes]]]
 
@@ -50,16 +50,16 @@ The character could be brave and move closer to check out the object.
 
 --- task ---
 
-**Test:** Click on the green flag to test your project. The 🐙👩‍🦼🦖 **main character** should show curiosity about the object.
+**اختبار:** انقر فوق العلم الأخضر لاختبار مشروعك. يجب أن تظهر الشخصية فضولًا حول الكائن.
 
-Click on the green flag again. If you changed the 🎂🎾🎁 **interesting object** or 🐙👩‍🦼🦖 **main character** sprite's position or looks, you will need to make sure that they are set back to their starting position or looks when you run the project again.
+انقر على العلم الأخضر مرة أخرى. إذا قمت بتغيير موضع الكائن **** أو**الشخصية ** أو شكله ، فستحتاج إلى التأكد من أنه تم إعادته إلى موضع البداية أو المظهر عند تشغيل المشروع مرة أخرى.
 
 --- collapse ---
 ---
 title: Set the starting position and looks for a sprite
 ---
 
-Choose the blocks that you need to set the position and looks for a sprite at the start.
+اختر الكتل التي تحتاجها لتعيين الموضع وابحث عن الكائن في البداية.
 
 ```blocks3
 when flag clicked // add blocks to set up the start 
@@ -71,7 +71,7 @@ set [brightness v] effect to [80]
 show
 ```
 
-**Tip:** All graphic effects are cleared when you click on the green flag, so you don't need to clear them, but you might need to set the effects that you want the sprite to have.
+**نصيحة:** يتم مسح جميع تأثيرات الرسوم عند النقر فوق العلم الأخضر ، لذلك لا تحتاج إلى مسحها ، ولكن قد تحتاج إلى تعيين التأثيرات التي تريد أن يكون للكائن المتحرك.
 
 --- /collapse ---
 
@@ -79,14 +79,14 @@ show
 
 --- task ---
 
-**Debug:**
+**التصحيح:**
 
 --- collapse ---
 ---
 title: The sound is not working
 ---
 
-Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
+تأكد من أن مستوى الصوت على الكمبيوتر أو الجهاز اللوحي مرتفع بدرجة كافية وأن مكبرات الصوت أو سماعات الرأس متصلة وتعمل بشكل صحيح.
 
 --- /collapse ---
 
@@ -95,7 +95,7 @@ Check that the volume on your computer or tablet is loud enough and that your sp
 title: My animation does not reset properly when I click on the green flag
 ---
 
-Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
+تحقق من أن مشروعك يحتوي على `عند نقر على العلم الأخضر`{:class="block3events"} نصوص برمجية للكائنات التي تحتاجها ، وتحقق من أنها تعيد تعيين الموضع والحجم والبحث عن الكائنات. للمساعدة في هذا ، راجع **تعيين موضع البداية والبحث عن** أعلاه.
 
 --- /collapse ---
 
