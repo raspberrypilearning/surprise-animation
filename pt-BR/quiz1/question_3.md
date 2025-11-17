@@ -18,34 +18,34 @@ Qual ordem representa a animação que você fez?
 
   --- feedback ---
 
- The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
+ A parte de 'configuração' reinicia sua animação. Ela precisa vir primeiro para que sua animação possa ser executada novamente da mesma maneira.
 
   --- /feedback ---
 
 - (x)
-+ Setup
++ Configurar
 
-+ Curiosity
++ Curiosidade
 
 + Surpresa!
 
 
   --- feedback ---
 
- Yes! You set up your sprites first, then created curiosity then ended with a surprise.
+ Sim! Você configura seus atores primeiro, então sua história é construída para uma reação final.
 
   --- /feedback ---
 
 - ( )
 + Configurar
 
-+ Surprise!
++ Surpresa!
 
-+ Curiosity
++ Curiosidade
 
   --- feedback ---
 
- Curiosity was not at the end of the animation. Something came afterwards.
+ A surpresa não ficou no final da animação. Algo aconteceu depois.
 
   --- /feedback ---
 
