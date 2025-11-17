@@ -1,10 +1,10 @@
 ## You will make
 
-Create a short animation 🎥 with a fun surprise 🎉!
+मज़ेदार सरप्राइज़ के साथ एक छोटा एनिमेशन 🎥 बनाएं
 
-You will:
+आप करेंगे:
 
-+ Create your own animation
++ अपना खुद का एनीमेशन बनाएं
 + Test and debug your code
 + Build your animation one part at a time
 
@@ -17,13 +17,9 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Play ▶️ 
+प्ले ▶️ एनिमेशन देखने के लिए हरे झंडे पर क्लिक करें।
 
-Click on the green flag to watch the animation.
-
-The animation has three parts:
-+ Curiosity
-+ Surprise!
+एनीमेशन के तीन भाग हैं: + जिज्ञासा + आश्चर्य! + प्रतिक्रिया
 + Reaction
 
 </div>
@@ -68,7 +64,7 @@ Play with these example projects to get ideas. Think about what your animation m
 
 ### Get ideas 💭
 
-You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
+आप डिज़ाइन संबंधी निर्णय लेंगे और आश्चर्य के साथ अपने एनिमेशन के लिए एक कहानी के बारे में सोचेंगे। इस बारे में सोचें कि आपकी कहानी क्या हो सकती है, और अधिक विचार प्राप्त करने के लिए, **अंदर देखें** उदाहरण प्रोजेक्ट है आश्चर्य के अंदर एनिमेशन - उदाहरण 'स्क्रैच स्टूडियो: https://scratch.mit.edu/studios/29075822/
 
 The animation has three parts:
 + Curiosity
