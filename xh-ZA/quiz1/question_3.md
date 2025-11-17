@@ -32,7 +32,7 @@ Which order represents the animation that you made?
 
   --- feedback ---
 
- Yes! You set up your sprites first, then created curiosity then ended with a surprise.
+ Ewe! You set up your sprites first, then created curiosity then ended with a surprise.
 
   --- /feedback ---
 
