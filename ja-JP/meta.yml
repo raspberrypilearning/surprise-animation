@@ -2,8 +2,8 @@
 title: サプライズ！アニメーション
 hero_image: images/banner.png
 description: 驚きのあるストーリーのアニメーションを作成する
-meta_title: Scratch coding projects for kids and teens | Surprise! animation
-meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make a Scratch animation with a fun surprise.
+meta_title: 子どもや十代の若者向けのScratchコーディングプロジェクト | サプライズ！アニメーション
+meta_description: 子どもや十代の若者向けのRaspberry Pi Foundationのコーディングプロジェクトで、Scratchのコーディングを学びましょう。楽しいサプライズのあるScratchアニメーションを作ります。
 pdf: resources/surprise-animation.pdf
 version: 4
 listed: true
@@ -13,25 +13,25 @@ steps:
   - 
     title: はじめに
   - 
-    title: Create your scene
+    title: 場面を作る
   - 
-    title: Show curiosity
+    title: 好奇心を示す
     completion:
       - engaged
   - 
-    title: Add a surprise!
+    title: サプライズを加える！
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: ふりかえり
     knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
       passing_score: 3
     completion:
-      - external
+      - internal
   - 
-    title: Upgrade your project
+    title: プロジェクトをアップグレードする
   - 
-    title: Share and play
+    title: 共有して遊ぶ
