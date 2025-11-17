@@ -9,9 +9,9 @@ Si estás siguiendo la ruta [Introducción a Scratch](https://projects.raspberry
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
 
---- /no-print ---
+[[[comments-feedback-scratch]]]
 
---- print-only ---
+--- task ---
 
 ![Un proyecto de 'Te hice un libro'.](images/book-cover.png)
 
