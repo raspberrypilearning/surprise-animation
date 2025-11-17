@@ -1,25 +1,25 @@
-## Add a surprise!
+## サプライズを加える！
 
-Now, you need to add a surprise. What could happen to the object?
-- Will it turn into another object?
-- Will it turn into a character?
-- Will it disappear and reveal another sprite?
+ここで、サプライズを追加する必要があります。 オブジェクトに何が起きたらよいでしょうか？
+- 別のオブジェクトになりますか？
+- 主人公になりますか？
+- 消えて別のスプライトを出現させますか？
 
-You decide! Create the **third part** of your animation.
+あなたが決めるのです！ アニメーションの**パート3**を作成しましょう。
 
-![A film strip with 3 frames. The third frame is highlighted. The frame shows a scene with character looking surprised at an object.](images/surprise.png)
+![3つのフレームのフィルムストリップ。 3番目のフレームが強調表示されている。 フレームには、オブジェクトに驚いているキャラクターのシーンが描かれている。](images/surprise.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
+どんでん返しや驚きのある物語を書いたことがありますか？ 終わりの予測できないショーを見たり、本を読んだりしたことがありますか？ デジタルストーリーやアニメーションを作成するときにも同じ方法が使えます。 
 </p>
 
 ### サプライズはいつ起こりますか？
 
 --- task ---
 
-Select the 🎂🎾🎁 **interesting object** sprite. Add a script to make the surprise start when you want it to.
+🎂🎾🎁**興味をひくオブジェクト**のスプライトを選択します。 スクリプトを追加して、希望するタイミングでサプライズが始まるようにします。
 
-You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
+あなたのプロジェクトに適した遅延時間を選ぶ必要があります。 長い時間を使って好奇心をあおる主人公の場合は、より長い遅延を選ぶ必要があるでしょう。
 
 ```blocks3
 when flag clicked
@@ -32,22 +32,22 @@ wait (5) seconds // change the number to create your time delay
 
 --- task ---
 
-The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
+オブジェクトは、 `音を鳴らす`{:class="block3sound"}、 `コスチュームを◯にする`{:class="block3looks"}、 `画像効果を変更`{:class="block3looks"}、または `大きさを変更`{:class="block3looks"}。
 
-You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it.
+スプライトに意外なコスチュームを追加すると、スプライトは`コスチューム`{:class="block3looks"}をそれに切り替えて表示できます。
 
-![A desert background with a rock jiggling back and forth.](images/bat.gif)
+![岩が前後に揺れている砂漠の背景。](images/bat.gif)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the 🎂🎾🎁 **interesting object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
+`音量`{:class="block3events"}ブロックの `タイマー`{:class="block3events"}オプションを選択していることを確認してください。
 
 --- collapse ---
 ---
 title: Hide and show sprites
 ---
 
-The 🎂🎾🎁 **interesting object** sprite:
+🎂🎾🎁**興味をひくオブジェクト**スプライト
 ```blocks3
 when flag clicked
 show
@@ -55,7 +55,7 @@ wait (5) seconds
 hide
 ```
 
-The 🎷👻⚡**surprise object** sprite:
+🎷👻⚡**サプライズオブジェクト**スプライト
 ```blocks3
 when flag clicked
 hide
@@ -63,7 +63,7 @@ wait (5) seconds
 show
 ```
 
-**Tip:** If you make a 🎷👻⚡**surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**ヒント:** 🎷👻⚡**サプライズオブジェクト**スプライトを`表示する`{:class="block3looks"}場合、`緑の旗が押されたとき`{:class="block3events"}にそれを`隠す`{:class="block3looks"}必要があります。
 
 --- /collapse ---
 
@@ -71,26 +71,26 @@ show
 
 --- task ---
 
-**Test:** Click on the green flag. Does the surprise happen at the right time? Does the animation reset properly?
+**テスト:** 緑色の旗をクリックします。 サプライズは適切なタイミングで起こりますか？ アニメーションは正しくリセットされますか？
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**デバッグ**
 
-If you need a sprite to be in front of or behind another sprite, you can use layers:
+スプライトを別のスプライトの前や後に配置する必要がある場合は、レイヤーを使用できます。
 
 [[[scratch3-positioning-with-layers]]]
 
-If the surprise happens at the wrong time, you can fix that:
+サプライズが間違ったタイミングで起こった場合は、次の方法で修正できます。
 
 --- collapse ---
 ---
 title: The surprise starts at the wrong time
 ---
 
-You might need to change the amount of time in some or all of the `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
+タイミングを正しくするために、一部またはすべての`待つ`{:class="block3control"}ブロックの秒数を変更するか、`待つ`{:class="block3control"}ブロックをもっと追加する必要があるかもしれません。
 
 --- /collapse ---
 
