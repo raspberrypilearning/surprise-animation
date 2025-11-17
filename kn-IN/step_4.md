@@ -13,7 +13,7 @@ You decide! Create the **third part** of your animation.
 Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
 </p>
 
-### When will the surprise happen?
+### ಆಶ್ಚರ್ಯ ಯಾವಾಗ ಸಂಭವಿಸುತ್ತದೆ?
 
 --- task ---
 
@@ -28,7 +28,7 @@ wait (5) seconds // change the number to create your time delay
 
 --- /task ---
 
-### Now, create the surprise!
+### ಈಗ, ಆಶ್ಚರ್ಯವನ್ನು ಸೃಷ್ಟಿಸಿ!
 
 --- task ---
 
