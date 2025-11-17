@@ -1,12 +1,12 @@
-## You will make
+## Cyflwyniad
 
-Create a short animation 🎥 with a fun surprise 🎉!
+Creu animeiddiad byr gyda syrpreis.
 
 Byddi di'n:
 
-+ Create your own animation
-+ Test and debug your code
-+ Build your animation one part at a time
++ Defnyddio Scratch i greu animeiddiad
++ Profi a difa chwilod yn dy god wrth wneud newidiadau
++ Rhannu animeiddiad yn rhannau - proses sy'n cael ei alw'n **dadelfennu** - a'i adeiladu un rhan ar y tro
 
 ![Examples of projects.](images/surprise-example.png)
 
@@ -37,13 +37,13 @@ The animation has three parts:
 
 --- /task ---
 
-### Get ideas 💭
+### Cael ysbrydoliaeth
 
 --- task ---
 
 Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
 
-⭐ Share your finished Surprise animation project for a chance of it being featured here.
+Byddi di'n gwneud penderfyniadau dylunio ac yn meddwl am stori ar gyfer dy animeiddiad sy'n cynnwys syrpreis.
 
 **BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -66,16 +66,16 @@ Play with these example projects to get ideas. Think about what your animation m
 
 --- print-only ---
 
-### Get ideas 💭
+### Cael ysbrydoliaeth
 
 Byddi di'n gwneud penderfyniadau dylunio ac yn meddwl am stori ar gyfer dy animeiddiad sy'n cynnwys syrpreis. Meddylia beth allai dy stori fod, ac i gael mwy o syniadau, **Cymer olwg y tu mewn i** brosiectau enghreifftiol yn stiwdio scratch 'Surprise! animation — Examples' https://scratch.mit.edu/studios/29075822/
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+Mae pedair rhan i'r animeiddiad:
++ Gosod
++ Chwilfrydedd
++ Syrpreis!
 
-![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
+![Y prosiect 'Syrpreis dinasor!'.](images/boo.png) ![Y prosiect 'BOO'.](images/cat-magic.png)
 
 --- /print-only ---
 
