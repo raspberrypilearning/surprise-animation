@@ -13,7 +13,7 @@ steps:
   - 
     title: Introduction
   - 
-    title: Create your scene
+    title: Yenza umboniso wakho
   - 
     title: Show curiosity
     completion:
@@ -23,7 +23,7 @@ steps:
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Imibuzo ekhawulezileyo
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -32,6 +32,6 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Phucula iprojekthi yakho
   - 
-    title: Share and play
+    title: Dlalisanani
