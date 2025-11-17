@@ -5,11 +5,11 @@ legend: Question 2 of 3
 
 In your project, you controlled your animation with `wait`{:class="block3control"} blocks.
 
-In this dinosaur project, you want the little dinosaur to wait 6 seconds before it pops out of the egg and surprises the big dinosaur.
+В этом проекте про динозавров тебе надо, чтобы маленький динозавр подождал 6 секунд, прежде чем выскочить из яйца и удивить большого динозавра.
 
-![A dinosaur sprite and an egg sprite on the Stage.](images/quiz-q2.png)
+![Спрайт динозавра и спрайт яйца на сцене.](images/quiz-q2.png)
 
-Which script for the **little dinosaur** sprite would make this happen?
+Какой скрипт для спрайта **маленький динозавр** позволит это сделать?
 
 --- choices ---
 
