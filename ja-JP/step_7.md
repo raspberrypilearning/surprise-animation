@@ -1,32 +1,32 @@
-## Share and play
+## 共有して遊ぶ
 
-If you are in a club, why not share your project with friends and peers?
+もしあなたがクラブにいるならプロジェクトを友達や仲間と共有してみませんか？
 
-You could also show your family how your project works.
+プロジェクトがどのように動作するか家族に見せることもできます。
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+Scratchアカウントをお持ちの場合は、Scratchを介してプロジェクトを共有できます。 リンクを知り合いに送ったり、Scratchコミュニティ全体がプロジェクトを見つけて試すことができるようになります。
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+友達を誘ってプロジェクトを作成してみませんか？ あなたがどのように楽しんだか知らせてあげてください。
 
-If you have a Scratch account, and have shared your 'Surprise! animation' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+Scratchアカウントをお持ちで「サプライズ！ アニメーション」プロジェクトを共有している場合、他の人があなたの作品にコメントする可能性があることに注意してください。 フィードバックはこれまでの作業を振り返るよい方法です。 役に立たなかったり無関係なコメントは無視してください。
 
 [[[comments-feedback-scratch]]]
 
---- task ---
+プロジェクトをアップグレードする
 
-Inspire the Raspberry Pi Foundation community with your project!
+あなたのプロジェクトでRaspberry Pi財団コミュニティにインスピレーションを与えてください！
 
-To submit your project to our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+あなたのプロジェクトを[「サプライズ！ アニメーションのコミュニティ」Scratchスタジオ](https://scratch.mit.edu/studios/29079784){:target="_blank"}に登録するには、[このフォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}に記入してください。
 
---- /task ---
+ペイントエディタでコスチュームを作成または編集して、希望どおりの見た目にします
 
-### Community submissions
+### コミュニティの投稿
 
---- task ---
+プロジェクトをアップグレードする
 
-Take a look at these fabulous community projects from our ['Surprise! animation — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
+[「サプライズ！ アニメーションのコミュニティ」Scratchスタジオ](https://scratch.mit.edu/studios/29079784){:target="_blank"}の素晴らしいコミュニティプロジェクトをご覧ください。
 
 **Surprise eggs**: [See inside](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -39,9 +39,9 @@ Take a look at these fabulous community projects from our ['Surprise! animation 
 </div>
 --- /task ---
 
---- task ---
+--- save ---
 
-You can also look at the remixes for the [Surprise animation starter project](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"} to see what other creators have made.
+[サプライズアニメーションのスタータープロジェクト](https://scratch.mit.edu/projects/582222532/remixes){:target="_blank"}のリミックスを見て、他のクリエイターが作成した作品を確認してみてください。
 
---- /task ---
+動き、見た目、画像効果を使用して、アニメーションを追加または改善します
 
