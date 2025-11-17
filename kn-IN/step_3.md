@@ -8,7 +8,7 @@ Will the object do something to attract attention? How will the character react?
   <span style="color: #0faeb0">**Decomposition**</span> is breaking a project down into parts that are smaller and easier to understand. This means that you can build a project one part at a time until you have completed it. In this step you will focus only on the curiosity part of your animation.
 </p>
 
-### The object
+### ವಸ್ತು
 
 --- task ---
 
@@ -24,7 +24,7 @@ Add blocks to the end of the 🎂🎾🎁 **interesting object's** `when green f
 
 --- /task ---
 
-### The character
+### ಪಾತ್ರ
 
 --- task ---
 
