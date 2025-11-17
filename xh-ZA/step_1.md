@@ -1,14 +1,14 @@
-## You will make
+## Uzakwena
 
 Create a short animation 🎥 with a fun surprise 🎉!
 
-You will:
+Uzaku:
 
 + Create your own animation
 + Test and debug your code
 + Build your animation one part at a time
 
-![Examples of projects.](images/surprise-example.png)
+![Imizekelo yeeprojekthi.](images/surprise-example.png)
 
 --- no-print ---
 
@@ -37,11 +37,11 @@ The animation has three parts:
 
 --- /task ---
 
-### Get ideas 💭
+### Fumana izimvo 💭
 
 --- task ---
 
-Play with these example projects to get ideas. Think about what your animation might be, and explore these example projects to get more ideas:
+Dlala ngale mizekelo ukuze ufumana izimvo. Think about what your animation might be, and explore these example projects to get more ideas:
 
 ⭐ Share your finished Surprise animation project for a chance of it being featured here.
 
@@ -66,7 +66,7 @@ Play with these example projects to get ideas. Think about what your animation m
 
 --- print-only ---
 
-### Get ideas 💭
+### Fumana izimvo
 
 You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
 
