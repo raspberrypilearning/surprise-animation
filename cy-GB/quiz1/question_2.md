@@ -3,7 +3,7 @@
 legend: Question 2 of 3
 ---
 
-In your project, you controlled your animation with `wait`{:class="block3control"} blocks.
+Yn dy brosiect, fe wnes di gynllunio dy animeiddiad gyda blociau `amserydd`{:class="block3events"} neu `aros`{:class="block3control"}.
 
 Yn y prosiect deinosor yma, rwyt ti am gael y deinosor bach i aros am 6 eiliad cyn iddo sboncio allan o'r wy a synnu'r deinosor mawr.
 
@@ -21,7 +21,7 @@ show
 
   --- feedback ---
 
-This script needs user interaction for the little dinosaur to show.
+Dyma'r blociau cywir i'w defnyddio, ond mae angen i ti ddewis `amserydd`{:class="block3events"} yn hytrach na `cryfder sain`{:class="block3events"} yn y gwymplen.
 
   --- /feedback ---
 
@@ -34,20 +34,20 @@ wait [6] seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
+ Mae angen rhyngweithio gan y defnyddwyr ar y sgript hon er mwyn i'r deinosor bach ymddangos.
 
   --- /feedback ---
 
 - (x)
 ```blocks3
 when flag clicked
-wait [6] seconds
 show
+wait (6) seconds
 ```
 
   --- feedback ---
 
- After 6 seconds, the little dinosaur appears and surprises the big dinosaur!
+ Yma, mae'r deinosor bach yn synnu'r deinosor mawr, ac yna'n aros 6 eiliad.
 
   --- /feedback ---
 
