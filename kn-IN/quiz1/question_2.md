@@ -5,11 +5,11 @@ legend: Question 2 of 3
 
 In your project, you controlled your animation with `wait`{:class="block3control"} blocks.
 
-In this dinosaur project, you want the little dinosaur to wait 6 seconds before it pops out of the egg and surprises the big dinosaur.
+ಈ ಡೈನೋಸಾರ್ ಯೋಜನೆಯಲ್ಲಿ, ನೀವು ಸಣ್ಣ ಡೈನೋಸಾರ್ ಮೊಟ್ಟೆಯಿಂದ ಹೊರಬರುವ ಮೊದಲು 6 ಸೆಕೆಂಡುಗಳು ಕಾಯಿಸಬೇಕು ಮತ್ತು ದೊಡ್ಡ ಡೈನೋಸಾರ್ ಅನ್ನು ಆಶ್ಚರ್ಯಗೊಳಿಸಬೇಕು.
 
 ![A dinosaur sprite and an egg sprite on the Stage.](images/quiz-q2.png)
 
-Which script for the **little dinosaur** sprite would make this happen?
+**little dinosaur** ಸ್ಪ್ರೈಟ್‌ಗೆ ಯಾವ ಲಿಪಿಯು ಇದನ್ನು ಆಗುವಂತೆ ಮಾಡುತ್ತದೆ?
 
 --- choices ---
 
