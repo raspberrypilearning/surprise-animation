@@ -1,8 +1,8 @@
-## Quick quiz
+## त्वरित प्रश्नोत्तरी
 
-Answer the three questions. There are hints to guide you to the correct answer.
+तीन प्रश्नों के उत्तर दीजिए। आपको सही उत्तर के लिए मार्गदर्शन करने के लिए संकेत हैं।
 
-When you have answered each question, click on **Check my answer**.
+जब आप प्रत्येक प्रश्न का उत्तर दे दें, तो **मेरा उत्तर जांचें**पर क्लिक करें।
 
 Have fun!
 
@@ -11,7 +11,7 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
+अपने प्रोजेक्ट में, आपने आश्चर्य के साथ एक एनिमेशन बनाया। नीचे दिए गए एनिमेशन को चलाने के लिए हरे झंडे पर क्लिक करें, फिर इसे फिर से चलाएँ। क्या आपने दूसरी बार कुछ अजीब देखा? आश्चर्य बर्बाद हो गया! आश्चर्य कार्य करने के लिए आप कौन सा कोड ब्लॉक जोड़ेंगे?
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
@@ -28,7 +28,7 @@ set size to (150) %
 
   --- feedback ---
 
- The **egg** sprite is the correct size when you run the program again.
+ जब आप प्रोग्राम को दोबारा चलाते हैं तो एग स्प्राइट सही आकार का होता है।
 
   --- /feedback ---
 
@@ -45,12 +45,12 @@ switch costume to [egg-a v]
 
 - ( )
 ```blocks3
-show
+दिखाए
 ```
 
   --- feedback ---
 
- You often need to remember to make a sprite show when the green flag is clicked, but in the project in the question, the **egg** sprite does show.
+ हरे झंडे को क्लिक करने पर आपको अक्सर स्प्राइट शो बनाने के लिए याद रखने की आवश्यकता होती है, लेकिन प्रश्न में प्रोजेक्ट में, एग स्प्राइट दिखाता है।
 
   --- /feedback ---
 
@@ -61,7 +61,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- The **egg** sprite does go to the correct starting position on the Stage.
+ एग स्प्राइट स्टेज पर सही प्रारंभिक स्थिति में जाता है।
 
   --- /feedback ---
 
