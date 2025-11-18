@@ -54,7 +54,7 @@
 
 [「サプライズ！ アニメーションの例題」Scratchスタジオ](https://scratch.mit.edu/studios/29075822){:target="_blank"}にある各プロジェクトの**中を見る**リンクを使って、Scratchエディターでプロジェクトを開き、コードを見てアイデアを得たり、プロジェクトがどのように動いているか確認できます。
 
-**Doppelganger**: [See inside](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
+**ドッペルゲンガー**: [中を見る](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
 </div>
