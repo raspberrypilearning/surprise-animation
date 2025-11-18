@@ -8,7 +8,7 @@
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: 質問1/3
 ---
 
 このプロジェクトでは、驚きのあるストーリーのアニメーションを作成します。 緑の旗をクリックして下のアニメーションを実行してから、もう一度実行してください。
@@ -45,7 +45,7 @@ switch costume to [egg-a v]
 
 - ( )
 ```blocks3
-表示する
+show
 ```
 
   --- feedback ---
