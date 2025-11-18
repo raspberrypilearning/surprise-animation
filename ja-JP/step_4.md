@@ -13,7 +13,7 @@
 どんでん返しや驚きのある物語を書いたことがありますか？ 終わりの予測できないショーを見たり、本を読んだりしたことがありますか？ デジタルストーリーやアニメーションを作成するときにも同じ方法が使えます。 
 </p>
 
-### サプライズはいつ起こりますか？
+### サプライズはいつ起こるでしょう？
 
 --- task ---
 
@@ -44,7 +44,7 @@ wait (5) seconds // change the number to create your time delay
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title: スプライトの表示と非表示
 ---
 
 🎂🎾🎁**興味をひくオブジェクト**スプライト
@@ -87,7 +87,7 @@ show
 
 --- collapse ---
 ---
-title: The surprise starts at the wrong time
+title: サプライズが間違ったタイミングで起こる
 ---
 
 タイミングを正しくするために、一部またはすべての`待つ`{:class="block3control"}ブロックの秒数を変更するか、`待つ`{:class="block3control"}ブロックをもっと追加する必要があるかもしれません。
