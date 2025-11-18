@@ -37,7 +37,7 @@
 
 --- /task ---
 
-### インスピレーションを得る
+### アイデアを得る 💭
 
 --- task ---
 
@@ -45,17 +45,17 @@
 
 ⭐ 完成したサプライズプロジェクトを共有すると、ここで紹介される可能性があります。
 
-**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
+**ブー！**: [中を見る](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
+**猫の魔法**: [中を見る](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Jumpscare!**: [See inside](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (featured community project)
+**⭐ びっくり！**: [中身を見る](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (注目のコミュニティプロジェクト)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -66,7 +66,7 @@
 
 --- print-only ---
 
-### アイデアを得る
+### アイデアを得る💭
 
 サプライズのあるアニメーションのデザインを決めて、ストーリーを考えます。 あなたのストーリーがどんなものになるか考え、より多くのアイデアを得るために、 **「サプライズ！」** のサンプルプロジェクトの中を見てみましょう。 アニメーション — スクラッチスタジオの例：https://scratch.mit.edu/studios/29075822/
 
@@ -75,7 +75,7 @@
 + サプライズ！
 + 反応
 
-![」プロジェクト。](images/boo.png) ![「猫の魔法」プロジェクト。](images/cat-magic.png)
+![「ばぁ！」プロジェクト。](images/boo.png) ![「猫の魔法」プロジェクト。](images/cat-magic.png)
 
 --- /print-only ---
 
