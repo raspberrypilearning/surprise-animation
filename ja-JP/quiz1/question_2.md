@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: 質問2/3
 ---
 
 あなたのプロジェクトで、あなたは`タイマー`{:class="block3events"}または `待機`{:class="block3control"} ブロックでアニメーションを計画しました。
@@ -41,8 +41,8 @@ wait [6] seconds
 - (x)
 ```blocks3
 when flag clicked
+wait [6] seconds
 show
-wait (6) seconds
 ```
 
   --- feedback ---
