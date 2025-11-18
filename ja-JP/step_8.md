@@ -4,14 +4,14 @@
 
 --- no-print ---
 
-**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+**帰り道を照らす**: [中を見る](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
 
-[[[comments-feedback-scratch]]]
+--- /no-print ---
 
---- task ---
+--- print-only ---
 
 ![「私はあなたに本を作りました」プロジェクト。](images/book-cover.png)
 
