@@ -8,7 +8,7 @@ Miłej zabawy!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Pytanie 1 z 3
 ---
 
 W swoim projekcie zrobiłeś animację z niespodzianką. Kliknij zieloną flagę, aby uruchomić poniższą animację, a następnie uruchom ją ponownie.
