@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Vraag 2 van 3
 ---
 
 In je project bestuurde je je animatie met `wacht`{:class="block3control"} blokken.
