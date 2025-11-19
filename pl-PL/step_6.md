@@ -54,7 +54,7 @@ Możesz też przejrzeć remiksy dla pierwszego projektu animacji [Surprise](http
 
 Każdy projekt w kategorii ['Animacja! niespodzianka! — Przykłady' w Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} ma **Zajrzyj do środka**, za pomocą którego możesz otworzyć projekt w edytorze Scratch i spojrzeć na kod, aby uzyskać pomysły i zobaczyć, jak projekt działa.
 
-**Doppelganger**: [See inside](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
+**Doppelganger**: [Zajrzyj do środka](https://scratch.mit.edu/projects/918508688/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
 </div>
