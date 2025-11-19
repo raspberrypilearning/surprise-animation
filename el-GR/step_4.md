@@ -44,7 +44,7 @@ wait (5) seconds // change the number to create your time delay
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title: Εξαφάνιση και εμφάνιση αντικειμένων
 ---
 
 Το 🎂🎾🎁 αντικείμενο **ενδιαφέρον αντικείμενο**:
@@ -87,7 +87,7 @@ show
 
 --- collapse ---
 ---
-title: The surprise starts at the wrong time
+title: Η έκπληξη ξεκινά τη λάθος στιγμή
 ---
 
 Ίσως χρειαστεί να αλλάξεις το χρόνο σε μερικά ή σε όλα τα μπλοκ `περίμενε`{:class="block3control"} ή να προσθέσεις άλλα μπλοκ `περίμενε`{:class="block3control"}, για να έχεις τον σωστό χρονισμό.
