@@ -56,7 +56,7 @@ Click on the green flag again. If you changed the 🎂🎾🎁 **interesting obj
 
 --- collapse ---
 ---
-title: Set the starting position and looks for a sprite
+title: Gosod y safle a'r edrychiad cychwynnol ar gyfer corlun
 ---
 
 Choose the blocks that you need to set the position and looks for a sprite at the start.
@@ -83,7 +83,7 @@ show
 
 --- collapse ---
 ---
-title: The sound is not working
+title: Dydy'r sain ddim yn gweithio
 ---
 
 Check that the volume on your computer or tablet is loud enough and that your speakers or headphones are connected and working properly.
@@ -92,7 +92,7 @@ Check that the volume on your computer or tablet is loud enough and that your sp
 
 --- collapse ---
 ---
-title: My animation does not reset properly when I click on the green flag
+title: Dydy fy animeiddiad ddim yn ailosod yn iawn pan fyddaf yn clicio ar y faner werdd
 ---
 
 Check that your project has `when green flag clicked`{:class="block3events"} scripts for the sprites that need them, and check that they reset the position, size, and looks for the sprites. For help with this, see the **Set the starting position and looks for a sprite** task above.
