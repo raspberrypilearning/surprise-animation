@@ -8,7 +8,7 @@ Ha det så kul!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Fråga 1 av 3
 ---
 
 Du skapade en animering med en överraskning i ditt projekt. Klicka på den gröna flaggan för att köra animeringen nedan och kör den sen igen.
