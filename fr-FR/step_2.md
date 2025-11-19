@@ -61,7 +61,7 @@ Ajoute un bloc `quand le drapeau vert est cliqué`{:class="block3events"}, puis,
 
 --- collapse ---
 ---
-title: Position your sprites
+title: Positionner tes sprites
 ---
 
 Déplace le 🐙👩‍🦼🦖 **personnage principal** vers la position de ton choix sur la scène, puis ajoute un bloc `aller à x: y:`{:class="block3motion"} à ton code :
@@ -76,7 +76,7 @@ Répète cette tâche pour l' 🎂🎾🎁 **objet intéressant**.
 
 --- collapse ---
 ---
-title: Resize your sprites
+title: Redimensionner tes sprites
 ---
 
 Pour modifier la taille d'un sprite pour l'ensemble du projet, modifie le nombre dans la propriété **Taille** dans le panneau Sprite :
@@ -93,7 +93,7 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: Set the costumes of your sprites
+title: Régler les costumes de tes sprites
 ---
 
 Pour changer le costume d'un sprite pour l'ensemble du projet, clique sur **Costumes** et sélectionne l'un des costumes disponibles :
@@ -116,7 +116,7 @@ hide
 
 --- collapse ---
 ---
-title: Set the direction of your sprites
+title: Définir la direction de tes sprites
 ---
 
 Tes sprites peuvent être mal orientés lorsque tu les ajoutes à ton projet.
