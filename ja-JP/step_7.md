@@ -28,12 +28,12 @@ Scratchアカウントをお持ちで「サプライズ！ アニメーション
 
 [「サプライズ！ アニメーションのコミュニティ」Scratchスタジオ](https://scratch.mit.edu/studios/29079784){:target="_blank"}の素晴らしいコミュニティプロジェクトをご覧ください。
 
-**サプライズエッグ**: [中を見る](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
+['サプライズ！アニメーション ー 例' スクラッチスタジオ](https://scratch.mit.edu/studios/29075822){:target="_blank"}の各プロジェクトは **中を見る**リンクがあり、それを使用してScratchエディターでプロジェクトを開き、コードを見てアイデアを得て、プロジェクトがどのように機能するかを確認できます。
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723810901/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**建物を削る**: [中を見る](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
+**ドッペルゲンガー**： [内部を参照](https://scratch.mit.edu/projects/642712617/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/578827663/?autostart=false" frameborder="0"></iframe>
 </div>
