@@ -28,12 +28,12 @@ För att skicka in ditt projekt till vår ['Överraskning! animering — Communi
 
 Ta en titt på dessa fantastiska communityprojekt från vår ['Överraskning! animering — Community' Scratch studio](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
 
-**Surprise eggs**: [See inside](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
+**Överraskningsägg**: [Se inuti](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723810901/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Scarify building**: [See inside](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
+**Markifiera byggnad**: [Se inuti](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/578827663/?autostart=false" frameborder="0"></iframe>
 </div>
