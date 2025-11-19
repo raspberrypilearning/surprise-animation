@@ -8,7 +8,7 @@ Divirta-se!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legenda: Pergunta 1 de 3
 ---
 
 No seu projeto, você fez uma animação com uma surpresa. Clique na bandeira verde para executar a animação abaixo e execute-a novamente.
