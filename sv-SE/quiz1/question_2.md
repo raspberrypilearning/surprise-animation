@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Fråga 2 av 3
 ---
 
 Du kontrollerar din animering med `vänta`{:class="block3control"}block i projektet.
