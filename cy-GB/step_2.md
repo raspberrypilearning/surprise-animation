@@ -61,7 +61,7 @@ Gwna'r dasg hon eto ar gyfer y **gwrthrych diddorol**.
 
 --- collapse ---
 ---
-title: Position your sprites
+title: Gosod lleoliad dy gorluniau
 ---
 
 Move the 🐙👩‍🦼🦖 **main character** to the position of your choice on the Stage, then add a `go to x: y:`{:class="block3motion"} block to your code:
@@ -76,7 +76,7 @@ I newid maint corlun ar gyfer y prosiect cyfan, newidia'r rhif yn y briodwedd **
 
 --- collapse ---
 ---
-title: Resize your sprites
+title: Newid maint dy gorluniau
 ---
 
 To change the size of a sprite for the whole project, change the number in the **Size** property in the Sprite pane:
@@ -93,7 +93,7 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: Set the costumes of your sprites
+title: Gosod gwisgoedd dy gorluniau
 ---
 
 I guddio corlun ar ddechrau'r prosiect, ychwanega floc `cuddio`{:class="block3looks"} i dy god:
@@ -116,7 +116,7 @@ hide
 
 --- collapse ---
 ---
-title: Set the direction of your sprites
+title: Gosod cyfeiriad dy gorluniau
 ---
 
 I newid cyfeiriad corlun ar gyfer rhan o brosiect, ychwanega flociau i dy god er mwyn newid y `steil cylchdroi`{:class="block3motion"} a'r `cyfeiriad`{:class="block3motion"}:
