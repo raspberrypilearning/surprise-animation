@@ -61,7 +61,7 @@ Lägg till ett`när den gröna flaggan klickas på`{:class="block3events"}block 
 
 --- collapse ---
 ---
-title: Position your sprites
+title: Placera dina sprajter
 ---
 
 Flytta 🐙👩‍🦼🦖 **huvudkaraktären** till en valfri plats på scenen, lägg sedan till ett `gå till x: y:`{:class="block3motion"}-block till din kod:
@@ -76,7 +76,7 @@ Upprepa detta för det 🎂🎾🎁 **intressanta objektet**.
 
 --- collapse ---
 ---
-title: Resize your sprites
+title: Ändra storlek på dina sprajter
 ---
 
 För att ändra storleken på en sprajt för hela projektet, ändra numret i egenskapen **Storlek** sprajtrutan:
@@ -93,7 +93,7 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: Set the costumes of your sprites
+title: Ställ in dina sprajters klädslar
 ---
 
 För att ändra klädseln på en sprajt under hela projektet, klicka på fliken **klädslar** och välj en av de tillgängliga klädslarna:
@@ -116,7 +116,7 @@ hide
 
 --- collapse ---
 ---
-title: Set the direction of your sprites
+title: Ställ in riktningen för dina sprajter
 ---
 
 Dina sprajter kan vara vända åt fel håll när du lägger till dem i ditt projekt.
