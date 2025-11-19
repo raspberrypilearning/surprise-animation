@@ -28,12 +28,12 @@ Per inviare il tuo progetto al nostro [' Sorpresa! animazione — Community' Scr
 
 Dai un'occhiata a questi favolosi progetti comunitari del nostro progetto ['Sorpresa! animazione — Scratch studio della community](https://scratch.mit.edu/studios/29079784){:target="_blank"}:
 
-**Surprise eggs**: [See inside](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
+**Uova con sorpresa**: [Guarda dentro](https://scratch.mit.edu/projects/723810901/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/723810901/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Scarify building**: [See inside](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
+**Edifici da paura**: [Guarda dentro](https://scratch.mit.edu/projects/578827663/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/578827663/?autostart=false" frameborder="0"></iframe>
 </div>
