@@ -56,7 +56,7 @@ Klicka på den gröna flaggan igen. Om du ändrade det 🎂🎾🎁 **intressant
 
 --- collapse ---
 ---
-title: Set the starting position and looks for a sprite
+title: Ställ in startpositionen och utseendet för en sprajt
 ---
 
 Välj de block som du behöver för att ställa in positionen och utseendet i början.
@@ -83,7 +83,7 @@ show
 
 --- collapse ---
 ---
-title: The sound is not working
+title: Ljudet fungerar inte
 ---
 
 Kontrollera att volymen på din dator eller surfplatta är tillräckligt hög och att dina högtalare eller hörlurar är anslutna och fungerar som de ska.
@@ -92,7 +92,7 @@ Kontrollera att volymen på din dator eller surfplatta är tillräckligt hög oc
 
 --- collapse ---
 ---
-title: My animation does not reset properly when I click on the green flag
+title: Min animation återställs inte ordentligt när jag klickar på den gröna flaggan
 ---
 
 Kontrollera att ditt projekt har `när grön flagga klickas på`{:class="block3events"}-block för de sprajter som behöver dem, och kontrollera att de återställer position, storlek och utseende för sprajterna. För hjälp med detta, se **Ställ in startpositionen och leta efter en sprajt** -uppgiften ovan.
