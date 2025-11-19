@@ -56,7 +56,7 @@ Clicca sulla bandierina verde di nuovo. Se hai cambiato la posizione o l'aspetto
 
 --- collapse ---
 ---
-title: Set the starting position and looks for a sprite
+title: Imposta la posizione e l'aspetto iniziali di uno sprite
 ---
 
 Scegli i blocchi di cui hai bisogno per impostare la posizione e l'aspetto di uno sprite all'inizio.
@@ -83,7 +83,7 @@ show
 
 --- collapse ---
 ---
-title: The sound is not working
+title: Il suono non funziona
 ---
 
 Controlla che il volume del tuo computer o tablet sia sufficientemente alto e che gli altoparlanti o le cuffie siano collegati e funzionino correttamente.
@@ -92,7 +92,7 @@ Controlla che il volume del tuo computer o tablet sia sufficientemente alto e ch
 
 --- collapse ---
 ---
-title: My animation does not reset properly when I click on the green flag
+title: La mia animazione non si ripristina in maniera corretta quando clicco sulla bandierina verde
 ---
 
 Controlla che il tuo progetto abbia uno script con il blocco iniziale `quando si clicca sulla bandierina verde`{:class="block3events"} per gli sprite che ne hanno bisogno e controlla che ripristinino la posizione, la dimensione e l'aspetto degli sprite. Se hai bisogno di un aiuto, guarda l'attività **Imposta la posizione iniziale e l'aspetto iniziali di uno sprite** qui sopra.
