@@ -44,7 +44,7 @@ Corlun **syrpreis**:
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title: Cuddio a dangos corluniau
 ---
 
 The 🎂🎾🎁 **interesting object** sprite:
@@ -82,7 +82,7 @@ Os wyt ti wedi dewis yr `amserydd`{:class="block3events"} yn gywir, rho gynnig a
 
 --- collapse ---
 ---
-title: The surprise starts at the wrong time
+title: Mae sgriptiau amserydd yn cychwyn y syrpreis ar yr amser anghywir
 ---
 
 You might need to change the amount of time in some or all of the `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
