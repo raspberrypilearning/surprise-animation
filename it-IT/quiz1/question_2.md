@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Domanda 2 di 3
 ---
 
 Nel tuo progetto, hai controllato l'animazione con il blocco `attendi`{:class="block3control"}.
