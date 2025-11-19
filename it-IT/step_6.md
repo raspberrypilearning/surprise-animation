@@ -54,7 +54,7 @@ Puoi anche guardare i remix per il [progetto iniziale di animazione Sorpresa](ht
 
 Ogni progetto della serie ['Sorpresa! animazione: Esempi in Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} ha un collegamento **Guarda dentro**, che puoi utilizzare per aprire il progetto nell'editor di Scratch e guardare il codice per avere idee e vedere come funziona il progetto.
 
-**Doppelganger**: [See inside](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
+**Doppelganger**: [Guarda dentro](https://scratch.mit.edu/projects/947987991/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
 </div>
