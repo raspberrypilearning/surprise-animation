@@ -54,7 +54,7 @@ Je kunt ook de remixes bekijken voor het [Verrassing! animatie startproject](htt
 
 Elk project in de ['Verrassing! animatie — Voorbeelden' Scratch studio](https://scratch.mit.edu/studios/29075822){:target="_blank"} heeft een **Bekijk van binnen** link, die je kunt gebruiken om het project in de Scratch-editor te openen en de code te bekijken om ideeën op te doen en te zien hoe het project werkt.
 
-**Doppelganger**: [See inside](https://scratch.mit.edu/projects/500767602/editor){:target="_blank"}
+**Dubbelganger**: [Bekijk van binnen](https://scratch.mit.edu/projects/595401074/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500767602/?autostart=false" frameborder="0"></iframe>
 </div>
