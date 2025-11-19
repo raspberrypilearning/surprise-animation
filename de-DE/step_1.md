@@ -28,7 +28,7 @@ Die Animation besteht aus drei Teilen:
 
 </div>
 <div>
-**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
+**Dinosaurier-Überraschung!**: [Schau hinein](https://scratch.mit.edu/projects/1208518944/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -45,17 +45,17 @@ Probiere diese Beispielprojekte aus, um Ideen zu bekommen. Überlege, wie deine 
 
 ⭐ Teile dein fertiges Überraschung! Animations-Projekt - mit etwas Glück wird es hier vorgestellt.
 
-**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
+**BUH!**: [Schau hinein](https://scratch.mit.edu/projects/1207325892/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
+**Katzenmagie**: [Schau hinein](https://scratch.mit.edu/projects/1207326248/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Jumpscare!**: [See inside](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (featured community project)
+**⭐ Schock-Effekt!**: [Schau hinein](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (vorgestelltes Community-Projekt)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
 </div>
