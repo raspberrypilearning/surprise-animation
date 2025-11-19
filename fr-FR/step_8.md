@@ -4,7 +4,7 @@ Si tu suis le parcours [Introduction de Scratch](https://projects.raspberrypi.or
 
 --- no-print ---
 
-**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+**Éclairer le chemin du retour** : [Voyez à l'intérieur](https://scratch.mit.edu/projects/667606549/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
