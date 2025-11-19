@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Cwestiwn 3 o 3
 ---
 
 Fe wnes di greu dy animeiddiad drwy ei dorri'n rhannau a'i adeiladu yn y drefn y mae'n rhedeg.
