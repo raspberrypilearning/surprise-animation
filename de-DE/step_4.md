@@ -44,7 +44,7 @@ Du kannst den Anschein erwecken, als würde sich die Figur in eine andere Figur 
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title: Figuren ausblenden und anzeigen
 ---
 
 Die Figur 🎂🎾🎁 **interessante Objekt**:
@@ -87,7 +87,7 @@ Kommt die Überraschung zum falschen Zeitpunkt, kannst du das korrigieren:
 
 --- collapse ---
 ---
-title: The surprise starts at the wrong time
+title: Die Überraschung beginnt zur falschen Zeit
 ---
 
 Möglicherweise ist es erforderlich, dass du die Dauer in einigen oder allen `warte x Sekunden`{:class="block3control"}-Blöcken änderst oder weitere `warte x Sekunden`{:class="block3control"}-Blöcke hinzufügst, um das richtige Timing zu erzielen.
