@@ -44,7 +44,7 @@ Du kan få sprajten att verka förvandlas till en annan sprajt — för att gör
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title: Dölj och visa sprajter
 ---
 
 Den 🎂🎾🎁 **intressanta objekt**sprajten:
@@ -87,7 +87,7 @@ Om överraskningen sker vid fel tidpunkt kan du fixa det:
 
 --- collapse ---
 ---
-title: The surprise starts at the wrong time
+title: Överraskningen sker vid fel tidpunkt
 ---
 
 Du kan behöva ändra tiden i några eller alla av de `vänta`{:class="block3control"}blocken eller lägga till fler `vänta`{:class="block3control"}block, för att få rätt timing.
