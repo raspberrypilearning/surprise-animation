@@ -8,7 +8,7 @@ Amuse-toi bien !
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Question 1 sur 3
 ---
 
 Dans ton projet, tu as réalisé une animation avec une surprise. Clique sur le drapeau vert pour lancer l'animation ci-dessous, puis relance-la.
