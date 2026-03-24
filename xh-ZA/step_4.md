@@ -1,25 +1,25 @@
-## Add a surprise!
+## Yongeza into emangalisayo!
 
-Now, you need to add a surprise. What could happen to the object?
-- Will it turn into another object?
-- Will it turn into a character?
-- Will it disappear and reveal another sprite?
+Ngoku, kufuneka wongeze into emangalisayo. Yintoni enokwenzeka kuloo nto?
+- Ngaba iza kujika ibe yenye into?
+- Ngaba iza kuba ngumlinganiswa?
+- Ngaba iya kunyamalala ize ityhile esinye i-sprit?
 
-You decide! Create the **third part** of your animation.
+Kugqiba wena! Yenza **inxalenye yesithathu** yopopayi wakho.
 
-![A film strip with 3 frames. The third frame is highlighted. The frame shows a scene with character looking surprised at an object.](images/surprise.png)
+![Umcu wefilimu onezakhelo ezintathu 3. Isakhelo sesithathu sigxininisiwe. Isakhelo sibonisa umboniso onomlinganiswa obonakala emangalisiwe yinto ethile.](images/surprise.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Have you written a story with a plot twist or a surprise? Have you watched a show or read a book with an unpredictable ending? You can use the same methods when you create a digital story or animation. 
+Ingaba ubhale ibali elinombono ongaqhelekanga okanye elimangalisayo? Ingaba ukhe wabukela umboniso okanye wafunda incwadi enesiphelo esingaqikelelekiyo? Ungasebenzisa iindlela ezifanayo xa udala ibali elidijithali okanye oopopayi. 
 </p>
 
-### When will the surprise happen?
+### Izokwenzeka nini loo nto imangalisayo?
 
 --- task ---
 
-Select the 🎂🎾🎁 **interesting object** sprite. Add a script to make the surprise start when you want it to.
+Khetha isprite se-🎂🎾🎁**into enomdla**. Yongeza iskripthi ukuze wenze into emangalisayo iqale xa ufuna.
 
-You will need to choose a time delay that works for your project. If you have a character that spends a long time being curious, you will need to choose a longer delay.
+Kuza kufuneka ukhethe ulibaziseko xesha olusebenzela iprojekthi yakho. Ukuba unomlinganiswa ochitha ixesha elide enomdla, kuzokufuneka ukhethe ulibaziseko xesha olude.
 
 ```blocks3
 when flag clicked
@@ -28,26 +28,26 @@ wait (5) seconds // change the number to create your time delay
 
 --- /task ---
 
-### Now, create the surprise!
+### Ngoku, yenza into emangalisayo!
 
 --- task ---
 
-The object could `play a sound`{:class="block3sound"}, `switch costume`{:class="block3looks"}, `change graphic effects`{:class="block3looks"}, or `change size`{:class="block3looks"}.
+Into inako u-`dlala isandi`{:class="block3sound"}, `itshintshe isinxibo`{:class="block3looks"}, `itshintshe iziphumo zemizobo`{:class="block3looks"}, okanye `itshintshe ubungakanani`{:class="block3looks"}.
 
-You could add a surprising costume to the sprite, then the sprite could `switch costume`{:class="block3looks"} to reveal it.
+Unokongeza isinxibo esimangalisayo kwi-sprite, emva koko i-sprite singakwazi `ukutshintsha isinxibo`{:class="block3looks"} ukuyityhila.
 
-![A desert background with a rock jiggling back and forth.](images/bat.gif)
+![Imvelaphi yasentlango enelitye elishukuma ngapha nangapha.](images/bat.gif)
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-You could make the sprite seem to turn into a different sprite — to do this, `hide`{:class="block3looks"} the 🎂🎾🎁 **interesting object** sprite at the same time as you `show`{:class="block3looks"} another sprite.
+Usenokwenza i-sprite sibonakale sijika sisiba si-sprite esohlukileyo — ukwenza oku, `fihla`{:class="block3looks"} 🎂🎾🎁 **into enomdla** i-sprite ngaxeshanye ube u `veza`{:class="block3looks"} esinye i-sprite.
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title: Fihla kwaye ubonise ii-sprites
 ---
 
-The 🎂🎾🎁 **interesting object** sprite:
+I- 🎂🎾🎁 **Into enomdla** sprite:
 ```blocks3
 when flag clicked
 show
@@ -55,7 +55,7 @@ wait (5) seconds
 hide
 ```
 
-The 🎷👻⚡**surprise object** sprite:
+I- 🎷👻⚡**Into emangalisayo ** sprite:
 ```blocks3
 when flag clicked
 hide
@@ -63,7 +63,7 @@ wait (5) seconds
 show
 ```
 
-**Tip:** If you make a 🎷👻⚡**surprise object** sprite `show`{:class="block3looks"}, you will need to make it `hide`{:class="block3looks"} `when green flag clicked`{:class="block3events"}.
+**Ingcebiso** ukuba wenze🎷👻⚡**into emangalisayo** sprite `bonisa`{:class="block3looks"}, uzodinga ukuyi `fihla`{:class="block3looks"} `xa i-flegi eluhlaza icofiwe`{:class="block3events"}.
 
 --- /collapse ---
 
@@ -71,26 +71,26 @@ show
 
 --- task ---
 
-**Test:** Click on the green flag. Does the surprise happen at the right time? Does the animation reset properly?
+**Uvavanyo:** Cofa kwiflegi eluhlaza. Ingaba into emangalisayo yenzeka ngexesha elifanelekileyo? Ingaba upopayi uqalela ngokufanelekileyo?
 
 --- /task ---
 
 --- task ---
 
-**Debug:**
+**Lungisa ingxaki:**
 
-If you need a sprite to be in front of or behind another sprite, you can use layers:
+Ukuba ufuna i-sprite sibe ngaphambili okanye ngasemva kwesinye i-sprite, ungasebenzisa iileya:
 
 [[[scratch3-positioning-with-layers]]]
 
-If the surprise happens at the wrong time, you can fix that:
+Ukuba into emangalisayo yenzeka ngexesha elingelilo, ungayilungisa loo nto:
 
 --- collapse ---
 ---
-title: The surprise starts at the wrong time
+title: Into emangalisayo iqala ngexesha elingelilo
 ---
 
-You might need to change the amount of time in some or all of the `wait`{:class="block3control"} blocks, or add more `wait`{:class="block3control"} blocks, to get the timing just right.
+Kusenokufuneka utshintshe ixesha kwezinye okanye kuzo zonke iibhloko zo- `linda`{:class="block3control"}, okanye wongeze ezinye iibhloko zo- `linda`{:class="block3control"}, ukuze ufumane ixesha elifanelekileyo.
 
 --- /collapse ---
 
