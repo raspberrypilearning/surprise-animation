@@ -1,15 +1,15 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Umbuzo wesibini 2 kwemithathu 3
 ---
 
-In your project, you controlled your animation with `wait`{:class="block3control"} blocks.
+Kwiprojekthi yakho, ulawule u-popayi wakho ngeebhloko u-`linda`{:class="block3control"}.
 
-In this dinosaur project, you want the little dinosaur to wait 6 seconds before it pops out of the egg and surprises the big dinosaur.
+Kule projekthi yedayinaso, ufuna idayinaso encinci ilinde imizuzwana emithandathu 6 ngaphambi kokuba iphume eqandeni ize yothuse  ngoku mangalisayo idayinaso enkulu.
 
-![A dinosaur sprite and an egg sprite on the Stage.](images/quiz-q2.png)
+![I-sprite esiyi dayinaso kunye ne sprite esili qanda eqongeni.](images/quiz-q2.png)
 
-Which script for the **little dinosaur** sprite would make this happen?
+Ngowuphi umbhalo we-sprite i-**idayinaso encinci** onokwenza oku kwenzeke?
 
 --- choices ---
 
@@ -21,7 +21,7 @@ show
 
   --- feedback ---
 
-This script needs user interaction for the little dinosaur to show.
+Esi sikripthi sidinga intsebenziswano yomsebenzisi ukuze idayinaso encinci ibonakale.
 
   --- /feedback ---
 
@@ -34,7 +34,7 @@ wait [6] seconds
 
   --- feedback ---
 
- Here, the little dinosaur surprises the big dinosaur, and then waits 6 seconds.
+ Apha, idayinaso encinci yothusa ngokumangalisayo idayinaso enkulu, ize ilinde imizuzwana emithandathu 6.
 
   --- /feedback ---
 
@@ -47,7 +47,7 @@ show
 
   --- feedback ---
 
- After 6 seconds, the little dinosaur appears and surprises the big dinosaur!
+ Emva kwemizuzwana emithandathu 6, kuvela idayinaso encinci ize yothuse ngokumangalisayo idayinaso enkulu!
 
   --- /feedback ---
 
