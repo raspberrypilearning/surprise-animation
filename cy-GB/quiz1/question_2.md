@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Cwestiwn 2 o 3
+legend: Question 2 of 3
 ---
 
 Yn dy brosiect, fe wnes di gynllunio dy animeiddiad gyda blociau `amserydd`{:class="block3events"} neu `aros`{:class="block3control"}.
