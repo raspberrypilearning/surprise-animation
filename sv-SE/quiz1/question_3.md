@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Fråga 3 av 3
+legend: Question 3 of 3
 ---
 
 Du skapade din animering genom att dela upp den i delar och sen bygga den i den ordning den körs.
