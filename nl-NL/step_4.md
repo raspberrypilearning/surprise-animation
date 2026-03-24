@@ -44,7 +44,7 @@ Je zou de sprite kunnen laten lijken te veranderen in een andere sprite — om d
 
 --- collapse ---
 ---
-title: Verdwijnen en verschijnen van sprites
+title: Hide and show sprites
 ---
 
 De 🎂🎾🎁 **interessante object** sprite:
@@ -87,7 +87,7 @@ Als de verrassing op het verkeerde moment plaatsvindt, kun je dat oplossen:
 
 --- collapse ---
 ---
-title: De verrassing begint op het verkeerde moment
+title: The surprise starts at the wrong time
 ---
 
 Mogelijk moet je de hoeveelheid tijd in sommige of alle `wacht`{:class="block3control"}-blokken wijzigen, of meer `wacht`{:class="block3control"}-blokken toevoegen om de timing precies goed te krijgen.
