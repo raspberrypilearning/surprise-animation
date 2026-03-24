@@ -61,7 +61,7 @@
 
 --- collapse ---
 ---
-title: موقع الكائنات الخاصة بك
+title: Position your sprites
 ---
 
 انقل الشخصية الرئيسية 🐙👩‍🦼🦖 **** إلى الموضع الذي تختاره على المسرح، ثم أضف الكتلة `go to x: y:`{:class="block3motion"} إلى الكود الخاص بك:
@@ -76,7 +76,7 @@ go to x: (0) y: (0) // add the sprite's position
 
 --- collapse ---
 ---
-title: قم بتغيير حجم الكائنات الخاصة بك
+title: Resize your sprites
 ---
 
 لتغيير حجم كائن للمشروع بأكمله ، قم بتغيير الرقم في **الحجم** في جزء خصائص الكائن:
@@ -93,7 +93,7 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: اضبط أزياء الكائنات
+title: Set the costumes of your sprites
 ---
 
 لتغيير مظهر كائن للمشروع بأكمله ، انقر فوق **الأزياء** وحدد أحد الأزياء المتاحة:
@@ -116,7 +116,7 @@ hide
 
 --- collapse ---
 ---
-title: اضبط أتجاه الكائنات الخاصة بك
+title: Set the direction of your sprites
 ---
 
 قد يكون اتجاه الكائنات خاطئ عند إضافتها إلى مشروعك.
