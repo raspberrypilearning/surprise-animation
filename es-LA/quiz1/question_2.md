@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Pregunta 2 de 3
+legend: Question 2 of 3
 ---
 
 En tu proyecto, planificaste tu animación con los bloques `cronómetro`{:class="block3events"} o `esperar`{:class="block3control"}.
