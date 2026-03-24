@@ -56,7 +56,7 @@ Klik nogmaals op de groene vlag. Als je de positie van het 🎂🎾🎁 **inters
 
 --- collapse ---
 ---
-title: Stel de startpositie en uiterlijk in voor een sprite
+title: Set the starting position and looks for a sprite
 ---
 
 Kies de blokken die je nodig hebt om de positie en uiterlijk aan het begin in te stellen voor een sprite.
@@ -83,7 +83,7 @@ verschijn
 
 --- collapse ---
 ---
-title: Het geluid werkt niet
+title: The sound is not working
 ---
 
 Controleer of het volume op jouw computer of tablet luid genoeg is en of jouw luidsprekers of hoofdtelefoons zijn aangesloten en goed werken.
@@ -92,7 +92,7 @@ Controleer of het volume op jouw computer of tablet luid genoeg is en of jouw lu
 
 --- collapse ---
 ---
-title: Mijn animatie wordt niet goed opnieuw ingesteld als ik op de groene vlag klik
+title: My animation does not reset properly when I click on the green flag
 ---
 
 Controleer of je project `wanneer op de groene vlag wordt geklikt`{:class="block3events"}-scripts heeft voor de sprites die ze nodig hebben, en controleer of ze de positie, grootte en uiterlijk van de sprites opnieuw instellen. Voor hulp hierbij, zie de **Stel de startpositie en uiterlijk in voor een sprite** taak hierboven.
