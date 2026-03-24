@@ -44,7 +44,7 @@ Puedes hacer que la figura parezca convertirse en otra diferente - para hacerlo,
 
 --- collapse ---
 ---
-title: Esconde y muestra objetos
+title: Hide and show sprites
 ---
 
 Los 🎂🎾🎁 **objeto interesante** figura:
@@ -87,7 +87,7 @@ Si la sorpresa ocurre en el momento equivocado, puedes solucionarlo:
 
 --- collapse ---
 ---
-title: Los scripts del cronómetro hacen ocurrir la sorpresa en el momento equivocado
+title: The surprise starts at the wrong time
 ---
 
 Es posible que deba cambiar la cantidad de tiempo en algunos o en todos `esperar`{:class="block3control"} los bloques, o agregar más `esperar`{:clase="block3control"} bloques, para obtener el tiempo correcto.
