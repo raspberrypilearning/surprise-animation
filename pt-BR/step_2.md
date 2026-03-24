@@ -93,7 +93,7 @@ Lembre-se de configurar seu **personagem principal** e seus **objetos interessan
 
 
 
-title: Redimensione seus atores
+title: Resize your sprites
 ---
 
 Para alterar o tamanho de um ator para todo o projeto, altere o número em **Tamanho** no painel do ator:
@@ -118,7 +118,7 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 
 
-title: Defina as roupas de seus atores
+title: Set the costumes of your sprites
 ---
 
 Para trocar a fantasia de um ator em todo o projeto, clique em **Fantasias** e selecione uma das fantasias disponíveis:
@@ -152,7 +152,7 @@ hide
 
 
 
-title: Defina a direção de seus atores
+title: Set the direction of your sprites
 ---
 
 Seus atores podem estar voltados para o lado errado quando você os adiciona ao seu projeto. 
