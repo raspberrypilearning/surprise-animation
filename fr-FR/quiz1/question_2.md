@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend : Question 2 sur 3
+legend: legend : Question 2 sur 3
 ---
 
 Dans ton projet, tu as contrôlé ton animation avec des blocs `attendre` {:class="block3control"}.
