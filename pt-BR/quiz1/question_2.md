@@ -1,6 +1,6 @@
 --- question ---
 ---
-legenda: Pergunta 2 de 3
+legend: Question 2 of 3
 ---
 
 Em seu projeto, você planejou sua animação com blocos de `temporizador`{:class="block3events"} ou de `espera`{:class="block3control"}.
