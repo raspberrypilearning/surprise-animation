@@ -44,7 +44,7 @@ wait (5) seconds // change the number to create your time delay
 
 --- collapse ---
 ---
-title: スプライトの表示と非表示
+title: Hide and show sprites
 ---
 
 **サプライズ** スプライト：
@@ -87,7 +87,7 @@ show
 
 --- collapse ---
 ---
-title: タイマースクリプトが間違った時間にサプライズを開始する
+title: The surprise starts at the wrong time
 ---
 
 `タイマー`{:class="block3events"}が正しく選択されている場合は、タイマーが待機する時間を調整してみてください。
