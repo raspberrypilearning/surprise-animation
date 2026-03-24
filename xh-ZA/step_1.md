@@ -1,12 +1,12 @@
 ## Uzakwena
 
-Create a short animation 🎥 with a fun surprise 🎉!
+Yenza upopayi omfutshane 🎥 onokumangala okumnandi 🎉!
 
 Uzaku:
 
-+ Create your own animation
-+ Test and debug your code
-+ Build your animation one part at a time
++ Yenza owakho upopayi
++ Vavanya kwaye ulungise ikhowudi yakho
++ Yakha upopayi wakho inxalenye enye ngexesha
 
 ![Imizekelo yeeprojekthi.](images/surprise-example.png)
 
@@ -17,18 +17,18 @@ Uzaku:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Play ▶️ 
+### Dlala ▶️ 
 
-Click on the green flag to watch the animation.
+Cofa kwiflegi eluhlaza ukuze ubukele upopayi.
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+Upopayi uneenxalenye ezintathu:
++ Ukufuna ukwazi
++ Ukumangala!
++ Ukusabela
 
 </div>
 <div>
-**Dinosaur surprise!**: [See inside](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
+**Isimanga seDayinaso!**: [Jonga ngaphakathi](https://scratch.mit.edu/projects/495932563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495932563/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -41,21 +41,21 @@ The animation has three parts:
 
 --- task ---
 
-Dlala ngale mizekelo ukuze ufumana izimvo. Think about what your animation might be, and explore these example projects to get more ideas:
+Dlala ngale mizekelo ukuze ufumana izimvo. Cinga ngokuba inokuba yintoni na upopayi wakho, kwaye uhlole le mizekelo yeeprojekthi ukuze ufumane ezinye izimvo:
 
-⭐ Share your finished Surprise animation project for a chance of it being featured here.
+⭐ Yabelana ngeprojekthi yakho yopopayi omangalisayo egqityiweyo ukuze ube nethuba lokuba iboniswe apha.
 
-**BOO!**: [See inside](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
+**BOO!**: [Bona ngaphakathi](https://scratch.mit.edu/projects/498655116/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498655116/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Cat magic**: [See inside](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
+**Umlingo wekati**: [Bona ngaphakathi](https://scratch.mit.edu/projects/498615133/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498615133/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Jumpscare!**: [See inside](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (featured community project)
+**⭐ Ukothuka!**: [Bona ngaphakathi](https://scratch.mit.edu/projects/720220722/editor){:target="_blank"} (iprojekthi yoluntu ebalaseleyo)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/720220722/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -68,14 +68,14 @@ Dlala ngale mizekelo ukuze ufumana izimvo. Think about what your animation might
 
 ### Fumana izimvo
 
-You will make design decisions and think of a story for your animation with a surprise. Think about what your story might be, and to get more ideas, **See inside** example projects in the 'Surprise! animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
+Uza kwenza izigqibo zoyilo kwaye ucinge ngebali lopopayi wakho enento emangalisayo. Cinga ngokuba ibali lakho linokuba yintoni, kwaye ukuze ufumane ezinye izimvo, **Bona ngaphakathi** imizekelo iiprojekthi ezimangalisayo'! oopopayi — Imizekelo Istudiyo sakwa Scratch: https://scratch.mit.edu/studios/29075822/
 
-The animation has three parts:
-+ Curiosity
-+ Surprise!
-+ Reaction
+Upopayi uneenxalenye ezintathu:
++ Ukufuna ukwazi/Umdla
++ U-Mmangaliso!
++ Ukusabela
 
-![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
+![Iprojekthi ethi 'BOO!'.](images/boo.png) ![Iprojekthi 'yomlingo weKati'.](images/cat-magic.png)
 
 --- /print-only ---
 
