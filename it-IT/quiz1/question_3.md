@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Domanda 3 di 3
+legend: Question 3 of 3
 ---
 
 Hai creato la tua animazione suddividendola in parti e costruendola nell'ordine in cui viene eseguita.
