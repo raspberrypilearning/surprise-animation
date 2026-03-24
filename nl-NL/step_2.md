@@ -61,7 +61,7 @@ Voeg een `wanneer op de groene vlag wordt geklikt`{:class="block3events"} blok t
 
 --- collapse ---
 ---
-title: Plaats je sprites
+title: Position your sprites
 ---
 
 Verplaats het 🐙👩‍🦼🦖 **hoofdpersoon** naar de positie van jouw keuze in het speelveld en voeg vervolgens een `ga naar x: y:`{:class="block3motion"}-blok toe aan je code:
@@ -76,7 +76,7 @@ Herhaal deze taak voor het 🎂🎾🎁 **interessante object**.
 
 --- collapse ---
 ---
-title: De grootte van je sprites wijzigen
+title: Resize your sprites
 ---
 
 Om de grootte van een sprite voor het hele project te wijzigen, wijzig je het getal in de **Grootte**-eigenschap in het Sprite-paneel:
@@ -93,7 +93,7 @@ maak grootte [100] % // <100 is smaller, >100 is groter
 
 --- collapse ---
 ---
-title: Stel de uiterlijken van je sprites in
+title: Set the costumes of your sprites
 ---
 
 Om het uiterlijk van een sprite voor het hele project te wijzigen, klik je op de **Uiterlijken** tab en selecteer je een van de beschikbare uiterlijken:
@@ -116,7 +116,7 @@ verdwijn
 
 --- collapse ---
 ---
-title: Stel de richting van je sprites in
+title: Set the direction of your sprites
 ---
 
 Je sprites kunnen de verkeerde kant op kijken wanneer je ze aan je project toevoegt.
