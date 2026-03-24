@@ -1,51 +1,51 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Umbuzo wesithathu 3 kwemithathu 3
 ---
 
-You created your animation by breaking it into parts and building it in the order in which it runs.
+Udale upopayi wakho ngokuwuqhekeza abe ziinxalenye waze wawakhe ngokulandelelana kwayo.
 
-Which order represents the animation that you made?
+Loluphi ucwangco olumele oopopayi olwenzileyo?
 
 --- choices ---
 
 - ( )
-+ Curiosity
++ Ukubonisa umdla
 
-+ Setup
++ Misela
 
-+ Surprise!
++ U-Mmangaliso!
 
   --- feedback ---
 
- The 'setup' part resets your animation. It needs to come first so that your animation can be run again in the same way.
+ Inxalenye 'yokuseta' iphinda yenze upopayi wakho aqalele. Kufuneka ize kuqala ukuze upopayi wakho asebenze kwakhona ngendlela efanayo.
 
   --- /feedback ---
 
 - (x)
-+ Setup
++ Misela
 
-+ Curiosity
++ Ukubonisa umdla
 
-+ Surprise!
++ U-Mmangaliso!
 
 
   --- feedback ---
 
- Ewe! You set up your sprites first, then created curiosity then ended with a surprise.
+ Ewe! Uqale wamisela ii-sprites zakho, waze wenza umdla emva koko waphela unento emangalisayo.
 
   --- /feedback ---
 
 - ( )
-+ Setup
++ Misela
 
-+ Surprise!
++ U-Mmangaliso!
 
-+ Curiosity
++ Ukubonisa umdla
 
   --- feedback ---
 
- Curiosity was not at the end of the animation. Something came afterwards.
+ Umdla wawungekho ekupheleni kukapopayi Kwavela into emva koko.
 
   --- /feedback ---
 
