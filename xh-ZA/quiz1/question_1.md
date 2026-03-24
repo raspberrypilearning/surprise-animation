@@ -2,22 +2,22 @@
 
 Phendula imibuzo emithathu. Kukho iingcebiso zokukukhokelela kwimpendulo echanekileyo.
 
-When you have answered each question, click on **Check my answer**.
+Xa uphendule umbuzo ngamnye, cofa ku **Jonga impendulo yam**.
 
 Yonwaba!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Umbuzo wokuqala 1 kwemithathu 3
 ---
 
-In your project, you made an animation with a surprise. Click on the green flag to run the animation below, then run it again.
+Kule projekthi, wenze ibali loopopayi elinento emangalisayo. Cofa kwiflegi eluhlaza ukuze kusebenze oopopayi ngezantsi, uze uyiqhube kwakhona.
 
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499932713/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Did you notice anything odd the second time? The surprise was ruined! What code block would you add to make the surprise work?
+Ngaba kukho into oyibonileyo engaqhelekanga okwesibini? Ummangaliso wonakele! Yeyiphi ibhloko yekhowudi onokuyidibanisa ukuze wenze ummangaliso usebenze?
 
 --- choices ---
 
@@ -28,7 +28,7 @@ set size to (150) %
 
   --- feedback ---
 
- The **egg** sprite is the correct size when you run the program again.
+ I-sprite se **qanda** sibubungakanani obuchanekileyo xa uphinda uqhuba inkqubo kwakhona.
 
   --- /feedback ---
 
@@ -39,7 +39,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Ewe. I `tshintsha isinxibo ukuya ku`{:class="block3looks"} iibhloko zitshintsha isinxibo se-sprite ukuze ingalo ishukume. You need to make the sprite switch to the correct costume (**egg-a**) when the project starts.
+ Ewe. Kufuneka wenze i-sprite sitshintshele kwisinxibo esifanelekileyo(**iqanda-a**) xa kuqala iprojekthi.
 
   --- /feedback ---
 
@@ -50,7 +50,7 @@ show
 
   --- feedback ---
 
- You often need to remember to make a sprite show when the green flag is clicked, but in the project in the question, the **egg** sprite does show.
+ Kudla ngokufuneka ukhumbule ukwenza umboniso we-sprite uvele xa kucofwe iflegi eluhlaza, kodwa kule iprojekthi, i-sprite **iqanda** asiveli.
 
   --- /feedback ---
 
@@ -61,7 +61,7 @@ go to x: (75) y: (-100)
 
   --- feedback ---
 
- The **egg** sprite does go to the correct starting position on the Stage.
+ Isprite I-**qanda** asiyi kwindawo echanekileyo yokuqala eqongeni.
 
   --- /feedback ---
 
