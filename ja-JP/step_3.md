@@ -56,7 +56,7 @@
 
 --- collapse ---
 ---
-title: スプライトの開始位置と開始時のコスチュームを設定する
+title: Set the starting position and looks for a sprite
 ---
 
 開始時にスプライトの位置とコスチュームを設定するブロックを選択します。
@@ -83,7 +83,7 @@ show
 
 --- collapse ---
 ---
-title: 音が出ない
+title: The sound is not working
 ---
 
 コンピューターまたはタブレットの音量が十分に大きいこと、およびスピーカーまたはヘッドホンが接続されて正しく機能していることを確認します。
@@ -92,7 +92,7 @@ title: 音が出ない
 
 --- collapse ---
 ---
-title: 緑の旗をクリックすると、アニメーションが正しくリセットされません
+title: My animation does not reset properly when I click on the green flag
 ---
 
 あなたのプロジェクトが `緑の旗が押された時`{:class="block3events"}を持っていて、スプライトの位置、大きさ、コスチュームをリセットすることを確認します。 詳しくは **スプライトの開始位置と開始時のコスチュームを設定する**タスクを参照してください。 詳しくは、上にある**スプライトの開始位置と開始時のコスチュームを設定する**タスクを参照してください。
