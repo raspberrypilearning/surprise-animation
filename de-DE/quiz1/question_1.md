@@ -8,7 +8,7 @@ Viel Spaß!
 
 --- question ---
 ---
-legend: Frage 1 von 3
+legend: Question 1 of 3
 ---
 
 In deinem Projekt hast du eine Animation mit einer Überraschung erstellt. Klicke auf die grüne Flagge, um die Animation unten auszuführen, und führe es danach erneut aus.
