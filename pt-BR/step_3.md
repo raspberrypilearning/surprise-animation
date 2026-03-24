@@ -56,7 +56,7 @@ Clique na bandeira verde novamente. Se você mudou o **objeto** ou **caracteres*
 
 --- collapse ---
 ---
-title: Define a posição inicial e procure por um ator
+title: Set the starting position and looks for a sprite
 ---
 
 Escolha os blocos que você precisa para definir a posição e procure um ator no início.
@@ -83,7 +83,7 @@ show
 
 --- collapse ---
 ---
-title: O som não está funcionando
+title: The sound is not working
 ---
 
 Verifique se o volume do seu computador ou tablet está alto o suficiente e se os alto-falantes ou fones de ouvido estão conectados e funcionando corretamente.
@@ -92,7 +92,7 @@ Verifique se o volume do seu computador ou tablet está alto o suficiente e se o
 
 --- collapse ---
 ---
-title: Minha animação não é reiniciada corretamente quando clico na bandeira verde
+title: My animation does not reset properly when I click on the green flag
 ---
 
 Verifique se o seu projeto tem os scripts `quando a bandeira verde for clicada`{:class="block3events"} para os atores que precisam deles e verifique se eles redefiniram a posição, o tamanho e procuram os atores. Para obter ajuda com isso, consulte **Defina a posição inicial e procure um ator** da tarefa acima.
