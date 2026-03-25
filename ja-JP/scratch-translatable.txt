@@ -14,14 +14,22 @@
 
 遅れを変更する
 
-遅れを設定する
+setup
 
-同じ遅れ
+curiosity
 
-ブー！
+reaction
 
-これはいったい何なのでしょうか？
+reset
 
-キティ、また私のポーションをいじったの？
+surprise
 
-猫はミルクをのまなきゃ。
+Hmm...
+
+BOO!
+
+What ever is this?
+
+Kitty, have you been messing with my potions again?
+
+Cat gotta haz milk.
