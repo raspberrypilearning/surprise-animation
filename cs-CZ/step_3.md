@@ -1,4 +1,4 @@
-## Show curiosity
+## Ukaž zvídavost
 
 Will the object do something to attract attention? How will the character react? You decide! Create the **second part** of your animation.
 
