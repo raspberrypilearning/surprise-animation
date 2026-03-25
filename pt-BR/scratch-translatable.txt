@@ -12,16 +12,24 @@ tamanho inicial
 
 posições iniciais
 
-mude o intervalo
+change the number to create your time delay
 
-defina o intervalo
+setup
 
-mesmo intervalo
+curiosity
 
-Uuuuu!
+reaction
 
-O que é isso?
+reset
 
-Kitty, você mexeu nas minhas poções de novo?
+surprise
 
-O gato precisa tomar leite.
+Hmm...
+
+BOO!
+
+What ever is this?
+
+Kitty, have you been messing with my potions again?
+
+Cat gotta haz milk.
