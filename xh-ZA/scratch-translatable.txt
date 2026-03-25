@@ -1,35 +1,35 @@
-add the sprite's position
+yongeza indawo ye-sprite
 
-<100 is smaller, >100 is bigger
+<100 incinci, >100 inkulu
 
-update this for your chosen costume
+hlaziya oku kwisinxibo sakho osikhethileyo
 
-turn to the left
+jika uye ngasekhohlo
 
-add blocks to set up the start
+yongeza iibhloko ukuseta isiqalo
 
-starting size
+ubungakanani bokuqala
 
-starting position
+indawo yokuqala
 
-change the number to create your time delay
+tshintsha inombolo ukuze wenze ukulibaziseka kwexesha lakho
 
-setup
+misela
 
-curiosity
+bonisa umdla
 
-reaction
+sabela
 
-reset
+qalela
 
-surprise
+ummangaliso
 
 Hmm...
 
-BOO!
+WWAAH!
 
-What ever is this?
+Yintoni kanye le?
 
-Kitty, have you been messing with my potions again?
+Kitty, ubusoloko udlala ngamayeza am kwakhona?
 
-Cat gotta haz milk.
+Ikati funa ubisi.
