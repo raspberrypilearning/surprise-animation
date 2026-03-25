@@ -44,7 +44,7 @@ wait (5) seconds // change the number to create your time delay
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title: スプライトの表示と非表示
 ---
 
 **サプライズ** スプライト：
