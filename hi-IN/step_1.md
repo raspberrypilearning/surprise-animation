@@ -67,8 +67,8 @@ Play with these example projects to get ideas. Think about what your animation m
 आप डिज़ाइन संबंधी निर्णय लेंगे और आश्चर्य के साथ अपने एनिमेशन के लिए एक कहानी के बारे में सोचेंगे। इस बारे में सोचें कि आपकी कहानी क्या हो सकती है, और अधिक विचार प्राप्त करने के लिए, **अंदर देखें** उदाहरण प्रोजेक्ट है आश्चर्य के अंदर एनिमेशन - उदाहरण 'स्क्रैच स्टूडियो: https://scratch.mit.edu/studios/29075822/
 
 The animation has three parts:
-+ Curiosity
-+ Surprise!
++ जिज्ञासा
++ आश्चर्य!
 + Reaction
 
 ![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
