@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Pytanie 2 z 3
 ---
 
 W swoim projekcie kontrolowałeś animację za pomocą bloków `czekaj` {:class="block3control"}.
