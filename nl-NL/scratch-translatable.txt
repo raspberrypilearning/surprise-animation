@@ -2,7 +2,7 @@ voeg de positie van de sprite toe
 
 <100 is kleiner, >100 is groter
 
-pas dit aan voor je gekozen uiterlijk
+update this for your chosen costume
 
 draai naar links
 
