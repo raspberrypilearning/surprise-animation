@@ -14,7 +14,7 @@ Startposition
 
 ändere die Zahl, um deine Verzögerung einzustellen
 
-Vorbereitung
+setup
 
 Neugier
 
