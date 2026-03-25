@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Vraag 3 van 3
 ---
 
 Je hebt je animatie gemaakt door deze in delen te splitsen en te bouwen in de volgorde waarin deze wordt uitgevoerd.
