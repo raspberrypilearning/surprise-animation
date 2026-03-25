@@ -76,7 +76,7 @@ Powtórz to zadanie dla **interesującego obiektu**.
 
 --- collapse ---
 ---
-title: Resize your sprites
+title: Zmień rozmiar swoich duszków
 ---
 
 Aby zmienić rozmiar duszka dla całego projektu, zmień liczbę we właściwościach**Rozmiar** w kafelku duszka:
@@ -93,7 +93,7 @@ ustaw rozmiar na [100] % // <100 is smaller, >100 jest większe
 
 --- collapse ---
 ---
-title: Set the costumes of your sprites
+title: Ustaw kostiumy swoich duszków
 ---
 
 Aby zmienić kostium duszka dla całego projektu, kliknij **Kostiumy** i wybierz jeden z dostępnych kostiumów:
@@ -116,7 +116,7 @@ ukryj
 
 --- collapse ---
 ---
-title: Set the direction of your sprites
+title: Ustaw kierunek swoich duszków
 ---
 
 Twoje duszki mogą być skierowane w złą stronę, gdy dodasz je do swojego projektu.
