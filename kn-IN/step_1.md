@@ -71,8 +71,8 @@ Play with these example projects to get ideas. Think about what your animation m
 ನೀವು ವಿನ್ಯಾಸ ನಿರ್ಧಾರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವಿರಿ ಮತ್ತು ನಿಮ್ಮ ಅನಿಮೇಷನ್ ಗಾಗಿ ಒಂದು ಕಥೆಯನ್ನು ಅಚ್ಚರಿಯೊಂದಿಗೆ ಯೋಚಿಸುವಿರಿ. ನಿಮ್ಮ ಕಥೆ ಏನೆಂದು ಯೋಚಿಸಿ, ಮತ್ತು ಹೆಚ್ಚಿನ ವಿಚಾರಗಳನ್ನು ಪಡೆಯಲು, ಯೋಜನೆಯ ಉದಾಹರಣೆಯೊಳಗೆ 'Surprise! ನಲ್ಲಿ **See inside** ಅನ್ನು ನೋಡಿ animation — Examples' Scratch studio: https://scratch.mit.edu/studios/29075822/
 
 The animation has three parts:
-+ Curiosity
-+ Surprise!
++ ಕುತೂಹಲ
++ ಆಶ್ಚರ್ಯ!
 + Reaction
 
 ![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
