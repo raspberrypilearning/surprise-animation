@@ -61,7 +61,7 @@ Aggiungi un blocco `quando si clicca sulla bandierina verde`{:class="block3event
 
 --- collapse ---
 ---
-title: Position your sprites
+title: Posiziona i tuoi sprite
 ---
 
 Sposta il 🐙👩‍🦼🦖 **personaggio principale** nella posizione che preferisci sullo stage, quindi aggiungi un blocco `vai a x: y:`{:class="block3motion"} al tuo codice:
@@ -76,7 +76,7 @@ Ripeti questo processo per l'🎂🎾🎁 **oggetto interessante**.
 
 --- collapse ---
 ---
-title: Resize your sprites
+title: Ridimensiona i tuoi sprite
 ---
 
 Per modificare la dimensione di uno sprite per l'intero progetto, modifica il numero nella proprietà **Dimensione** nel riquadro Sprite:
@@ -93,7 +93,7 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: Set the costumes of your sprites
+title: imposta i costumi dei tuoi sprite
 ---
 
 Per cambiare il costume di uno sprite per l'intero progetto, clicca sulla scheda **Costumi** e seleziona uno dei costumi disponibili:
@@ -116,7 +116,7 @@ hide
 
 --- collapse ---
 ---
-title: Set the direction of your sprites
+title: Imposta la direzione dei tuoi sprite
 ---
 
 I tuoi sprite potrebbero essere rivolti nella direzione sbagliata quando li aggiungi al tuo progetto.
