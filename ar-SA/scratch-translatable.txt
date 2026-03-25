@@ -1,4 +1,4 @@
-أضف موقع الكائن
+add the sprite's position
 
 <100 أصغر من ،> 100 أكبر من
 
@@ -14,16 +14,22 @@
 
 تغيير مدة التأخير
 
-ضبط مدة التأخير
+setup
 
-مشابه لمدة التأخير
+curiosity
 
-بووو
+reaction
 
+reset
 
-ما هذا بالضبط؟
+surprise
 
-كيتي، هل كنت تعبثين بجرعاتي مرة أخرى؟
+Hmm...
 
+BOO!
 
-القطة تحتاج إلى الحليب.
+What ever is this?
+
+Kitty, have you been messing with my potions again?
+
+Cat gotta haz milk.
