@@ -1,4 +1,4 @@
-## Add a surprise!
+## Přidej překvapení!
 
 Now, you need to add a surprise. What could happen to the object?
 - Will it turn into another object?
