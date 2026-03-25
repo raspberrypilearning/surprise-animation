@@ -93,7 +93,7 @@ Lembre-se de configurar seu **personagem principal** e seus **objetos interessan
 
 
 
-title: Resize your sprites
+title: Redimensione seus atores
 ---
 
 Para alterar o tamanho de um ator para todo o projeto, altere o número em **Tamanho** no painel do ator:
