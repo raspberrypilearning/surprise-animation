@@ -56,7 +56,7 @@ Vuelve a hacer clic en la bandera verde. Si cambiaste la posición o el aspecto 
 
 --- collapse ---
 ---
-title: Set the starting position and looks for a sprite
+title: Establece la posición y apariencia iniciales del objeto
 ---
 
 Elige los bloques que necesitas para establecer la posición y apariencia del objeto al principio.
@@ -83,7 +83,7 @@ show
 
 --- collapse ---
 ---
-title: The sound is not working
+title: El sonido no funciona
 ---
 
 Verifica que el volumen de tu computadora o tableta sea lo suficientemente alto y que tus parlantes o audífonos estén conectados y funcionando correctamente.
@@ -92,7 +92,7 @@ Verifica que el volumen de tu computadora o tableta sea lo suficientemente alto 
 
 --- collapse ---
 ---
-title: My animation does not reset properly when I click on the green flag
+title: Mi animación no se restablece correctamente cuando hago clic en la bandera verde
 ---
 
 Verifica que tu proyecto tenga scripts `al presionar la bandera verde ⚑`{:class="block3events"} para los objetos que los necesitan, y verifica que restablezcan la posición, tamaño y apariencia de estos. Para obtener ayuda sobre esto, consulta la tarea de arriba **Establece la posición inicial y apariencia del objeto**.
