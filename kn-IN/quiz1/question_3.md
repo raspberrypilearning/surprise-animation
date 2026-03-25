@@ -23,9 +23,9 @@ legend: Question 3 of 3
   --- /feedback ---
 
 - (x)
-+ Setup
++ ಸೆಟಪ್(setup)
 
-+ Curiosity
++ ಕುತೂಹಲ
 
 + ಆಶ್ಚರ್ಯ!
 
@@ -39,9 +39,9 @@ legend: Question 3 of 3
 - ( )
 + ಸೆಟಪ್(setup)
 
-+ Surprise!
++ ಆಶ್ಚರ್ಯ!
 
-+ Curiosity
++ ಕುತೂಹಲ
 
   --- feedback ---
 
