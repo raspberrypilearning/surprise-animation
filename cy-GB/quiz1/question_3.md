@@ -23,7 +23,7 @@ Pa drefn sy'n cynrychioli'r animeiddiad y gwnes di ei greu?
   --- /feedback ---
 
 - (x)
-+ Setup
++ Gosod
 
 + Ymateb
 
@@ -39,7 +39,7 @@ Pa drefn sy'n cynrychioli'r animeiddiad y gwnes di ei greu?
 - ( )
 + Gosod
 
-+ Surprise!
++ Syrpreis!
 
 + Gosod
 
