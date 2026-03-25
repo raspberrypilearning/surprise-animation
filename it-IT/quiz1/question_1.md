@@ -8,7 +8,7 @@ Divertiti!
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Domanda 1 di 3
 ---
 
 Nel tuo progetto hai realizzato un'animazione con una sorpresa. Fai clic sulla bandierina verde per eseguire l'animazione qui sotto, poi eseguila di nuovo.
