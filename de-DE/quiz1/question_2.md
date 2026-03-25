@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Question 2 of 3
+legend: Frage 2 von 3
 ---
 
 In deinem Projekt hast du die Animation mit `warte`{:class="block3control"} Blöcken gesteuert.
