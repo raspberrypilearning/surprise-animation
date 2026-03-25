@@ -76,7 +76,7 @@ Repite esta tarea para el 🎂🎾🎁 **objeto interesante**.
 
 --- collapse ---
 ---
-title: Resize your sprites
+title: Cambia el tamaño de tus objetos
 ---
 
 Para cambiar el tamaño de un objeto para todo el proyecto, cambia el número en la propiedad **Tamaño** en el Panel:
@@ -93,7 +93,7 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: Set the costumes of your sprites
+title: Configura los disfraces de tus objetos
 ---
 
 Para cambiar el disfraz de un objeto para todo el proyecto, haz clic en la pestaña **Disfraces** y selecciona uno de los disponibles:
@@ -116,7 +116,7 @@ hide
 
 --- collapse ---
 ---
-title: Set the direction of your sprites
+title: Configura la dirección de tus objetos
 ---
 
 Es posible que tus objetos estén orientados de manera incorrecta cuando los agregues a tu proyecto.
