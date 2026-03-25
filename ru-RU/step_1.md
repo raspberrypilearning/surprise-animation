@@ -71,8 +71,8 @@ Play with these example projects to get ideas. Think about what your animation m
 Вам предстоит принимать решения по дизайну и проектированию, а также придумать историю для этой анимации с сюрпризом. Подумайте о том, какой может быть ваша история, и чтобы получить больше идей, нажимайте **Войти внутрь проекта** в примерах проектов в студии Скретч "Сюрприз! анимация — Примеры": https://scratch.mit.edu/studios/29075822/
 
 The animation has three parts:
-+ Curiosity
-+ Surprise!
++ Любопытство
++ Сюрприз!
 + Reaction
 
 ![The 'BOO!' project.](images/boo.png) ![The 'Cat magic' project.](images/cat-magic.png)
