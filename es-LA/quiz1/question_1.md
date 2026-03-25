@@ -8,7 +8,7 @@ Cuando hayas respondido a cada pregunta, haz clic en **Revisar mi respuesta**.
 
 --- question ---
 ---
-legend: Question 1 of 3
+legend: Pregunta 1 de 3
 ---
 
 En tu proyecto, hiciste una animación con una sorpresa. Haz clic en la bandera verde para ejecutar la animación a continuación, luego ejecútala nuevamente.
