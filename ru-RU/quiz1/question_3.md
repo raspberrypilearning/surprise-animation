@@ -23,9 +23,9 @@ legend: Question 3 of 3
   --- /feedback ---
 
 - (x)
-+ Setup
++ Подготовка
 
-+ Curiosity
++ Любопытство
 
 + Сюрприз!
 
@@ -39,9 +39,9 @@ legend: Question 3 of 3
 - ( )
 + Подготовка
 
-+ Surprise!
++ Сюрприз!
 
-+ Curiosity
++ Любопытство
 
   --- feedback ---
 
