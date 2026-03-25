@@ -1,4 +1,4 @@
-## Share and play
+## Sdílej a hraj
 
 If you are in a club, why not share your project with friends and peers?
 
