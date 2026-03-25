@@ -61,7 +61,7 @@
 
 --- collapse ---
 ---
-title: Position your sprites
+title: スプライトを配置します
 ---
 
 **主人公**のスプライトの位置をプロジェクトのある部分に対して変えたい場合は 、ステージ上の任意の位置に主人公を移動し、 `x: y:に行く`{:class="block3motion"}ブロックをあなたのコードに追加してください：
@@ -76,7 +76,7 @@ go to x: (0) y: (0) // add the sprite's position
 
 --- collapse ---
 ---
-title: Resize your sprites
+title: スプライトのサイズを変更します
 ---
 
 プロジェクト全体に対してのスプライトのサイズを変更するには、[スプライト] ペインの **サイズ**の数値を変えてください。
@@ -93,7 +93,7 @@ set size to [100] % // <100 is smaller, >100 is bigger
 
 --- collapse ---
 ---
-title: Set the costumes of your sprites
+title: スプライトのコスチュームを設定します
 ---
 
 プロジェクト全体のスプライトのコスチュームを変更するには、[ **コスチューム**] タブをクリックして、使用可能なコスチュームの1つを選択します。
@@ -116,7 +116,7 @@ hide
 
 --- collapse ---
 ---
-title: Set the direction of your sprites
+title: スプライトの方向を設定します
 ---
 
 スプライトをプロジェクトに追加したときは、スプライトが間違った方向を向いていることがあります。
