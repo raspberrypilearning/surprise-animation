@@ -7,7 +7,7 @@ Yongeza umfanekiso wangasemva 🖼️, umlinganiswa ophambili 🐙👩‍🦼�
 ![Umcu wefilimu onezakhelo ezintathu 3. Isakhelo sokuqala sigxininisiwe. Isakhelo sibonisa umboniso onomlinganiswa, into, kunye nomfanekiso wangasemva.](images/scene.png)
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-  <span style="color: #0faeb0">** Upopayi**</span> wenza isphumo sentshukumo ngokutshintsha imifanekiso ngokukhawulezisa. Abenzi bokuqala bopopayi babekrola iinkuni baze bazenze izitampu. Ukusebenzisa u-Scratch ekubhaleni ikhowudi yokwenza upopayi wakho, kuyakhaulezisa kakhulu!
+  <span style="color: #0faeb0">**Upopayi**</span> wenza isphumo sentshukumo ngokutshintsha imifanekiso ngokukhawulezisa. Abenzi bokuqala bopopayi babekrola iinkuni baze bazenze izitampu. Ukusebenzisa u-Scratch ekubhaleni ikhowudi yokwenza upopayi wakho, kuyakhaulezisa kakhulu!
 </p>
 
 ### Vula iprojekthi yokuqalisa
@@ -44,7 +44,7 @@ Kukho abantu ababizwa <span style="color: #0faeb0">**abaqulunqi beembali**</span
 
 --- task ---
 
-**Khetha:** Khetha isprite sibe ngo🐙👩‍🦼🦖 ** owona mlinganiswa**, esinye isprite sibe yi 🎂🎾🎁**into enomdla** kunye no 🖼️**mfanekiso wangasemva** ukuze wenze umboniso.
+**Khetha:** Khetha isprite sibe ngo🐙👩‍🦼🦖 **owona mlinganiswa**, esinye isprite sibe yi 🎂🎾🎁**into enomdla** kunye no 🖼️**mfanekiso wangasemva** ukuze wenze umboniso.
 
 ![Ezimbini Khetha ii-icon zeSprite kwaye Khetha i-icon yomfanekiso wangasemva.](images/sprites-and-backdrop.png)
 

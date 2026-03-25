@@ -55,7 +55,7 @@ wait (5) seconds
 hide
 ```
 
-I- 🎷👻⚡**Into emangalisayo ** sprite:
+I- 🎷👻⚡ **Into emangalisayo** sprite:
 ```blocks3
 when flag clicked
 hide

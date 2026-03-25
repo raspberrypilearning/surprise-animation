@@ -39,7 +39,7 @@ switch costume to [egg-a v]
 
   --- feedback ---
 
- Ewe. Kufuneka wenze i-sprite sitshintshele kwisinxibo esifanelekileyo(**iqanda-a**) xa kuqala iprojekthi.
+ Ewe. Kufuneka wenze i-sprite sitshintshele kwisinxibo esifanelekileyo (**iqanda-a**) xa kuqala iprojekthi.
 
   --- /feedback ---
 

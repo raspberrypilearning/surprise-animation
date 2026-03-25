@@ -52,7 +52,7 @@ Ungajonga nee-remixes ze-[Projekthi yokuqala yoopopayi engumangaliso](https://sc
 
 --- task ---
 
-Iprojekthi nganye ku ['Mangaliso!' oopopayi — Imizekelo ye studiyo sikaScratch](https://scratch.mit.edu/studios/29075822){:target="_blank"} ine- **Bona ngaphakathi** khonco, onokuyisebenzisa ukuvula iprojekthi kumhleli kaScratch kwaye ujonge ikhowudi ukuze ufumane izimvo kwaye ubone indlela iprojekthi esebenza ngayo.
+Iprojekthi nganye ku ['Mangaliso!' oopopayi — Imizekelo ye studiyo sikaScratch](https://scratch.mit.edu/studios/29075822){:target="_blank"} ine-**Bona ngaphakathi** khonco, onokuyisebenzisa ukuvula iprojekthi kumhleli kaScratch kwaye ujonge ikhowudi ukuze ufumane izimvo kwaye ubone indlela iprojekthi esebenza ngayo.
 
 **Idoppelganger**: [Bona ngaphakathi](https://scratch.mit.edu/projects/1295554563/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
