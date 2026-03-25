@@ -1,6 +1,6 @@
 --- question ---
 ---
-legend: Question 3 of 3
+legend: Pytanie 3 z 3
 ---
 
 Stworzyłeś animację, dzieląc ją na części i budując w kolejności, w jakiej działa.
