@@ -44,7 +44,7 @@ wait (5) seconds // change the number to create your time delay
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title: إخفاء وإظهار الكائنات
 ---
 
 **الكائن**:
@@ -87,7 +87,7 @@ show
 
 --- collapse ---
 ---
-title: The surprise starts at the wrong time
+title: التعليمة البرمجية للمؤقت تبدأ المفاجأة في الوقت الخطأ
 ---
 
 `إذا كان لديك`{:class="block3events"}عداد محددًا بشكل صحيح ، فحاول ضبط مقدار الوقت الذي ينتظره عداد الوقت.
