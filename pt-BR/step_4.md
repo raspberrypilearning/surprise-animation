@@ -44,7 +44,7 @@ Você poderia fazer o ator parecer um ator diferente - para fazer isso, `esconda
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title: Ocultar e mostrar atores
 ---
 
 O **objeto** ator:
@@ -87,7 +87,7 @@ Se a surpresa acontecer na hora errada, você pode consertar:
 
 --- collapse ---
 ---
-title: The surprise starts at the wrong time
+title: Scripts de cronômetro começam a surpresa na hora errada
 ---
 
 Se você tiver `cronômetro`{:class="block3events"} selecionado corretamente, tente ajustar a quantidade de tempo que o cronômetro espera.
