@@ -12,16 +12,24 @@ tamaño inicial
 
 posición inicial
 
-cambia el tiempo de espera
+cambia el tiempo de espera establece el tiempo de espera
 
-establece el tiempo de espera
+setup
 
-mismo tiempo de espera
+curiosity
 
-¡Buu!
+reaction
 
-¿Qué es esto?
+reset
 
-Gatito, ¿has estado jugando con mis pociones otra vez?
+surprise
 
-Gatito debe tomar leche.
+Hmm...
+
+BOO!
+
+What ever is this?
+
+Kitty, have you been messing with my potions again?
+
+Cat gotta haz milk.
