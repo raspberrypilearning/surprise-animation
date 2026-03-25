@@ -1,0 +1,30 @@
+---
+title: Ummangaliso! upopayi
+hero_image: images/banner.png
+description: Yenza ibali lo popayi elinento emangalisayo
+meta_title: Iiprojekthi ku Scratch, zokubhala iikhowudi zabantwana kunye nolutsha | Ummangaliso! upopayi
+meta_description: Funda ukwenza ikhowudi kuScratch ngeeprojekthi zeekhowudi zeRaspberry Pi Foundation zabantwana kunye nolutsha. Yenza ibali lo popayi elinento emangalisayo.
+pdf: resources/surprise-animation.pdf
+version: 4
+listed: true
+copyedit: false
+last_tested: '2021-03-09'
+steps:
+  - title: Intshayelelo
+  - title: Yenza umboniso wakho
+  - title: Bonisa umdla
+    completion:
+    - engaged
+  - title: Yongeza into emangalisayo!
+    completion:
+    - internal
+  - title: Imibuzo ekhawulezileyo
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion:
+    - external
+  - title: Phucula iprojekthi yakho
+  - title: Dlalisanani
