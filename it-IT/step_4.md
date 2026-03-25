@@ -44,7 +44,7 @@ Potresti far sembrare che lo sprite si trasformi in uno sprite diverso: per fare
 
 --- collapse ---
 ---
-title: Hide and show sprites
+title: Mostra e nascondi gli sprite
 ---
 
 Lo sprite dell' 🎂🎾🎁 **oggetto interessante**:
@@ -87,7 +87,7 @@ Se la sorpresa arriva nel momento sbagliato, puoi sistemarla:
 
 --- collapse ---
 ---
-title: The surprise starts at the wrong time
+title: La sorpresa inizia nel momento sbagliato
 ---
 
 Potresti dover modificare la quantità di tempo in alcuni o tutti i blocchi `attendi`{:class="block3control"} o aggiungere altri blocchi `attendi`{:class="block3control"} per ottenere i tempi giusti.
