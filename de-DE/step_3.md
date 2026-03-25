@@ -56,7 +56,7 @@ Klicke erneut auf die grüne Flagge. Wenn du die Position oder das Aussehen der 
 
 --- collapse ---
 ---
-title: Set the starting position and looks for a sprite
+title: Lege die Startposition und das Aussehen einer Figur fest
 ---
 
 Wähle die Blöcke aus, um die Position und das Aussehen beim Start festzulegen.
@@ -83,7 +83,7 @@ show
 
 --- collapse ---
 ---
-title: The sound is not working
+title: Der Ton funktioniert nicht
 ---
 
 Überprüfe, ob die Lautstärke deines Computers oder Tablets hoch genug ist und ob deine Lautsprecher oder Kopfhörer angeschlossen sind und ordnungsgemäß funktionieren.
@@ -92,7 +92,7 @@ title: The sound is not working
 
 --- collapse ---
 ---
-title: My animation does not reset properly when I click on the green flag
+title: Meine Animation wird nicht richtig zurückgesetzt, wenn ich auf die grüne Flagge klicke
 ---
 
 Überprüfe, ob dein Projekt `wenn grüne Flagge angeklickt wird`{:class="block3events"}-Skripte für die Figuren enthält, die dies benötigen und dort die Position, Größe und das Aussehen der Figuren zurückgesetzt werden. Hilfe hierzu findest du in der obigen Aufgabe **Lege die Startposition und das Aussehen einer Figur fest **.
