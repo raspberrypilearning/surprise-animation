@@ -23,9 +23,9 @@ legend: Question 3 of 3
   --- /feedback ---
 
 - (x)
-+ Setup
++ स्थापित करना
 
-+ Curiosity
++ जिज्ञासा
 
 + आश्चर्य!
 
@@ -39,9 +39,9 @@ legend: Question 3 of 3
 - ( )
 + स्थापित करना
 
-+ Surprise!
++ आश्चर्य!
 
-+ Curiosity
++ जिज्ञासा
 
   --- feedback ---
 
