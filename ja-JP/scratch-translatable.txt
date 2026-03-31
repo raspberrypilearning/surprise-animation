@@ -14,22 +14,22 @@
 
 遅れを変更する
 
-setup
+セットアップ
 
-curiosity
+好奇心
 
-reaction
+反応
 
-reset
+リセット
 
-surprise
+サプライズ！
 
-Hmm...
+ふーむ...
 
-BOO!
+ブー！
 
-What ever is this?
+これはいったい何なのでしょうか？
 
-Kitty, have you been messing with my potions again?
+キティ、また私のポーションをいじったの？
 
-Cat gotta haz milk.
+猫はミルクをのまなきゃ。
